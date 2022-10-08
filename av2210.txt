@@ -1,0 +1,52 @@
+﻿
+🌲松视1,mitv://ns1.hellotvvod.com:9906/1dd11855e43142d6aec1b7f824097388
+🌲松视2,mitv://ns1.hellotvvod.com:9906/c76a909ae59d4e82ad59a3bc6cb09663
+🌲松视3,mitv://ns1.hellotvvod.com:9906/deceaed6309f406a8670002cf2ce7b9d
+潘多拉玩美台♥Perfec,mitv://ns1.hellotvvod.com:9906/eecd1c81c5cf469fbb58fda5f0569f07
+潘朵啦粉紅台♥AmazingTV,mitv://ns1.hellotvvod.com:9906/74d29e2d271948bfa7644c1af47e3b83
+♨K頻道,mitv://ns1.hellotvvod.com:9906/0e5867d2753148c6ae0d8aecaec1f1c4
+🌈彩虹e台,mitv://ns1.hellotvvod.com:9906/eb7a0e51d5204093925f38e0fd298b1b
+🌈彩虹電影台,mitv://ns1.hellotvvod.com:9906/c151f129e31846f691cd2b3ae554d4d1
+香蕉台🍌Banana,mitv://ns1.hellotvvod.com:9906/7f07683c361f4dbcb4aaf22ab48e513a
+💘Happy,mitv://ns1.hellotvvod.com:9906/421e2d4b03134e9080b3e0991224a718
+Look🏴‍☠TV,mitv://ns1.hellotvvod.com:9906/696ef0eedc544326856362f2dfee01e0
+JSᴴᴰ極限電影,mitv://ns1.hellotvvod.com:9906/ecf8ee53a43545888c55f2c9d4f57f80
+PLAYBOY,mitv://ns1.hellotvvod.com:9906/827d787ee94447a7912d7d4e9c261792
+
+Miami TV Jenny For You,http://59ec5453559f0.streamlock.net:1935/jennyforyou/jennyforyou/playlist.m3u8
+Miami TV Jenny Live,http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
+Miami TV Jenny Live,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+Miami TV Jenny Live,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+Miami TV Mexico,http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexico/chunklist_b1896000.m3u8
+Miami TV Mexico,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+Miami TV Latino,https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+
+
+**VOD
+HND-893深田,https://siwazywcdn2.com:5278/zhongwenzimu/WkPiX4Gg/index.m3u8
+ADN-291夏目彩春,https://siwazywcdn2.com:5278/zhongwenzimu/KnjeVorl/index.m3u8
+SSNI-970新名,https://siwazywcdn2.com:5278/zhongwenzimu/QH2rbOFq/index.m3u8
+DASD-819白城,https://siwazywcdn2.com:5278/zhongwenzimu/9EXSkId8/index.m3u8
+XVSR-586逢见莉香,https://siwazywcdn2.com:5278/zhongwenzimu/BS2qJGta/index.m3u8
+SCOP-697,https://siwazywcdn2.com:5278/zhongwenzimu/59LHYbi4/index.m3u8
+PRED-314山岸逢花,https://siwazywcdn2.com:5278/zhongwenzimu/P4Xu7bep/index.m3u8
+MDTM-626岬梓,https://siwazywcdn2.com:5278/zhongwenzimu/8bJU1SmG/index.m3u8
+WANZ-939 濑名,https://siwazywcdn2.com:5278/zhongwenzimu/q6svZgko/index.m3u8
+MIAA-235濑名,https://siwazywcdn2.com:5278/zhongwenzimu/YV7xtRCQ/index.m3u8
+MIFD-166桃山萌香,https://siwazywcdn2.com:5278/zhongwenzimu/RvKX2rnH/index.m3u8
+PRED-244香椎花乃,https://siwazywcdn2.com:5278/zhongwenzimu/NkXpBtx1/index.m3u8
+ssis-258奥田咲,https://siwazywcdn2.com:5278/zhongwenzimu/BT3EU0Zo/index.m3u8
+ssni-808鹰尾芽衣,https://siwazywcdn2.com:5278/zhongwenzimu/L9kmreDA/index.m3u8
+ssis-089葵司,https://siwazywcdn2.com:5278/zhongwenzimu/r8HbDuY7/index.m3u8
+SSNI-940葵司,https://siwazywcdn2.com:5278/zhongwenzimu/bk3Fe0Jt/index.m3u8
+ssni-778儿玉玲奈,https://siwazywcdn2.com:5278/zhongwenzimu/6Lwmk5xH/index.m3u8
+ssni-927山崎水爱,https://siwazywcdn2.com:5278/zhongwenzimu/sGaJ3TAK/index.m3u8
+ssni-779乙白沙也,https://siwazywcdn2.com:5278/zhongwenzimu/GrWsQLH1/index.m3u8
+ssis-096乙白沙也,https://siwazywcdn2.com:5278/zhongwenzimu/0GbVxCsv/index.m3u8
+ssni-989,https://siwazywcdn2.com:5278/zhongwenzimu/qiSH8T3J/index.m3u8
+ssni-783,https://siwazywcdn2.com:5278/zhongwenzimu/RyFetHz5/index.m3u8
+ssni-802,https://siwazywcdn2.com:5278/zhongwenzimu/oPM4z0bY/index.m3u8
+ssni-832,https://siwazywcdn2.com:5278/zhongwenzimu/WMkiBKyw/index.m3u8
+ssis-108,https://siwazywcdn2.com:5278/zhongwenzimu/bZXowNav/index.m3u8
+ssni-828,https://siwazywcdn2.com:5278/zhongwenzimu/FMriTsOa/index.m3u8
+ssni-824儿玉玲奈,https://siwazywcdn2.com:5278/zhongwenzimu/XNlqgRve/index.m3u8
