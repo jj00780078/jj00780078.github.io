@@ -1,0 +1,220 @@
+{
+    "live": [
+        {
+            "itemid": "uid0000",
+            "name": "三立新聞",
+            "num": "00001",
+            "urllist": "https://www.youtube.com/watch?v=oZdzzvxTfUY"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "三立NEWS+",
+            "num": "00002",
+            "urllist": "https://www.youtube.com/watch?v=CKjSm5ZeehE"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "民視新聞",
+            "num": "00003",
+            "urllist": "https://www.youtube.com/watch?v=ylYJSBUgaMA"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森新聞",
+            "num": "00004",
+            "urllist": "https://www.youtube.com/watch?v=S5WOGu2HSes"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS新聞",
+            "num": "00005",
+            "urllist": "https://www.youtube.com/watch?v=m_dhMSvUCIc"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "寰宇新聞",
+            "num": "00006",
+            "urllist": "https://www.youtube.com/watch?v=V8ue1aoEOEQ"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "鏡新聞",
+            "num": "00007",
+            "urllist": "https://www.youtube.com/watch?v=5n0y6b0Q25o"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "非凡新聞",
+            "num": "00008",
+            "urllist": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森財經",
+            "num": "00009",
+            "urllist": "https://www.youtube.com/watch?v=WHEPzbFA3hw"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "寰宇新聞台灣台",
+            "num": "00010",
+            "urllist": "https://www.youtube.com/watch?v=yAPM0HwXKMg"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "台視新聞",
+            "num": "00011",
+            "urllist": "https://www.youtube.com/watch?v=xL0ch83RAK8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中視新聞",
+            "num": "00012",
+            "urllist": "https://www.youtube.com/c/twctvnews/live"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "華視新聞",
+            "num": "00013",
+            "urllist": "https://www.youtube.com/watch?v=wM0g8EoUZ_E"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森新聞",
+            "num": "00014",
+            "urllist": "https://today.line.me/tw/v2/article/grrvVZ"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "民視新聞",
+            "num": "00015",
+            "urllist": "https://www.ftvnews.com.tw/live/live-video/1/litv-ftv13"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS新聞",
+            "num": "00016",
+            "urllist": "https://today.line.me/tw/v2/article/jggMBa"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "三立新聞",
+            "num": "00017",
+            "urllist": "http://125.227.210.55:35238/VideoInput/play.ts"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "三立NEWS+",
+            "num": "00018",
+            "urllist": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "年代新聞",
+            "num": "00019",
+            "urllist": "http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "寰宇新聞",
+            "num": "00020",
+            "urllist": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "鏡新聞",
+            "num": "00021",
+            "urllist": "http://tv.redrainl.site:9500/live.m3u8?c=28"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS新聞",
+            "num": "00022",
+            "urllist": "http://38.64.72.148/hls/modn/list/4006/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森新聞",
+            "num": "00023",
+            "urllist": "http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森財經",
+            "num": "00024",
+            "urllist": "http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "非凡新聞",
+            "num": "00025",
+            "urllist": "http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "非凡新聞",
+            "num": "00026",
+            "urllist": "http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "民視新聞",
+            "num": "00027",
+            "urllist": "http://38.64.72.148/hls/modn/list/4012/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS新聞",
+            "num": "00028",
+            "urllist": "http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS新聞",
+            "num": "00029",
+            "urllist": "http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森新聞",
+            "num": "00030",
+            "urllist": "http://198.16.100.90:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森新聞",
+            "num": "00031",
+            "urllist": "http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MD1D1428989414289894&ct=19346&tsum=d8fc0ab62e1d97aaca4279883cb1101c"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "台視新聞",
+            "num": "00032",
+            "urllist": "http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中視新聞",
+            "num": "00033",
+            "urllist": "http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中視新聞",
+            "num": "00034",
+            "urllist": "http://198.16.100.90:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中天新聞",
+            "num": "00035",
+            "urllist": "http://tv.redrainl.site:9500/live.m3u8?c=03"
+        }
+    ],
+    "type": [
+        {
+            "id": "uid0000",
+            "name": "=未分组="
+        }
+    ]
+}
