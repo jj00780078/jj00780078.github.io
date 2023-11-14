@@ -8,11 +8,12 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 寰宇台灣,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新聞,https://www.youtube.com/watch?v=V8ue1aoEOEQ
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
-非凡新聞,https://news.ustv.com.tw/livevideo
-非凡新聞,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/feifannews_twn/playlist.m3u8
+
 
 非凡新聞,http://125.227.210.55:28993/VideoInput/play.ts
 非凡新聞,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
+非凡新聞,https://news.ustv.com.tw/livevideo
+非凡新聞,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/feifannews_twn/playlist.m3u8
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
@@ -28,8 +29,7 @@ TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 東森財經,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
-非凡新聞,https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8
-非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
+
 民視新聞,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新聞,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
@@ -50,9 +50,6 @@ TVBS新聞,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE32337740323377
 東森新聞,http://38.207.160.104:11012/live.php?date=231108&id=ebc-news
 民視新聞,http://8.210.88.135/ml.php?id=ftvnew_taiwan
 民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-非凡新聞,http://38.207.160.104:11012/live.php?date=231108&id=ustv-news
-非凡新聞,http://8.210.88.135/ml.php?id=feifannews_twn
-非凡新聞,http://8.210.88.135/smart.php?playurl=http://198.16.100.90:8278/feifannews_twn/playlist.m3u8
 
 東森財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森財經,rtmp://9sv1.mine.nu:1935/sat/tv571
