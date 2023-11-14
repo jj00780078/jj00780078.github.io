@@ -72,8 +72,8 @@ TVBS新聞,http://8.210.88.135/ml.php?id=tvbs_n
 華視新聞,rtmp://9sv1.mine.nu:1935/sat/tv111
 
 
-
-
+民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+壹新聞,http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
 
 
 
