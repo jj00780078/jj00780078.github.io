@@ -8,10 +8,11 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 寰宇台灣,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新聞,https://www.youtube.com/watch?v=V8ue1aoEOEQ
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+非凡新聞,http://125.227.210.55:28993/VideoInput/play.ts
 非凡新聞,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-中視新聞,https://www.youtube.com/c/twctvnews/live
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 
 東森新聞,https://today.line.me/tw/v2/article/grrvVZ
