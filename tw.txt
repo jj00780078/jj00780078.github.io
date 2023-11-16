@@ -25,7 +25,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 民視新聞,https://www.ftvnews.com.tw/live/live-video/1/litv-ftv13
 TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
 
-三立新聞網,https://www.youtube.com/watch?v=o1LLdLsSSGY
+三立新聞網,http:\/\/50.7.238.114:8278\/feifannews_twn\/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 
 
 
@@ -98,9 +98,7 @@ TVBS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 三立新聞,http://125.227.210.55:35238/VideoInput/play.ts
 三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 
-民視新聞1,https://www.ftvnews.com.tw/live/live-video/1/litv-ftv13
-三立iNEWS1,https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=229
-非凡新聞1,udp://@230.1.2.92:11111
+
 
 
 
