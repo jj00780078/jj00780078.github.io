@@ -97,9 +97,10 @@ TVBS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 中視新聞,https://ytm2.yuanhsing.cf/twctvnews.m3u8
 三立新聞,http://125.227.210.55:35238/VideoInput/play.ts
 三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 
-
+民視新聞1,https://www.ftvnews.com.tw/live/live-video/1/litv-ftv13
+三立iNEWS1,https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=229
+非凡新聞1,udp://@230.1.2.92:11111
 
 
 
