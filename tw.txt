@@ -6,12 +6,13 @@
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 東森新聞,https://www.youtube.com/watch?v=S5WOGu2HSes
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
+非凡新聞,http://125.227.210.55:28993/VideoInput/play.ts
 非凡新聞,http://ali.hlspull.yximgs.com/live/sGghLTC82Fkx0OVXT0jTKy3bOhdqxYH8.flv
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
 寰宇台灣,https://www.youtube.com/watch?v=yAPM0HwXKMg
 壹新聞,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1242
 壹新聞,http://38.207.160.104:11012/live.php?date=231108&id=nexttv
-非凡新聞,http://125.227.210.55:28993/VideoInput/play.ts
+
 非凡新聞,https://youtube/zsfAxFcRR9M?list=PLSg6_lakxpXHXJc1lc113qWrbNuxDzK9E
 非凡新聞,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 非凡新聞,https://news.ustv.com.tw/livevideo
