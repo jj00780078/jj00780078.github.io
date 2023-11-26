@@ -11,20 +11,22 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 非凡新聞,http://125.227.210.55:28993/VideoInput/play.ts
 非凡新聞,http://ali.hlspull.yximgs.com/live/sGghLTC82Fkx0OVXT0jTKy3bOhdqxYH8.flv
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
-寰宇台灣,https://www.youtube.com/watch?v=yAPM0HwXKMg
-壹新聞,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1242
-壹新聞,http://38.207.160.104:11012/live.php?date=231108&id=nexttv
+寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+
 
 非凡新聞,https://youtube/zsfAxFcRR9M?list=PLSg6_lakxpXHXJc1lc113qWrbNuxDzK9E
 非凡新聞,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 非凡新聞,https://news.ustv.com.tw/livevideo
 非凡新聞,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/feifannews_twn/playlist.m3u8
 非凡新聞,http://49.235.110.121:9090/898/peda/twjd.php?id=45
+
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-寰宇新聞,https://www.youtube.com/watch?v=V8ue1aoEOEQ
-寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+寰宇台灣,https://www.youtube.com/watch?v=Hj3_tmaYIec
+壹新聞,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1242
+壹新聞,http://38.207.160.104:11012/live.php?date=231108&id=nexttv
+
 東森新聞,https://today.line.me/tw/v2/article/grrvVZ
 民視新聞,https://www.ftvnews.com.tw/live/live-video/1/litv-ftv13
 TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
