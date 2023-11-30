@@ -23,7 +23,8 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-寰宇台灣,https://www.youtube.com/watch?v=Hj3_tmaYIec
+寰宇台灣,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 壹新聞,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1242
 壹新聞,http://38.207.160.104:11012/live.php?date=231108&id=nexttv
 
@@ -51,7 +52,7 @@ TVBS新聞,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE32337740323377
 中視新聞,http://198.16.100.90:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-壹新聞,http://49.235.110.121:9090/898/peda/twjd.php?id=49
+
 年代新聞,https://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com
 年代新聞,http://8.210.88.135/ml.php?id=niandainews_twn
 年代新聞,http://38.207.160.104:11012/live.php?date=231108&id=era-news
@@ -87,7 +88,7 @@ TVBS新聞,http://8.210.88.135/ml.php?id=tvbs_n
 
 
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-壹新聞,http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
+
 三立新聞,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
@@ -95,7 +96,7 @@ TVBS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 
 鏡新聞,https://ytm2.yuanhsing.cf/mnews.m3u8
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-寰宇台灣,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+
 東森財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 台視新聞,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 台視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
