@@ -1,7 +1,10 @@
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
 三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
+年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 
-
+非凡新聞,http://125.227.210.55:28993/VideoInput/play.ts
+年代新聞,http://gwtv.cnv8.tv:8097/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
+非凡新聞台,http://gwtv.cnv8.tv:8097/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 東森新聞,https://www.youtube.com/watch?v=S5WOGu2HSes
 東森新聞,http://198.16.100.90:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3
@@ -15,9 +18,9 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-寰宇台灣,https://www.4gtv.tv/channel/litv-longturn15?set=4&ch=280
-寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
+
 
 
 
@@ -109,7 +112,7 @@ TVBS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 
 
-緯來體育,http://gwtv.cnv8.tv:8097/videolandsport/playlist.m3u8
+
 
 
 
