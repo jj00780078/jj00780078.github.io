@@ -1,5 +1,6 @@
-三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
+
 三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
+三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
 
