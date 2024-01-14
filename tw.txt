@@ -17,11 +17,11 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 非凡新聞,http://gwtv.cnv8.tv:8097/feifannews_twn/playlist.m3u8
 
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
+寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
+寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
 
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
-寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 
 
 
