@@ -1,0 +1,83 @@
+{
+  "channelList": [
+
+    {
+      "url": "https://www.youtube.com/watch?v=oZdzzvxTfUY",
+      "name": "三立新聞"
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31",
+      "name": "民視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2dfAzcDf8Zg",
+      "name": "東森新聞"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8",
+      "name": "非凡新聞",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=CKjSm5ZeehE",
+      "name": "三立 iNEWS 新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
+      "name": "TVBS新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WHEPzbFA3hw",
+      "name": "東森財經"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=w87VGpgd90U",
+      "name": "寰宇新聞台灣台"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
+      "name": "寰宇新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
+      "name": "鏡新聞"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
+      "name": "台視新聞"
+    },
+
+    {
+      "url": "https://www.youtube.com/c/twctvnews/live",
+      "name": "中視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E",
+      "name": "華視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
+      "name": "公共電視"
+    },
+
+
+
+    {
+      "url": "https://www.youtube.com/watch?v=oV_i3Hsl_zg",
+      "name": "大愛一臺"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DTNkEm6jaqQ",
+      "name": "大愛二臺"
+    },
+
+
+
+
+    {
+      "url": "https://www.youtube.com/watch?v=w87VGpgd90U",
+      "name": "寰宇新聞台灣台"
+    }
+  ]
+}
