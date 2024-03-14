@@ -11,12 +11,12 @@
 東森新聞,http://198.16.100.90:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 非凡新聞,https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8
-非凡新聞,https://fetfriday.svc.litv.tv/
+
 
 非凡新聞,http://125.227.210.55:28993/VideoInput/play.ts
 非凡新聞,https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8
 非凡新聞,http://gwtv.cnv8.tv:8097/feifannews_twn/playlist.m3u8
-
+非凡新聞,https://fetfriday.svc.litv.tv/
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
 寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
