@@ -1,6 +1,9 @@
 {
   "channelList": [
-
+    {
+      "url": "http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8",
+      "name": "年代新聞"
+    },
     {
       "url": "https://www.youtube.com/watch?v=oZdzzvxTfUY",
       "name": "三立新聞"
@@ -72,19 +75,13 @@
       "url": "https://www.youtube.com/watch?v=DTNkEm6jaqQ",
       "name": "大愛二臺"
     },
+
     {
       "url": "http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1242",
       "name": "壹新聞"
     },
-    {
-      "url": "http://38.207.160.104:11012/live.php?date=231108&id=nexttv",
-      "name": "壹新聞"
-    },
 
-    {
-      "url": "http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8",
-      "name": "年代新聞"
-    },
+
 
     {
       "url": "http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8",
