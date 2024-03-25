@@ -72,9 +72,12 @@
       "url": "https://www.youtube.com/watch?v=DTNkEm6jaqQ",
       "name": "大愛二臺"
     },
-
+{
+      "url": "P2p://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae",
+      "name": "壹新聞"
+    },
     {
-      "url": "http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1242",
+      "url": "https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8",
       "name": "壹新聞"
     },
     
