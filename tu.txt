@@ -73,7 +73,7 @@
       "name": "大愛二臺"
     },
 {
-      "url": "P2p://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae",
+      "url": "http://ali.hlspull.yximgs.com/live/huanqiuhklivemjfoyjvjsdvbnwejtjujjxjcvfjjsjfhfjddjjlhtbchyxw.flv",
       "name": "壹新聞"
     },
     {
