@@ -101,7 +101,7 @@
       "name": "東森新聞"
     },
     {
-      "url": "https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8",
+      "url": "https://youtu.be/SHWr7X_UTAk?list=UU6hWBu1hfbNNk8Yeokd5aZQ",
       "name": "壹新聞"
     },
     
