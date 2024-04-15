@@ -13,7 +13,27 @@
       "name": "民視新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=2dfAzcDf8Zg",
+      "url": "https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=32",
+      "name": "東森新聞"
+    },
+ {
+      "url": "https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=33",
+      "name": "東森新聞"
+    },
+ {
+      "url": "https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=34",
+      "name": "東森新聞"
+    },
+ {
+      "url": "https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=35",
+      "name": "東森新聞"
+    },
+ {
+      "url": "https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=36",
+      "name": "東森新聞"
+    },
+ {
+      "url": "https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=37",
       "name": "東森新聞"
     },
     {
