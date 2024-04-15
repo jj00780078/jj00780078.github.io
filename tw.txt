@@ -1,10 +1,4 @@
-民視新聞,https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31
-東森新聞,https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
-寰宇台灣,https://www.4gtv.tv/channel/litv-longturn15?set=1&ch=280
-TVBS新聞,https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
-東森財經,https://www.4gtv.tv/channel/4gtv-4gtv153?set=1&ch=293
-三立iNEWS,https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=229
-鏡新聞,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
+
 
 三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
@@ -29,7 +23,13 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 非凡新聞,https://fetfriday.svc.litv.tv/
 
 
-
+民視新聞,https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31
+東森新聞,https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
+寰宇台灣,https://www.4gtv.tv/channel/litv-longturn15?set=1&ch=280
+TVBS新聞,https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
+東森財經,https://www.4gtv.tv/channel/4gtv-4gtv153?set=1&ch=293
+三立iNEWS,https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=229
+鏡新聞,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
 
 
 

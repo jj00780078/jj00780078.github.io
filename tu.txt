@@ -9,7 +9,7 @@
       "name": "三立新聞"
     },
     {
-      "url": "https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31",
+      "url": "https://www.youtube.com/watch?v=ylYJSBUgaMA",
       "name": "民視新聞"
     },
     {
@@ -73,8 +73,8 @@
       "name": "大愛二臺"
     },
     {
-      "url": "http://ali.hlspull.yximgs.com/live/huanqiuhklivemjfoyjvjsdvbnwejtjujjxjcvfjjsjfhfjddjjlhtbchyxw.flv",
-      "name": "壹新聞"
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292",
+      "name": "東森新聞"
     },
     {
       "url": "https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8",
