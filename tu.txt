@@ -1,7 +1,7 @@
 {
   "channelList": [
     {
-      "url": "http://211.23.114.106:8538/http/60.251.39.91:8081/hls/66/810/ch52.m3u8",
+      "url": "http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8",
       "name": "年代新聞"
     },
     {
@@ -9,7 +9,7 @@
       "name": "三立新聞"
     },
     {
-      "url": "https://epg.pw/stream/bad9a4ebaf24f0b19d4edd02bef68b5dd5b463eb5527e4b44bb68e23248c6ddb.m3u8",
+      "url": "https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31",
       "name": "民視新聞"
     },
     {
