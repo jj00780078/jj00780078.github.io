@@ -8,36 +8,35 @@
       "url": "http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8",
       "name": "三立新聞"
     },
-
     {
-      "url": "https://www.youtube.com/watch?v=ylYJSBUgaMA",
+      "url": "https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31",
       "name": "民視新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=2dfAzcDf8Zg",
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292",
       "name": "東森新聞"
     },
+
     {
       "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8",
       "name": "非凡新聞",
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
-
     {
-      "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
-      "name": "TVBS新聞"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=WHEPzbFA3hw",
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv153?set=1&ch=293",
       "name": "東森財經"
     },
     {
-      "url": "https://www.youtube.com/watch?v=w87VGpgd90U",
+      "url": "https://www.4gtv.tv/channel/litv-longturn15?set=1&ch=280",
       "name": "寰宇新聞台灣台"
     },
     {
-      "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268",
       "name": "鏡新聞"
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291",
+      "name": "TVBS新聞"
     },
     {
       "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
@@ -78,10 +77,7 @@
       "name": "壹新聞"
     },
 
-    {
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291",
-      "name": "TVBS新聞"
-    },
+
     {
       "url": "http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch17.m3u8",
       "name": "年代新聞"
@@ -91,30 +87,37 @@
       "name": "三立 iNEWS 新聞"
     },
     {
-      "url": "https://www.4gtv.tv/channel/litv-longturn15?set=1&ch=280",
-      "name": "寰宇新聞台灣台"
+      "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
+      "name": "TVBS新聞"
     },
     {
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268",
-      "name": "鏡新聞"
-    },
-
-    {
-      "url": "https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31",
-      "name": "民視新聞"
-    },
-    {
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292",
-      "name": "東森新聞"
-    },
-    {
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv153?set=1&ch=293",
+      "url": "https://www.youtube.com/watch?v=WHEPzbFA3hw",
       "name": "東森財經"
     },
     {
       "url": "https://news.ustv.com.tw/livevideo",
       "name": "非凡新聞"
     },
+    {
+      "url": "https://www.youtube.com/watch?v=w87VGpgd90U",
+      "name": "寰宇新聞台灣台"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
+      "name": "鏡新聞"
+    },
+
+    {
+      "url": "https://www.youtube.com/watch?v=ylYJSBUgaMA",
+      "name": "民視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2dfAzcDf8Zg",
+      "name": "東森新聞"
+    },
+
+
+
     
     {
       "url": "https://www.youtube.com/watch?v=oZdzzvxTfUY",
