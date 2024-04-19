@@ -5,8 +5,8 @@
       "name": "年代新聞"
     },
     {
-      "url": "http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8",
-      "name": "三立新聞"
+      "url": "https://www.youtube.com/watch?v=oZdzzvxTfUY",
+      "name": "三立+新聞"
     },
     {
       "url": "https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31",
@@ -120,8 +120,8 @@
 
     
     {
-      "url": "https://www.youtube.com/watch?v=oZdzzvxTfUY",
-      "name": "三立+新聞"
+      "url": "http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8",
+      "name": "三立新聞"
     }
   ]
 }
