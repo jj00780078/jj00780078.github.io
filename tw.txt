@@ -1,19 +1,6 @@
-壹新闻台10,http://211.23.114.106:8548/http/60.251.39.91:8081/hls/61/803/ch24.m3u8
-东森新闻11,http://211.23.114.106:8540/http/60.251.39.91:8081/hls/62/804/ch50.m3u8
-东森财经",http://211.23.114.106:8546/http/60.251.39.91:8081/hls/63/805/ch11.m3u8
-TVBS新闻",http://211.23.114.106:8546/http/60.251.39.91:8081/hls/64/806/ch55.m3u8
-三立新闻",http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
-壹新闻台1,http://211.23.114.106:8548/http/60.251.39.91:8081/hls/66/808/ch49.m3u8
-东森新闻2,http://211.23.114.106:8540/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
-壹新闻台3,http://211.23.114.106:8548/http/60.251.39.91:8081/hls/68/810/ch26.m3u8
-东森新闻4,http://211.23.114.106:8540/http/60.251.39.91:8081/hls/69/811/ch28.m3u8
-壹新闻台5,http://211.23.114.106:8548/http/60.251.39.91:8081/hls/70/812/ch29.m3u8
-东森新闻6,http://211.23.114.106:8540/http/60.251.39.91:8081/hls/71/813/ch30.m3u8
-壹新闻台7,http://211.23.114.106:8548/http/60.251.39.91:8081/hls/72/814/ch31.m3u8
-民视新闻8,http://211.23.114.106:8542/http/60.251.39.91:8081/hls/73/815/ch52.m3u8
-壹新闻台9,http://211.23.114.106:8548/http/60.251.39.91:8081/hls/74/816/ch33.m3u8
-民视新闻",http://211.23.114.106:8542/http/60.251.39.91:8081/hls/75/817/ch51.m3u8
-寰宇新闻",http://211.23.114.106:8547/http/60.251.39.91:8081/hls/76/818/ch62.m3u8
+
+
+
 
 三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
@@ -22,7 +9,7 @@ TVBS新闻",http://211.23.114.106:8546/http/60.251.39.91:8081/hls/64/806/ch55.m3
 
 
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-東森新聞,https://www.youtube.com/watch?v=2dfAzcDf8Zg
+東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE
 東森新聞,http://198.16.100.90:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
@@ -45,7 +32,13 @@ TVBS新聞,https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
 東森財經,https://www.4gtv.tv/channel/4gtv-4gtv153?set=1&ch=293
 三立iNEWS,https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=229
 鏡新聞,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
-
+三立新闻,http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+民视新闻,http://211.23.114.106:8542/http/60.251.39.91:8081/hls/73/815/ch52.m3u8
+寰宇新闻",http://211.23.114.106:8547/http/60.251.39.91:8081/hls/76/818/ch62.m3u8
+三立新闻,https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
+年代新闻,https://z88.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
+壹新闻,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
+三立新闻,http://66.165.240.154:8080/live/slxw01/hls.m3u8
 
 
 
