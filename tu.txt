@@ -67,14 +67,7 @@
 
 
 
-    {
-      "url": "https://www.youtube.com/watch?v=oV_i3Hsl_zg",
-      "name": "大愛一臺"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=DTNkEm6jaqQ",
-      "name": "大愛二臺"
-    },
+
     {
       "url": "https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8",
       "name": "壹新聞"
