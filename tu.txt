@@ -17,18 +17,16 @@
       "name": "東森新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
-      "name": "TVBS新聞"
+      "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
+      "name": "鏡新聞"
     },
+
 
     {
       "url": "https://www.youtube.com/watch?v=w87VGpgd90U",
       "name": "寰宇新聞台灣台"
     },
-    {
-      "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
-      "name": "鏡新聞"
-    },
+
 
     {
       "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8",
@@ -38,6 +36,10 @@
     {
       "url": "https://www.youtube.com/watch?v=WHEPzbFA3hw",
       "name": "東森財經"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
+      "name": "TVBS新聞"
     },
     {
       "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
