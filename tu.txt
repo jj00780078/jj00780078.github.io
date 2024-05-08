@@ -68,9 +68,21 @@
       "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
       "name": "公共電視"
     },
+    {
+      "url": "mitv://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae",
+      "name": "壹新聞"
+    },
+    {
+      "url": "mitv://generationnexxxt.com:19806/c4815d36091444f4b75aa85a2d8e301f",
+      "name": "壹新聞"
+    },
 
 
 
+    {
+      "url": "https://z88.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8",
+      "name": "壹新聞"
+    },
 
 
     {
