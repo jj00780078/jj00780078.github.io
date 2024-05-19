@@ -25,6 +25,13 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 非凡新聞,https://fetfriday.svc.litv.tv/
 
 
+壹新闻2 HD,http://154.204.178.8:345/2.php?id=nexttv
+
+非凡新闻2,http://154.204.178.8:345/2.php?id=unique-business-news
+年代新闻2,http://154.204.178.8:345/2.php?id=era-news
+壹新闻 HD,https://lsj.37o.xyz/histar.php?id=nexttv
+非凡新闻1,https://lsj.37o.xyz/histar.php?id=unique-business-news
+年代新闻1,https://lsj.37o.xyz/histar.php?id=era-news
 民視新聞,https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31
 東森新聞,https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
 寰宇台灣,https://www.4gtv.tv/channel/litv-longturn15?set=1&ch=280
