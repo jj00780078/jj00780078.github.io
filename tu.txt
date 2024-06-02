@@ -95,7 +95,7 @@
       "name": "TVBS新聞"
     },
     {
-      "url": "https://news.ustv.com.tw/livevideo",
+      "url": "https://youtu.be/RQqtTmjdlIE",
       "name": "非凡新聞"
     },
     {
