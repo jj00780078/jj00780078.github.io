@@ -94,10 +94,7 @@
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291",
       "name": "TVBS新聞"
     },
-    {
-      "url": "https://youtu.be/RQqtTmjdlIE",
-      "name": "非凡新聞"
-    },
+
     {
       "url": "http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch17.m3u8",
       "name": "年代新聞"
