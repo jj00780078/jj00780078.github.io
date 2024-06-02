@@ -76,11 +76,17 @@
       "url": "https://z88.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8",
       "name": "壹新聞"
     },
-
-
     {
-      "url": "https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8",
+      "url": "https://lsj.37o.xyz/histar.php?id=nexttv",
       "name": "壹新聞"
+    },
+    {
+      "url": "https://lsj.37o.xyz/histar.php?id=settv-news",
+      "name": "三立+新聞"
+    },
+    {
+      "url": "http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv010",
+      "name": "非凡新聞"
     },
 
 
