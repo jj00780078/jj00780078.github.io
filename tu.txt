@@ -113,7 +113,14 @@
       "url": "https://www.youtube.com/watch?v=CKjSm5ZeehE",
       "name": "三立 iNEWS 新聞"
     },
-
+    {
+      "url": "http://fm1077.serv00.net/Smart.php?id=niandainews_twn",
+      "name": "年代新聞"
+    },
+    {
+      "url": "http://fm1077.serv00.net/Smart.php?id=feifannews_twn",
+      "name": "三立 iNEWS 新聞"
+    },
 
 
     
