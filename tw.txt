@@ -6,7 +6,7 @@
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
-東森新聞,https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
+
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 東森新聞,http://198.16.100.90:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3
