@@ -100,7 +100,7 @@
       "name": "民視新聞"
     },
     {
-      "url": "P2p://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b",
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292",
       "name": "東森新聞"
     },
  
