@@ -100,7 +100,7 @@
       "name": "民視新聞"
     },
     {
-      "url": "http://wanjiatv.net/litv.php?id=4gtv-4gtv152",
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292",
       "name": "東森新聞"
     },
  
