@@ -74,7 +74,7 @@
 
 
     {
-      "url": "https://z88.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8",
+      "url": "http://extraott.com:80/7921751389/6097373662/5532 ",
       "name": "壹新聞"
     },
 
