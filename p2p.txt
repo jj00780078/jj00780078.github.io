@@ -34,3 +34,4 @@ TVBS新聞台,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 民視新聞台,mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
 壹電視新聞台,mitv://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
 
+森財經新聞台,https://www.4gtv.tv/channel/4gtv-4gtv153?set=4&ch=293
