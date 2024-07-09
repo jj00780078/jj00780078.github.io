@@ -1,10 +1,8 @@
 三立iNEWS,P2p://generationnexxxt.com:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
 民視新聞台,P2p://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
-
 三立新聞台,P2p://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
 壹電視新聞台,P2p://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
 年代新聞,P2p://generationnexxxt.com:19806/65ddd162000837a5babd25111eb9560c
-
 東森新聞台,P2p://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
 非凡新聞台,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 東森財經新聞台,P2p://generationnexxxt.com:19806/6596322e000d4091a2f7138e424b32c5
@@ -12,8 +10,9 @@
 寰宇新聞台灣台,P2p://generationnexxxt.com:19806/65b21a80000977cd0ffaa9e72e6218af
 TVBS新聞台,P2p://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 寰宇新聞台,P2p://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
-東森新聞台(備),P2p://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
 
+
+東森新聞台(備),P2p://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
 三立iNEWS(B),P2p://generationnexxxt.com:19806/31103be1231e435ab69fdc1492cf08ee
 三立新聞台(B),P2p://generationnexxxt.com:19806/96118abbe8ee48ddaef2c9c1cea1af04
 年代新聞(備),P2p://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
@@ -21,3 +20,18 @@ TVBS新聞台,P2p://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 TVBS新聞台(B),P2p://generationnexxxt.com:19806/65fa6dc600095b662a8020fe14c65804
 年代新聞(B),P2p://generationnexxxt.com:19806/65fa6ea5000ec21a2a83897e03cd44bb
 非凡新聞台(B),P2p://generationnexxxt.com:19806/65fa6fc4000df93d2a87ea67255a50ce
+
+   
+寰宇新聞台,mitv://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
+寰宇新聞台灣台,mitv://generationnexxxt.com:19806/65b21a80000977cd0ffaa9e72e6218af
+鏡新聞,mitv://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
+
+年代新聞,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
+
+
+非凡新聞HD,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
+三立iNEWS,mitv://generationnexxxt.com:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
+三立新聞台,mitv://generationnexxxt.com:19806/96118abbe8ee48ddaef2c9c1cea1af04
+三立新聞台,http://194.87.101.118/live.m3u8?c=12
+TVBS新聞台,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
+TVBS新聞台,http://61.221.215.25:8800/hls/9/index.m3u8#mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
