@@ -12,10 +12,20 @@ TVBS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 
 三立新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-東森新聞,http://37.27.111.214:8080/live/20/hls.m3u8
-東森新聞,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+
+東森新聞,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv152
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8?blog.ntnas.top
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8?blog.ntnas.top
-
+壹新聞 HD,http://60.251.59.180:8501/.m3u8
+壹新聞 HD,http://60.251.59.180:8501/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
+東森新聞 HD,http://60.251.59.180:8503/http/60.251.39.91:8081/hls/63/805/4_2213132.m3u8
+東森新聞 HD,http://60.251.59.180:8503/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+東森新聞 HD,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live114
+三立新聞 LIVE,http://60.251.59.180:8506/ch18.m3u8
+三立新聞 LIVE,http://140.238.155.232:9000/jmsytb.m3u8?c=23
+三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
+非凡新聞,http://50.7.220.74:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
+非凡新聞,http://50.7.220.74:8278/feifannews_twn/playlist.m3u8?ct=17874&tid=m050e7aad65f614336734&tsum=4ea1b829d195ac69a6c2ca51b21ae378
+非凡新聞,http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
