@@ -1,8 +1,7 @@
 三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-民視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-東森新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+民視新聞台,http://211.23.114.106:8542/http/60.251.39.91:8081/hls/73/815/ch52.m3u8
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 寰宇台灣台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 TVBS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
@@ -12,9 +11,8 @@ TVBS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 
 
-
-寰宇新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
-三立LIVE新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
-三立 iNEWS 新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8
-
-民视新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
+三立新聞台,P2p://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
+壹電視新聞台,P2p://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
+三立新闻,http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+東森新聞台,P2p://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
+非凡新聞台,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
