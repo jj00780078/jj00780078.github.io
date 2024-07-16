@@ -2,7 +2,7 @@
 
 
 
-三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
+三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
@@ -77,9 +77,7 @@ TVBS新聞,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE32337740323377
 三立新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 
 
-東森新聞,http://8.210.88.135/ml.php?id=ettvnews
-東森新聞,http://8.210.88.135/smart.php?playurl=http://198.16.100.90:8278/ettvnews/playlist.m3u8
-東森新聞,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/ettvnews/playlist.m3u8
+
 東森新聞,http://38.207.160.104:11012/live.php?date=231108&id=ebc-news
 
 民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
