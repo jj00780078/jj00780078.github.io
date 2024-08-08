@@ -1,9 +1,6 @@
 {
   "channelList": [
-    {
-      "url": "https://phdown.serv00.net/Smartv.php?id=niandainews_twn",
-      "name": "年代新聞"
-    },
+    
     {
       "url": "https://www.youtube.com/watch?v=oZdzzvxTfUY",
       "name": "三立+新聞"
@@ -79,10 +76,10 @@
       "url": "http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch17.m3u8",
       "name": "年代新聞"
     },
-   {
-      "url": "https://tang.hz.cz/zb/Smart.php?id=221c2d190281a75ef939c8499f4d079c",
-      "name": "非凡新聞"
-      
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8",
+      "name": "非凡新聞",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
 
 
