@@ -4,9 +4,9 @@
 
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
-年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-年代新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
 
+年代新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
+年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 東森新聞,https://tang.hz.cz/zb/Smart.php?id=61d5198c05391723d8f89cd3fc47ed04
