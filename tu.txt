@@ -1,6 +1,9 @@
 {
   "channelList": [
-
+    {
+      "url": "http://211.72.65.236:8539/http/60.251.39.91:8081/hls/67/809/ch27.m3u8",
+      "name": "年代新聞"
+    },
     {
       "url": "https://www.youtube.com/watch?v=oZdzzvxTfUY",
       "name": "三立+新聞"
@@ -73,10 +76,7 @@
 
  
 
-    {
-      "url": "http://211.72.65.236:8539/http/60.251.39.91:8081/hls/67/809/ch27.m3u8",
-      "name": "年代新聞"
-    },
+
     {
       "url": "http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8",
 
