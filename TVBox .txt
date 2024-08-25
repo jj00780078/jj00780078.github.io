@@ -1,0 +1,60 @@
+{
+  "urls": [
+{
+      "url": "http://xhztv.top/xhz.json",
+      "name": "🚀小盒子"
+    },
+    {
+      "url": "http://xhztv.top/4k.json",
+      "name": "🚀小盒子4K"
+    },
+    {
+      "url": "http://肥猫.live",
+      "name": "🚀肥猫"
+    },
+    {
+      "url": "http://饭太硬.top/tv",
+      "name": "🚀饭太硬"
+    },
+    {
+      "url": "http://xhww.fun:63/小米/DEMO.json",
+      "name": "🚀小米"
+    },
+    {
+      "url": "https://wds.ecsxs.com/230989.json",
+      "name": "🚀春盈天下"
+    },
+    {
+      "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
+      "name": "🚀小蘋果"
+    },
+    {
+      "url": "http://cdn.qiaoji8.com/tvbox.json",
+      "name": "🚀巧技"
+    },
+    {
+      "url": "https://download.kstore.space/download/5242/冉神.json",
+      "name": "🚀冉神接口"
+    },
+    {
+      "url": "http://tvkj.top/DC/tvys/svip.json",
+      "name": "🚀天微影视"
+    },
+    {
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+      "name": "🚀南风"
+    },
+    {
+      "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
+      "name": "🚀云星日记"
+    },
+    {
+      "url": "http://home.jundie.top:81/top98.json",
+      "name": "🚀俊佬"
+    },
+    {
+      "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
+      "name": "🚀讴歌"
+    }
+  ]
+}
