@@ -93,10 +93,7 @@
       "name": "年代新聞"
     },
 
-    {
-      "url": "https://www.youtube.com/watch?v=pF507BLtbqU",
-      "name": "三立 iNEWS 新聞"
-    },
+
 
     {
       "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
@@ -119,12 +116,15 @@
     },
 
 
-
+    {
+      "url": "https://www.youtube.com/watch?v=pF507BLtbqU",
+      "name": "三立 iNEWS 新聞"
+    },
 
 
     
     {
-      "url": "http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8",
+      "url": "http://211.72.65.236:8529/http/60.251.39.91:8081/hls/65/807/ch18.m3u8",
       "name": "三立新聞"
     }
   ]
