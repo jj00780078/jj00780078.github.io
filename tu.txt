@@ -5,7 +5,7 @@
       "name": "民視新聞"
     },
     {
-      "url": "http://211.72.65.236:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8",
+      "url": "http://23.26.147.19:1258/proxy/Smartv.php?id=niandainews_twn",
 
       "name": "壹新聞"
     },
@@ -14,7 +14,7 @@
       "name": "三立+新聞"
     },
     {
-      "url": "http://211.72.65.236:8539/http/60.251.39.91:8081/hls/67/809/ch27.m3u8",
+      "url": "https://test.zapi.us.kg/?id=era-news",
 
       "name": "年代新聞"
     },
