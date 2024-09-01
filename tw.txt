@@ -3,10 +3,11 @@
 
 
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
-三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
+三立iNEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY
+三立新闻,http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 壹新聞,http://211.72.65.236:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 壹新聞,http://211.23.114.106:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
-
+年代新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
 年代新聞,http://211.72.65.236:8539/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
@@ -34,7 +35,7 @@ TVBS新聞,https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
 東森財經,https://www.4gtv.tv/channel/4gtv-4gtv153?set=1&ch=293
 三立iNEWS,https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=229
 鏡新聞,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
-三立新闻,http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+
 民视新闻,http://211.23.114.106:8542/http/60.251.39.91:8081/hls/73/815/ch52.m3u8
 寰宇新闻",http://211.23.114.106:8547/http/60.251.39.91:8081/hls/76/818/ch62.m3u8
 三立新闻,https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
