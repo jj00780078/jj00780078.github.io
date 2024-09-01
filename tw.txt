@@ -1,32 +1,34 @@
-
-
-
-
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 三立LIVE,https://www.youtube.com/watch?v=oZdzzvxTfUY
-三立新聞,http://211.72.65.236:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 壹新聞,http://211.72.65.236:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
-年代新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
-壹新聞,http://211.23.114.106:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
-年代新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
 年代新聞,http://211.72.65.236:8539/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-
+三立新聞,http://211.72.65.236:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
-東森新聞,https://tang.hz.cz/zb/Smart.php?id=61d5198c05391723d8f89cd3fc47ed04
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
 寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
-
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
-
-
+台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 
 非凡新聞,https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8
 非凡新聞,http://gwtv.cnv8.tv:8097/feifannews_twn/playlist.m3u8
 非凡新聞,https://fetfriday.svc.litv.tv/
 非凡新聞,http://125.227.210.55:28993/VideoInput/play.ts
+
+
+
+
+
+
+
+
+
+年代新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
+
 
 
 民視新聞,https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31
@@ -47,9 +49,6 @@ TVBS新聞,https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
 
 
 
-台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
-華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 
 
 壹新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
