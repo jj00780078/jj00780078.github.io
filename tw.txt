@@ -3,7 +3,7 @@
 
 
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
-三立iNEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY
+三立+新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
 三立新闻,http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 壹新聞,http://211.72.65.236:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 壹新聞,http://211.23.114.106:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
