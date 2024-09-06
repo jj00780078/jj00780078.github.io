@@ -2,7 +2,7 @@
   "channelList": [
 
     {
-      "url": "http://211.72.65.236:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8",
+      "url": "http://23.26.239.95:3599/xsj.php?id=nexttv ",
 
       "name": "壹新聞"
     },
