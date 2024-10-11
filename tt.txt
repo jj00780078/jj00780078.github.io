@@ -16,12 +16,12 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-壹新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
-年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+壹 新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
+年代 新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 非凡新聞,https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8
-非凡新聞,http://gwtv.cnv8.tv:8097/feifannews_twn/playlist.m3u8
-非凡新聞,https://fetfriday.svc.litv.tv/
-非凡新聞,http://125.227.210.55:28993/VideoInput/play.ts
+非凡新聞1,http://gwtv.cnv8.tv:8097/feifannews_twn/playlist.m3u8
+非凡新聞2,https://fetfriday.svc.litv.tv/
+非凡新聞3,http://125.227.210.55:28993/VideoInput/play.ts
 
 
 
