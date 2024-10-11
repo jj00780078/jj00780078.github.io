@@ -20,9 +20,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 
 非凡新聞,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/75/817/ch57.m3u8?token=
-非凡新聞1,http://211.72.65.236.106:8506/.m3u8
-非凡新聞2,http://211.23.114.106:8506/.m3u8
-非凡新聞3,http://206.119.173.184/tv/js.php?id=148
+
 
 
 
