@@ -4,8 +4,8 @@
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 壹新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-壹新聞1,http://211.72.65.236:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
-年代新聞1,http://211.72.65.236:8539/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+壹新聞,http://211.72.65.236:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
+年代新聞,http://211.72.65.236:8539/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 三立新聞,http://211.72.65.236:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
@@ -19,11 +19,10 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 
-非凡新聞,https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8
-非凡新聞1,http://hp1.ottclub.info:1935/live/c712.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
-非凡新聞2,mitv://generationnexxxt.com:19806/65fa6fc4000df93d2a87ea67255a50ce
-非凡新聞3,http://cloud-play.hhalloy.com/live/408a2834f703f2162d0d5b5789344c39.m3u8
-
+非凡新聞,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/75/817/ch57.m3u8?token=
+非凡新聞1,http://211.23.114.106:8506/.m3u8
+非凡新聞2,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
+非凡新聞3,http://206.119.173.184/tv/js.php?id=148
 
 
 
