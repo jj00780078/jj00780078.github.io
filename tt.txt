@@ -20,9 +20,9 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 
 非凡新聞,https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8
-非凡新聞1,http://gwtv.cnv8.tv:8097/feifannews_twn/playlist.m3u8
-非凡新聞2,https://fetfriday.svc.litv.tv/
-非凡新聞3,http://125.227.210.55:28993/VideoInput/play.ts
+非凡新聞1,http://hp1.ottclub.info:1935/live/c712.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
+非凡新聞2,mitv://generationnexxxt.com:19806/65fa6fc4000df93d2a87ea67255a50ce
+非凡新聞3,http://cloud-play.hhalloy.com/live/408a2834f703f2162d0d5b5789344c39.m3u8
 
 
 
