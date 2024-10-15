@@ -1,9 +1,9 @@
 
 
 
-壹新聞,http://211.72.65.236:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
+壹電視新聞,http://211.72.65.236:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 年代新聞,http://211.72.65.236:8539/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-壹新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
+壹電視新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
 
@@ -31,9 +31,22 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立新聞,P2p://generationnexxxt.com:19806/27c4d09b970a447dae2ef153650b7ac1
 三立新聞,P2p://generationnexxxt.com:19806/69427a93f58247d1a31f424cbadc6c4d
 
+年代新聞,http://extraott.com:80/live/7921751389/6097373662/5509.m3u8
+年代新聞,https://z88.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
+年代新聞,P2p://generationnexxxt.com:19806/00b0fb08552945cbbaf718f9d815ca73
+年代新聞,P2p://generationnexxxt.com:19806/00b0fb08552945cbbaf718f9d815ca73
+年代新聞,P2p://generationnexxxt.com:19806/65ddd162000837a5babd25111eb9560c
+年代新聞,P2p://generationnexxxt.com:19806/65fa6ea5000ec21a2a83897e03cd44bb
+年代新聞,P2p://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
+年代新聞,P2p://generationnexxxt.com:19806/cd32e0feca2244288f8a878d7aacf0fc
+年代新聞,P2p://generationnexxxt.com:19806/cd32e0feca2244288f8a878d7aacf0fc#P2p://generationnexxxt.com:19806/f8c807d770a8429da9d058b516902907
+年代新聞,P2p://generationnexxxt.com:19806/f8c807d770a8429da9d058b516902907
 
-
-
+壹電視新聞,https://z88.ubtvfans.com/live/rx1/2777/313274d3ff42695b8ac68984698008f6/index.m3u8
+壹電視新聞,P2p://generationnexxxt.com:19806/8ce448f9cbae4feb805286d5b11bcf4d
+壹電視新聞,P2p://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
+壹電視新聞,P2p://generationnexxxt.com:19806/dc5cf9b6bd4a43aa973b9beea88e631b
+壹電視新聞,P2p://generationnexxxt.com:19806/dc5cf9b6bd4a43aa973b9beea88e631b
 
 
 
