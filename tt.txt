@@ -11,7 +11,7 @@
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 非凡新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv010
-
+非凡台,rtmp://f13h.mine.nu/sat/tv581
 
 寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
