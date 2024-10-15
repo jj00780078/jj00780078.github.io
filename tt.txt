@@ -5,8 +5,8 @@
 年代新聞,http://211.72.65.236:8539/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 壹新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
 
-三立LIVE,https://www.youtube.com/watch?v=MV9mI0GChwo
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
@@ -19,28 +19,21 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-
+三立LIVE,https://www.youtube.com/watch?v=MV9mI0GChwo
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
-三立新聞,http://211.72.65.236:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
-三立新聞,http://211.23.114.106:8543/.m3u8
+
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
 非凡新聞,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/75/817/ch57.m3u8?token=
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,https://litv.zapi.us.kg/?id=4gtv-4gtv010
 
-
-三立新聞,http://103.112.184.105:8800/live.m3u8?c=13$LR•IPV4『線路1』
-三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
-三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY&fmt=37
-三立新聞,https://z88.ubtvfans.com/live/rx1/2794/06cd115365b5095465cb62fa04427e1f/index.m3u8
-三立新聞,https://z88.ubtvfans.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
-三立新聞,p3p://108.181.20.159:23520/6014c896000c7101401f67cc5477681b$LR•IPV4『線路3』
-三立新聞,p3p://108.181.32.169:24350/64251e23000bcd04ea573d7c0f0a002e$LR•IPV4『線路2』
+三立新聞,http://211.72.65.236:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立新聞,P2p://generationnexxxt.com:19806/27c4d09b970a447dae2ef153650b7ac1
 三立新聞,P2p://generationnexxxt.com:19806/69427a93f58247d1a31f424cbadc6c4d
-三立新聞,P2p://generationnexxxt.com:19806/69427a93f58247d1a31f424cbadc6c4d#P2p://generationnexxxt.com:19806/27c4d09b970a447dae2ef153650b7ac1
-三立新聞,P2p://generationnexxxt.com:19806/96118abbe8ee48ddaef2c9c1cea1af04
-三立新聞,P2p://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
+
+
+
+
 
 
 
