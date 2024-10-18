@@ -20,6 +20,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立新聞,http://211.72.65.236:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立新聞,P2p://generationnexxxt.com:19806/69427a93f58247d1a31f424cbadc6c4d
 三立新聞,P2p://generationnexxxt.com:19806/27c4d09b970a447dae2ef153650b7ac1
+三立新聞,https://stream1.freetv.fun/san-li-xin-wen-2.ctv
 
 壹電視新聞,P2p://generationnexxxt.com:19806/dc5cf9b6bd4a43aa973b9beea88e631b
 壹電視新聞,http://211.72.65.236:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
