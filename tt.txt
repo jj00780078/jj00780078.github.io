@@ -1,5 +1,5 @@
-壹電視新聞,http://211.23.114.106:8529/.m3u8
-年代新聞,http://211.23.114.106:8517/.m3u8
+壹電視新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
+年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
