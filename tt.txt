@@ -23,9 +23,8 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 三立新聞,http://211.72.65.236:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立新聞,https://stream1.freetv.fun/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.ctv
-三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
 三立新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
-三立新聞,https://epg.pw/stream/bad9a4ebaf24f0b19d4edd02bef68b5dd5b463eb5527e4b44bb68e23248c6ddb.m3u8
+
 
 壹電視新聞,P2p://generationnexxxt.com:19806/dc5cf9b6bd4a43aa973b9beea88e631b
 壹電視新聞,http://211.72.65.236:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
