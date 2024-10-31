@@ -9,6 +9,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+緯來体育,rtmp://f13h.mine.nu/sat/tv721#http://125.227.210.55:8155/VideoInput/play.ts#rtmp://f13h.mine.nu/sat/tv721#P2p://generationnexxxt.com:19806/e27081aaad61431d84f3eec0b5efd27e.ts
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 三立LIVE,https://www.youtube.com/watch?v=MV9mI0GChwo
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
