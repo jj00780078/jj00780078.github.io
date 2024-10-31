@@ -19,16 +19,14 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,https://hbo.131412.eu.org/litv/4gtv-4gtv010
 
-三立新聞,mitv://generationnexxxt.com:19806/69427a93f58247d1a31f424cbadc6c4d
-三立新聞,mitv://generationnexxxt.com:19806/27c4d09b970a447dae2ef153650b7ac1
+
 三立新聞,https://stream1.freetv.fun/e12a5ecb3e0328b72c684ffe48cb7382b9b3e283c0c99492612b5af06b539153.ctv
-三立新聞,http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+三立新聞,http://211.23.114.106:8543/.m3u8
 三立新聞,http://211.72.65.236:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立新聞,https://stream1.freetv.fun/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.ctv
 三立新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 三立新聞,https://stream1.freetv.fun/5fa262e7758ae47bef855ec6888b4c873ec23e1781fe8a6ea163253cc7efe53a.m3u8
-三立新聞,p3p://108.181.32.169:28320/64251e23000bcd04ea573d7c0f0a002e
-三立新聞,P2p://generationnexxxt.com:19806/4b28a89f9c8545f289f45572a3f6211c
+
 
 壹電視新聞,P2p://generationnexxxt.com:19806/dc5cf9b6bd4a43aa973b9beea88e631b
 壹電視新聞,http://211.72.65.236:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
