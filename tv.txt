@@ -1,87 +1,60 @@
-年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-壹新聞,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1242
-壹新聞,http://38.207.160.104:11012/live.php?date=231108&id=nexttv
-三立新聞,http://125.227.210.55:35238/VideoInput/play.ts
-三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-東森新聞,http://38.207.160.104:11012/live.php?date=231108&id=ebc-news
-民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
-非凡新聞,http://125.227.210.55:28993/VideoInput/play.ts
-非凡新聞,http://ali.hlspull.yximgs.com/live/sGghLTC82Fkx0OVXT0jTKy3bOhdqxYH8.flv
-三立新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-鏡新聞,http://tv.redrainl.site:9500/live.m3u8?c=28
-
-東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
-東森財經,rtmp://9sv1.mine.nu:1935/sat/tv571
-
-非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
-民視新聞,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS新聞,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
-東森新聞,http://198.16.100.90:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3
-東森新聞,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MD1D1428989414289894&ct=19346&tsum=d8fc0ab62e1d97aaca4279883cb1101c
-台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-中視新聞,http://198.16.100.90:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
-三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-壹新聞,http://38.207.160.104:11012/live.php?date=231108&id=nexttv
-年代新聞,https://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com
-年代新聞,http://8.210.88.135/ml.php?id=niandainews_twn
-年代新聞,http://38.207.160.104:11012/live.php?date=231108&id=era-news
-東森新聞,http://8.210.88.135/ml.php?id=ettvnews
-東森新聞,http://8.210.88.135/smart.php?playurl=http://198.16.100.90:8278/ettvnews/playlist.m3u8
-東森新聞,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/ettvnews/playlist.m3u8
-東森新聞,http://38.207.160.104:11012/live.php?date=231108&id=ebc-news
-民視新聞,http://8.210.88.135/ml.php?id=ftvnew_taiwan
-民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-非凡新聞,http://38.207.160.104:11012/live.php?date=231108&id=ustv-news
-非凡新聞,http://8.210.88.135/ml.php?id=feifannews_twn
-非凡新聞,http://8.210.88.135/smart.php?playurl=http://198.16.100.90:8278/feifannews_twn/playlist.m3u8
-非凡新聞,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/feifannews_twn/playlist.m3u8
-東森財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-東森財經,rtmp://9sv1.mine.nu:1935/sat/tv571
-東森財經,http://8.210.88.135/ml.php?id=ettvcaijing_twn
-東森財經,http://38.207.160.104:11012/live.php?date=231108&id=ebc-finance
-鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-鏡新聞,http://38.207.160.104:11012/live.php?date=231108&id=mnews
-
-寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-TVBS新聞,http://38.207.160.104:11012/live.php?date=231108&id=tvbs-news
-
-TVBS新聞,rtmp://9sv1.mine.nu:1935/sat/tv551
-寰宇台灣,http://38.207.160.104:11012/live.php?date=231108&id=global-news
-台視新聞,http://38.207.160.104:11012/live.php?date=231108&id=ttv-news
-台視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-台視新聞,rtmp://9sv1.mine.nu:1935/sat/tv071
-中視新聞,http://38.207.160.104:11012/live.php?date=231108&id=ctv-news
-
-中視新聞,rtmp://9sv1.mine.nu:1935/sat/tv091
-華視新聞,rtmp://9sv1.mine.nu:1935/sat/tv111
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+{
+  "urls": [
+{
+      "url": "http://xhztv.top/xhz.json",
+      "name": "🚀小盒子"
+    },
+    {
+      "url": "http://xhztv.top/4k.json",
+      "name": "🚀小盒子4K"
+    },
+    {
+      "url": "http://肥猫.live",
+      "name": "🚀肥猫"
+    },
+    {
+      "url": "http://饭太硬.top/tv",
+      "name": "🚀饭太硬"
+    },
+    {
+      "url": "http://xhww.fun:63/小米/DEMO.json",
+      "name": "🚀小米"
+    },
+    {
+      "url": "https://wds.ecsxs.com/230989.json",
+      "name": "🚀春盈天下"
+    },
+    {
+      "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
+      "name": "🚀小蘋果"
+    },
+    {
+      "url": "http://cdn.qiaoji8.com/tvbox.json",
+      "name": "🚀巧技"
+    },
+    {
+      "url": "https://download.kstore.space/download/5242/冉神.json",
+      "name": "🚀冉神接口"
+    },
+    {
+      "url": "http://tvkj.top/DC/tvys/svip.json",
+      "name": "🚀天微影视"
+    },
+    {
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+      "name": "🚀南风"
+    },
+    {
+      "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
+      "name": "🚀云星日记"
+    },
+    {
+      "url": "http://home.jundie.top:81/top98.json",
+      "name": "🚀俊佬"
+    },
+    {
+      "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
+      "name": "🚀讴歌"
+    }
+  ]
+}
