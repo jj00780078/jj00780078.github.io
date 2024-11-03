@@ -24,6 +24,9 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/APPV2.js?type=url&params=https://dmz8k4.wiki"
+            "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
     },
     {
       "key": "可可",
