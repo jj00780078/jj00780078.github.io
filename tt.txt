@@ -43,8 +43,14 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,http://37.27.111.214:8080/live/20/hls.m3u8
 
 
-
-
+年代新聞,https://fm1077.serv00.net/anbo/index.php?id=2719
+年代新聞,https://fm1077.serv00.net/anbo/index.php?id=1099
+壹新聞,https://fm1077.serv00.net/anbo/index.php?id=2777
+壹新聞,https://fm1077.serv00.net/anbo/index.php?id=494
+三立新聞,https://fm1077.serv00.net/anbo/index.php?id=43
+三立新聞,https://fm1077.serv00.net/anbo/index.php?id=2794
+三立新聞,https://fm1077.serv00.net/anbo/index.php?id=2392
+三立新聞+,https://fm1077.serv00.net/anbo/index.php?id=320
 
 
 
