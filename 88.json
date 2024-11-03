@@ -19,14 +19,14 @@
       "searchable": 0
     },
     {
-     "key": "大米星球",
-            "name": "大米｜APP",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/APPV2.js?type=url&params=https://dmz8k4.wiki"
-            "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "key": "fxzczzy",
+      "name": "🏅厂长",
+      "type": 3,
+      "api": "csp_NewCz",
+      "searchable": 1,
+      "changeable": 1,
+      "playerType": 1,
+      "jar": "./lib/c.jar"
     },
     {
       "key": "可可",
@@ -70,13 +70,11 @@
       }
     },
     {
-      "key": "金牌影视",
-            "name": "金牌｜影视",
-            "type": 3,
-            "api": "csp_WebJP",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+      "key": " fxzyg ",
+      "name": "🏅一个",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./lib/一个.json"
     },
     {
       "key": "配置中心",
@@ -92,13 +90,15 @@
       }
     },
     {
-        "key": "小苹果",
-            "name": "小苹果｜影视",
-            "type": 3,
-            "api": "csp_Xpg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+      "key": "saohuo",
+      "name": "🏅骚火",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": "1",
+      "api": "csp_XBPQ",
+      "jar": "./lib/custom_spider.jar",
+      "ext": "./lib/骚火.json"
     },
     {
       "key": "人人",
