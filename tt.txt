@@ -42,17 +42,16 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://stream1.freetv.fun/34438cfe544b494f8d68c7620c788c161e9bc0d59b6261d14b67c8c7900b084f.m3u8
 東森新聞,http://37.27.111.214:8080/live/20/hls.m3u8
 
+年代新聞,mitv://135.148.104.228:19806/65fa6ea5000ec21a2a83897e03cd44bb
+年代新聞,mitv://135.148.104.228:19806/95f67e884d88463e907c301d05fa68b7
+年代新聞,mitv://135.148.104.228:19806/65ddd162000837a5babd25111eb9560c
+壹新聞,mitv://135.148.104.228:19806/31dad83ef5b74c5db225482cd2e0fbae
+壹新聞,mitv://135.148.104.228:19806/31dad83ef5b74c5db225482cd2e0fbae
+三立新聞,mitv://135.148.104.228:19806/9388262af2604cc798800736d070d39e
+三立新聞,mitv://135.148.104.228:19806/96118abbe8ee48ddaef2c9c1cea1af04
 
-年代新聞,https://fm1077.serv00.net/anbo/index.php?id=2719
-年代新聞,https://fm1077.serv00.net/anbo/index.php?id=1099
-壹新聞,https://fm1077.serv00.net/anbo/index.php?id=2777
-壹新聞,https://fm1077.serv00.net/anbo/index.php?id=494
-三立新聞,https://fm1077.serv00.net/anbo/index.php?id=43
-三立新聞,https://fm1077.serv00.net/anbo/index.php?id=2794
-三立新聞,https://fm1077.serv00.net/anbo/index.php?id=2392
-三立新聞+,https://fm1077.serv00.net/anbo/index.php?id=320
-
-
+非凡新闻台,mitv://135.148.104.228:19806/02f80f7aad2c480992e06e1bd8a7facb
+非凡新闻台,mitv://135.148.104.228:19806/65fa6fc4000df93d2a87ea67255a50ce
 
 
 
