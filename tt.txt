@@ -10,8 +10,9 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-緯來体育,rtmp://f13h.mine.nu/sat/tv721#P2p://generationnexxxt.com:19806/e27081aaad61431d84f3eec0b5efd27e.ts#P2p://generationnexxxt.com:19806/e27081aaad61431d84f3eec0b5efd27e
-
+緯來體育,rtmp://f13h.mine.nu/sat/tv721#P2p://generationnexxxt.com:19806/e27081aaad61431d84f3eec0b5efd27e.ts#P2p://generationnexxxt.com:19806/e27081aaad61431d84f3eec0b5efd27e
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+緯來體育,http://125.227.210.55:8155/VideoInput/play.ts 
 三立LIVE,https://www.youtube.com/watch?v=MV9mI0GChwo
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
@@ -22,7 +23,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 
 三立新聞,https://stream1.freetv.fun/e12a5ecb3e0328b72c684ffe48cb7382b9b3e283c0c99492612b5af06b539153.ctv
-
+三立新聞,http://125.227.210.55:8162/VideoInput/play.ts 
 三立新聞,http://211.72.65.236:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立新聞,https://stream1.freetv.fun/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.ctv
 三立新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
