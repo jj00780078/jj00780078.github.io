@@ -34,7 +34,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立新聞,http://18.162.122.10:5000/4gtv/229
 
 	
-
+壹電視新聞,http://211.72.65.236:8548/.m3u8
 壹電視新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
 壹電視新聞,mitv://generationnexxxt.com:19806/dc5cf9b6bd4a43aa973b9beea88e631b
 壹電視新聞,http://211.72.65.236:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
