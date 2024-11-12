@@ -21,6 +21,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,https://hbo.131412.eu.org/litv/4gtv-4gtv010
 非凡新聞,http://18.162.122.10:5000/litv/4gtv-4gtv010
+非凡新聞,https://stream1.freetv.fun/a46f1155e768a1d44ec78e6a01acafe3f2f83650f9352db8e8eb84170d7535d7.m3u8
 
 三立新聞,https://tv.iill.top/4gtv/229
 三立新聞,https://stream1.freetv.fun/e12a5ecb3e0328b72c684ffe48cb7382b9b3e283c0c99492612b5af06b539153.ctv
@@ -32,6 +33,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立新聞,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 三立新聞,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
 三立新聞,http://18.162.122.10:5000/4gtv/229
+	
 
 壹電視新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
 壹電視新聞,mitv://generationnexxxt.com:19806/dc5cf9b6bd4a43aa973b9beea88e631b
@@ -41,7 +43,9 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 年代新聞,https://stream1.freetv.fun/be747d41b511a08679873d70f146d45d4c35c09256139e1a48dd9fdf20ac398b.m3u8
 年代新聞,http://211.72.65.236:8539/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
-
+年代新聞,https://stream1.freetv.fun/nian-dai-xin-wen-1.m3u8
+年代新聞,https://stream1.freetv.fun/nian-dai-xin-wen-3.m3u8
+年代新聞,https://stream1.freetv.fun/nian-dai-xin-wen-5.m3u8
 
 東森新聞,http://37.27.111.214:8080/live/20/hls.m3u8
 東森新聞,https://stream1.freetv.fun/34438cfe544b494f8d68c7620c788c161e9bc0d59b6261d14b67c8c7900b084f.m3u8
