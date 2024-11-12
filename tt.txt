@@ -22,7 +22,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 非凡新聞,https://stream1.freetv.fun/a46f1155e768a1d44ec78e6a01acafe3f2f83650f9352db8e8eb84170d7535d7.m3u8
 非凡新聞,https://hbo.131412.eu.org/litv/4gtv-4gtv010
 非凡新聞,http://18.162.122.10:5000/litv/4gtv-4gtv010
-非凡新聞,http://125.227.210.55:28993/.m3u8
+非凡新聞,http://125.227.210.55:28993/VideoInput/play.ts 
 三立LIVE,https://www.youtube.com/watch?v=MV9mI0GChwo
 
 三立新聞,https://stream1.freetv.fun/e12a5ecb3e0328b72c684ffe48cb7382b9b3e283c0c99492612b5af06b539153.ctv
@@ -34,9 +34,9 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立新聞,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
 三立新聞,http://18.162.122.10:5000/4gtv/229
 
-壹電視新聞,http://125.227.210.55:8162/.m3u8
-壹電視新聞台,http://59.125.101.187:8613/playlist.m3u8	
-壹電視新聞,http://125.227.210.55:8548/.m3u8
+壹電視新聞,http://125.227.210.55:8162/VideoInput/play.ts 
+壹電視新聞,http://59.125.101.187:8613/playlist.m3u8	
+壹電視新聞,http://125.227.210.55:8548/VideoInput/play.ts 
 壹電視新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
 壹電視新聞,http://211.72.65.236:8548/.m3u8
 壹電視新聞,http://211.72.65.236:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
