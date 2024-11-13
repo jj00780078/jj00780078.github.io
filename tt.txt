@@ -10,15 +10,11 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-东森新闻台,P2p://generationnexxxt.com:19806/efe003be84fe4042acbfe64fad630ad8
+
 緯來體育,http://125.227.210.55:8155/VideoInput/play.ts 
 緯來體育,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8
 緯來體育,http://211.72.65.236:8585/.m3u8
-緯來體育,P2p://generationnexxxt.com:19806/e27081aaad61431d84f3eec0b5efd27e.ts
-爱尔达体育1台,P2p://generationnexxxt.com:19806/03d333eae8a14c84b5ad4bbe27b4edbf.ts
-爱尔达体育2台,P2p://generationnexxxt.com:19806/bfb69131ecb14c6e8b8deeecee24d7ec.ts.ts
-爱尔达体育1台,P2p://generationnexxxt.com:19806/db1725953e1d4256bcfab79f1873a727
-爱尔达体育3台,P2p://generationnexxxt.com:19806/90ea1d1ed6654b5d863053cfceb050e0
+
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 三立iNEWS,http://18.162.122.10:5000/4gtv/229
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
