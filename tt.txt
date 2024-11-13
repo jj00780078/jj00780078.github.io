@@ -11,9 +11,10 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 緯來體育,rtmp://f13h.mine.nu/sat/tv771
-緯來體育,https://hamivideo.hinet.net/channel/OTT_LIVE_0000001952.do
+緯來體育,https://iptv345.com/?act=play&token=722189ae6e646879c3693c1bf63a47be&tid=ty&id=23
 緯來體育,http://125.227.210.55:8155/VideoInput/play.ts 
-緯來體育,https://hamivideo.hinet.net/channel/OTT_LIVE_0000001953.do
+緯來體育,https://www.123iptv.tv/tw/tv/weilaitiyu.html
+緯來體育,http://135.148.104.228:19806/801a9a12c10d4d04953332771aee0dba.
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
 非凡新聞,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/75/817/ch57.m3u8?token=
