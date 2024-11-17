@@ -10,7 +10,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-
+緯來體育,https://yeslivetv.com/channels/videoland-sports/
 緯來體育,http://125.227.210.55:8155/VideoInput/play.ts 
 緯來體育,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8
 緯來體育,http://211.72.65.236:8585/.m3u8
