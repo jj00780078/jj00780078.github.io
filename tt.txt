@@ -49,11 +49,12 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 年代新聞,https://stream1.freetv.fun/nian-dai-xin-wen-3.m3u8
 年代新聞,https://stream1.freetv.fun/nian-dai-xin-wen-5.m3u8
 年代新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
+年代新聞,https://youtu.be/6vXJmlErBKc?list=UULFHBv5vSp3pETSLq8oWTsmqA
 
 東森新聞,http://37.27.111.214:8080/live/20/hls.m3u8
 東森新聞,https://stream1.freetv.fun/34438cfe544b494f8d68c7620c788c161e9bc0d59b6261d14b67c8c7900b084f.m3u8
 
-TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
+
 
 
 
