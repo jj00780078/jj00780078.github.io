@@ -40,7 +40,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 壹電視新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
 壹電視新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
 壹電視新聞,http://211.72.65.236:8548/.m3u8
-
+壹電視新聞,https://youtu.be/FQzIVE6fxhw?list=UULF6hWBu1hfbNNk8Yeokd5aZQ
 
 
 年代新聞,https://stream1.freetv.fun/be747d41b511a08679873d70f146d45d4c35c09256139e1a48dd9fdf20ac398b.m3u8
@@ -53,7 +53,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,http://37.27.111.214:8080/live/20/hls.m3u8
 東森新聞,https://stream1.freetv.fun/34438cfe544b494f8d68c7620c788c161e9bc0d59b6261d14b67c8c7900b084f.m3u8
 
-
+TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
 
 
 
