@@ -1,6 +1,6 @@
 壹電視新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
+三立新聞,https://stream1.freetv.fun/5fa262e7758ae47bef855ec6888b4c873ec23e1781fe8a6ea163253cc7efe53a.m3u8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
@@ -27,14 +27,14 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 三立LIVE,https://www.youtube.com/watch?v=MV9mI0GChwo
 
-三立新聞,https://stream1.freetv.fun/e12a5ecb3e0328b72c684ffe48cb7382b9b3e283c0c99492612b5af06b539153.ctv
+
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts 
 三立新聞,http://211.72.65.236:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
-三立新聞,https://stream1.freetv.fun/5fa262e7758ae47bef855ec6888b4c873ec23e1781fe8a6ea163253cc7efe53a.m3u8
+三立新聞,https://stream1.freetv.fun/e12a5ecb3e0328b72c684ffe48cb7382b9b3e283c0c99492612b5af06b539153.ctv
 三立新聞,https://stream1.freetv.fun/san-li-xin-wen-5.m3u8
-三立新聞,http://211.23.114.106:8507/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
-
+三立新聞,http://211.23.114.106:8507/.m3u8
+三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
  
 壹電視新聞,http://211.72.65.236:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 壹電視新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
