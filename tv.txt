@@ -7,7 +7,7 @@
 		
 		{"url":"http://www.饭太硬.com/tv","name":"饭太硬"},
 		{"url":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json","name":"潇洒哥弹幕线路"},
-		{"url":"http://www.mpanso.com/小米/DEMO.json","name":"小米线路"},
+		
 		{"url":"http://我不是.摸鱼儿.top","name":"摸鱼线路"},
 		
 		{"url":"http://肥猫.com/","name":"肥猫线路"},
@@ -15,42 +15,17 @@
 		
 		{"url":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json","name":"FongMI线路"},
 		
-		{"url":"http://www.lyyytv.cn/yt/yt.json","name":"影探线路"},
+		
 		
 		{"url":"https://tv.uoouo.com/0826.json","name":"饭太硬备份"},
 		
 		
-		{"url":"http://xn--yety82d.love/","name":"肥猫"},
 		
-		{"url":"http://itvbox.cc/tvbox/云星日记/1.m3u8","name":"云星日记"},
-		
-		{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json","name":"潇洒哥线路"},
-		
-		{"url":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/apix.json","name":"4K视界"},
 		
 		{"url":"https://codeberg.org/looktv/my/raw/branch/main/ck.json","name":"ck"},
 		
-		{"url":"https://codeberg.org/looktv/zy/raw/branch/main/vip.qqqwww.json","name":"4K流畅线路"},
-		{"url":"https://jihulab.com/moyuer/momoyu/-/raw/main/moyu.json","name":"摸鱼儿"},
-		
-		{"url":"http://yydsys.top/duo","name":"多多接口"},
 		
 		
-		{"url":"http://www.饭太硬.com/tv","name":"饭太硬啊"},
-		{"url":"http://我不是.肥猫.love:63/接口禁止贩卖","name":"肥猫肥猫"},
-		{"url":"https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒","name":"月光宝盒"},
-		{"url":"https://jihulab.com/ygbh1/box/-/raw/main/ys.json","name":"宝盒影视"},
-		{"url":"https://jihulab.com/ygbh1/box/-/raw/main/JS/js.json","name":"宝盒JS"},
-		
-		
-		{"url":"https://神器每日推送.tk/pz.json","name":"神秘哥哥"},
-		{"url":"https://la.kstore.space/download/2863/01.txt","name":"潇洒"},
-		{"url":"http://itvbox.cc/tvbox/云星日记/1.m3u8","name":"云星"},
-		{"url":"https://hutool.ml/tang","name":"唐三"},
-		
-		{"url":"http://我不是.肥猫.love:63/接口禁止贩卖","name":"肥猫"},
-		{"url":"https://yydsys.top/duo","name":"多多"},
-		{"url":"https://download.kstore.space/download/2863/01.txt","name":"潇洒"}
 		
 	]
 }
