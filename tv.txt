@@ -1,14 +1,16 @@
 {
 	"urls":
 	[
-		
-		{"url":"https://www.520lq.cn/fmbox/fmbox.json","name":"520"},
 		{"url":"http://www.饭太硬.com/tv","name":"饭太硬"},
+		{"url":"https://www.520lq.cn/fmbox/fmbox.json","name":"520"},
+		{"url":"http://我不是.摸鱼儿.com","name":"摸鱼"},
 		{"url":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json","name":"潇洒哥弹幕线路"},		
                 {"url":"http://肥猫.com/","name":"肥猫线路"},
 		{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json","name":"宝盒线路"},
 		{"url":"https://tv.uoouo.com/0826.json","name":"饭太硬备份"}
 		
+
+
 	]
 }		
 		
