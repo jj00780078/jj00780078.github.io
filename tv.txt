@@ -1,24 +1,24 @@
 {
   "urls": [
 {
-      "url": "http://xhztv.top/xhz.json",
-      "name": "🚀小盒子"
+      "url": "https://robyang.bsite.net/VodLive/j78skx",
+      "name": "🚀robyang"
     },
     {
-      "url": "http://xhztv.top/4k.json",
-      "name": "🚀小盒子4K"
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+      "name": "🚀raw"
     },
     {
-      "url": "http://肥猫.live",
-      "name": "🚀肥猫"
+      "url": "https://www.520lq.cn/fmbox/fmbox.json",
+      "name": "🚀520"
     },
     {
       "url": "http://饭太硬.top/tv",
       "name": "🚀饭太硬"
     },
     {
-      "url": "http://xhww.fun:63/小米/DEMO.json",
-      "name": "🚀小米"
+      "url": "https://raw.gitcode.com/yydg/ggdx/raw/main/Xboxb.json",
+      "name": "🚀蓝色影视仓库"
     },
     {
       "url": "https://wds.ecsxs.com/230989.json",
