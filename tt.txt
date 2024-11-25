@@ -25,7 +25,8 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 非凡新聞,https://stream1.freetv.fun/a46f1155e768a1d44ec78e6a01acafe3f2f83650f9352db8e8eb84170d7535d7.m3u8
 非凡新聞,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/75/817/ch57.m3u8?token=
 非凡新聞,http://litv.zapi.us.kg/?id=4gtv-4gtv010
-非凡新聞,https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8\refs\heads\Referer: https://fetfriday.svc.litv.tv/
+非凡新聞,https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8\header\Referer: https://fetfriday.svc.litv.tv/
+
 三立LIVE,https://www.youtube.com/watch?v=MV9mI0GChwo
 
 
@@ -42,7 +43,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 壹電視新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
 壹電視新聞,http://211.72.65.236:8548/.m3u8
 壹電視新聞,https://youtu.be/FQzIVE6fxhw?list=UULF6hWBu1hfbNNk8Yeokd5aZQ
-
+壹電視新聞,https://stream1.freetv.fun/yi-xin-wen-3.m3u8
 
 年代新聞,https://stream1.freetv.fun/be747d41b511a08679873d70f146d45d4c35c09256139e1a48dd9fdf20ac398b.m3u8
 年代新聞,http://211.72.65.236:8539/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
