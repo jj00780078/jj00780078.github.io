@@ -4,9 +4,10 @@
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
-寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
-鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
