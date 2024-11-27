@@ -32,12 +32,11 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 三立新聞,https://stream1.freetv.fun/5fa262e7758ae47bef855ec6888b4c873ec23e1781fe8a6ea163253cc7efe53a.m3u8
 三立新聞,http://211.72.65.236:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
-三立新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
+
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts 
-三立新聞,mitv://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e$LR
+三立新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 三立新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32
-三立新聞,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8$LR
-三立新聞,p3p://108.181.32.169:23524/64251e23000bcd04ea573d7c0f0a002e$LR
+
 壹電視新聞,http://211.72.65.236:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 壹電視新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
 壹電視新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
