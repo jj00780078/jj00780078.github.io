@@ -30,12 +30,12 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 三立LIVE,https://www.youtube.com/watch?v=MV9mI0GChwo
 
+三立新聞,http://125.227.210.55:8162/VideoInput/play.ts 
 三立新聞,https://stream1.freetv.fun/5fa262e7758ae47bef855ec6888b4c873ec23e1781fe8a6ea163253cc7efe53a.m3u8
 三立新聞,http://211.72.65.236:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
-
-三立新聞,http://125.227.210.55:8162/VideoInput/play.ts 
 三立新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 三立新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32
+
 
 壹電視新聞,http://211.72.65.236:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 壹電視新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
