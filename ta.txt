@@ -5,7 +5,12 @@
 "sites":[
 
 {"key":"alllive","name":"📽️一直播┃直播","type":3,"api":"csp_Alllive","playerType":2,"searchable":0,"quickSearch":0,"changeable":0},
-
+{"key": "csp_Jpyy","name": "🥇️┃金牌┃影视","type": 3,"api": "csp_Jpyy"},
+{"key":"api_黑木耳","name":"影視｜黑木耳[直连]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghp.ci/https://raw.githubusercontent.com/bobyang3/tvbox/own/json/api黑木耳.json","jar":"https://ghp.ci/https://raw.githubusercontent.com/bobyang3/tvbox/own/jar/Yoursmile.jar"},      
+{"key":"金牌資源","name":"影視 |金牌","type":3,"api":"csp_XBPQ","jar":"https://ghp.ci/https://raw.githubusercontent.com/bobyang3/tvbox/own/jar/XBPQ.jar","ext":"https://ghp.ci/https://raw.githubusercontent.com/bobyang3/tvbox/own/json/金牌影院.json"},      
+{"key":"T4-独播库","name":"影視｜独播库 (T4)","type":4,"api":"https://tang.hz.cz/power/duboku?token=647c28ca","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},{"key":"drpy_js_独播库[飞]","name":"影視 | 独播库[js]","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/bobyang3/tvbox/own/lib/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/bobyang3/tvbox/own/js/独播库[飞].js"},      
+      
+    
 {"key":"Lib","name": "🌟立播┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},
