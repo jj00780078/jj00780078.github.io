@@ -38,7 +38,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 壹電視新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
 壹電視新聞,http://211.72.65.236:8548/.m3u8
 壹電視新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
-壹電視新聞,https://stream1.freetv.fun/yi-xin-wen-6.m3u8
+壹電視新聞,https://stream1.freetv.fun/yi-xin-wen-2.m3u8
 
 
 年代新聞,https://stream1.freetv.fun/nian-dai-xin-wen-1.m3u8
