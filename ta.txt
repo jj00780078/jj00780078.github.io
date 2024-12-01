@@ -43,7 +43,7 @@
 
 {"key":"Youtube",
       "name": "🏠RobYang Direct | Youtube",
-      "type": 3,
+      "type": 3,"searchable": 1,"quickSearch": 1,"changeable":1,
       "ua": "okhttp/4.12.0",
       "api": "https://files.catbox.moe/7yy0s6.js",
       "url": "https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTVList.txt",
