@@ -14,8 +14,7 @@
 
 {"key": "大米星球","name": "大米｜APP","type": 3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/APPV2.js?type=url&params=https://damifan.wiki"},
 
-{"key":"drpy_js_新视觉影视","name":"影视 | 新视觉影视[js]","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/qist/tvbox/master/js/新视觉影视.js"},
-{"key":"drpy_js_星辰影院","name":"影视 | 星辰影院[js]","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/qist/tvbox/master/js/星辰.js"},            
+
             
             
             
