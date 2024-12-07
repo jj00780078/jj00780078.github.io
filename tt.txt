@@ -14,7 +14,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立iNEWS,http://18.162.122.10:5000/4gtv/229
 東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
-非凡新聞,https://hlove.tv/live/unique-business-news
+
 非凡新聞,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/75/817/ch57.m3u8?token=
 非凡新聞,http://litv.zapi.us.kg/?id=4gtv-4gtv010
 
@@ -24,7 +24,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts 
 三立新聞,https://stream1.freetv.fun/san-li-xin-wen-6.ctv
 三立新聞,http://211.72.65.236:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
-三立新聞,https://hlove.tv/live/settv-news
+
 
 
 壹電視新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
