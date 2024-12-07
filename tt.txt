@@ -42,7 +42,16 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 年代新聞,https://stream1.freetv.fun/nian-dai-xin-wen-1.ctv
 
 
+壹电视新闻台,mitv://135.148.104.228:19806/31dad83ef5b74c5db225482cd2e0fbae
+年代新闻,mitv://135.148.104.228:19806/95f67e884d88463e907c301d05fa68b7
+东森新闻台,mitv://135.148.104.228:19806/e1a899eded4d48578084c61957fb8c2b
 
+民视新闻台,mitv://135.148.104.228:19806/d24f18e610d248b7a450d29492b37ebf
+三立新闻台,mitv://135.148.104.228:19806/9388262af2604cc798800736d070d39e
+TVBS新闻台,mitv://135.148.104.228:19806/6a155a5d7bea461b980b4fa559119a60
+
+东森财经新闻台,mitv://135.148.104.228:19806/9193e5efd94f4991ba8bfbc98bdc3f19
+非凡新闻台,mitv://135.148.104.228:19806/02f80f7aad2c480992e06e1bd8a7facb
 
 
 
