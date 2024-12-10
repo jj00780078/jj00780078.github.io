@@ -42,10 +42,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 年代新聞,https://stream1.freetv.fun/nian-dai-xin-wen-1.ctv
 
 
-三立新闻,http://8.218.84.3:8885/.m3u8?u=1733657387304
-年代新闻,http://8.218.84.3:8885/.m3u8?u=1733657387340
-非凡新聞,http://8.218.84.3:8885/.m3u8?u=1733657387348
-壹电视新闻,http://8.218.84.3:8885/.m3u8?u=1733657387351
+
 
 
 
