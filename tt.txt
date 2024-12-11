@@ -24,7 +24,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts 
 三立新聞,https://stream1.freetv.fun/san-li-xin-wen-6.ctv
 三立新聞,http://211.72.65.236:8543/.m3u8
-三立新聞,http://cookies.elementfx.com/ublive/ublive.php?id=43
+
 
 壹電視新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 壹電視新聞,http://211.72.65.236:8548/.m3u8
