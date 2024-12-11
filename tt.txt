@@ -42,12 +42,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 年代新聞,https://stream1.freetv.fun/nian-dai-xin-wen-1.ctv
 
 
-壹電視新聞_線路一,tvbus://3W2xXgi9J9fDLbnd2siJsJ65zbP6bDoCccgQDTK2fuxyhmmmLU8jQoik4WN2e
-壹電視新聞_線路二,tvbus://3gxc6SEHVqZdBBFNPBMxECK7mNcKJ32Q5UVRSxZtxvpRYYuabQXkbNBaZxNzt
-年代新聞一,tvbus://2VADzNLCRiwvKxvYgQHWv8XDu6JpHYkp5k4jTMbEupWPTqvXs2pohyqQ2kKZM
-三立新聞_線路一,tvbus://3LJ3G2zyAoqKiNxpJJ9dMvVm5KU6g6E3JWqer1SydXhUNoFvghxgCJy6QqGPU
-三立新聞_線路二,tvbus://2dsu6wPQwpJQ6ZmcSUc4jehvLsVLyGzfB55CmeZUm5jzRXKjD5oC5wNapg1Lt
-非凡新聞一,tvbus://3Wi7H2peGZUtfwVp6QXxGB8X5Gr3N9TEh6rZ7XX3uKrCviHvKGSchEQHKVv6d
 
 
 
