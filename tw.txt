@@ -1,7 +1,7 @@
 
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
-東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
+東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
 寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -16,7 +16,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立LIVE,https://www.youtube.com/watch?v=MV9mI0GChwo
 壹新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-
+三立新聞,http://125.227.210.55:8162/VideoInput/play.ts 
 三立新聞,http://211.72.65.236:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 
