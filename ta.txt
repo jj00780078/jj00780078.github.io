@@ -41,18 +41,52 @@
 "lives":[
 
 {"name":"新聞直播","type":0,"url":"https://jj00780078.github.io/tw.txt","playerType":2,"logo": "https://live.fanmingming.com/tv/{name}.png"},
-
-        
-           { "name": "肥羊国内直播",
+   {
+		    "name": "①live(EXO)",
+            "type":0,
+ 	        "url": "http://rihou.cc:55/lib/kx2024.txt",
+            "ua": "okhttp/3",
+            "playerType": 2,
+            "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	    },
+  	    	            {
+            "name": "②Live(IJK)",
             "type": 0,
-            "playerType":2,
-            "api": "csp_Feiyang",
-            "url": "tv.m3u",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/allinone;md5;https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/md5",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
-        
-   
+            "url": "http://rihou.cc:55/lib/kx2024.txt",
+            "playerType": 1,
+            "ua": "okhttp/3",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png"
+        },
 
-{"name":"电视Live","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://tv.iill.top/m3u/Gather","playerType":2,"timeout":10}
+  	    	            {
+            "name": "③猫TV线路(EXO)",
+            "type": 0,
+            "url": "http://rihou.cc:567/gggg.nzk",
+            "playerType": 2,
+            "ua": "okhttp/3",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png"
+        },
+  	    	            {
+            "name": "④猫TV线路(IJK)",
+            "type": 0,
+            "url": "http://rihou.cc:567/gggg.nzk",
+            "playerType": 1,
+            "ua": "okhttp/3",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png"
+        },
+  	            
+        {
+            "name": "IPTV研究所",
+            "type": 0,
+            "url": "https://www.mytvsuper.com.mp/m3u/Live.m3u",
+            "playerType": 2,  
+            "ua": "okhttp/3",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
 ]
 }

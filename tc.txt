@@ -21,7 +21,7 @@
   "lives":[
 
    {"name":"新聞直播","type":0,"url":"https://jj00780078.github.io/tw.txt","playerType":2,"logo": "https://live.fanmingming.com/tv/{name}.png"},
-    {"name":"电视Live","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://tv.iill.top/m3u/Gather","playerType":2,"timeout":10},
+   
    {
 		    "name": "①live(EXO)",
             "type":0,
@@ -59,15 +59,7 @@
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
         },
-  	            {
-            "name": "新AKTV港台",
-            "type": 0,
-            "url": "http://aktv.top/live.m3u",
-            "playerType": 2,
-            "ua": "okhttp/3",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
+  	            
         {
             "name": "IPTV研究所",
             "type": 0,
