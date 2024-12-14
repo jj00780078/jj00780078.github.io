@@ -17,7 +17,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 壹新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts 
-三立新聞,http://211.72.65.236:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 
 
@@ -26,7 +26,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 
 
-壹新聞,P2p://generationnexxxt.com:19806/dc5cf9b6bd4a43aa973b9beea88e631b
+
 
 
 年代新聞,https://stream1.freetv.fun/nian-dai-xin-wen-1.m3u8
@@ -42,10 +42,10 @@ TVBS新聞,https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
 
 民視新聞,http://211.23.114.106:8542/http/60.251.39.91:8081/hls/73/815/ch52.m3u8
 寰宇新聞,http://211.23.114.106:8547/http/60.251.39.91:8081/hls/76/818/ch62.m3u8
-三立新聞,https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
+
 年代新聞,https://z88.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 壹新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
-三立新聞,http://66.165.240.154:8080/live/slxw01/hls.m3u8
+
 
 
 
@@ -62,7 +62,7 @@ TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
 
 
 
-三立新聞,http://125.227.210.55:35238/VideoInput/play.ts
+
 鏡新聞,http://tv.redrainl.site:9500/live.m3u8?c=28
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
@@ -111,7 +111,7 @@ TVBS新聞,http://8.210.88.135/ml.php?id=tvbs_n
 
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 
-三立新聞,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
+
 
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
