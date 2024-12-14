@@ -52,7 +52,7 @@
         ".*boku.*",
         ".*nivod.*",
         ".*ulivetv.*"
-      
+     ] 
     },
     {"name":"cl","hosts":["magnet"],"regex":["最 新","直 播","更 新"]},
 
