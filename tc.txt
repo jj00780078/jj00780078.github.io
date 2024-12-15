@@ -20,10 +20,10 @@
   "ads":["mozai.4gtv.tv"],
   "lives":[
 
-   {"name":"新聞直播","type":0,"url":"https://jj00780078.github.io/tw.txt","playerType":2,"logo": "https://live.fanmingming.com/tv/{name}.png"},
+   {"name":"新聞直播","type":0,"url":"https://jj00780078.github.io/tw.txt","playerType":2,"epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
    
-   {
-		    "name": "①live(EXO)",
+   
+	{	    "name": "①live(EXO)",
             "type":0,
  	        "url": "http://rihou.cc:55/lib/kx2024.txt",
             "ua": "okhttp/3",
