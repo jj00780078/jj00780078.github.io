@@ -20,7 +20,7 @@
 
 ],
 
-"logo":"https://github.com/jj00780078/jj00780078.github.io/blob/main/%E6%8B%9B%E8%B2%A1%E8%B2%931.jpg",
+"logo":"https://github.com/jj00780078/jj00780078.github.io/blob/main/%E6%8B%9B%E8%B2%A1%E8%B2%931.gif",
 "lives":[
 {"name":"新聞直播①","type":0,"url":"https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/tt.txt","playerType":2,"epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
   
