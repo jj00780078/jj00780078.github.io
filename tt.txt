@@ -1,6 +1,6 @@
 
 
-三立LIVE,https://www.youtube.com/watch?v=MV9mI0GChwo
+三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
@@ -21,10 +21,10 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
 
 三立新聞,https://stream1.freetv.fun/san-li-xin-wen-6.ctv
-三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
+三立新聞,http://211.72.65.236:8543/.m3u8
 三立新聞,https://stream1.freetv.fun/e12a5ecb3e0328b72c684ffe48cb7382b9b3e283c0c99492612b5af06b539153.ctv
 
-三立新聞,http://211.72.65.236:8543/.m3u8
+
 
 壹電視新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 壹電視新聞,http://211.72.65.236:8548/.m3u8
