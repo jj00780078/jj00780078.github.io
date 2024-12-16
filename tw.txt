@@ -13,9 +13,10 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 非凡新聞,https://litv.zapi.us.kg/?id=4gtv-4gtv010
 非凡新聞,https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
-三立LIVE,https://www.youtube.com/watch?v=MV9mI0GChwo
+
 壹新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts 
 
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
