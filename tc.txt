@@ -3,10 +3,10 @@
   "wallpaper":"http://127.0.0.1:9978/proxy?do=wall",
   "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
   "sites": [
-{"key":"金牌資源","name":"🥇️┃金牌┃影视","type":3,"api":"csp_XBPQ","jar":"https://ghp.ci/https://raw.githubusercontent.com/bobyang3/tvbox/own/jar/XBPQ.jar","ext":"https://ghp.ci/https://raw.githubusercontent.com/bobyang3/tvbox/own/json/金牌影院.json"},      
+     
 {"key":"T4-独播库","name":"影視｜独播库 (T4)","type":4,"api":"https://tang.hz.cz/power/duboku?token=647c28ca","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},     
 {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},      
-
+{"key":"金牌資源","name":"🥇️┃金牌┃影视","type":3,"api":"csp_XBPQ","jar":"https://ghp.ci/https://raw.githubusercontent.com/bobyang3/tvbox/own/jar/XBPQ.jar","ext":"https://ghp.ci/https://raw.githubusercontent.com/bobyang3/tvbox/own/json/金牌影院.json"}, 
 {"key": "大米星球","name": "大米｜APP","type": 3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/APPV2.js?type=url&params=https://damifan.wiki"},
 {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},    
 {"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},
