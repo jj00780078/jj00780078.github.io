@@ -107,7 +107,7 @@
       "name": "寰宇新聞台灣台"
     },
     {
-      "url": "https://www.youtube.com/watch?v=WHEPzbFA3hw",
+      "url": "https://www.youtube.com/watch?v=1I2iq41Akmo",
       "name": "東森財經"
     },
     {
