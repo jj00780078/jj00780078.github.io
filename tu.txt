@@ -45,7 +45,7 @@
 
 
     {
-      "url": "https://www.youtube.com/watch?v=WHEPzbFA3hw",
+      "url": "https://www.youtube.com/watch?v=1I2iq41Akmo",
       "name": "東森財經"
     },
     {
@@ -68,29 +68,23 @@
     },
 
     {
-      "url": "https://www.youtube.com/c/twctvnews/live",
+      "url": "https://www.youtube.com/watch?v=TCnaIE_SAtM",
       "name": "中視新聞"
     },
     {
       "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E",
       "name": "華視新聞"
     },
-    {
-      "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
-      "name": "公共電視"
-    },
-    {
-      "url": "http://211.23.114.106:8533/.m3u8",
-      "name": "TVBS新聞"
-    },
+    
+
 
     {
-      "url": "http://211.23.114.106:8529/.m3u8",
+      "url": "http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8",
 
       "name": "壹新聞"
     },
     {
-      "url": "http://211.23.114.106:8517/.m3u8",
+      "url": "http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8",
 
       "name": "年代新聞"
     },
@@ -130,11 +124,14 @@
       "url": "https://www.youtube.com/watch?v=pF507BLtbqU",
       "name": "三立 iNEWS 新聞"
     },
-
+{
+      "url": "https://stream1.freetv.fun/san-li-xin-wen-6.ctv",
+      "name": "三立新聞"
+    }
 
     
     {
-      "url": "http://211.72.65.236:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8",
+      "url": "p3p://167.114.175.6:55331/6014c896000c7101401f67cc5477681b",
       "name": "三立新聞"
     }
   ]
