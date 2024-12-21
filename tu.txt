@@ -127,7 +127,7 @@
 {
       "url": "https://stream1.freetv.fun/san-li-xin-wen-6.ctv",
       "name": "三立新聞"
-    }
+    },
 
     
     {
