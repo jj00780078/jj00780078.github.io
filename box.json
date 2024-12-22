@@ -355,7 +355,11 @@
     ],
     "lives": [
 
-{"name":"🥇️新聞直播🥇️","type":0,"url":"https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/tt.txt","playerType":2,"epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🥇️新聞直播🥇️","type":0,"url":"https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/tt.txt","playerType":2,"api": "http://zhangqun66.com/ytlb1.php",
+            "searchable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33,"logo": "https://epg.112114.eu.org/logo/{name}.png"},
   
 
 
