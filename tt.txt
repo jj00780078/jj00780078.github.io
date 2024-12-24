@@ -10,8 +10,8 @@
 
 
 三立新聞,p3p://167.114.175.6:55331/6014c896000c7101401f67cc5477681b
-三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
-民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+三立新聞,https://iptv.azlinux.fr/?url=https://www.youtube.com/watch?v=MV9mI0GChwo
+民視新聞,https://iptv.azlinux.fr/?url=https://www.youtube.com/watch?v=ylYJSBUgaMA
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
