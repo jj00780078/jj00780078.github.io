@@ -1,29 +1,22 @@
-镜新闻,http://ali.hlspull.yximgs.com/live/tboxproexcvqqocvuoqxucfdexqpqqyxchvlqxqfeqhcelethqqdxw.flv
-镜新闻,http://37.27.111.214:8080/live/62/hls.m3u8
-壹新闻,http://ali.hlspull.yximgs.com/live/tboxpromqfoyqvqsdvbnweqtquqqxqcvfqqsqfhfqddqqlhtbchyxw.flv
+
+镜新闻,https://fourgtv.mytvsuper.com.mp/litv/4gtv-4gtv075
+
 壹新闻,http://211.72.65.236:8548/.m3u8
-非凡新闻,http://ali.hlspull.yximgs.com/live/tboxprosqtnfqqoqdcbfcxvqfuuqqweqqqsqyuhhdqsqhqynffxw.flv
-三立新闻,http://ali.hlspull.yximgs.com/live/tboxprohmcyoywqqubqdfqfvchtquqxcqxvcbsqfsdxcbmqsllivexw.flv
-三立新闻,http://211.72.65.236:8543/.m3u8
-东森新闻,http://ali.hlspull.yximgs.com/live/tboxpromhqttuqqcvbyquoqdqqeqywefqqfbxfbxxvbqqqlqqhqsxw.flv
-东森新闻,http://211.72.65.236:8540/.m3u8
-东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
-年代新闻,http://ali.hlspull.yximgs.com/live/tboxprooqevdyscvbudloqlnsfqewtqudvbbqxfqnqlvcqdqdnqxw.flv
-年代新闻,http://211.72.65.236:8529/.m3u8
+非凡新闻,https://fourgtv.mytvsuper.com.mp/litv/4gtv-4gtv010
+
+三立新闻,https://fourgtv.mytvsuper.com.mp/4gtv/229
+
+东森新闻,https://fourgtv.mytvsuper.com.mp/litv/4gtv-4gtv152
 年代新闻,http://211.72.65.236:8539/.m3u8
-寰宇新闻,http://ali.hlspull.yximgs.com/live/tboxprophxehmffquxcxqveqeqyhmnqqxqqhqdhnqbnxfdqfhyxw.flv
-台视新闻,http://ali.hlspull.yximgs.com/live/tboxproncqqtqqudtqlqcvbcvntqqqsfwetqfvcbcxvdqbqfflvcqtsxw.flv
-中视新闻,http://ali.hlspull.yximgs.com/live/tboxpropnvqydstudqbsqcvbfqqqsqfqsqwetymqldhduqocnqsxw.flv
-民事新闻台,http://ali.hlspull.yximgs.com/live/tboxprocnbvqfhdquqqvcbnqftuqscxqfqeqyhqqvqfmsxw.flv
-寰宇新闻台湾,http://37.27.111.214:8080/live/63/hls.m3u8
-寰宇新闻台湾,http://37.27.111.214:8080/live/63/hls.m3u8
-寰宇财经新闻,http://37.27.111.214:8080/live/65/hls.m3u8
-TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8		
-镜新闻,http://ali.hlspull.yximgs.com/live/tboxproexcvqqocvuoqxucfdexqpqqyxchvlqxqfeqhcelethqqdxw.flv
-镜新闻,http://go.211jiaoyi.com/买源的微psbc0129.php?id=jxw
-壹新闻,http://ali.hlspull.yximgs.com/live/tboxpromqfoyqvqsdvbnweqtquqqxqcvfqqsqfhfqddqqlhtbchyxw.flv
-非凡新闻,http://ali.hlspull.yximgs.com/live/tboxprosqtnfqqoqdcbfcxvqfuuqqweqqqsqyuhhdqsqhqynffxw.flv
-非凡新闻,http://go.211jiaoyi.com/买源的微psbc0129.php?id=feifanxinwen
+寰宇新闻,https://fourgtv.mytvsuper.com.mp/litv/litv-longturn14
+
+民事新闻台,https://fourgtv.mytvsuper.com.mp/litv/litv-ftv13
+寰宇新闻台湾,https://fourgtv.mytvsuper.com.mp/litv/litv-longturn15
+
+寰宇财经新闻,https://fourgtv.mytvsuper.com.mp/litv/litv-longturn23
+
+非凡新闻,https://fourgtv.mytvsuper.com.mp/litv/4gtv-4gtv010
+
 三立新闻,http://ali.hlspull.yximgs.com/live/tboxprohmcyoywqqubqdfqfvchtquqxcqxvcbsqfsdxcbmqsllivexw.flv
 东森新闻,http://ali.hlspull.yximgs.com/live/tboxpromhqttuqqcvbyquoqdqqeqywefqqfbxfbxxvbqqqlqqhqsxw.flv
 年代新闻,http://ali.hlspull.yximgs.com/live/tboxprooqevdyscvbudloqlnsfqewtqudvbbqxfqnqlvcqdqdnqxw.flv
@@ -33,7 +26,7 @@ TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 台视新闻,http://ali.hlspull.yximgs.com/live/tboxproncqqtqqudtqlqcvbcvntqqqsfwetqfvcbcxvdqbqfflvcqtsxw.flv
 中视新闻,http://ali.hlspull.yximgs.com/live/tboxpropnvqydstudqbsqcvbfqqqsqfqsqwetymqldhduqocnqsxw.flv
 民事新闻台,http://ali.hlspull.yximgs.com/live/tboxprocnbvqfhdquqqvcbnqftuqscxqfqeqyhqqvqfmsxw.flv		
-东森财经新闻,http://go.211jiaoyi.com/买源的微psbc0129.php?id=dongsencaijingxinwen		
+东森财经新闻,https://fourgtv.mytvsuper.com.mp/litv/4gtv-4gtv153		
 		
 		
 		
