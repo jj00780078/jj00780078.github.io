@@ -1,5 +1,5 @@
 台灣新聞,#genre#
-
+三立新聞,p3p://167.114.175.6:55331/6014c896000c7101401f67cc5477681b
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
 三立新聞,http://209.146.124.22:8891/4gtv/229
 三立新聞,https://stream1.freetv.fun/e12a5ecb3e0328b72c684ffe48cb7382b9b3e283c0c99492612b5af06b539153.ctv
@@ -38,7 +38,7 @@ TVBS新聞,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 
 
 
-三立新聞,p3p://167.114.175.6:55331/6014c896000c7101401f67cc5477681b
+
 三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
