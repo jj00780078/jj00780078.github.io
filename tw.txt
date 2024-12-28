@@ -17,10 +17,10 @@ TVBS新聞,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 		
 寰宇財經,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn23?set=2&ch=281
 寰宇財經,http://209.146.124.22:8891/litv/litv-longturn23
-台視新聞,http://209.146.124.22:8891/litv/4gtv-4gtv051 
+
 中視新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv074?set=2&ch=33
 華視新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv052?set=2&ch=34
-三立iNEWS,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv089?set=2&ch=229
+
 三立新聞,http://209.146.124.22:8891/4gtv/229
 民視新聞,http://209.146.124.22:8891/litv/litv-ftv13
 民視新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-ftv13?set=2&ch=31
