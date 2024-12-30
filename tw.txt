@@ -55,6 +55,53 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 
 
+三立新聞,p3p://167.114.175.6:55331/6014c896000c7101401f67cc5477681b
+三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
+三立新聞,http://209.146.124.22:8891/4gtv/229
+三立新聞,https://stream1.freetv.fun/e12a5ecb3e0328b72c684ffe48cb7382b9b3e283c0c99492612b5af06b539153.ctv
+民視新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-ftv13?set=2&ch=31
+民視新聞,https://stream1.freetv.fun/6fa1566ea8689cbf43afb55f899dc5ee945e1caabde5bfc367cc510aa794d313.m3u8
+
+民視新聞,http://209.146.124.22:8891/litv/litv-ftv13
+東森新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv152?set=2&ch=292
+東森新聞,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvnews&sp=chaojidianshi		
+
+寰宇台灣,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn15?set=1&ch=280
+寰宇台灣,http://209.146.124.22:8891/litv/litv-longturn15
+鏡新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv075?set=2&ch=268		
+鏡新聞,http://209.146.124.22:8891/litv/4gtv-4gtv075
+TVBS新聞,http://125.227.210.55:8186/VideoInput/play.ts		
+TVBS新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv072?set=2&ch=291
+TVBS新聞,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbs_n&sp=chaojidianshi		
+TVBS新聞,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+寰宇新聞,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8		
+寰宇新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn14?set=1&ch=36
+寰宇新聞,http://209.146.124.22:8891/litv/litv-longturn14
+台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+中視新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv074?set=2&ch=33
+華視新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv052?set=2&ch=34
+三立iNEWS,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv089?set=2&ch=229
+東森財經,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv153?set=2&ch=293
+東森財經,http://209.146.124.22:8891/litv/4gtv-4gtv153 		
+寰宇財經,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn23?set=2&ch=281
+寰宇財經,http://209.146.124.22:8891/litv/litv-longturn23
+
+民視新聞,p3p://108.181.32.169:13517/6766bbef00035b7fc3477e06654678f1
+TVBS新聞,p3p://108.181.32.169:13517/642521680002b5f3ea6400bb781026f0
+TVBS新聞,p3p://108.181.32.169:13517/6762b94d000d9e01b39d37d0317b2ab1
+東森新聞,p3p://108.181.32.169:13517/67619a0c000ce5c8af3b21ba05313165
+東森財經,p3p://108.181.32.169:13517/64251ff20001f010ea5e4b9002e57212
+寰宇新聞,p3p://108.181.32.169:13517/67619d3c000284e0af479296528b4f38
+
+
+TVBS新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=748e9795763249f21ae09fd116b6a67c&expiry=1735554697&token=985feba870b46946d9608f9fa4226cb9
+三立新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=f785a624712f23f2e328eb798488eca5&expiry=1735554697&token=e3eeca91951d920bef960134fca44f7e
+年代新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=b0846d284f64f3e32fb7ec3a3313cfe0&expiry=1735554697&token=1a1f36eadbe14de233c12e7bdb354937
+東森新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=a85d2a14089ecd628e43060f24743ff1&expiry=1735554697&token=e46310263bc52eef12460e972c2170bc
+民視新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=76929683e9c7f6118bd4725174294a22&expiry=1735554697&token=aed1f45e4300c8687b74e82a29601a36
+
+台視新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=8ff3cec98e357ee2f42898d33efeae23&expiry=1735554697&token=55f74aca3e1e5ee184b9878bc48d6423
+東森財經,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=13225ba284bc19618ea888e640076c45&expiry=1735554697&token=8be030473b4008125971f6f9d4809864
 
 
 

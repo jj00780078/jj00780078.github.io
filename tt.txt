@@ -31,20 +31,21 @@ TVBS新聞,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 寰宇財經,http://209.146.124.22:8891/litv/litv-longturn23
 
 民視新聞,p3p://108.181.32.169:13517/6766bbef00035b7fc3477e06654678f1
-
 TVBS新聞,p3p://108.181.32.169:13517/642521680002b5f3ea6400bb781026f0
 TVBS新聞,p3p://108.181.32.169:13517/6762b94d000d9e01b39d37d0317b2ab1
-
 東森新聞,p3p://108.181.32.169:13517/67619a0c000ce5c8af3b21ba05313165
 東森財經,p3p://108.181.32.169:13517/64251ff20001f010ea5e4b9002e57212
-
 寰宇新聞,p3p://108.181.32.169:13517/67619d3c000284e0af479296528b4f38
 
 
+TVBS新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=748e9795763249f21ae09fd116b6a67c&expiry=1735554697&token=985feba870b46946d9608f9fa4226cb9
+三立新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=f785a624712f23f2e328eb798488eca5&expiry=1735554697&token=e3eeca91951d920bef960134fca44f7e
+年代新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=b0846d284f64f3e32fb7ec3a3313cfe0&expiry=1735554697&token=1a1f36eadbe14de233c12e7bdb354937
+東森新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=a85d2a14089ecd628e43060f24743ff1&expiry=1735554697&token=e46310263bc52eef12460e972c2170bc
+民視新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=76929683e9c7f6118bd4725174294a22&expiry=1735554697&token=aed1f45e4300c8687b74e82a29601a36
 
-
-
-
+台視新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=8ff3cec98e357ee2f42898d33efeae23&expiry=1735554697&token=55f74aca3e1e5ee184b9878bc48d6423
+東森財經,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=13225ba284bc19618ea888e640076c45&expiry=1735554697&token=8be030473b4008125971f6f9d4809864
 
 三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
