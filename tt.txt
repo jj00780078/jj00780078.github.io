@@ -36,19 +36,18 @@ TVBS新聞,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 
 TVBS新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=748e9795763249f21ae09fd116b6a67c&expiry=1735554697&token=985feba870b46946d9608f9fa4226cb9
 三立新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=f785a624712f23f2e328eb798488eca5&expiry=1735554697&token=e3eeca91951d920bef960134fca44f7e
-年代新聞,https://stream1.freetv.fun/nian-dai-xin-wen-1.ctv
+
 東森新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=a85d2a14089ecd628e43060f24743ff1&expiry=1735554697&token=e46310263bc52eef12460e972c2170bc
 民視新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=76929683e9c7f6118bd4725174294a22&expiry=1735554697&token=aed1f45e4300c8687b74e82a29601a36
 台視新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=8ff3cec98e357ee2f42898d33efeae23&expiry=1735554697&token=55f74aca3e1e5ee184b9878bc48d6423
 東森財經,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=13225ba284bc19618ea888e640076c45&expiry=1735554697&token=8be030473b4008125971f6f9d4809864
 TVBS新聞,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
-年代新聞,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
+
 東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
 東森財經,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MEFE2625686426256864&ct=19234&tsum=c294dfaad2db8dd9c4cf483c6888b31b
 民視新聞,http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=MF1F9892989898929898&ct=19234&tsum=454a768519608690638d11c0258cdcbe
 
 台視新聞,http://50.7.234.10:8278/ttvnews_twn/playlist.m3u8?tid=MBBB6637589866375898&ct=19234&tsum=d2c641a325bf02e0b68c4f245e0165b0
-年代新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=b0846d284f64f3e32fb7ec3a3313cfe0&expiry=1735554697&token=1a1f36eadbe14de233c12e7bdb354937
 
 三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
@@ -82,8 +81,9 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 壹新聞,http://211.23.114.106:8539/.m3u8
 
 
-
-
+年代新聞,https://stream1.freetv.fun/nian-dai-xin-wen-1.ctv
+年代新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=b0846d284f64f3e32fb7ec3a3313cfe0&expiry=1735554697&token=1a1f36eadbe14de233c12e7bdb354937
+年代新聞,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,https://stream1.freetv.fun/nian-dai-xin-wen-1.m3u8
 年代新聞,p3p://167.114.175.6:55331/5fe09fec000ac0127462c4ac6b1f16a3
