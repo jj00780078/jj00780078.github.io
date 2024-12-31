@@ -36,7 +36,7 @@ TVBS新聞,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 
 TVBS新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=748e9795763249f21ae09fd116b6a67c&expiry=1735554697&token=985feba870b46946d9608f9fa4226cb9
 三立新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=f785a624712f23f2e328eb798488eca5&expiry=1735554697&token=e3eeca91951d920bef960134fca44f7e
-
+年代新聞,https://stream1.freetv.fun/nian-dai-xin-wen-1.ctv
 東森新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=a85d2a14089ecd628e43060f24743ff1&expiry=1735554697&token=e46310263bc52eef12460e972c2170bc
 民視新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=76929683e9c7f6118bd4725174294a22&expiry=1735554697&token=aed1f45e4300c8687b74e82a29601a36
 台視新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=8ff3cec98e357ee2f42898d33efeae23&expiry=1735554697&token=55f74aca3e1e5ee184b9878bc48d6423
@@ -90,7 +90,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch27.m3u8?token=
 
-年代新聞,https://stream1.freetv.fun/nian-dai-xin-wen-1.ctv
+
 
 
 
