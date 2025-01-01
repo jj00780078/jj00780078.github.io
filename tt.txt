@@ -69,7 +69,8 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
 壹新聞,http://211.72.65.236:8548/.m3u8
 壹新聞,http://211.23.114.106:8539/.m3u8
-
+壹新聞,http://60.251.59.180:8501/.m3u8
+壹新聞,http://60.251.59.180:8501/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 
 年代新聞,https://stream1.freetv.fun/nian-dai-xin-wen-1.ctv
 年代新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=b0846d284f64f3e32fb7ec3a3313cfe0&expiry=1735554697&token=1a1f36eadbe14de233c12e7bdb354937
@@ -81,7 +82,24 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 年代新聞,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch27.m3u8?token=
 
 
-
+三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
+三立iNEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
+三立iNEWS,https://git.io/Jgkxj
+三立iNEWS,http://140.238.155.232:9000/jmsytb.m3u8?c=22
+三立iNEWS,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
+三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+三立iNEWS,https://ytm2.yuanhsing.cf/setmoney159.m3u8
+三立iNEWS,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live089
+非凡新聞,http://50.7.220.74:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
+非凡新聞,http://50.7.220.74:8278/feifannews_twn/playlist.m3u8?ct=17874&tid=m050e7aad65f614336734&tsum=4ea1b829d195ac69a6c2ca51b21ae378
+非凡新聞,http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
+寰宇新聞台灣台,https://git.io/JgkpO
+寰宇新聞台灣台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
+寰宇新聞台灣台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-longturn14
+寰宇新聞,http://tv.redrainl.site:9500/live.m3u8?c=22
+寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+寰宇新聞,http://140.238.155.232:9000/jmsytb.m3u8?c=27
+寰宇新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
 
 
 
