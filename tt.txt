@@ -30,13 +30,7 @@ TVBS新聞,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 
 
 
-TVBS新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=748e9795763249f21ae09fd116b6a67c&expiry=1735554697&token=985feba870b46946d9608f9fa4226cb9
-三立新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=f785a624712f23f2e328eb798488eca5&expiry=1735554697&token=e3eeca91951d920bef960134fca44f7e
 
-東森新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=a85d2a14089ecd628e43060f24743ff1&expiry=1735554697&token=e46310263bc52eef12460e972c2170bc
-民視新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=76929683e9c7f6118bd4725174294a22&expiry=1735554697&token=aed1f45e4300c8687b74e82a29601a36
-台視新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=8ff3cec98e357ee2f42898d33efeae23&expiry=1735554697&token=55f74aca3e1e5ee184b9878bc48d6423
-東森財經,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=13225ba284bc19618ea888e640076c45&expiry=1735554697&token=8be030473b4008125971f6f9d4809864
 TVBS新聞,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
 
 東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
