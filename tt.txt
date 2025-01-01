@@ -18,9 +18,7 @@ TVBS新聞,http://125.227.210.55:8186/VideoInput/play.ts
 TVBS新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv072?set=2&ch=291
 TVBS新聞,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbs_n&sp=chaojidianshi		
 TVBS新聞,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-寰宇新聞,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8		
-寰宇新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn14?set=1&ch=36
-寰宇新聞,http://209.146.124.22:8891/litv/litv-longturn14
+
 台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 中視新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv074?set=2&ch=33
 華視新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv052?set=2&ch=34
@@ -53,7 +51,7 @@ TVBS新聞,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601
 寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
-寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
