@@ -1,0 +1,258 @@
+{
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731937895509/fan.txt;md5;fd16c6765d2cc453d40f8b3dfc02621d",
+    "wallpaper": "https://深色壁纸.xxooo.cf/", 
+    "sites": [
+        {
+
+      
+      "key": "黑软松视开通17QQ群726461419",
+      "name": "💎黑软1花🔞VIP💎",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "黑软松视开通19QQ群726461419",
+      "name": "💎黑软2花🔞VIP💎",
+      "type": 1,
+      "api": "https://api.sexnguon.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "黑软松视开通20QQ群726461419",
+      "name": " 💎黑软3花🔞VIP💎",
+      "type": 0,
+      "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "黑软松视开通21QQ群726461419",
+      "name": "💎黑软4花🔞VIP💎",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "黑软松视开通22QQ群726461419",
+      "name": "💎黑软5花🔞VIP💎",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "style": {
+        "type": "oval",
+        "ratio": 0.75
+      },
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "黑软松视开通23QQ群726461419 ",
+      "name": "💎黑软6花🔞VIP💎",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "黑软松视开通24QQ群726461419 ",
+      "name": "💎黑软7花🔞VIP💎",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "黑软松视25QQ群726461419",
+      "name": "💎黑软8花🔞VIP💎",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "黑软松视26QQ群726461419 ",
+      "name": "💎黑软9花🔞VIP💎",
+      "type": 1,
+      "api": "https://api.sexnguon.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "黑软松视27QQ群726461419 ",
+      "name": "💎黑软10花🔞VIP💎",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "黑软松视28QQ群726461419",
+      "name": "💎黑软11花🔞VIP💎",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "黑软松视29QQ群726461419 ",
+      "name": "💎黑软12花🔞VIP💎",
+      "type": 1,
+      "api": "https://api.yikanapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "黑软松视30QQ群726461419",
+      "name": "💎黑软13花🔞VIP💎",
+      "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "黑软松视31QQ群726461419 ",
+      "name": "💎黑软14花🔞VIP💎",
+      "type": 0,
+      "api": "http://f2dcj6.com/sapi?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "黑软松视32QQ群726461419",
+      "name": "💎黑软15花🔞VIP💎",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+            "key": "黑软盗彩虹节25QQ群726461419",
+            "name": "黑软Q群567475369",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+    },
+    {
+            "key": "黑软盗彩虹节26QQ群726461419",
+            "name": "支持抖音分享",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+    },
+    {
+            "key": "黑软盗彩虹节27QQ群726461419",
+            "name": "支持其他主播分享",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+    },
+    {
+            "key": "黑软盗彩虹节28QQ群726461419",
+            "name": "为人服务服务免费",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+}
+    ],
+    "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
+    "lives": [
+        {
+            "name": "💎切换别人家资源看💎",
+            "type": 0,
+            "url": "https://codeberg.org/weidi/AV18_X18/raw/branch/master/xh",
+            "playerType": 1,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "黑软💎盗窃1源",
+            "type": 0,
+            "url": "https://codeberg.org/weidi/AV18_X18/raw/branch/master/FP.txt",
+            "playerType": 1
+        },
+        {
+            "name": "黑软💎秘密花园",
+            "type": 0,
+            "url": "https://codeberg.org/weidi/AV18_X18/raw/branch/master/MIMIt.txt",
+            "playerType": 1
+        },
+        {
+            "name": "黑软💎盗窃4源",
+            "type": 0,
+            "url": "https://app.ysctv.cn/tv/%E5%BD%B1%E8%A7%86%E8%BD%A6.txt",
+            "playerType": 1
+        },
+        {
+            "name": "黑软💎盗窃6源",
+            "type": 0,
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt",
+            "playerType": 1
+        },
+        {
+            "name": "黑软💎盗窃7源",
+            "type": 0,
+            "url": "http://45.152.67.129:1299/jx/live.txt",
+            "playerType": 1
+        },
+        {
+            "name": "黑软💎盗窃9源",
+            "type": 0,
+            "url": "http://ttkx.cc:55/lib/kx2024.txt",
+            "playerType": 1
+        },
+        {
+            "name": "黑软💎盗窃10源",
+            "type": 0,
+            "url": "http://211.101.234.24:68/4gtv.txt",
+            "playerType": 1
+        },
+        {
+            "name": "黑软💎盗窃13源",
+            "type": 0,
+            "url": "http://www.bunnyabc.eu.org:5002/d/guest/res/box_live.txt",
+            "playerType": 1
+        },
+        {
+            "name": "黑软💎盗窃11源",
+            "type": 0,
+            "url": "http://xb.ruifeng.lol/app/clyx/clyx/live.txt",
+            "playerType": 1
+        },
+        {
+            "name": "黑软💎盗窃14源",
+            "type": 0,
+            "url": "http://zb.xmzb.xyz/%e5%a4%a7%e8%a7%86%e7%95%8c%33%2e%74%78%74",
+            "playerType": 1
+        },
+        {
+            "name": "💎黑软一锅端群726461419💎",
+            "type": 0,
+            "url": "https://app.ysctv.cn/tv/%E5%BD%B1%E8%A7%86%E8%BD%A6.txt",
+            "playerType": 1
+        }
+    ]
+}  
