@@ -21,7 +21,7 @@ TVBS新聞,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 中視新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv074?set=2&ch=33
 華視新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv052?set=2&ch=34
-
+東森財經,P2p://starvod.xyz:19806/1ef68fe1e1cc4e078f6c0eddea59fea0
 東森財經,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MEFE2625686426256864&ct=19234&tsum=c294dfaad2db8dd9c4cf483c6888b31b
 東森財經,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv153?set=2&ch=293	
 
@@ -56,7 +56,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?ct=17874&tid=m050e7aad65f614336734&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
-
+非凡新聞,P2p://starvod.xyz:19806/6dd2e2dfddc14417a8e17e09fa560034
 
 
 三立新聞,https://stream1.freetv.fun/san-li-xin-wen-6.ctv
@@ -79,18 +79,9 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 年代新聞,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch27.m3u8?token=
 
 
-
-壹电视新闻台,P2p://starvod.xyz:19806/d180cd178cff42768dfc410d65520890
-东森新闻台,P2p://starvod.xyz:19806/d9a1a5e277ca4b60ad04eaf17ba38a2c
-中天新闻台,P2p://starvod.xyz:19806/918e721dfa0843bca7258ca35b380bca
-民视新闻台,P2p://starvod.xyz:19806/f636aeefec7741e883f403741cfc3af9
-三立新闻台,P2p://starvod.xyz:19806/641bca931cf4466388997ece407fb3b4
-TVBS新闻台,P2p://starvod.xyz:19806/f9bdda27aa4d4122bd5a54e0c504028f
-TVBS,P2p://starvod.xyz:19806/359d99b4a2064ba2b9956a39f0484542
-东森财经新闻台,P2p://starvod.xyz:19806/1ef68fe1e1cc4e078f6c0eddea59fea0
-非凡新闻台,P2p://starvod.xyz:19806/6dd2e2dfddc14417a8e17e09fa560034
-
-
+台视新闻台,P2p://starvod.xyz:19806/1a0bd6c6962240fba38bbe0356c45c0e
+寰宇新闻台湾台,P2p://starvod.xyz:19806/02a63e20ea0d48bcaae9d58d891ba9e1
+年代新闻,P2p://starvod.xyz:19806/45ff982396bd48aeabb7c438fc3cd3fc
 
 
 
