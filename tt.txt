@@ -21,10 +21,10 @@ TVBS新聞,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 中視新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv074?set=2&ch=33
 華視新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv052?set=2&ch=34
-東森財經,P2p://starvod.xyz:19806/1ef68fe1e1cc4e078f6c0eddea59fea0
+
 東森財經,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MEFE2625686426256864&ct=19234&tsum=c294dfaad2db8dd9c4cf483c6888b31b
 東森財經,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv153?set=2&ch=293	
-
+東森財經,P2p://starvod.xyz:19806/1ef68fe1e1cc4e078f6c0eddea59fea0
 
 
 
@@ -79,9 +79,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 年代新聞,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch27.m3u8?token=
 
 
-台视新闻台,P2p://starvod.xyz:19806/1a0bd6c6962240fba38bbe0356c45c0e
-寰宇新闻台湾台,P2p://starvod.xyz:19806/02a63e20ea0d48bcaae9d58d891ba9e1
-年代新闻,P2p://starvod.xyz:19806/45ff982396bd48aeabb7c438fc3cd3fc
+
 
 
 
