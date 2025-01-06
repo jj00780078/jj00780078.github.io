@@ -24,7 +24,7 @@
             "api": "csp_Nangua",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1    
+            "filterable": 1    },
  
 {
             "key": "新视觉",
