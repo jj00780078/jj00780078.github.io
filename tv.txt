@@ -18,7 +18,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?ct=17874&tid=m050e7aad65f614336734&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
 非凡新聞,p3p://108.181.32.169:33201/676955eb00013181cd70c73b35a34c93
-非凡新聞,http://ku9.fr.to/smt.php?id=feifannews_twn
+
 非凡新聞,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv010
 
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
@@ -45,12 +45,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立新聞,https://stream1.freetv.fun/san-li-xin-wen-6.ctv
 三立新聞,https://stream1.freetv.fun/e12a5ecb3e0328b72c684ffe48cb7382b9b3e283c0c99492612b5af06b539153.ctv
 三立新聞,https://stream1.freetv.fun/e12a5ecb3e0328b72c684ffe48cb7382b9b3e283c0c99492612b5af06b539153.ctv
-三立新聞,p3p://108.181.32.169:33201/6766bc7f000ed78dc349b377648221c8
-三立新聞,p3p://108.181.32.169:52167/64251e23000bcd04ea573d7c0f0a002e
-三立新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-三立新聞,p3p://108.181.32.169:58234/64251e23000bcd04ea573d7c0f0a002e
-三立新聞,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
-三立新聞,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-14
 
 
 
