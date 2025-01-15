@@ -5,11 +5,12 @@
 寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
+寰宇財經,https://www.youtube.com/watch?v=WTRQiVWK1jY
 寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-寰宇財經,https://www.youtube.com/watch?v=WTRQiVWK1jY
+
 東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
 
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
