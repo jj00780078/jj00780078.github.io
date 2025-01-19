@@ -1,7 +1,8 @@
 {
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736697750414/wex.txt;md5;84a77c1e614adefebc585ad068d113d4",
 
-"wallpaper": "https://牛逼.王二小放牛娃.xyz/",
-
+  "wallpaper": "https://牛逼.王二小放牛娃.xyz/",
+  "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818643045/wexfnw.gif",
 
 
 "sites":[
