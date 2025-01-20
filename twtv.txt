@@ -1,4 +1,5 @@
 {
+"lives":[{
          "name":"KTIPTV①",
          "url":"http://ktpremium.xyz:2095//get.php?username=J2688&password=6275&type=m3u_plus",
          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
@@ -15,4 +16,6 @@
          "url":"http://ktpremium.xyz:2095/get.php?username=MdShukri&password=20987556&type=m3u_plus",
          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-},
+}
+]
+}
