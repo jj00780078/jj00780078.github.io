@@ -2,7 +2,7 @@
 "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
-
+    "logo":"https://media.giphy.com/media/F0yi6rO0jogkhbYdxF/giphy.gif?cid=790b76112ehh8gyjxyy5i3l0vv26huaspzvtx8ordsti5orf&ep=v1_gifs_search&rid=giphy.gif&ct=g",
       
 {"key":"T4-独播库","name":"影視｜独播库 (T4)","type":4,"api":"https://tang.hz.cz/power/duboku?token=647c28ca","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},     
 {
@@ -79,7 +79,7 @@
 
 
 "lives":[
-{"name":"🥇️新聞直播🥇️","boot": true,"type":0,"url":"https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/tv.txt","playerType":2,"epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://media.giphy.com/media/F0yi6rO0jogkhbYdxF/giphy.gif?cid=790b76112ehh8gyjxyy5i3l0vv26huaspzvtx8ordsti5orf&ep=v1_gifs_search&rid=giphy.gif&ct=g"},
+{"name":"🥇️新聞直播🥇️","boot": true,"type":0,"url":"https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/tv.txt","playerType":2,"epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
   
 {"name":"YOUTUBE直播","boot": false,"type":0,"url":"https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/JS/YTTV.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"雷蒙影视电视直播","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/CTVLive/main/live.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
