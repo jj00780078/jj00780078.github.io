@@ -61,17 +61,19 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 民視新聞,https://stream1.freetv.fun/6fa1566ea8689cbf43afb55f899dc5ee945e1caabde5bfc367cc510aa794d313.m3u8
 民視新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-ftv13?set=2&ch=31
-
+東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
 東森新聞,https://aka03p.akamaized.net/litv/fet002.smil/chunklist_b800000_slzho.m3u8
-東森新聞,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvnews&sp=chaojidianshi		
+		
 寰宇台灣,http://168.138.9.147:50002/index.m3u8?pid=4gtv-4gtv156
 
 鏡新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv075?set=2&ch=268		
 鏡新聞,http://209.146.124.22:8891/litv/4gtv-4gtv075
 TVBS新聞,http://125.227.210.55:8186/VideoInput/play.ts		
 TVBS新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv072?set=2&ch=291
-TVBS新聞,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbs_n&sp=chaojidianshi		
+TVBS新聞,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee	
 TVBS新聞,https://aka03p.akamaized.net/litv/fet005.smil/chunklist_b800000_slzho.m3u8
+
+
 三立iNEWS,http://168.138.9.147:50002/index.m3u8?pid=iNEWS
 寰宇新聞,http://168.138.9.147:50002/index.m3u8?pid=litv-longturn14
 寰宇新聞,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
@@ -84,10 +86,10 @@ TVBS新聞,https://aka03p.akamaized.net/litv/fet005.smil/chunklist_b800000_slzho
 
 
 
-TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
-TVBS新聞,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
 
-東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
+
+
+
 東森財經,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MEFE2625686426256864&ct=19234&tsum=c294dfaad2db8dd9c4cf483c6888b31b
 民視新聞,http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=MF1F9892989898929898&ct=19234&tsum=454a768519608690638d11c0258cdcbe
 
