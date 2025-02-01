@@ -84,7 +84,7 @@ TVBS新聞,https://aka03p.akamaized.net/litv/fet005.smil/chunklist_b800000_slzho
 
 
 
-
+TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
 TVBS新聞,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
 
 東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
