@@ -35,16 +35,7 @@
             "filterable": 1
         },      
       
-{
-            "key": "新视觉",
-            "name": "新视觉｜影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XBPQ/新视觉.json"
-        },          	
+
  
 
 {"key":"剧评","name":"剧评┃App","type":3,"api":"csp_Jpys","playerType":1,"ext":"caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="},
@@ -62,7 +53,7 @@
           "分类url": "https://gimytw.cc/{cateId}/?country={area}&year={year}&order_by=-aired&page={catePg}",
           "分类": "電視劇$drama#電影$movie#動漫$anime#綜藝$variety",
           "地区":"大陸$cn#美國$us#韓國$kr#日本$jp#臺灣$tw#香港$hk#英國$gb||大陸$cn#美國$us#韓國$kr#日本$jp#臺灣$tw#香港$hk#英國$gb#其他$other||大陸$cn#韓國$kr#臺灣$tw#歐美$west#日本$jp||大陸$cn#韓國$kr#歐美$west#日本$jp"
-               
+            }   
     },      
       
       
