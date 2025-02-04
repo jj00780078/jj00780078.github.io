@@ -17,13 +17,13 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
 
 非凡新聞,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/75/817/ch57.m3u8?token=
-非凡新聞,p3p://167.114.175.6:55331/6146918a000a6ec0ea89b8904d520fbf
+非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
 非凡新聞,p3p://108.181.32.169:51328/676955eb00013181cd70c73b35a34c93
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
-
-
+非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?ct=17874&tid=m050e7aad65f614336734&tsum=4ea1b829d195ac69a6c2ca51b21ae378
+非凡新聞,p3p://167.114.175.6:55331/6146918a000a6ec0ea89b8904d520fbf
 
 
 
@@ -33,10 +33,10 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-年代新聞,p3p://108.181.32.169:51328/67694e1500009a3dcd522b1b1f7e14f1
-年代新聞,p3p://167.114.175.6:55331/5fe09fec000ac0127462c4ac6b1f16a3
-年代新聞,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
+年代新聞,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch27.m3u8?token=
 
+年代新聞,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
+年代新聞,p3p://167.114.175.6:55331/5fe09fec000ac0127462c4ac6b1f16a3
 
 
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
@@ -51,39 +51,17 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 
 
-民視新聞,https://stream1.freetv.fun/6fa1566ea8689cbf43afb55f899dc5ee945e1caabde5bfc367cc510aa794d313.m3u8
-民視新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-ftv13?set=2&ch=31
-東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
-東森新聞,https://aka03p.akamaized.net/litv/fet002.smil/chunklist_b800000_slzho.m3u8
-		
-寰宇台灣,http://168.138.9.147:50002/index.m3u8?pid=4gtv-4gtv156
 
-鏡新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv075?set=2&ch=268		
-鏡新聞,http://209.146.124.22:8891/litv/4gtv-4gtv075
-TVBS新聞,http://125.227.210.55:8186/VideoInput/play.ts		
-TVBS新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv072?set=2&ch=291
-TVBS新聞,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee	
-TVBS新聞,https://aka03p.akamaized.net/litv/fet005.smil/chunklist_b800000_slzho.m3u8
-
-
-三立iNEWS,http://168.138.9.147:50002/index.m3u8?pid=iNEWS
-寰宇新聞,http://168.138.9.147:50002/index.m3u8?pid=litv-longturn14
-寰宇新聞,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-
-華視新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv052?set=2&ch=34
-
-東森財經,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MEFE2625686426256864&ct=19234&tsum=c294dfaad2db8dd9c4cf483c6888b31b
-東森財經,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv153?set=2&ch=293	
-東森財經,P2p://starvod.xyz:19806/1ef68fe1e1cc4e078f6c0eddea59fea0
+東森新聞,https://epg.pw/stream/9787fc554f1f1386e7741a9967b3bf15740a19429fa12aa5760a266316b7f0ce.m3u8
+東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
+東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290		
+東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=16a9e2e8be05f668cad9097c270e0c51
 
 
 
 
 
 
-
-東森財經,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MEFE2625686426256864&ct=19234&tsum=c294dfaad2db8dd9c4cf483c6888b31b
-民視新聞,http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=MF1F9892989898929898&ct=19234&tsum=454a768519608690638d11c0258cdcbe
 
 
 
