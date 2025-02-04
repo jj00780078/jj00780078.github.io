@@ -1,6 +1,6 @@
-{
-  //"spider":"https://raw.githubusercontent.com/bobyang3/tvbox/own/jar/fan.txt",
-  "spider":"./jar/fan.txt;md5;f115051a7d789c2baebb9309c14bddd2",
+{  
+  "spider":"https://raw.githubusercontent.com/bobyang3/tvbox/own/jar/fan.txt",
+  //"spider":"./jar/fan.txt;md5;f115051a7d789c2baebb9309c14bddd2",
   //"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731126610038/fan.txt;md5;118bca13418f13c45c5c237ac93c2f07",
   //"spider":"./jar/pg.jar",
   "note":"FROM: https://rb.gy/geje78",
@@ -836,8 +836,8 @@
 {"key":"drpy_js_Alist","name":"网盘| Alist[js]","type":3,"api":"./lib/alist.min.js","changeable":0,"ext":"./js/alist.json"},
 {"key":"drpy_js_好趣网","name":"电视| 好趣网[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.333},"changeable":0,"ext":"./js/好趣网.js"},
 //{"key":"push_agent","name":"手机| 推送[jar]","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"changeable":0,"ext":"./lib/token.json", "timeout":30},
-{"key": "Youtube", "name": "Youtube", "type": 3, "api": "csp_Youtube", "searchable": 1, "quickSearch": 1, "changeable": 0, "timeout": 240, "jar":"./jar/pg.jar", "ext": {  "token": "./json/tokenm.json",  "json": "./json/youtube.json",  "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",  "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",  "codecs": "",  "proxy": "",  "danmu": true }, "style": {"type": "rect", "ratio": 1.77} }
-//{"key": "emby", "name": "EMBY 設定", "type": 3, "api": "./lib/emby.py", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1, "style": { "type": "rect", "ratio": 1.485 }, "ext": { "server": "", "username": "", "password": "", "thread": 0 } }
+{"key": "Youtube", "name": "Youtube", "type": 3, "api": "csp_Youtube", "searchable": 1, "quickSearch": 1, "changeable": 0, "timeout": 240, "jar":"./jar/pg.jar", "ext": {  "token": "./json/tokenm.json",  "json": "./json/youtube.json",  "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",  "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",  "codecs": "",  "proxy": "",  "danmu": true }, "style": {"type": "rect", "ratio": 1.77} },
+//{"key": "emby", "name": "EMBY 設定", "type": 3, "api": "./lib/emby.py", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1, "style": { "type": "rect", "ratio": 1.485 }, "ext": { "server": "", "username": "", "password": "", "thread": 0 } },
  //{"key":"js_tokenm","name": "Youtube,網路空間,設定","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"ext": "./json/tokenm.json","style": {"type": "rect", "ratio": 1.5}}
 ],
 "doh":[
@@ -874,7 +874,7 @@
 {"name":"ＫＸ| 中台港","type":0,"url":"http://kxrj.site:55/lib/kx2024.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong","logo": "https://epg.112114.xyz/logo/{name}.png"},  
 
 {"name": "🏘️RobYang總鏈接備 http://RobYang.rr.nu",  "type": 0,  "url": "http://RobYang.rr.nu"  },
-{“name”： “🏘️RobYang連接 http://RobYang.rr.nu”， “type”： 0， “url”： “http://RobYang.rr.nu” }，
+{“name”： “🏘️RobYang連接 http://RobYang.rr.nu”， “type”： 0， “url”： “http://RobYang.rr.nu” },
 
 // {"name": "18+ 香蕉哥","type": 0,"url": "https://tv.iill.top/m3u/Adult","epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name": "18+ 日本","type": 0,"url": "https://files.catbox.moe/2r4ru2.txt"},
