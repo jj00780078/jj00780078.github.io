@@ -21,7 +21,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
 非凡新聞,p3p://108.181.32.169:51328/676955eb00013181cd70c73b35a34c93
-
+非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 
 
 
@@ -35,12 +35,12 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,p3p://108.181.32.169:51328/67694e1500009a3dcd522b1b1f7e14f1
 年代新聞,p3p://167.114.175.6:55331/5fe09fec000ac0127462c4ac6b1f16a3
-
+年代新聞,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
 
 
 
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
-
+三立新聞,https://epg.pw/stream/bad9a4ebaf24f0b19d4edd02bef68b5dd5b463eb5527e4b44bb68e23248c6ddb.m3u8
 三立新聞,https://stream1.freetv.fun/e12a5ecb3e0328b72c684ffe48cb7382b9b3e283c0c99492612b5af06b539153.ctv
 三立新聞,p3p://167.114.175.6:55331/6014c896000c7101401f67cc5477681b
 三立新聞,https://stream1.freetv.fun/san-li-xin-wen-4.ctv
