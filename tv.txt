@@ -20,14 +20,10 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 非凡新聞,p3p://167.114.175.6:55331/6146918a000a6ec0ea89b8904d520fbf
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
-非凡新聞,rtmp://f13h.mine.nu/sat/tv581
-
-非凡新聞,http://www.ubvip1688.com/ublive/d9c66c3c61e4c445.m3u8
 非凡新聞,p3p://108.181.32.169:51328/676955eb00013181cd70c73b35a34c93
-非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?ct=17874&tid=m050e7aad65f614336734&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 
-非凡新聞,https://stream1.freetv.fun/f2e7478472b2eb919f2e211e8e625518ff089954ab5c9a21d377586459c3b843.ctv
-非凡新聞,https://aka03p.akamaized.net/litv/fet001.smil/chunklist_b800000_slzho.m3u8
+
+
 
 
 
@@ -40,8 +36,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 年代新聞,p3p://108.181.32.169:51328/67694e1500009a3dcd522b1b1f7e14f1
 年代新聞,p3p://167.114.175.6:55331/5fe09fec000ac0127462c4ac6b1f16a3
 
-年代新聞,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch27.m3u8?token=
-年代新聞,p3p://108.181.32.169:46667/645b2569000acf2fbd624de55e212fb2
 
 
 
