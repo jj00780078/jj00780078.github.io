@@ -23,7 +23,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 
 非凡新聞,p3p://108.181.32.169:51328/676955eb00013181cd70c73b35a34c93
-非凡新聞,https://m.345iptv.com/?act=play&token=118a15e0249ee41109fb93b7bb38e28b
+
 
 
 
