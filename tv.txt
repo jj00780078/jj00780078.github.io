@@ -15,7 +15,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 壹新聞,http://211.23.114.106:8529/.m3u8
 壹新聞,http://211.23.114.106:8516/.m3u8
 壹新聞,http://211.72.65.236:8548/.m3u8
-壹新聞,http://50.7.234.10:8278/nexttvnews_twn/playlist.m3u8
+
 
 東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
 
