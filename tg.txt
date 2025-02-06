@@ -20,17 +20,6 @@
 
 {"key":"api_黑木耳","name":"影視｜黑木耳[直连]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghp.ci/https://raw.githubusercontent.com/bobyang3/tvbox/own/json/api黑木耳.json","jar":"https://ghp.ci/https://raw.githubusercontent.com/bobyang3/tvbox/own/jar/Yoursmile.jar"},      
 
-{
-            "key": "T4-安博",
-            "name": "🤤安博(T4)",
-            "type": 4,
-            "api": "https://tang.hz.cz/api/user?token=2fdc44ab",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": true
-        }, 
 
       
 
@@ -69,6 +58,17 @@
       
       
    
+{
+            "key": "T4-安博",
+            "name": "🤤安博(T4)",
+            "type": 4,
+            "api": "https://tang.hz.cz/api/user?token=2fdc44ab",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": true
+        }, 
 	
       
       
