@@ -61,7 +61,7 @@
 {
             "key": "T4-安博",
             "name": "🤤安博(T4)",
-            "type": 4,
+            "type": 3,
             "api": "https://tang.hz.cz/api/user?token=2fdc44ab",
             "searchable": 1,
             "quickSearch": 1,
