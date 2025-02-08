@@ -22,7 +22,7 @@
  { 
       "key": "黑木耳", 
       "name": "黑木耳", 
-      "type": 1, 
+      "type": 3, 
       "api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod/", 
       "searchable": 1, 
       "quickSearch": 1 
