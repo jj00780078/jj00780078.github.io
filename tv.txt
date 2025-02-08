@@ -26,7 +26,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 
 非凡新聞,p3p://108.181.32.169:51328/676955eb00013181cd70c73b35a34c93
-
+非凡新聞,https://haoyunlai.serv00.net/Smartv-1.php?id=feifannews_twn
 
 
 
@@ -41,7 +41,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 年代新聞,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
 年代新聞,http://211.72.65.236:8529/.m3u8
-
+年代新聞,https://haoyunlai.serv00.net/Smartv-1.php?id=niandainews_twn
 
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
 
