@@ -57,11 +57,13 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 
 東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290		
+東森新聞 ETTV News,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvnews
 
+爱尔达体育1台,https://haoyunlai.serv00.net/Smartv-1.php?id=eltasport1_twn
+爱尔达体育2台,https://haoyunlai.serv00.net/Smartv-1.php?id=eltasport2_twn
+爱尔达体育3台,https://haoyunlai.serv00.net/Smartv-1.php?id=eltasport3_twn
 
-
-
-
+纬来体育台,https://haoyunlai.serv00.net/Smartv-1.php?id=videolandsport
 
 
 
