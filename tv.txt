@@ -66,8 +66,8 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立新聞,http://211.75.171.121:8543/http/61.67.128.137:8081/hls/65/807/ch18.m3u8
 三立新聞,https://stream1.freetv.fun/e12a5ecb3e0328b72c684ffe48cb7382b9b3e283c0c99492612b5af06b539153.ctv
 三立新聞,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/492922.m3u8
-三立新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://m.youtube.com/watch?v=MV9mI0GChwo
-三立新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://m.youtube.com/watch?v=hGJkDZDchYI
+
+三立新聞,https://www.youtube.com/watch?v=hGJkDZDchYI
 
 
 
