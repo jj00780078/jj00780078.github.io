@@ -26,14 +26,9 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 爱尔达体育3台,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/483407.m3u8
 
 
-壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
-壹新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 
-壹新聞,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477087.m3u8
-壹新聞,http://211.23.114.106:8516/.m3u8
-壹新聞,http://211.75.171.121:8548/http/61.67.128.137:8081/hls/66/808/ch24.m3u8
 
-壹新聞,http://211.72.65.236:8548/.m3u8
+
 
 
 
@@ -50,10 +45,11 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 非凡新聞,p3p://108.181.32.169:51328/676955eb00013181cd70c73b35a34c93
 
 
-
-
-
-
+壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
+壹新聞,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477087.m3u8
+壹新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
+壹新聞,http://211.23.114.106:8516/.m3u8
+壹新聞,http://211.75.171.121:8548/http/61.67.128.137:8081/hls/66/808/ch24.m3u8
 
 
 
@@ -64,12 +60,17 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 年代新聞,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch27.m3u8?token=
 年代新聞,https://haoyunlai.serv00.net/Smartv-1.php?id=niandainews_twn
 
-年代新聞,http://211.72.65.236:8529/.m3u8
+
 
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
 三立新聞,http://211.75.171.121:8543/http/61.67.128.137:8081/hls/65/807/ch18.m3u8
 三立新聞,https://stream1.freetv.fun/e12a5ecb3e0328b72c684ffe48cb7382b9b3e283c0c99492612b5af06b539153.ctv
 三立新聞,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/492922.m3u8
+
+
+
+
+
 
 
 
