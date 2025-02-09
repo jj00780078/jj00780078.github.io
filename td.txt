@@ -11,23 +11,7 @@
 
 
 {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"剧评","name":"剧评┃App","type":3,"api":"csp_Jpys","playerType":1,"ext":"caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="},
 
- {
-        "key": "csp_GimyTW",
-        "name": "🥈｜劇迷｜TW(XB)",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {
-          "分类url": "https://gimytw.cc/{cateId}/?country={area}&year={year}&order_by=-aired&page={catePg}",
-          "分类": "電視劇$drama#電影$movie#動漫$anime#綜藝$variety",
-          "地区":"大陸$cn#美國$us#韓國$kr#日本$jp#臺灣$tw#香港$hk#英國$gb||大陸$cn#美國$us#韓國$kr#日本$jp#臺灣$tw#香港$hk#英國$gb#其他$other||大陸$cn#韓國$kr#臺灣$tw#歐美$west#日本$jp||大陸$cn#韓國$kr#歐美$west#日本$jp"
-            }   
-    },      
 
       
 {"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
