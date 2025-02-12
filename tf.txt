@@ -8,7 +8,7 @@
 {"key":"T4-独播库","name":"影視｜独播库 (T4)","type":4,"api":"https://tang.hz.cz/power/duboku?token=647c28ca","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},     
 
 {"key":"api_黑木耳","name":"影視｜黑木耳[直连]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghp.ci/https://raw.githubusercontent.com/bobyang3/tvbox/own/json/api黑木耳.json","jar":"https://ghp.ci/https://raw.githubusercontent.com/bobyang3/tvbox/own/jar/Yoursmile.jar"} ,
-
+{ "key": "hipy_js_KTV歌厅[听]1", "name": "🎤KTV歌厅在线", "type": 3, "api": "http://kxrj.site:55/lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "order_num": 0, "ext": "http://kxrj.site:55/lib/js/KTV歌厅[听].js" },
 {"key":"天天","name":"天天┃App","type":3,"api":"csp_TTian","playerType":1,"ext":"baHR0cDovL3R0LnlzZHFqcy5jbg=="},
 {"key":"追剧","name":"追剧┃App","type":3,"api":"csp_TTian","playerType":1,"ext":"daHR0cDovL3YubGt1eXMuY24="},
 {"key":"剧评","name":"剧评┃App","type":3,"api":"csp_Jpys","playerType":1,"ext":"caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="},
