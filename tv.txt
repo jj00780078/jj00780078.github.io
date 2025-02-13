@@ -49,7 +49,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 壹新聞,http://211.75.171.121:8548/http/61.67.128.137:8081/hls/66/808/ch24.m3u8
 
 
-
+年代新聞,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch27.m3u8?token=
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477030.m3u8
 年代新聞,http://211.75.171.121:8539/http/61.67.128.137:8081/hls/67/809/ch27.m3u8
