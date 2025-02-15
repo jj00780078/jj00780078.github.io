@@ -77,9 +77,10 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 非凡新闻台,zlive://198.204.238.242:6678/d562615cf74e0abf97c677f659a23e2c
 
-
-
-
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+緯來體育台,http://125.227.210.55:8155/VideoInput/play.ts 
+ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 
 
 
