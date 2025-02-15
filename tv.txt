@@ -15,7 +15,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/479200.m3u8
 東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290	
 東森新聞,http://211.75.171.121:8540/http/61.67.128.137:8081/hls/63/805/ch10.m3u8
-
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
 爱尔达体育1台,http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
 爱尔达体育1台,http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 爱尔达体育1台,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476267.m3u8
@@ -67,20 +67,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 
 
-东森新闻台,zlive://198.204.238.242:6678/efe3b6a9a907ca31508eb8637eade31e
-
-年代新闻台,zlive://198.204.238.242:6678/2f31185bffb3df9105cfa70523df0283
-
-壹电视新闻台,zlive://198.204.238.242:6678/dc5b18a6891364897ca37be8cfeea966
-
-三立新闻台,zlive://198.204.238.242:6678/27767bd0f4f07655f2764dcd2ee185d2
-
-非凡新闻台,zlive://198.204.238.242:6678/d562615cf74e0abf97c677f659a23e2c
-
-緯來體育,rtmp://f13h.mine.nu/sat/tv721
-緯來體育台,http://125.227.210.55:8155/VideoInput/play.ts 
-ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 
 
 
