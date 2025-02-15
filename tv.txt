@@ -67,7 +67,15 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 
 
+东森新闻台,zlive://198.204.238.242:6678/efe3b6a9a907ca31508eb8637eade31e
 
+年代新闻台,zlive://198.204.238.242:6678/2f31185bffb3df9105cfa70523df0283
+
+壹电视新闻台,zlive://198.204.238.242:6678/dc5b18a6891364897ca37be8cfeea966
+
+三立新闻台,zlive://198.204.238.242:6678/27767bd0f4f07655f2764dcd2ee185d2
+
+非凡新闻台,zlive://198.204.238.242:6678/d562615cf74e0abf97c677f659a23e2c
 
 
 
