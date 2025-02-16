@@ -1,97 +1,472 @@
 {
-  "channelList": [
+  "log": {
+    "level": "warn",
+    "timestamp": true
+  },
+  "dns": {
+    "servers": [
+      {
+        "tag": "dns-remote",
+        "address": "udp://1.1.1.1",
+        "address_resolver": "dns-direct"
+      },
+      {
+        "tag": "dns-trick-direct",
+        "address": "https://sky.rethinkdns.com/",
+        "detour": "direct-fragment"
+      },
+      {
+        "tag": "dns-direct",
+        "address": "223.5.5.5",
+        "address_resolver": "dns-local",
+        "detour": "direct"
+      },
+      {
+        "tag": "dns-local",
+        "address": "local",
+        "detour": "direct"
+      },
+      {
+        "tag": "dns-block",
+        "address": "rcode://success"
+      }
+    ],
+    "rules": [
+      {
+        "domain": [
+          "yukuai-tw.jiumaojiu.org",
+          "yukuai-ca.jiumaojiu.org",
+          "yukuai-us.jiumaojiu.org",
+          "yukuai-hk.jiumaojiu.org"
+        ],
+        "server": "dns-direct"
+      },
+      {
+        "domain": "cp.cloudflare.com",
+        "server": "dns-remote",
+        "rewrite_ttl": 3000
+      },
+      {
+        "domain_suffix": ".cn",
+        "server": "dns-direct"
+      },
+      {
+        "rule_set": [
+          "geoip-cn",
+          "geosite-cn"
+        ],
+        "server": "dns-direct"
+      }
+    ],
+    "final": "dns-remote",
+    "static_ips": {
+      "sky.rethinkdns.com": [
+        "104.17.148.22",
+        "104.17.147.22",
+        "104.21.83.62",
+        "172.67.214.246",
+        "2606:4700:3030::6815:533e",
+        "2606:4700:3030::ac43:d6f6"
+      ]
+    },
+    "independent_cache": true
+  },
+  "inbounds": [
     {
-      "url": "https://www.youtube.com/watch?v=oZdzzvxTfUY",
-      "name": "三立新聞"
+      "type": "tun",
+      "tag": "tun-in",
+      "mtu": 9000,
+      "inet4_address": "172.19.0.1/28",
+      "inet6_address": "fdfe:dcba:9876::1/126",
+      "auto_route": true,
+      "strict_route": true,
+      "endpoint_independent_nat": true,
+      "stack": "gvisor",
+      "sniff": true
     },
     {
-      "url": "https://www.youtube.com/watch?v=CKjSm5ZeehE",
-      "name": "三立 iNEWS 新聞"
+      "type": "mixed",
+      "tag": "mixed-in",
+      "listen": "127.0.0.1",
+      "listen_port": 12334,
+      "sniff": true,
+      "sniff_override_destination": true
     },
     {
-      "url": "https://www.ftvnews.com.tw/live/live-video/1/litv-ftv13",
-      "name": "民視新聞"
+      "type": "direct",
+      "tag": "dns-in",
+      "listen": "127.0.0.1",
+      "listen_port": 16450
+    }
+  ],
+  "outbounds": [
+    {
+      "type": "selector",
+      "tag": "select",
+      "outbounds": [
+        "auto",
+        "剩余流量：499.81 GB",
+        "距离下次重置剩余：2 天",
+        "套餐到期：2025-02-17",
+        "🇺🇸 美国1",
+        "🇺🇸 美国2",
+        "🇺🇸 美国3",
+        "🇺🇸 美国4",
+        "🇭🇰 香港1",
+        "🇭🇰 香港2",
+        "🇭🇰 香港3",
+        "🇭🇰 香港4",
+        "🇹🇼 台湾1",
+        "🇹🇼 台湾2",
+        "🇹🇼 台湾3",
+        "🇹🇼 台湾4",
+        "🇨🇦 加拿大1",
+        "🇨🇦 加拿大2",
+        "🇨🇦 加拿大3",
+        "🇨🇦 加拿大4"
+      ],
+      "default": "auto",
+      "interrupt_exist_connections": true
     },
     {
-      "url": "https://www.youtube.com/watch?v=S5WOGu2HSes",
-      "name": "東森新聞 (YouTube)"
+      "type": "urltest",
+      "tag": "auto",
+      "outbounds": [
+        "剩余流量：499.81 GB",
+        "距离下次重置剩余：2 天",
+        "套餐到期：2025-02-17",
+        "🇺🇸 美国1",
+        "🇺🇸 美国2",
+        "🇺🇸 美国3",
+        "🇺🇸 美国4",
+        "🇭🇰 香港1",
+        "🇭🇰 香港2",
+        "🇭🇰 香港3",
+        "🇭🇰 香港4",
+        "🇹🇼 台湾1",
+        "🇹🇼 台湾2",
+        "🇹🇼 台湾3",
+        "🇹🇼 台湾4",
+        "🇨🇦 加拿大1",
+        "🇨🇦 加拿大2",
+        "🇨🇦 加拿大3",
+        "🇨🇦 加拿大4"
+      ],
+      "url": "http://cp.cloudflare.com",
+      "interval": "10m0s",
+      "tolerance": 1,
+      "idle_timeout": "30m0s",
+      "interrupt_exist_connections": true
     },
     {
-      "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
-      "name": "TVBS 新聞 (YouTube)"
+      "type": "hysteria2",
+      "tag": "剩余流量：499.81 GB",
+      "server": "yukuai-us.jiumaojiu.org",
+      "server_port": 48567,
+      "up_mbps": 1000,
+      "down_mbps": 1000,
+      "password": "6e576f43-48fc-496f-8d4a-69495bcb3d23",
+      "tls": {
+        "enabled": true
+      }
     },
     {
-      "url": "https://www.youtube.com/watch?v=V8ue1aoEOEQ",
-      "name": "寰宇新聞"
+      "type": "hysteria2",
+      "tag": "距离下次重置剩余：2 天",
+      "server": "yukuai-us.jiumaojiu.org",
+      "server_port": 48567,
+      "up_mbps": 1000,
+      "down_mbps": 1000,
+      "password": "6e576f43-48fc-496f-8d4a-69495bcb3d23",
+      "tls": {
+        "enabled": true
+      }
     },
     {
-      "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
-      "name": "鏡新聞"
+      "type": "hysteria2",
+      "tag": "套餐到期：2025-02-17",
+      "server": "yukuai-us.jiumaojiu.org",
+      "server_port": 48567,
+      "up_mbps": 1000,
+      "down_mbps": 1000,
+      "password": "6e576f43-48fc-496f-8d4a-69495bcb3d23",
+      "tls": {
+        "enabled": true
+      }
     },
     {
-      "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8",
-      "name": "非凡新聞",
-      "header": "Referer: https://fetfriday.svc.litv.tv/"
+      "type": "hysteria2",
+      "tag": "🇺🇸 美国1",
+      "server": "yukuai-us.jiumaojiu.org",
+      "server_port": 48567,
+      "up_mbps": 1000,
+      "down_mbps": 1000,
+      "password": "6e576f43-48fc-496f-8d4a-69495bcb3d23",
+      "tls": {
+        "enabled": true
+      }
     },
     {
-      "url": "https://www.youtube.com/watch?v=WHEPzbFA3hw",
-      "name": "東森財經"
+      "type": "hysteria2",
+      "tag": "🇺🇸 美国2",
+      "server": "yukuai-us.jiumaojiu.org",
+      "server_port": 48858,
+      "up_mbps": 1000,
+      "down_mbps": 1000,
+      "password": "6e576f43-48fc-496f-8d4a-69495bcb3d23",
+      "tls": {
+        "enabled": true
+      }
     },
     {
-      "url": "https://www.youtube.com/watch?v=yAPM0HwXKMg",
-      "name": "寰宇新聞台灣台"
+      "type": "hysteria2",
+      "tag": "🇺🇸 美国3",
+      "server": "yukuai-us.jiumaojiu.org",
+      "server_port": 48882,
+      "up_mbps": 1000,
+      "down_mbps": 1000,
+      "password": "6e576f43-48fc-496f-8d4a-69495bcb3d23",
+      "tls": {
+        "enabled": true
+      }
     },
     {
-      "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
-      "name": "台視新聞"
+      "type": "hysteria2",
+      "tag": "🇺🇸 美国4",
+      "server": "yukuai-us.jiumaojiu.org",
+      "server_port": 48362,
+      "up_mbps": 1000,
+      "down_mbps": 1000,
+      "password": "6e576f43-48fc-496f-8d4a-69495bcb3d23",
+      "tls": {
+        "enabled": true
+      }
     },
     {
-      "url": "https://www.youtube.com/c/twctvnews/live",
-      "name": "中視新聞"
+      "type": "hysteria2",
+      "tag": "🇭🇰 香港1",
+      "server": "yukuai-hk.jiumaojiu.org",
+      "server_port": 48768,
+      "up_mbps": 1000,
+      "down_mbps": 1000,
+      "password": "6e576f43-48fc-496f-8d4a-69495bcb3d23",
+      "tls": {
+        "enabled": true
+      }
     },
     {
-      "url": "https://www.youtube.com/watch?v=oIgbl7t0S_w",
-      "name": "中天新聞"
+      "type": "hysteria2",
+      "tag": "🇭🇰 香港2",
+      "server": "yukuai-hk.jiumaojiu.org",
+      "server_port": 48032,
+      "up_mbps": 1000,
+      "down_mbps": 1000,
+      "password": "6e576f43-48fc-496f-8d4a-69495bcb3d23",
+      "tls": {
+        "enabled": true
+      }
     },
     {
-      "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
-      "name": "公共電視"
+      "type": "hysteria2",
+      "tag": "🇭🇰 香港3",
+      "server": "yukuai-hk.jiumaojiu.org",
+      "server_port": 48980,
+      "up_mbps": 1000,
+      "down_mbps": 1000,
+      "password": "6e576f43-48fc-496f-8d4a-69495bcb3d23",
+      "tls": {
+        "enabled": true
+      }
     },
     {
-      "url": "https://today.line.me/tw/v2/article/grrvVZ",
-      "name": "東森新聞"
+      "type": "hysteria2",
+      "tag": "🇭🇰 香港4",
+      "server": "yukuai-hk.jiumaojiu.org",
+      "server_port": 48434,
+      "up_mbps": 1000,
+      "down_mbps": 1000,
+      "password": "6e576f43-48fc-496f-8d4a-69495bcb3d23",
+      "tls": {
+        "enabled": true
+      }
     },
     {
-      "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E",
-      "name": "華視新聞"
+      "type": "hysteria2",
+      "tag": "🇹🇼 台湾1",
+      "server": "yukuai-tw.jiumaojiu.org",
+      "server_port": 48489,
+      "up_mbps": 1000,
+      "down_mbps": 1000,
+      "password": "6e576f43-48fc-496f-8d4a-69495bcb3d23",
+      "tls": {
+        "enabled": true
+      }
     },
     {
-      "url": "https://today.line.me/tw/v2/article/jggMBa",
-      "name": "TVBS新聞"
+      "type": "hysteria2",
+      "tag": "🇹🇼 台湾2",
+      "server": "yukuai-tw.jiumaojiu.org",
+      "server_port": 48622,
+      "up_mbps": 1000,
+      "down_mbps": 1000,
+      "password": "6e576f43-48fc-496f-8d4a-69495bcb3d23",
+      "tls": {
+        "enabled": true
+      }
     },
     {
-      "url": "http:\/\/125.227.210.55:35238\/VideoInput\/play.ts": "http:\/\/211.23.114.106:8517\/http\/60.251.39.91:8081\/hls\/67\/809\/ch27.m3u8",
-      "name": "年代新聞"
+      "type": "hysteria2",
+      "tag": "🇹🇼 台湾3",
+      "server": "yukuai-tw.jiumaojiu.org",
+      "server_port": 48151,
+      "up_mbps": 1000,
+      "down_mbps": 1000,
+      "password": "6e576f43-48fc-496f-8d4a-69495bcb3d23",
+      "tls": {
+        "enabled": true
+      }
     },
     {
-      "url": "http:\/\/125.227.210.55:35238\/VideoInput\/play.ts": "http:\/\/50.7.238.114:8278\/feifannews_twn\/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997",
-      "name": "非凡新聞"
+      "type": "hysteria2",
+      "tag": "🇹🇼 台湾4",
+      "server": "yukuai-tw.jiumaojiu.org",
+      "server_port": 48500,
+      "up_mbps": 1000,
+      "down_mbps": 1000,
+      "password": "6e576f43-48fc-496f-8d4a-69495bcb3d23",
+      "tls": {
+        "enabled": true
+      }
     },
     {
-      "url": "http:\/\/125.227.210.55:35238\/VideoInput\/play.ts": "http:\/\/198.16.100.90:8278\/feifannews_twn\/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997",
-      "name": "非凡新聞"
+      "type": "hysteria2",
+      "tag": "🇨🇦 加拿大1",
+      "server": "yukuai-ca.jiumaojiu.org",
+      "server_port": 48603,
+      "up_mbps": 1000,
+      "down_mbps": 1000,
+      "password": "6e576f43-48fc-496f-8d4a-69495bcb3d23",
+      "tls": {
+        "enabled": true
+      }
     },
     {
-      "url": "http:\/\/125.227.210.55:35238\/VideoInput\/play.ts": "https:\/\/raw.githubusercontent.com\/ChiSheng9\/iptv\/master\/TV32.m3u8",
-      "name": "三立NEWS+"
-    }   
-
-    
-    
-
-
-
-   
-
-  ]
+      "type": "hysteria2",
+      "tag": "🇨🇦 加拿大2",
+      "server": "yukuai-ca.jiumaojiu.org",
+      "server_port": 48196,
+      "up_mbps": 1000,
+      "down_mbps": 1000,
+      "password": "6e576f43-48fc-496f-8d4a-69495bcb3d23",
+      "tls": {
+        "enabled": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇨🇦 加拿大3",
+      "server": "yukuai-ca.jiumaojiu.org",
+      "server_port": 48823,
+      "up_mbps": 1000,
+      "down_mbps": 1000,
+      "password": "6e576f43-48fc-496f-8d4a-69495bcb3d23",
+      "tls": {
+        "enabled": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇨🇦 加拿大4",
+      "server": "yukuai-ca.jiumaojiu.org",
+      "server_port": 48924,
+      "up_mbps": 1000,
+      "down_mbps": 1000,
+      "password": "6e576f43-48fc-496f-8d4a-69495bcb3d23",
+      "tls": {
+        "enabled": true
+      }
+    },
+    {
+      "type": "dns",
+      "tag": "dns-out"
+    },
+    {
+      "type": "direct",
+      "tag": "direct"
+    },
+    {
+      "type": "direct",
+      "tag": "direct-fragment",
+      "tls_fragment": {
+        "enabled": true,
+        "size": "10-30",
+        "sleep": "2-8"
+      }
+    },
+    {
+      "type": "direct",
+      "tag": "bypass"
+    },
+    {
+      "type": "block",
+      "tag": "block"
+    }
+  ],
+  "route": {
+    "rules": [
+      {
+        "inbound": "tun-in",
+        "package_name": "app.hiddify.com",
+        "outbound": "bypass"
+      },
+      {
+        "inbound": "dns-in",
+        "outbound": "dns-out"
+      },
+      {
+        "port": 53,
+        "outbound": "dns-out"
+      },
+      {
+        "domain_suffix": ".cn",
+        "outbound": "direct"
+      },
+      {
+        "rule_set": [
+          "geoip-cn",
+          "geosite-cn"
+        ],
+        "outbound": "direct"
+      }
+    ],
+    "rule_set": [
+      {
+        "type": "remote",
+        "tag": "geoip-cn",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/country/geoip-cn.srs",
+        "update_interval": "120h0m0s"
+      },
+      {
+        "type": "remote",
+        "tag": "geosite-cn",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/country/geosite-cn.srs",
+        "update_interval": "120h0m0s"
+      }
+    ],
+    "final": "select",
+    "auto_detect_interface": true,
+    "override_android_vpn": true
+  },
+  "experimental": {
+    "cache_file": {
+      "enabled": true,
+      "path": "clash.db"
+    },
+    "clash_api": {
+      "external_controller": "127.0.0.1:16756",
+      "secret": "qEVjR6TFOoluehV2"
+    }
+  }
 }
