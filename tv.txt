@@ -10,6 +10,7 @@
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 
+東森新聞,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv152
 東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MDCD7908242379082423&ct=19669&tsum=50ace53accfe96e223d6e9f09f51485a
 東森新聞,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476998.m3u8	
 東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
@@ -17,8 +18,8 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290	
 東森新聞,http://211.75.171.121:8540/http/61.67.128.137:8081/hls/63/805/ch10.m3u8
 東森新聞,http://125.229.9.67:8539/http/220.130.87.218:8081/hls/63/805/ch010.m3u8
-東森新聞,http://litv.zapi.us.kg/?id=-152
-東森新聞,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv152
+
+
 
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 
@@ -47,8 +48,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?ct=17874&tid=m050e7aad65f614336734&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,https://haoyunlai.serv00.net/Smartv-1.php?id=feifannews_twn
-非凡新聞,p3p://108.181.32.169:51328/676955eb00013181cd70c73b35a34c93
-非凡新聞,http://litv.zapi.us.kg/?id=-010
+
 非凡新聞,http://ku9.fr.to/smt.php?id=feifannews_twn
 
 壹新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
