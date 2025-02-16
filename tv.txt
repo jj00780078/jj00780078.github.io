@@ -32,22 +32,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 爱尔达体育3台,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/483407.m3u8
 
-DAZN體育1台,rtmp://f13h.mine.nu/sat/tv711
-DAZN體育2台,rtmp://f13h.mine.nu/sat/tv751
-DAZN體育1台,rtmp://f13h.mine.nu/sat/tv761
-DAZN體育2台,rtmp://f13h.mine.nu/sat/tv771
-DAZN體育1台,rtmp://f13h.mine.nu/sat/tv781
-DAZN體育2台,rtmp://f13h.mine.nu/sat/tv791
-DAZN體育1台,rtmp://f13h.mine.nu/sat/tv722
-DAZN體育2台,rtmp://f13h.mine.nu/sat/tv723
-DAZN體育1台,rtmp://f13h.mine.nu/sat/tv724
-DAZN體育2台,rtmp://f13h.mine.nu/sat/tv725
-DAZN體育1台,rtmp://f13h.mine.nu/sat/tv726
-DAZN體育2台,rtmp://f13h.mine.nu/sat/tv727
-DAZN體育1台,rtmp://f13h.mine.nu/sat/tv728
-DAZN體育2台,rtmp://f13h.mine.nu/sat/tv729
-DAZN體育1台,rtmp://f13h.mine.nu/sat/tv730
-DAZN體育2台,rtmp://f13h.mine.nu/sat/tv740
 
 
 
