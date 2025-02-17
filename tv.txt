@@ -24,15 +24,16 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 
 
-爱尔达体育1台,http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
-爱尔达体育1台,http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
-爱尔达体育1台,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476267.m3u8
-爱尔达体育1台,https://haoyunlai.serv00.net/Smartv-1.php?id=eltasport1_twn
-爱尔达体育1台,rtmp://9hv9.mine.nu/sat/md011
+愛爾達體育1台,http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
+愛爾達體育1台,http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+愛爾達體育1台,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476267.m3u8
+愛爾達體育1台,https://haoyunlai.serv00.net/Smartv-1.php?id=eltasport1_twn
+愛爾達體育1台,rtmp://9hv9.mine.nu/sat/md011
+愛爾達體育1台,https://ali.hlspull.yximgs.com/live/2f4690220d891d6c28b05e8e6b02c3aa.flv
 
-爱尔达体育2台,http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
-爱尔达体育2台,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/488983.m3u8
-爱尔达体育3台,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/483407.m3u8
+愛爾達體育2台,http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
+愛爾達體育2台,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/488983.m3u8
+愛爾達體育3台,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/483407.m3u8
 
 
 
