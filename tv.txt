@@ -35,7 +35,10 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 愛爾達體育2台,http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
 愛爾達體育2台,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/488983.m3u8
 愛爾達體育3台,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/483407.m3u8
-
+纬来体育,http://ali.hlspull.yximgs.com/live/a766d2e8889399fad7dc4ad836347f0a.flv
+ELTA体育,http://ali.hlspull.yximgs.com/live/d2f41072eecdb03447e1aa7ee29998b5.flv
+ELTA体育2,http://ali.hlspull.yximgs.com/live/342381f8e42d76373c5348ed8f229286.flv
+ELTA体育3,http://ali.hlspull.yximgs.com/live/82456166ba6d6b6d2af02d3a6c4da6b7.flv
 
 
 
@@ -83,7 +86,10 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立新聞,http://211.75.171.121:8537/http/61.67.128.137:8081/hls/65/807/ch018.m3u8
 
 
-
+壹新闻 HD,http://ali.hlspull.yximgs.com/live/7c69a997402ff8b33fa5b7b9b9bd072a.flv
+年代新闻,http://ali.hlspull.yximgs.com/live/23efa1a517301ec1030b8e43d7f73724.flv
+年代,http://ali.hlspull.yximgs.com/live/0a84d414be3b4653bdb55a4ddb30c21d.flv
+三立新闻,http://ali.hlspull.yximgs.com/live/b74f712168839d6c85d8bf57c8d8bea8.flv
 
 
 
