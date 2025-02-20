@@ -24,7 +24,7 @@
 
 “sites”： [
 {
-//jar🎄🛶🎄🎃💘💖💖
+
 {"key":"阿里云盘登录","name":"🐲阿里云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
 {"key":"南瓜影视","name":"💡南瓜┃影视","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"快看影视","name":"💡快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -96,7 +96,7 @@
 {“key”：“AliPS”，“name”：“❤️盤搜┃4K”，“type”：3，“api”：“csp_AliPS”，“searchable”：1，“quickSearch”：1，“filterable”：0，“ext”：“http://127.0.0.1:9978/file/TVBox/tok.txt”}，
 {“key”：“易搜┃4K”，“ ❤️ type”：3，“api”：“csp_Yisou”，“searchable”：1，“quickSearch”：1，“filterable”：0，“ext”：“http://127.0.0.1:9978/file/TVBox/tok.txt”}，
 
-//磁力
+
 {"key":"荐片","name":"💘荐片┃磁力","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
 {"key":"New6v","name":"💘New6V┃磁力","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com"},
 {"key":"SeedHub","name":"💘SeedHub┃磁力","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1},
