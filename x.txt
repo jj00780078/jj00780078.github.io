@@ -1,0 +1,348 @@
+{
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731937895509/fan.txt;md5;fd16c6765d2cc453d40f8b3dfc02621d",
+    "wallpaper": "https://深色壁纸.xxooo.cf/", 
+    "sites": [
+        {
+{
+“spider”： “https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731937895509/fan.txt;md5;fd16c6765d2cc453d40f8b3dfc02621d”，
+“wallpaper”： “https:// 深色壁紙.xxooo.cf/”，
+“sites”： [
+{
+
+      
+     "key":"lvdou",
+     "name":"小狐狸华文┃影视",
+     "type":3,
+     "api":"csp_AppYsV2",
+     "playerType":"1",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1,
+     "ext":"http://zytv.eztv.video/api.php/app/"
+     },
+     { 
+      "key": "黑软松视开抖音号164269849864",
+      "name": "💎黑软1花🔞VIP💎",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "黑软松视开抖音号164269849864",
+      "name": "💎黑软2花🔞VIP💎",
+      "type": 1,
+      "api": "https://api.sexnguon.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "黑软松视开抖音号164269849864",
+      "name": " 💎黑软3花🔞VIP💎",
+      "type": 0,
+      "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "黑软松视开抖音号164269849864",
+      "name": "💎黑软4花🔞VIP💎",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "黑软松视开抖音号164269849864 ",
+      "name": "💎黑软6花🔞VIP💎",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "黑软松视开抖音号164269849864 ",
+      "name": "💎黑软7花🔞VIP💎",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "黑软松视开抖音号164269849864",
+      "name": "💎黑软8花🔞VIP💎",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "黑软开抖音号164269849864 ",
+      "name": "💎黑软10花🔞VIP💎",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "黑软松视开抖音号164269849864",
+      "name": "💎黑软11花🔞VIP💎",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "黑软开抖音号164269849864 ",
+      "name": "💎黑软14花🔞VIP💎",
+      "type": 0,
+      "api": "http://f2dcj6.com/sapi?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "黑软开抖音号164269849864",
+      "name": "💎黑软19花🔞VIP💎",
+      "type": 0,
+      "api": "https://fel.forxhr.top:2022/down.php/175937208911848ac3330dc773ae198d.txt&3344520",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+            "key": "黑软盗彩虹节25开抖音号164269849864",
+            "name": "抖音号164269849864",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+    },
+    {
+            "key": "黑软盗彩虹节26开抖音号164269849864",
+            "name": "支持抖音分享",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+    },
+    {
+            "key": "黑软盗彩虹节27开抖音号164269849864",
+            "name": "支持其他主播分享",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+    },
+    {
+            "key": "黑软盗彩虹节28开抖音号164269849864",
+            "name": "为人服务服务免费",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+}
+    ],
+    "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
+    "lives": [
+        {
+            "name": "💎切换别人家资源看💎",
+            "type": 0,
+            "url": "https://codeberg.org/weidi/AV18_X18/raw/branch/master/xh",
+            "playerType": 1,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "黑软💎盗窃15源",
+            "type": 0,
+            "url": "https://xn--i8sz35d1yr.top/ZB",
+            "playerType": 1
+        },
+        {
+            "name": "💎松直播抖音号164269849864💎",
+            "type": 0,
+            "url": "https://app.ysctv.cn/tv/%E5%BD%B1%E8%A7%86%E8%BD%A6.txt",
+            "playerType": 1
+        }
+    ]
+}
+“key”：“綠豆”，
+“name”：“小狐狸華文┃影視”，
+“type”：3 中，則
+“api”：“csp_AppYsV2”，
+“playerType”：“1”， /玩家類型
+“searchable”：1、
+“quickSearch”：1、
+“filterable”：1、
+“ext”：“http://zytv.eztv.video/api.php/app/”
+},
+{
+“key”： “黑軟鬆視開抖音號164269849864”，
+“name”： “💎黑軟1花🔞VIP💎”， /
+“type”： 0， （類型）： 0，
+“api”： “https://www.gdlsp.com/api/xml.php”，
+“searchable”： 0，
+“quickSearch”：0
+},
+{
+“key”： “黑軟鬆視開抖音號164269849864”，
+“name”： “💎黑軟2花🔞VIP💎”，
+“type”： 1，
+“api”： “https://api.sexnguon.com/api.php/provide/vod/”，
+“searchable”： 0，
+“quickSearch”：0
+},
+{
+“key”： “黑軟鬆視開抖音號164269849864”，
+“name”： “ 💎 黑軟3花🔞VIP💎”，
+“type”： 0， （類型）： 0，
+“api”： “https://lbapi9.com/api.php/provide/vod/at/xml”，
+“searchable”： 1，
+“quickSearch”： 1，
+“filterable”：1
+},
+{
+“key”： “黑軟鬆視開抖音號164269849864”，
+“name”： “💎黑軟4花🔞VIP💎”， /名稱
+“type”： 1，
+“api”： “https://lbapi9.com/api.php/provide/vod/”，
+“searchable”： 1，
+“quickSearch”： 1，
+“filterable”：1
+},
+{
+“key”： “黑軟鬆視開抖音號164269849864 ”，
+“name”： “💎黑軟6花🔞VIP💎”， /名稱
+“type”： 0， （類型）： 0，
+“api”： “https://www.xrbsp.com/api/xml.php”，
+“searchable”： 1，
+“quickSearch”： 1，
+“filterable”：1
+},
+{
+“key”： “黑軟鬆視開抖音號164269849864 ”，
+“name”： “💎黑軟7花🔞VIP💎”，
+“type”： 0， （類型）： 0，
+“api”： “https://www.gdlsp.com/api/xml.php”，
+“searchable”： 1，
+“quickSearch”： 1，
+“filterable”：1
+},
+{
+“key”： “黑軟鬆視開抖音號164269849864”，
+“name”： “💎黑軟8花🔞VIP💎”， /萬維
+“type”： 1，
+“api”： “http://fhapi9.com/api.php/provide/vod/”，
+“searchable”： 1，
+“quickSearch”： 1，
+“filterable”：1
+},
+{
+“key”： “黑軟開抖音號164269849864 ”，
+“name”： “💎黑軟10花🔞VIP💎”， @名稱
+“type”： 0， （類型）： 0，
+“api”： “https://www.msnii.com/api/xml.php”，
+“searchable”： 1，
+“quickSearch”： 1，
+“filterable”：1
+},
+{
+“key”： “黑軟鬆視開抖音號164269849864”，
+“name”： “💎黑軟11花🔞VIP💎”， @名稱
+“type”： 0， （類型）： 0，
+“api”： “https://www.kxgav.com/api/xml.php”，
+“searchable”： 1，
+“quickSearch”： 1，
+“filterable”：1
+},
+{
+“key”： “黑軟開抖音號164269849864 ”，
+“name”： “💎黑軟14花🔞VIP💎”， @名稱
+“type”： 0， （類型）： 0，
+“api”： “http://f2dcj6.com/sapi?ac=list”，
+“searchable”： 1，
+“quickSearch”： 1，
+“filterable”：1
+},
+{
+“key”： “黑軟開抖音號164269849864”，
+“name”： “💎黑軟19花🔞VIP💎”， @名稱
+“type”： 0， （類型）： 0，
+“api”： “https://fel.forxhr.top:2022/down.php/175937208911848ac3330dc773ae198d.txt&3344520”，
+“searchable”： 1，
+“quickSearch”： 1，
+“filterable”：0
+},
+{
+“key”： “黑軟盜彩虹節25開抖音號164269849864”，
+“name”： “抖音號164269849864”，
+“type”： 3， 類型
+“api”： “csp_XPath”，
+“searchable”： 1，
+“quickSearch”：0、
+“可變”：0
+},
+{
+“key”： “黑軟盜彩虹節26開抖音號164269849864”，
+“name”： “支援抖音分享”，
+“type”： 3， 類型
+“api”： “csp_XPath”，
+“searchable”： 1，
+“quickSearch”：0、
+“可變”：0
+},
+{
+“key”： “黑軟盜彩虹節27開抖音號164269849864”，
+“name”： “支援其他主播分享”，
+“type”： 3， 類型
+“api”： “csp_XPath”，
+“searchable”： 1，
+“quickSearch”：0、
+“可變”：0
+},
+{
+“key”： “黑軟盜彩虹節28開抖音號164269849864”，
+“name”： “為人服務免費”，
+“type”： 3， 類型
+“api”： “csp_XPath”，
+“searchable”： 1，
+“quickSearch”：0、
+“可變”：0
+}
+],
+“logo”： “https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif”，
+“lives”：[
+{
+“name”： “💎切換別人家資源看💎”，
+“type”： 0， （類型）： 0，
+“url”： “https://codeberg.org/weidi/AV18_X18/raw/branch/master/xh”，
+“playerType”： 1，
+“epg”： “http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}”，
+“logo”： “https://live.fanmingming.com/tv/{name}.png”
+},
+{
+“name”： “黑軟💎盜竊15源”，
+“type”： 0， （類型）： 0，
+“url”： “https://xn--i8sz35d1yr.top/ZB”，
+“playerType”：1
+},
+{
+“name”： “💎松直播抖音號164269849864💎”，
+“type”： 0， （類型）： 0，
+“url”： “https://app.ysctv.cn/tv/%E5%BD%B1%E8%A7%86%E8%BD%A6.txt”， @網址
+“playerType”：1
+}
+]
+}
