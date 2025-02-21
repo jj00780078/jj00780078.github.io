@@ -19,13 +19,7 @@
       "type": 3,
       "api": "csp_Jpys"
     },
- {
-      "key": "csp_LiteApple",
-      "name": "🍎苹果┃1080P",
-      "type": 3,
-      "api": "csp_LiteApple"
-    },
-
+{"key":"小苹果弹幕版","name":"🍎苹果┃弹幕","type": 3,"api":"csp_XpgGuard","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 20},
 
 
 
