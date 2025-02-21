@@ -10,8 +10,20 @@
 
 
 {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-
-
+{"key":"小苹果弹幕","name":"苹果┃弹幕","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
+{
+            "key": "网飞猫影视",
+            "name": "网飞猫┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "数组": "module-item\">&&</div>",
+                "剧情": "[替换:伦理>>NETFLIX]",
+                "图片": "https://vres.vukfnqr.com+data-original=\"&&\"",
+                "分类url": "https://www.ncat2.com/show/{cateId}-{class}-{area}--{year}-2-{catePg}.html",
+                "分类": "短剧$6#电影$1#电视剧$2#综艺$4#动漫$3"
+            }
+        },
 {"key":"csp_Auete","name":"Auete┃无搜索","type":3,"api":"csp_Auete","searchable":1,"playerType":1,"quickSearch":1,"filterable":1},
 
 {"key": "csp_LiteApple","name": "🍎┃苹果┃影视","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},       
