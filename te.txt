@@ -10,7 +10,12 @@
 
 {"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},
 
-{"key":"金牌資源","name":"🥇️┃金牌┃影视","type":3,"api":"csp_XBPQ","jar":"https://ghp.ci/https://raw.githubusercontent.com/bobyang3/tvbox/own/jar/XBPQ.jar","ext":"https://ghp.ci/https://raw.githubusercontent.com/bobyang3/tvbox/own/json/金牌影院.json"},
+ {
+      "key": "csp_Jpys",
+      "name": "🥇金牌┃1080P",
+      "type": 3,
+      "api": "csp_Jpys"
+    },
 {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
 {"key":"api_黑木耳","name":"影視｜黑木耳[直连]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghp.ci/https://raw.githubusercontent.com/bobyang3/tvbox/own/json/api黑木耳.json","jar":"https://ghp.ci/https://raw.githubusercontent.com/bobyang3/tvbox/own/jar/Yoursmile.jar"},      
@@ -20,7 +25,7 @@
 
 {"key":"csp_Auete","name":"Auete┃无搜索","type":3,"api":"csp_Auete","searchable":1,"playerType":1,"quickSearch":1,"filterable":1},    
 
-{ "key": "hipy_js_KTV歌厅[听]1", "name": "🎤KTV歌厅在线", "type": 3, "api": "http://kxrj.site:55/lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "order_num": 0, "ext": "http://kxrj.site:55/lib/js/KTV歌厅[听].js" },
+
       
      
       
