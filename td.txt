@@ -19,8 +19,8 @@
       "type": 3,
       "api": "csp_Jpys"
     },
-{"key":"小苹果弹幕版","name":"🍎苹果┃弹幕","type": 3,"api":"csp_XpgGuard","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 20},
-
+{"key": "csp_LiteApple","name": "🍎┃苹果┃影视","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},       
+  
 
 
 {"key": "大米星球","name": "大米｜APP","type": 3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/APPV2.js?type=url&params=https://damifan.wiki"},      
