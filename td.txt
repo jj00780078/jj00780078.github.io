@@ -12,14 +12,23 @@
 {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
 {"key":"csp_Auete","name":"Auete┃无搜索","type":3,"api":"csp_Auete","searchable":1,"playerType":1,"quickSearch":1,"filterable":1},
-{
-      "key": "Wexxpgtv",
-      "name": "🌺苹果┃秒播🌺",
+
+ {
+      "key": "csp_Jpys",
+      "name": "🥇金牌┃1080P",
       "type": 3,
-      "api": "csp_WexxpgtvGuard",
-      "searchable": 1,
-      "changeable": 1
+      "api": "csp_Jpys"
     },
+ {
+      "key": "csp_LiteApple",
+      "name": "🍎苹果┃1080P",
+      "type": 3,
+      "api": "csp_LiteApple"
+    },
+
+
+
+
 {"key": "大米星球","name": "大米｜APP","type": 3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/APPV2.js?type=url&params=https://damifan.wiki"},      
 
 {"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1}
