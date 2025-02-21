@@ -16,7 +16,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476998.m3u8	
 東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 東森新聞,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/479200.m3u8
-東森新聞,http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8
+
 
 
 
