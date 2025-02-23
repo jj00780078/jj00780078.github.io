@@ -26,13 +26,13 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "categories": [
+            "categories": ["韩剧","日韩综艺",
             "国产剧",
             "欧美剧",
-            "韩剧",
-            "日剧",
-            "日韩综艺",
             "台剧",
+            "日剧",
+            
+            
 	     "泰剧",
 	     "记录片",
             "海外剧",
@@ -46,44 +46,7 @@
           ]
         },
 
-{
-            "key": "小苹果弹幕",
-            "name": "小苹果｜弹幕",
-            "type": 3,
-            "api": "csp_Xpg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-{
-            "key": "快看影视",
-            "name": "快看｜影视",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "饺子影视",
-            "name": "饺子｜影视",
-            "type": 3,
-            "api": "csp_Jiaozi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-{
-            "key": "茶杯狐",
-            "name": "茶杯狐｜影视",
-            "type": 3,
-            "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/drpy2.min.js",
-            "ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/茶杯狐.js"
-        },
-{"key":"api_黑木耳","name":"影視｜黑木耳[直连]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghp.ci/https://raw.githubusercontent.com/bobyang3/tvbox/own/json/api黑木耳.json","jar":"https://ghp.ci/https://raw.githubusercontent.com/bobyang3/tvbox/own/jar/Yoursmile.jar"},      
+
 
 {"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"木星","name":"🌞木星┃多线","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"},
