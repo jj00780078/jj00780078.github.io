@@ -87,6 +87,54 @@
         },
 
 
+        {
+            "key": "一起看弹幕",
+            "name": "一起看｜弹幕",
+            "type": 3,
+            "api": "csp_Yqk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }
+        },
+{
+            "key": "大米星球",
+            "name": "大米｜APP",
+            "type": 3,
+            "api": "csp_AppDaMi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+{
+            "key": "瓜子｜影视",
+            "name": "瓜子｜影视",
+            "type": 3,
+            "api": "csp_Gz360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+{
+            "key": "新视觉",
+            "name": "新视觉｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XBPQ/新视觉.json"
+        },
+{
+            "key": "魔力高清",
+            "name": "魔力｜影视",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/魔力高清.js"
+        },
+
       
      
       
