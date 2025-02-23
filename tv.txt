@@ -28,7 +28,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 愛爾達體育2台,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/488983.m3u8
 愛爾達體育2台,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/483407.m3u8
 愛爾達體育2台,http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
-
+愛爾達體育2台,http://108.181.20.197/livehttpplay?channel_id=20107
 
 愛爾達體育1台,http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 愛爾達體育1台,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476267.m3u8
