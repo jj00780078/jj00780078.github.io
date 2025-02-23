@@ -10,7 +10,93 @@
             "api": "csp_Douban",
             "searchable": 0
         },
+      
+
+
+      
+{"key":"T4-独播库","name":"影視｜独播库 (T4)","type":4,"api":"https://tang.hz.cz/power/duboku?token=647c28ca","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},     
+     
+
+
+{"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+
+ {
+      "key": "csp_Jpys",
+      "name": "🥇金牌┃1080P",
+      "type": 3,
+      "api": "csp_Jpys"
+    },
+{
+            "key": "索尼",
+            "name": "🌍VIP专享2K",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+            "国产剧",
+            "欧美剧",
+            "韩剧",
+            "日剧",
+            "日韩综艺",
+            "台剧",
+	     "泰剧",
+	     "记录片",
+            "海外剧",
+            "大陆综艺",
+	    
+	    "港台综艺",
+	    "欧美综艺",
+	     "港剧",
+	    "影视解说",
+            "国产动漫"
+          ]
+        },
+
+{
+            "key": "小苹果弹幕",
+            "name": "小苹果｜弹幕",
+            "type": 3,
+            "api": "csp_Xpg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }
+        },
+{
+            "key": "快看影视",
+            "name": "快看｜影视",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
+            "key": "饺子影视",
+            "name": "饺子｜影视",
+            "type": 3,
+            "api": "csp_Jiaozi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+
+
+      
+     
+      
+      
+    	
+ 
+      
+      
+      
+  {
             "key": "预告",
             "name": "新片｜预告",
             "type": 3,
@@ -49,149 +135,7 @@
                 "ratio": 1.597
             },
             "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/wex.jar"
-        },{"key": "应用商店","name": "宝盒┃商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://d.kstore.dev/download/3043/bhvip/jpg/bh.json"},
-
-
-      
-{"key":"T4-独播库","name":"影視｜独播库 (T4)","type":4,"api":"https://tang.hz.cz/power/duboku?token=647c28ca","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},     
-     
-
-{"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-
- {
-      "key": "csp_Jpys",
-      "name": "🥇金牌┃1080P",
-      "type": 3,
-      "api": "csp_Jpys"
-    },
-{
-            "key": "索尼",
-            "name": "🌍VIP专享2K",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-            "国产剧",
-            "欧美剧",
-            "韩剧",
-            "日剧",
-            "日韩综艺",
-            "台剧",
-	     "泰剧",
-	     "记录片",
-            "海外剧",
-            "大陆综艺",
-	    
-	    "港台综艺",
-	    "欧美综艺",
-	     "港剧",
-	    "影视解说",
-            "国产动漫"
-          ]
-        },
-{
-      "key": "映迷（APP-搜索需用繁体字、海外源需挂梯子）",
-      "name": "🌙映迷（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://www.inmi.app/xgapp.php/v1/"
-   },
-
- {
-      "key": "csp_Bd",
-      "name": "💥哔嘀影视",
-      "type": 3,
-      "api": "csp_Bdys01",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-
-{
-      "key": "荐片",
-      "name": "🧲荐片磁力",
-      "type": 3,
-      "playerType": "1",
-      "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
-      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/jp.js"
-    },
-{"key":"drpy_js_超前点播","name":"🍌VIP影视","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://jihulab.com/ygbh1/box/-/raw/main/yg/js/%E8%B6%85%E5%89%8D%E7%82%B9%E6%92%AD.js"},
- {"key":"csp_YQKAPP","name":"👩‍👦一起看电视","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
-{"key": "csp_XYQHiker_臭蛋蛋影视","name":"🎗臭蛋蛋影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/cdd.json","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"},
-{"key":"drpy_js_追剧猫","name":"🐱追剧猫","type":3,"api":"./lib/drpy2.min.js","ext":"./h/rjm2.js"},
-{"key":"csp_XBPQTVB影视","name":"☁️极速云播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./h/tvbyun.json","jar":"./jar/xBPQ_1106.jar"},
-{
-            "key": "站长影视",
-            "name": "站长｜APP",
-            "type": 3,
-            "api": "csp_AppGetApp",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvCnF9SwoPCmcOtw5jDj8Orw6ZValLCmMOtw6fDqsOswrRiX8KdacOcw57CrMKxw6DCqmbCnmPDpsKow6XCsMKywpRhYMKUwqfDl8Ozw7LDtGVewpPCn8Omwq3Cr8KvwrJsX8KRwqDDosKhw6rDocOqVVxSecOnw5zDrsOQw6nCpcKUUmrCm8KVwqbCm8OuwpzCoFJqwpvDjuWHv+mFoeaQn+WQllzlhpzkvYflkbDCreW/q+iov+i2vua7g+esicKNUsKlwpXCu8Oew61+wpXCqVLCs8KVw57DssOzwq3CpMKmwpHDqcOcw5vDqcOqwqzCqcKUwqPCm8KfwpzCusOfwqZ5wqZSwrPClcOew7LDs8KtwqTCpsKRw6nDnMObw6nDqsKswqnClMKjwpvDsA=="
-        },
-
-{
-            "key": "小苹果弹幕",
-            "name": "小苹果｜弹幕",
-            "type": 3,
-            "api": "csp_Xpg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-{
-            "key": "快看影视",
-            "name": "快看｜影视",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "饺子影视",
-            "name": "饺子｜影视",
-            "type": 3,
-            "api": "csp_Jiaozi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-{
-            "key": "茶杯狐",
-            "name": "茶杯狐｜影视",
-            "type": 3,
-            "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/drpy2.min.js",
-            "ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/茶杯狐.js"
-        },
-{"key":"api_黑木耳","name":"影視｜黑木耳[直连]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghp.ci/https://raw.githubusercontent.com/bobyang3/tvbox/own/json/api黑木耳.json","jar":"https://ghp.ci/https://raw.githubusercontent.com/bobyang3/tvbox/own/jar/Yoursmile.jar"},      
-
-{"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
-{"key":"木星","name":"🌞木星┃多线","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"},
-
-{"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
-
-{"key":"csp_Auete","name":"Auete┃无搜索","type":3,"api":"csp_Auete","searchable":1,"playerType":1,"quickSearch":1,"filterable":1},    
-
-{"key": "csp_LiteApple","name": "🍎┃苹果┃影视","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},  
-      
-     
-      
-      
-    	
- 
-      
-      
-      
-      
+        },{"key": "应用商店","name": "宝盒┃商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://d.kstore.dev/download/3043/bhvip/jpg/bh.json"},      
       
       
    
@@ -206,7 +150,7 @@
 
 
       
-{"key": "大米星球","name": "大米｜APP","type": 3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/APPV2.js?type=url&params=https://damifan.wiki"},
+
 
 {"key":"南瓜","name":"🎃南瓜┃多线","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"changeable":1} 
 ],      
