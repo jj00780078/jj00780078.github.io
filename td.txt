@@ -6,7 +6,12 @@
       
 {"key":"T4-独播库","name":"影視｜独播库 (T4)","type":4,"api":"https://tang.hz.cz/power/duboku?token=647c28ca","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},     
 {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":1},    
-
+ {
+      "key": "csp_Jpys",
+      "name": "🥇金牌┃1080P",
+      "type": 3,
+      "api": "csp_Jpys"
+    },
 {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key": "索尼","name": "🌍VIP专享2K","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","playUrl": "","searchable": 1, "quickSearch": 1,
  "filterable": 1,"categories": ["韩剧","国产剧" ,"日韩综艺","港台综艺", "台剧","欧美剧","日剧","海外剧","大陆综艺", "港剧", "国产动漫" ] },      
@@ -19,17 +24,7 @@
            
             
             
-{
-            "key":"js_网飞猫",
-            "name":"😸┃耐菲┃卡特",
-            "type":3,
-            "api":"./drpy_libs/drpy2.min.js",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "order_num":0,
-            "ext":"./drpy_js/网飞.TV.js"
-        },   
+
             
 {"key":"比特","name":"🍄比特┃秒播","type":3,"api":"csp_BttwooGuard","searchable":1,"quickSearch":1,"changeable":1},            
             

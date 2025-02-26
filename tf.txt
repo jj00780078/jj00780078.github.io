@@ -76,32 +76,7 @@
           ]
         },
 
-{
-            "key":"热播弹幕",
-            "name":"🐠┃热播┃弹幕",
-            "type":3,
-            "api":"csp_ReBo",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":{
-                "danmu":true
-            }
-        },
 
-{
-            "key":"缘觉┃弹幕",
-            "name":"🎺┃缘觉┃弹幕",
-            "type":3,
-            "api":"csp_Bdys",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":{
-                "site":"https://www.yjys05.com",
-                "danmu":true
-            }
-        }, 
       
      
       
