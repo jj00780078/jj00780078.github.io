@@ -34,11 +34,35 @@
             
 {"key":"比特","name":"🍄比特┃秒播","type":3,"api":"csp_BttwooGuard","searchable":1,"quickSearch":1,"changeable":1},            
             
-{"key":"白白","name":"🐟白白┃秒播","type":3,"api":"csp_SbaibaiGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1}            
+{"key":"白白","name":"🐟白白┃秒播","type":3,"api":"csp_SbaibaiGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},            
             
 	     
             
-          
+{
+      "key": "ConfigCenter",
+      "name": "📀┃网盘┃配置",
+      "type": 3,
+      "api": "csp_ConfigCenter",
+	  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740401936037/zxuc0224.jar;md5;43989964965deab2a4b6b48251043412",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./json/peizhi.json"
+      }
+    },
+        {
+            "key":"弹幕配置",
+            "name":"☄️┃弹幕┃配置",
+            "type":3,
+            "api":"csp_Config",
+            "searchable":0,
+            "changeable":0,
+            "indexs":0,
+            "style":{
+                "type":"rect",
+                "ratio":1.597
+            }
+        }          
         
 
 
