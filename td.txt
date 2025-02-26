@@ -19,7 +19,17 @@
            
             
             
-
+{
+            "key":"js_网飞猫",
+            "name":"😸┃耐菲┃卡特",
+            "type":3,
+            "api":"./drpy_libs/drpy2.min.js",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "order_num":0,
+            "ext":"./drpy_js/网飞.TV.js"
+        },   
             
 {"key":"比特","name":"🍄比特┃秒播","type":3,"api":"csp_BttwooGuard","searchable":1,"quickSearch":1,"changeable":1},            
             

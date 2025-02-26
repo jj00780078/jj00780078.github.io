@@ -38,7 +38,7 @@
             "api":"csp_Douban",
             "searchable":0
         },
-{"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},
+
 {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
  {
@@ -76,26 +76,32 @@
           ]
         },
 
-{"key":"csp_Auete","name":"Auete┃无搜索","type":3,"api":"csp_Auete","searchable":1,"playerType":1,"quickSearch":1,"filterable":1}, 
-
-{"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
-{"key":"木星","name":"🌞木星┃多线","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"},
-
-{"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
-
 {
-            "key":"js_网飞猫",
-            "name":"😸┃耐菲┃卡特",
+            "key":"热播弹幕",
+            "name":"🐠┃热播┃弹幕",
             "type":3,
-            "api":"./drpy_libs/drpy2.min.js",
+            "api":"csp_ReBo",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "order_num":0,
-            "ext":"./drpy_js/网飞.TV.js"
-        },   
+            "ext":{
+                "danmu":true
+            }
+        },
 
- 
+{
+            "key":"缘觉┃弹幕",
+            "name":"🎺┃缘觉┃弹幕",
+            "type":3,
+            "api":"csp_Bdys",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":{
+                "site":"https://www.yjys05.com",
+                "danmu":true
+            }
+        }, 
       
      
       
@@ -122,7 +128,7 @@
       
 {"key": "大米星球","name": "大米｜APP","type": 3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/APPV2.js?type=url&params=https://damifan.wiki"},
 
-{"key":"南瓜","name":"🎃南瓜┃多线","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"changeable":1}, 
+
 
   {
       "key": "ConfigCenter",
