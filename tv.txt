@@ -35,20 +35,20 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
 非凡新聞,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
-非凡新聞,http://211.75.171.121:8544/http/61.67.128.137:8081/hls/75/817/ch57.m3u8
+非凡新聞,http://192.168.2.1:1111/241.ts
 
 
 壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
 壹新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 壹新聞,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477087.m3u8
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
-壹新聞,http://108.181.20.197/livehttpplay?channel_id=20028
+壹新聞,http://192.168.2.1:1111/233.ts
 
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch27.m3u8?token=
 年代新聞,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
 年代新聞,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
-年代新聞,zlive://198.204.238.242:6678/2f31185bffb3df9105cfa70523df0283
+年代新聞,http://192.168.2.1:1111/234.ts
 年代新聞,http://211.75.171.121:8544/http/61.67.128.137:8081/hls/67/809/ch027.m3u8
 年代新聞,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
 
@@ -61,7 +61,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立新聞,https://stream1.freetv.fun/c423a0aa4147f26596813549346b19b5a15bbd35fa6ce7b0ab979ec2cd10924d.m3u8
 三立新聞,https://stream1.freetv.fun/293a9239d67a76a3df7cc95f531990554794b206a2fae164164503bd4c0e9a43.m3u8
 三立新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
-
+三立新聞,http://192.168.2.1:1111/237.ts
 
 
 
