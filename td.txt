@@ -19,7 +19,8 @@
            
 {"key":"sgolys","name":"影視| 欧乐(T4)","type":4,"api":"https://tang.hz.cz/power/olelive?token=b1eb6417","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"py_OleVod","name":"欧乐影院(T4)","type":4,"api":"https://py.doube.eu.org/spider?site=OleVod","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},            
-{"key":"T4-独播库","name":"影視| 独播库(T4)","type":4,"api":"https://tang.hz.cz/power/duboku?token=48da13fc","jar":"https://raw.githubusercontent.com/bobyang3/tvbox/own/jar/custom_spider.jar","searchable":1,"quickSearch":1,"filterable":1,"changeable":0}/* {"key":"T4-独播库2","name":"影視| 独播库2","type":4,"api":"csp_WexdubokuGuard","jar":"https://www1.robyang.us.kg/VodLive/jar/wex.jar","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},            
+{"key":"T4-独播库","name":"影視| 独播库(T4)","type":4,"api":"https://tang.hz.cz/power/duboku?token=48da13fc","jar":"https://raw.githubusercontent.com/bobyang3/tvbox/own/jar/custom_spider.jar","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"T4-独播库2","name":"影視| 独播库2","type":4,"api":"csp_WexdubokuGuard","jar":"https://www1.robyang.us.kg/VodLive/jar/wex.jar","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},            
 
             
 {"key":"drpy_js_大师兄影视[优]","name":"影視| 大师兄[优]","type":3,"api":"https://raw.githubusercontent.com/bobyang3/tvbox/own/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/bobyang3/tvbox/own/js/大师兄影视[优].js"},
