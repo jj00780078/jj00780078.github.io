@@ -26,7 +26,7 @@
              
 	     
 {"key":"drpy_js_大师兄影视[优]","name":"影視| 大师兄[优]","type":3,"api":"https://raw.githubusercontent.com/bobyang3/tvbox/own/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/bobyang3/tvbox/own/js/大师兄影视[优].js"},
-{"key":"py_jinpai","name":"影視| 金牌","type":3,"api":"https://raw.githubusercontent.com/bobyang3/tvbox/own/py/py_jinpai.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
+{"key":"py_jinpai","name":"影視| 金牌","type":3,"api":"https://raw.githubusercontent.com/bobyang3/tvbox/own/py/py_jinpai.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"金牌資源","name":"影視| 金牌2","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/bobyang3/tvbox/own/jar/xyqxbpq.jar","ext":"https://raw.githubusercontent.com/bobyang3/tvbox/own/json/金牌影院.json"},                    
 {"key":"苹果","name":"影視| 頻果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 
