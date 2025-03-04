@@ -16,9 +16,31 @@
 {"key":"比特","name":"🍄比特┃秒播","type":3,"api":"csp_BttwooGuard","searchable":1,"quickSearch":1,"changeable":1},            
 {"key":"csp_XBiu考拉TV","name":"影視| 考拉TV","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/bobyang3/tvbox/own/jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.ikaola.tv/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html","分类":"電視劇$2#電影$1#動漫$4#綜藝$3#動畫片$24#紀錄片$27"}},            
             
-            
+{
+      "key": "瓜子影视",
+      "name": "🥜瓜子┃2K纯净",
+      "type": 3,
+      "api": "csp_Gz360",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },            
 
-
+ {
+        "key": "荐片弹幕",
+        "name": "💨荐片┃弹幕",
+        "type": 3,
+        "api": "csp_Jianpian",
+        "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
+        "playerType": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+            "ext": {
+                "danmu": true
+      }
+    },
 
 
             
