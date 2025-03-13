@@ -19,21 +19,7 @@
 {"key": "瓜子影视","name": "🥜瓜子┃2K纯净","type": 3,"api": "csp_Gz360","jar": "https://tv.xn--11x555b.top/jar/spider.jar","searchable": 1,"quickSearch": 1, "filterable": 1},
       
 
- {    "key":"韓劇看看",
-      "name": "韓劇看看",
-      "type": 3,
-      "api": "csp_hjkk",
-      "searchable": 1,"quickSearch": 1,"changeable":1,
-      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hjkk.js"
-    },
-    { "key":"金牌影院",
-      "name": "金牌影院",
-      "type": 3,
-      "api": "csp_jpyy",
-      "searchable": 1,"quickSearch": 1,"changeable":1, 
-      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/jpyy.js"
-    },      
-     
+
                 
 
  
