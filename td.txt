@@ -19,7 +19,7 @@
 {"key": "瓜子影视","name": "🥜瓜子┃2K纯净","type": 3,"api": "csp_Gz360","jar": "https://tv.xn--11x555b.top/jar/spider.jar","searchable": 1,"quickSearch": 1, "filterable": 1},
       
  {
-      "name": "独播库",
+      "key": "独播库",
       "type": 3,
       "api": "csp_duboku",
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/duboku.js",
@@ -27,25 +27,25 @@
     },      
       
 {
-      "name": "韓劇看看",
+      "key": "韓劇看看",
       "type": 3,
       "api": "csp_hjkk",
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hjkk.js"
     },
     {
-      "name": "金牌影院",
+      "key": "金牌影院",
       "type": 3,
       "api": "csp_jpyy",
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/jpyy.js"
     },      
 {
-      "name": "小蘋果",
+     "key": "小蘋果",
       "type": 3,
       "api": "csp_apple",
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/apple.js"
     },      
  {
-      "name": "4k-av",
+      "key": "4k-av",
       "type": 3,
       "api": "csp_4kav",
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/4kav.js"
