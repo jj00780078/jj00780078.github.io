@@ -23,32 +23,33 @@
       "type": 3,
       "api": "csp_duboku",
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/duboku.js",
-      "ext2": "https://ghp.xptvhelper.link/https://gist.githubusercontent.com/occupy-pluto/f6cf4425bf7d1815a26323ade89ea593/raw/duboku.js"
-    },      
+      "ext2": "https://ghp.xptvhelper.link/https://gist.githubusercontent.com/occupy-pluto/f6cf4425bf7d1815a26323ade89ea593/raw/duboku.js",
+      "searchable":1,"quickSearch":1,"filterable":1
+},      
       
 {
       "key": "韓劇看看",
       "type": 3,
       "api": "csp_hjkk",
-      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hjkk.js"
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hjkk.js","searchable":1,"quickSearch":1,"filterable":1
     },
     {
       "key": "金牌影院",
       "type": 3,
       "api": "csp_jpyy",
-      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/jpyy.js"
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/jpyy.js","searchable":1,"quickSearch":1,"filterable":1
     },      
 {
      "key": "小蘋果",
       "type": 3,
       "api": "csp_apple",
-      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/apple.js"
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/apple.js","searchable":1,"quickSearch":1,"filterable":1
     },      
  {
       "key": "4k-av",
       "type": 3,
       "api": "csp_4kav",
-      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/4kav.js"
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/4kav.js","searchable":1,"quickSearch":1,"filterable":1
     },      
       
      
