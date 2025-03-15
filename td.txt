@@ -18,9 +18,16 @@
             
 {"key": "瓜子影视","name": "🥜瓜子┃2K纯净","type": 3,"api": "csp_Gz360","jar": "https://tv.xn--11x555b.top/jar/spider.jar","searchable": 1,"quickSearch": 1, "filterable": 1},
       
+{"key":"直播转点播","name":"🐼️┃电视┃直播","type":3,"searchable":0,"api":"./lib/live2vod.js","ext":"https://gh.clun.top/raw.githubusercontent.com/fish2018/lib/refs/heads/main/json/feimaolive.json"},
+{"key":"TGYunPanLocal","name":"TG频道搜索","type":3,"api":"csp_TGYunPanLocal","timeout":120,"ext":{"token":"./lib/tokenm.json","json":"./lib/tgsearch.json","keywords":"名称,片名,推荐","tgsearch_url":"http://tg.xueximeng.com","tgsearch_media_url":"http://tg.xueximeng.com","channellist":"tgsearchers,alyp_1,guaguale115,hao115,shareAliyun,Aliyun_4K_Movies,ucpanpan,ucquark,ydypzyfx","proxy":"noproxy","danmu":true},"style":{"type":"rect","ratio":1.77}},
+{"key":"TGYunPan","name":"TG群组搜索","type":3,"api":"csp_TGYunPan","timeout":120,"ext":{"token":"./lib/tokenm.json","json":"./lib/tgsearch.json","keywords":"名称,片名,推荐","tgsearch_url":"http://tg.xueximeng.com","tgsearch_media_url":"http://tg.xueximeng.com","channellist":"tgsearchers,alyp_1,guaguale115,hao115,shareAliyun,Aliyun_4K_Movies,ucpanpan,ucquark,ydypzyfx","proxy":"noproxy","danmu":true},"style":{"type":"rect","ratio":1.77}},
 
-
-                
+{"key":"松视开通1","name":"松视1","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":0,"quickSearch":0},
+{"key":"松视开通2","name":"松视2","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":0,"quickSearch":0},
+{"key":"松视开通3","name":"松视3","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"MissAV","name":"MissAV","type":3,"api":"csp_Miss","ext":"noproxy","searchable":1,"recordable":0,"timeout":60,"style":{"type":"rect","ratio":1.78}},
+{"key":"Hanime","name":"Hanime","type":3,"api":"csp_Hanime","searchable":1,"recordable":0,"timeout":60,"ext":"proxy","style":{"type":"rect","ratio":0.68}},
+{"key":"18AV","name":"18AV","type":3,"api":"csp_Eighteen","searchable":1,"recordable":0,"timeout":60,"ext":"proxy","style":{"type":"rect","ratio":1.485}},                
 
  
         
