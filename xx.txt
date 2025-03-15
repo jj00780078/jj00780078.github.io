@@ -2,10 +2,14 @@
     "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731937895509/fan.txt;md5;fd16c6765d2cc453d40f8b3dfc02621d",
     "wallpaper": "https://深色壁纸.xxooo.cf/", 
     "sites": [
-        {
+
+{"key":"松视开通1","name":"松视1","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":0,"quickSearch":0},
+{"key":"松视开通2","name":"松视2","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":0,"quickSearch":0},
+{"key":"松视开通3","name":"松视3","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+        
 
       
-      "key": "黑软松视开通17QQ群726461419",
+     { "key": "黑软松视开通17QQ群726461419",
       "name": "💎黑软1花🔞VIP💎",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",

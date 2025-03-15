@@ -20,6 +20,11 @@
              ],
 	
     "sites": [
+
+        {"key":"松视开通1","name":"松视1","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":0,"quickSearch":0},
+        {"key":"松视开通2","name":"松视2","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":0,"quickSearch":0},
+        {"key":"松视开通3","name":"松视3","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+
         {
             "key": "155",
             "name": "🚁福利采集🚁",
