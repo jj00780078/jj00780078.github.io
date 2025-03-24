@@ -199,6 +199,7 @@
 
 
            { "name": "YogurtTv",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png",
             "type": 0,
             "url": "http://xg.52sw.top/iptv/YogurtTv.txt",
             "ua": "okhttp/3.15",

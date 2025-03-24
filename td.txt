@@ -62,6 +62,7 @@
 {"name":"🥇️新聞直播🥇️","boot": true,"type":0,"url":"https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/tv.txt","playerType":2,"epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
   
            { "name": "小雲TV",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png",
             "type": 0,
             "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/yo.txt",
             "ua": "okhttp/3.15",
@@ -104,6 +105,7 @@
 
 
            { "name": "YogurtTv",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png",
             "type": 0,
             "url": "http://xg.52sw.top/iptv/YogurtTv.txt",
             "ua": "okhttp/3.15",
