@@ -160,7 +160,7 @@
 {"name":"看电视呗","type":0,"url":"http://tv.850930.xyz/kdsb.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {
       "name": "小云",
-      "url": "小云.txt",
+      "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/su.txt",
       "core": {
         "auth": "local://tvbus",
         "name": "123",
