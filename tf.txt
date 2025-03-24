@@ -161,13 +161,14 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
 
-
-         {   "name": "欧华(ouhua TV)",
+        {
+            "name": "焦点(Focus TV)",
             "type": 0,
-            "url": "http://xg.52sw.top/iptv/欧华.m3u",
+            "url": "http://xg.52sw.top/jd/?ip=108.181.32.169",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
+
 
 
 
@@ -180,7 +181,7 @@
 
 
            { "name": "YogurtTv",
-            "type": 1,
+            "type": 0,
             "url": "http://xg.52sw.top/iptv/YogurtTv.txt",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}",
@@ -227,19 +228,13 @@
             }
         },
 
-         {   "name": "咪咕直播",
+         {   "name": "欧华(ouhua TV)",
             "type": 0,
-            "url": "http://php.540734621.xyz/migu.txt",
+            "url": "http://xg.52sw.top/iptv/欧华.m3u",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
-        {
-            "name": "焦点(Focus TV)",
-            "type": 0,
-            "url": "http://xg.52sw.top/jd/?ip=108.181.32.169",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
+        },        
+
         {
             "name": "173源",
             "type": 0,
