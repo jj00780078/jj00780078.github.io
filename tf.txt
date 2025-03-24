@@ -155,7 +155,7 @@
 {"name":"🥇️新聞直播🥇️","boot": true,"type":0,"url":"https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/tv.txt","playerType":2,"epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
 
            { "name": "小雲TV",
-            "boot": true,
+            
             "type": 0,
             "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/yy.txt",
             "ua": "okhttp/3.15",
