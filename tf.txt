@@ -3,7 +3,16 @@
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "sites":[
-
+ {
+      "key": "獨播",
+      "name": "❤獨播",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://dpaste.com/296S4NSUE.txt",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/lllyin/assets/master/fm.png;md5;945ad30d5255359385ba59b8fb061bb7"
+    },
       
 {"key":"T4-独播库","name":"影視｜独播库 (T4)","type":4,"api":"https://tang.hz.cz/power/duboku?token=647c28ca","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},     
  {
