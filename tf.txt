@@ -212,13 +212,8 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
 
-        {
-            "name": "焦点(Focus TV)",
-            "type": 0,
-            "url": "http://xg.52sw.top/jd/?ip=108.181.32.169",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
+        
+
 
 
 
@@ -230,7 +225,12 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },  
 
-
+          {  "name": "焦点(Focus TV)",
+            "type": 0,
+            "url": "http://xg.52sw.top/jd/?ip=108.181.32.169",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
 
         
      { "name": "LITV直播(python)",
@@ -240,7 +240,7 @@
     },
           {  "name": "ofiii[台湾节点]",
             "type": 0,
-            "url": "http://xg.52sw.top/iptv/ofiii.m3u",
+            "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/of.txt",
             "ua": "okhttp/3.15",
             "epg":"http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
