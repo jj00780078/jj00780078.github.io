@@ -212,7 +212,15 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
 
-        
+
+                    {  "name": "沐辰直播",
+                      "type": 3,
+                      "playerType": 2,
+                      "api": "https://json.doube.eu.org/python/py_litv.py",
+                      "ext": "",
+                      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+                      "logo": "https://epg.112114.xyz/logo/{name}.png"
+                    },        
 
 
 
