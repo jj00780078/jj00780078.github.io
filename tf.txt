@@ -175,7 +175,7 @@
       "name": "小云",
       "logo": "https://epg.112114.eu.org/logo/{name}.png",
 
-      "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/su.txt",
+      "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/yo.txt",
       "type": 0,
       "core": {
         "auth": "local://tvbus",
