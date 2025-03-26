@@ -13,11 +13,9 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 
 
-東森新聞,https://stream1.freetv.fun/4e8297ed0610c91e855ddb69d24344baa6b732dd2d1b24ac2e0a71a3d39ca41c.ctv
-東森新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv152
-東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-東森新聞,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv152	
 
+東森新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv152
+東森新聞,https://stream1.freetv.fun/4e8297ed0610c91e855ddb69d24344baa6b732dd2d1b24ac2e0a71a3d39ca41c.ctv
 
 
 
@@ -34,11 +32,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/75/817/ch57.m3u8?token=
-非凡新聞,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv010
-非凡新聞,http://118.170.45.178:9981/stream/channelid/738590182?profile=pass
-非凡新聞,p3p://108.181.32.169:50934/676955eb00013181cd70c73b35a34c93
-非凡新聞,http://59.126.25.222:8011/udp/224.1.4.158:11111
-非凡新聞,http://59.126.25.222:8011/udp/230.1.2.92:11111
+
 
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
 壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
@@ -68,10 +62,13 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 LITV,#genre#
 
 三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
+三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
+三立新聞,https://stream1.freetv.fun/e12a5ecb3e0328b72c684ffe48cb7382b9b3e283c0c99492612b5af06b539153.ctv
 三立新聞,p3p://108.181.32.169:50934/6766bc7f000ed78dc349b377648221c8
-三立新聞,http://122.117.71.103:8542/http/220.130.87.218:8081/hls/65/807/ch018.m3u8
+
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
 壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
+
 年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
