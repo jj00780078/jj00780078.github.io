@@ -152,7 +152,7 @@
 
 "logo":"https://media.giphy.com/media/F0yi6rO0jogkhbYdxF/giphy.gif?cid=790b76112ehh8gyjxyy5i3l0vv26huaspzvtx8ordsti5orf&ep=v1_gifs_search&rid=giphy.gif&ct=g",
 "lives":[
-           {"name":"🥇️新聞直播🥇️",
+           {"name":"🥇️台灣新聞",
             "boot": true,
             "type":0,
             "url":"https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/tv.txt",

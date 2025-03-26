@@ -1,4 +1,4 @@
-台灣新聞,#genre#
+YouTube新聞,#genre#
 三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
