@@ -53,8 +53,8 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 年代新聞,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
 年代新聞,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch27.m3u8?token=
 年代新聞,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
-
-
+年代新聞台,http://免.l5.ca/daili/Smartv.php?id=niandainews_twn
+非凡新聞台,http://免.l5.ca/daili/Smartv.php?id=feifannews_twn
 
 
 三立新聞,p3p://108.181.32.169:50934/6766bc7f000ed78dc349b377648221c8
