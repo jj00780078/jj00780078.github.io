@@ -196,12 +196,14 @@
       "ext": {}
     },
 
-          {  "name": "ofiii[台湾节点]",
+         {   "name": "LiTV[台湾节点]",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/of.txt",
+            "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/litv.txt",
             "ua": "okhttp/3.15",
-            "epg":"http://iptv.52sw.top:668/?ch={name}&date={date}"
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
+
+
 
 
 
@@ -225,6 +227,13 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },  
 
+          {  "name": "ofiii[台湾节点]",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/of.txt",
+            "ua": "okhttp/3.15",
+            "epg":"http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+
            { "name": "YogurtTv",
             "logo": "https://epg.112114.eu.org/logo/{name}.png",
             "type": 0,
@@ -242,12 +251,7 @@
             }
         },
 
-         {   "name": "LiTV[台湾节点]",
-            "type": 0,
-            "url": "http://xg.52sw.top/iptv/litv.php",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
+
           {  "name": "焦点(Focus TV)",
             "type": 0,
             "url": "http://xg.52sw.top/jd/?ip=108.181.32.169",

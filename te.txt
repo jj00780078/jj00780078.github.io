@@ -120,7 +120,32 @@
       "ext": {}
     },
 
+         {   "name": "LiTV[台湾节点]",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/litv.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
 
+                    {  "name": "沐辰直播",
+                      "type": 3,
+                      "playerType": 2,
+                      "api": "https://json.doube.eu.org/python/py_litv.py",
+                      "ext": "",
+                      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+                      "logo": "https://epg.112114.xyz/logo/{name}.png"
+                    },        
+
+
+
+
+
+         {   "name": "快直播[低码率]",
+            "type": 0,
+            "url": "http://xg.52sw.top/play/kzb",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },  
 
 
 
