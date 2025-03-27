@@ -31,22 +31,11 @@
             }
         },
 
- {
-            "key":"豆瓣",
-            "name":"🍥┃豆瓣┃网盘线路、不限速、不限制客户端🍥",
-            "type":3,
-            "api":"csp_Douban",
-            "searchable":0
-        },
+
 
 {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
- {
-      "key": "csp_Jpys",
-      "name": "🥇金牌┃1080P",
-      "type": 3,
-      "api": "csp_Jpys"
-    },
+ 
 {
             "key": "索尼",
             "name": "🌍VIP专享2K",
@@ -142,8 +131,20 @@
             }
           },
 
+ {
+            "key":"豆瓣",
+            "name":"🍥┃豆瓣┃网盘线路、不限速、不限制客户端🍥",
+            "type":3,
+            "api":"csp_Douban",
+            "searchable":0
+        },
 
-
+{
+      "key": "csp_Jpys",
+      "name": "🥇金牌┃1080P",
+      "type": 3,
+      "api": "csp_Jpys"
+    },
 
 
 
