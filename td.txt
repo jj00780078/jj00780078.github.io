@@ -181,25 +181,6 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
 
-                    {  "name": "沐辰直播",
-                      "type": 3,
-                      "playerType": 2,
-                      "api": "https://json.doube.eu.org/python/py_litv.py",
-                      "ext": "",
-                      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-                      "logo": "https://epg.112114.xyz/logo/{name}.png"
-                    },        
-
-
-
-
-
-         {   "name": "快直播[低码率]",
-            "type": 0,
-            "url": "http://xg.52sw.top/play/kzb",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },  
 
 
 
@@ -218,36 +199,7 @@
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },        
-        {
-            "name": "MyTvSuper",
-            "type": 0,
-            "url": "http://xg.52sw.top/play/mytvsuper/index-mytvsuper.php",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
-        {
-            "name": "火星直播",
-            "type": 0,
-            "url": "http://xg.52sw.top/play/hxds/",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/epg/?ch={name}&date={date}",
-            "header": {
-                "Referer": "https://www.kds.tw/"
-            }
-        },
 
-         {   "name": "欧华(ouhua TV)",
-            "type": 0,
-            "url": "http://xg.52sw.top/iptv/欧华.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },        
-
-     { "name": "LITV直播(python)",
-      "type": 0,
-      "api": "https://json.doube.eu.org/python/live_litv.py",
-      "ext": {}
-    },
 
            { "name": "YogurtTv",
             "logo": "https://epg.112114.eu.org/logo/{name}.png",
@@ -266,20 +218,7 @@
             }
         },
 
-        {
-            "name": "焦点(Focus TV)",
-            "type": 0,
-            "url": "http://xg.52sw.top/jd/?ip=108.181.32.169",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
-        {
-            "name": "173源",
-            "type": 0,
-            "url": "http://xg.52sw.top/play/bst/173.txt",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
+
 {"name": "①live(EXO)","type":0,"url": "http://rihou.cc:55/lib/kx2024.txt","ua": "okhttp/3","playerType": 2,"epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png" },           
 {"name": "③猫TV线路(EXO)","type": 0,"url": "http://rihou.cc:567/gggg.nzk","playerType": 2,"ua": "okhttp/3","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png" }           
             
