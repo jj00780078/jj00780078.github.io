@@ -18,8 +18,9 @@
         "changeable": 1
       },
 
-          {
-            "key": "Wexduboku",
+{"key":"sgolys","name":"影視| 欧乐(T4)","type":4,"api":"https://tang.hz.cz/power/olelive?token=b1eb6417","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},                 
+          
+          {  "key": "Wexduboku",
             "name": "🥇｜獨播庫｜",
             "type": 3,
             "api": "csp_WexdubokuGuard",
@@ -28,8 +29,9 @@
             "changeable": 1
           },
 
-      {
-        "key": "csp_歐樂影院ORG",
+
+      
+      {  "key": "csp_歐樂影院ORG",
         "name": "🥇｜鐵牌影院｜",
         "type": 3,
         "api": "csp_XBPQ",
@@ -43,6 +45,30 @@
           "分类": "電視劇$2#電影$1#動漫$4#綜藝$3#短劇$53",
           "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他"
         }
+      },
+
+      {
+        "key": "Auete",
+        "name": "🥇｜銀牌影院｜",
+        "type": 3,
+        "api": "csp_Auete",
+        "timeout": 15,
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "ext": "https://auete.pro/",
+        "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/fan.txt;md5;8851819289f80deae32319080028db3b"
+      },
+      {
+        "key": "csp_开心影院",
+        "name": "🥇｜銅牌影院｜",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/json_now/開心影院.json"
       },
 
  {
@@ -139,7 +165,7 @@
 {"key": "瓜子影视","name": "🥜瓜子┃2K纯净","type": 3,"api": "csp_Gz360","jar": "https://tv.xn--11x555b.top/jar/spider.jar","searchable": 1,"quickSearch": 1, "filterable": 1},
 {"key":"T4-独播库","name":"影視｜独播库 (T4)","type":4,"api":"https://tang.hz.cz/power/duboku?token=647c28ca","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},     
    
-{"key":"sgolys","name":"影視| 欧乐(T4)","type":4,"api":"https://tang.hz.cz/power/olelive?token=b1eb6417","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},                 
+
              
 {"key": "荐片弹幕","name": "💨荐片┃弹幕","type": 3,"api": "csp_Jianpian","jar": "https://tv.xn--11x555b.top/jar/spider.jar","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": { "danmu": true}},	     
 {"key":"drpy_js_大师兄影视[优]","name":"影視| 大师兄[优]","type":3,"api":"https://raw.githubusercontent.com/bobyang3/tvbox/own/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/bobyang3/tvbox/own/js/大师兄影视[优].js"},
