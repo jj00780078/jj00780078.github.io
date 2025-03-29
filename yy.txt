@@ -487,18 +487,21 @@ Nickelodeon-US,tvbus://7duuSGd3ebJWwdXmMhEwGpgUpHFdRyBZ6HwTG9SsqqqUp3KsDe#tvbus:
 CherryTv,#genre#
 
 HOT,tvbus://888v7qzrdgpEFVmqE3zdPLSVSkR3f4S99kmZts8psraWUriy5E#tvbus://8XF9CAYhEgtBaAq7egfgPFoXMTtiipDVoaZPCFZji7WBcAsv8H#tvbus://8h3QBLpXGK6RBkTSiaiiDFvfFwLZFsjsMDuDEXd7i5ZTddiiqF#tvbus://83rPBCgKg8NuMBzPDs3kPZb7zFS9yxjXJ8uYb2bpPXQ6bfPTA8#tvbus://7PUpYYhEXycXwbrV6bg2iWxePFjerV7e52p5jRGQSn3Ys1bip2#tvbus://8RG9hP2JMsf4sx5E3ZmGBUDQbtsAddYyUL9DsGETdivF7WMLdi#tvbus://6FCzqSCmRXm5vYrVJKEsanw2MNQe6GdGXDBxtUhCNfMT3pD4fVpTWfA2rYK4F
-香蕉臺,tvbus://8DCHFc63w71ST1AqD22poPoDkoBpy4swXb5jfun4pCYqMJcJPH#tvbus://7rTz1esvq94jL9YAEnfGU69ZQWpEEs6wPHyR1TQTkMYs4Fh6HD#tvbus://88NxJ5Kav3Fxc33VSXPh7bQRC6L4dNHz1VThsq7m3BzZaV4Zxz#tvbus://7AGoPuCv4u7nfoA7YAkyRV5msmU2n1hcQiLyCuQwoLchtPnTG5#tvbus://8aSJxZhzeZi9X1ui1qEqCcWpG15Vn2XeaoSD3aUxmKPYnNviSp#tvbus://8NeSPzk3JGLqMPLT9URMjf2FQLRK6UcS3fR9jnUVeq6xstYfBv#tvbus://6VaB8kdxjDxxUcYpg5SRwU6xdFXFpSCmFp1riAHxczseBiEaDCozL7RpDz9GK
 潘多拉粉紅,tvbus://7LPAET8LPKSb8B6PxhyNckv5XJd7bRKpyLRuKa4cXMQHUEshBj#tvbus://8bAfhBvMjS2TSZnAz1nQ1ScNyaVx7VRdpChqA43DciC35TvdDd#tvbus://8mDszDLpuZWe4FXjZ2hf6Mmqk8XPaBifQnQxS311eBmwGHi9Kh#tvbus://71WgrHdshUoAHySfkws3M7F2UmCNiV6nNvV6D2sWiHZe61WB4P#tvbus://7EGcfHRR971Ps4LVmR6u9AnLthm4jCjrTY7Wz2GYef8oqtCg8E#tvbus://8JjsawEKet8BRSza1hrwK63yCGifrhZsH1h7eweyVaa6ym1Cic#tvbus://5LwU9oBkAXyfSJC22UX2JjrwR3S14Yg45aQc473jshCnHTTm9A34qdBucAxGH
 彩虹MOIVE,tvbus://8PRce5vS1sLBTQgucqGPq1p7o9hmgaiH6sa6Ui3FavQYkd79nG#tvbus://8kWjP8sTZmPRxrp1wB2XGzH7sU1vhtDhAeVDb4uQhWgQtkTZxY#tvbus://89wtQ69m98huFKKpyj6cVVJHrkUpvCCoKvoWnAD8BHSQ1eWXA9#tvbus://7Giq9PC7334Z5SgdwMHdqfY3FnDKgPyEhtEGu4pDuAd51pXmNf#tvbus://7z2fKnAvSQjsHhEWa5McyAxiUTAiU5GQtut3VaPF5q4enhs2Pe#tvbus://8NcFvipG7zE8Y6r4B3rMjowhCafQUfUR3eWCkErJ5i3yJpCgDu#tvbus://5UnVfpMTEDqPb4v4ooPzJPrzM6jQrqPq6wa7iSrzvrFFzcRsWn6KuWJEniXBL
 
+
+松視1台,http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8#http://18.svi-studio.com:801/live/055613148424/758984796805/5.m3u8 
+松視2台,http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8#http://18.svi-studio.com:801/live/055613148424/758984796805/6.m3u8 
+松視3台,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8#http://18.svi-studio.com:801/live/055613148424/758984796805/20205.m3u8
+
+潘多拉玩美,tvbus://7d5w2TrSYS6Cwo4T35WoQem6j4uSXZCdLbf1gfHv2Katv9eb4s#tvbus://759nxecyVy3REKt6UGoCMrMkNdUZg3pjrkTrD4nVMdsNDCkBTT#tvbus://6y5cF8zjvpkcDgM7CdGyEpNjANx4jxyNnaxzbcu3gCxp3pWEM9#tvbus://8aQWUWTaW8A4Vugnasn1QJhAAZXz8Uy5X1DMpCenqypj8G4CKE#tvbus://7hssmowvCdsMSqdw7CxceFwzVhAhfjhSViJbLurnLHUhPgdtLp#tvbus://8eJ9uaq2mp8ixtrJqw1i9n9ytisRiWBU7iW5ZY7cKKu2gRwZiT#tvbus://5d2iaF7JJUWYMpbRBuvZMTGAGkcVYpUBUnFv3AADgVp65QA8gpiCe6A5a1htL
+香蕉臺,tvbus://8DCHFc63w71ST1AqD22poPoDkoBpy4swXb5jfun4pCYqMJcJPH#tvbus://7rTz1esvq94jL9YAEnfGU69ZQWpEEs6wPHyR1TQTkMYs4Fh6HD#tvbus://88NxJ5Kav3Fxc33VSXPh7bQRC6L4dNHz1VThsq7m3BzZaV4Zxz#tvbus://7AGoPuCv4u7nfoA7YAkyRV5msmU2n1hcQiLyCuQwoLchtPnTG5#tvbus://8aSJxZhzeZi9X1ui1qEqCcWpG15Vn2XeaoSD3aUxmKPYnNviSp#tvbus://8NeSPzk3JGLqMPLT9URMjf2FQLRK6UcS3fR9jnUVeq6xstYfBv#tvbus://6VaB8kdxjDxxUcYpg5SRwU6xdFXFpSCmFp1riAHxczseBiEaDCozL7RpDz9GK
 彩虹e臺,tvbus://886X3enkj3aVyfRZeCCPGh9tcy7RjYZX3YipwEEqW8B5N8HP9V#tvbus://7F2x4EsgCXvwYfqyfAvkMC8Qzqr5JtJLUsF6pCNhibib5NRCXz#tvbus://7phjBHmARawsNbdv829wnMhupdfzgt82TRboDXtTvNE9Lreizf#tvbus://6qvhoxy8fB1CgLS6RCBpLDpSr4vZGvtHCmVfi7nQc1MLpjeQqh#tvbus://7UfTUerdagvn1mPttMQntkhEC5VFcihPfioiN3x66A8FNgaZHt#tvbus://8LhcrP8k71gbNeBP3mj63yZmnkZPZPehFrntA2z2oYHP71ZocK#tvbus://5U9EF6CDqN51CZN5nM6pyNNGfsGxiQH1xG795PMpg5ktX8GC49j8SgJCbgc21
 K頻道,tvbus://8GwyVVSjAdtbXuVsv5ogcKS1jEZA9FahAvgYoDs4nf45E5zdJ8#tvbus://7pH9MVdqRHtWFaou2nDmjQQD8Zy9cHUwD9VJZ1ht6JzDVYsYJ4#tvbus://8XKn7ChgpzvRC8K7XpR1ye4pkJntkZmLpRABNiPALWKQG3Q8Tx#tvbus://7d7YkH7yvJmns3XNwrhgGtY3bw7pNQyGfdWsYb5bJih2Jw1gTa#tvbus://8SuQcAuyEpa1jnnB1YW1cPUv8e7t1uyecEdxEGQbCFtdfef7eR#tvbus://8a7fp8Hw2cWuJREJf9DUpmmiQcR3m5wP97VmkDQpt7kL4r4btW#tvbus://6YwzzeFPEcMZ1XKEbdZYt6TTnSUqq5CbPFVc3aHsjKGqTqFpicZFneA2R56Ya
 潘朵拉,http://18.svi-studio.com:801/live/055613148424/758984796805/3.m3u8#http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8 
 🈲驚艷臺,http://18.svi-studio.com:801/live/055613148424/758984796805/1.m3u8#http://125.227.210.55:8156/VideoInput/play.ts#http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8 
 🍌香蕉臺,http://18.svi-studio.com:801/live/055613148424/758984796805/4.m3u8#http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8 #http://125.227.210.55:8159/VideoInput/play.ts
-松視1台,http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8#http://18.svi-studio.com:801/live/055613148424/758984796805/5.m3u8 
-松視2台,http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8#http://18.svi-studio.com:801/live/055613148424/758984796805/6.m3u8 
-松視3台,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8#http://18.svi-studio.com:801/live/055613148424/758984796805/20205.m3u8
 
 
 
@@ -508,7 +511,7 @@ K頻道,tvbus://8GwyVVSjAdtbXuVsv5ogcKS1jEZA9FahAvgYoDs4nf45E5zdJ8#tvbus://7pH9M
 
 
 
-潘多拉玩美,tvbus://7d5w2TrSYS6Cwo4T35WoQem6j4uSXZCdLbf1gfHv2Katv9eb4s#tvbus://759nxecyVy3REKt6UGoCMrMkNdUZg3pjrkTrD4nVMdsNDCkBTT#tvbus://6y5cF8zjvpkcDgM7CdGyEpNjANx4jxyNnaxzbcu3gCxp3pWEM9#tvbus://8aQWUWTaW8A4Vugnasn1QJhAAZXz8Uy5X1DMpCenqypj8G4CKE#tvbus://7hssmowvCdsMSqdw7CxceFwzVhAhfjhSViJbLurnLHUhPgdtLp#tvbus://8eJ9uaq2mp8ixtrJqw1i9n9ytisRiWBU7iW5ZY7cKKu2gRwZiT#tvbus://5d2iaF7JJUWYMpbRBuvZMTGAGkcVYpUBUnFv3AADgVp65QA8gpiCe6A5a1htL
+
 18 ADULT 7,tvbus://8iZJUbYEJBu7ZNBKEnsaeag4Lc6jJQtsrPpjPSxcKjM32Z2Yex#tvbus://6x36bQBdjUwUyjS3WJ8hi9iXnpA2ZzAQYMAPPj96Q4s6RtvgYP#tvbus://7m8ZN2PirtdmB2ZiFXi5KCQwGPqoHwmVY6b7UAab1snoxtDjNB#tvbus://8NWkoDWsHon6EV8Ag4p65XivKAJZoKpHGcg2y4EZDPjPfRduyW#tvbus://8AhmdrqmEMa57jfDCFsd1oexPbjHH5ipocc2N7N7cnoKEt2uQU#tvbus://7a53QRi1iDj1aNh6cdD4sfLDwrVkKFFu89rXbFRXg2xUYveym8#tvbus://5vmwWUdQhc7pq5dxe1LKKmizB1k68AyaJZjbQGCqsMZkMjNnw4WJ4Vfq31HB4
 18 ADULT 6,tvbus://8CWh3LkPS2yyT4MUwhXDmRxD5bRwCiJE5gKU8cPPBJnWWhvTMs#tvbus://7So7hnAFa8RQX7Prk6Z2fRqoWa88zVPqzn8PbCtJsngYyuNvh6#tvbus://7FoBUztMdgPSXxfbi6Sjqgy3xBXmczBMEARXTmX93uagusrEEY#tvbus://8MXVKWr1FQNvPLP3mQuXobs2iQhZwwmncbbQNkDJrMbYoEL8d5#tvbus://72dgeuxm3ptRTGGAw5Vgf7jCgGTw9BL3Sf2UvfjDCkKGLJAiST#tvbus://7qLBLVuQ5V8i4Rw6jBHnX2ot12GRLQxYdnparnK2YEMMsQZfba#tvbus://6LGyQFQuGLxP7uP28tMSLeF2MxjPoUXNB8dLAVWTk4Ak63S985m7btzJVBZXb
 18 ADULT 5,tvbus://7mNf75nkcyCRAVnmxM8ear6xhWmtRM94quxG6363cgYRR35oGh#tvbus://8fcvFxZzarRRWe9PNdB78MoZDY2UcAsPXPbBsWCckbByHttJaE#tvbus://7bGxujtPq62FYUVzT9eGSFyMb9638EBxaoSM4bou7bYnwme7XC#tvbus://7m5soJvJX3x5ifvPEYKuDZFMGHj95824SqcBhSxpKhi4nf9JB4#tvbus://7XJrUYjHmw75AttgvraftJ25gAvzQ9DhBHNNnrjmM6YPekyVP2#tvbus://8Vyjp2zzDxYp777V5acKtBxcs1A7D3FoEx2DB6D6PJWR2aa15L#tvbus://5tpsin8vmm8zXBMSnWDYGghDQgUqFnpXiakuHGCtTz1D3qTLhENuXmpDVFXkn
