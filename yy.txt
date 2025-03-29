@@ -493,6 +493,7 @@ HOT,tvbus://888v7qzrdgpEFVmqE3zdPLSVSkR3f4S99kmZts8psraWUriy5E#tvbus://8XF9CAYhE
 極限,https://epg.pw/stream/a4a9b7e7603d96e605468df45eb0d14be5b022328f927957290b981f8c7f7a6c.m3u8
 玩美台,https://epg.pw/stream/e5cc080f8b849ce451705d59802c6d1605c643995772f60896098fd840b10255.m3u8
 彩虹電影,https://epg.pw/stream/8f647a29253c5b46f20972beade6fdda0a9b75d6e91b847c39c20b95ce97e78a.m3u8
+粉紅台,p3p://108.181.32.169:27540/641a800b00087defc0dde7672f891ee4
 彩虹E,https://epg.pw/stream/39d8f414d724fb9b7c2b1d6ae39871850ff5cf78d9db0ef0a2b8eea8ed84a39a.m3u8
 潘朵拉,http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8 
 🈲驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts#http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8 
@@ -500,7 +501,7 @@ HOT,tvbus://888v7qzrdgpEFVmqE3zdPLSVSkR3f4S99kmZts8psraWUriy5E#tvbus://8XF9CAYhE
 松視1台,http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8 
 松視2台,http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8 
 松視3台,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
-粉紅台,p3p://108.181.32.169:27540/641a800b00087defc0dde7672f891ee4
+
 彩虹E,p3p://108.181.32.169:27540/641a802000061354c0de38d050782a5d
 
 
