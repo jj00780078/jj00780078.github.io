@@ -13,18 +13,13 @@
             "changeable": 1
           },
 
-        {
-            "key":"小苹果弹幕",
-            "name":"🍎┃苹果┃弹幕",
-            "type":3,
-            "api":"csp_Xpg",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":{
-                "danmu":true
-            }
-        },
+ {
+      "key": "csp_Jpys",
+      "name": "🥇金牌┃1080P",
+      "type": 3,
+      "api": "csp_Jpys"
+    },
+
 
       
      
@@ -35,12 +30,6 @@
 
 {"key":"csp_Auete","name":"Auete┃无搜索","type":3,"api":"csp_Auete","searchable":1,"playerType":1,"quickSearch":1,"filterable":1},
 
- {
-      "key": "csp_Jpys",
-      "name": "🥇金牌┃1080P",
-      "type": 3,
-      "api": "csp_Jpys"
-    },
 
  {
             "key": "csp_JUMITV",
