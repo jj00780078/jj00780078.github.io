@@ -124,7 +124,18 @@ ELTA體育3台(备:1),tvbus://6s167vJiTr2rPeiLzrTDBboWj2n8jBWHUjNMyvD9Sbc4QndEwA
 ELTA體育4台,tvbus://7wzjimj9z94DbCrJwNQFZXEuBgJqEUrjfWqziC1kqDW4JYCCSP#tvbus://79CtQyor7phwbzo9gQmRyL6BTiYb7mY7X9wzMvGFPTkAN2ZFgM#tvbus://5rwrj9tcnrYTqcNKa5YtFZ7ykznQNWjNMkvtEqv2AXGT9HjqUi9HGPTcCaZuB#tvbus://6giFRMbmYZFHRetQ4PPtwm4QNrJrCjuPuNf5EXM27cpKtNzADmnvFfHQgXPdW#tvbus://5xKSsbMaKACgLbT4N1917M44LuSh4RPu83B2HdXT58XcBgXW76wnuymyteTX7
 
 
+壹電視新聞_線路一,tvbus://3iXmoiqMLxP8FVEQVDptTGf5sFFB7X7KkdSzpGW9aPUpcSx9SM
 
+壹電視新聞_線路一,tvbus://3W2xXgi9J9fDLbnd2siJsJ65zbP6bDoCccgQDTK2fuxyhmmmLU8jQoik4WN2e
+壹電視新聞_線路二,tvbus://3gxc6SEHVqZdBBFNPBMxECK7mNcKJ32Q5UVRSxZtxvpRYYuabQXkbNBaZxNzt
+年代新聞,tvbus://2VADzNLCRiwvKxvYgQHWv8XDu6JpHYkp5k4jTMbEupWPTqvXs2pohyqQ2kKZM
+民視新聞_線路一,tvbus://4h3Mdn2uvmzgXtFmFcF29z8Qd4qiSzMUGFjSZAiafKxYa8DZPL
+三立新聞_線路一,tvbus://4JdW8JdAGrJcAJaLDzCTQcDcz8gSnB5nALFZasSwP1nDxszPQ1
+東森新聞,tvbus://492S2vSPPEwx1KzjfasUzko6spv2fs62fAjYzeJsPPMH5n1c9n
+TVBS新聞,tvbus://4iNe2wXP78HSnoSLDyYsd1RhDXR3exHCrBB5xPUE5y3KwJ5gXA
+
+東森財經新聞,tvbus://3D3ehK91Rx2WJycPTWNBAiXS8B6KFNszS2Zi9YxsMJveuyr8tr
+非凡新聞,tvbus://2zupHHrYcdR5EkZotDutqbsbYWvgvZRUVi69Chj9Ky6FeRC9FY
 
 
 

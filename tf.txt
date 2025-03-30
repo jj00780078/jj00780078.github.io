@@ -339,7 +339,19 @@
                     },
 
 
-
+    { "name": "金星",
+      "url": "file://Box/jx.txt",
+      "epg":"https://diyp100.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.v1.mk/logo/{name}.png",
+      "core": {
+        "auth": "https://sgla.googlejt.com/v1/auth",
+        "name": "08a77819f9b7",
+        "pass": "1742653607661",
+        "sign": "163428eb20fa4b27",
+        "pkg": "com.yby.v11.singapore.tv",
+        "so": "file://Box/joy.so"
+      }
+      },
 
          {   "name": "LiTV[台湾节点]",
             "type": 0,
@@ -351,25 +363,7 @@
 
 
 
-                    {  "name": "沐辰直播",
-                      "type": 3,
-                      "playerType": 2,
-                      "api": "https://json.doube.eu.org/python/py_litv.py",
-                      "ext": "",
-                      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-                      "logo": "https://epg.112114.xyz/logo/{name}.png"
-                    },        
 
-
-
-
-
-         {   "name": "快直播[低码率]",
-            "type": 0,
-            "url": "http://xg.52sw.top/play/kzb",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },  
 
 
 
@@ -401,6 +395,25 @@
                               }
                     },
 
+                    {  "name": "沐辰直播",
+                      "type": 3,
+                      "playerType": 2,
+                      "api": "https://json.doube.eu.org/python/py_litv.py",
+                      "ext": "",
+                      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+                      "logo": "https://epg.112114.xyz/logo/{name}.png"
+                    },        
+
+
+
+
+
+         {   "name": "快直播[低码率]",
+            "type": 0,
+            "url": "http://xg.52sw.top/play/kzb",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },  
 
           {  "name": "焦点(Focus TV)",
             "type": 0,
