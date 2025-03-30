@@ -13,20 +13,8 @@
             "searchable": 1,
             "changeable": 1
           },            
-        {
-            "key":"小苹果弹幕",
-            "name":"🍎┃苹果┃弹幕",
-            "type":3,
-            "api":"csp_Xpg",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":{
-                "danmu":true
-            }
-        },
 
-{"key": "csp_LiteApple","name": "🍎┃苹果┃影视","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},  
+
 
 
  {
@@ -189,6 +177,7 @@
 
 {"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
 
+{"key": "csp_LiteApple","name": "🍎┃苹果┃影视","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},  
    
 {"key":"T4-独播库","name":"影視｜独播库 (T4)","type":4,"api":"https://tang.hz.cz/power/duboku?token=647c28ca","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},     
 {"key":"sgolys","name":"影視| 欧乐(T4)","type":4,"api":"https://tang.hz.cz/power/olelive?token=b1eb6417","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},

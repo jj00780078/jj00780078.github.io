@@ -13,18 +13,7 @@
             "searchable": 1,
             "changeable": 1
           },            
-        {
-            "key":"小苹果弹幕",
-            "name":"🍎┃苹果┃弹幕",
-            "type":3,
-            "api":"csp_Xpg",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":{
-                "danmu":true
-            }
-        },
+
        
 
 {"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},
@@ -142,7 +131,7 @@
 {"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"T4-独播库","name":"影視｜独播库 (T4)","type":4,"api":"https://tang.hz.cz/power/duboku?token=647c28ca","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},     
 {"key": "大米星球","name": "大米｜APP","type": 3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/APPV2.js?type=url&params=https://damifan.wiki"},      
-
+{"key":"小苹果弹幕版","name":"🍎苹果┃弹幕","type": 3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10}, 
 {"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1}
 
 ],      
@@ -169,25 +158,7 @@
 
 
 
-                    {  "name": "沐辰直播",
-                      "type": 3,
-                      "playerType": 2,
-                      "api": "https://json.doube.eu.org/python/py_litv.py",
-                      "ext": "",
-                      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-                      "logo": "https://epg.112114.xyz/logo/{name}.png"
-                    },        
 
-
-
-
-
-         {   "name": "快直播[低码率]",
-            "type": 0,
-            "url": "http://xg.52sw.top/play/kzb",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },  
 
         {
             "name": "网络源大杂烩",
