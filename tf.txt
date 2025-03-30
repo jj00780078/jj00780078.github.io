@@ -342,15 +342,15 @@
    { "name": "金星",
       "type": 0,
       "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/joy.txt",
-      "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+      "epg":"https://diyp100.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.v1.mk/logo/{name}.png",
       "core": {
-        "auth": "local://tvbus",
+        "auth": "https://sgla.googlejt.com/v1/auth",
         "name": "08a77819f9b7",
         "pass": "1742653607661",
         "sign": "163428eb20fa4b27",
-        "pkg": "com.svc.vlive.home.ytv9x",
-        "so": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/joy.so"
+        "pkg": "com.yby.v11.singapore.tv",
+        "so": "file://Box/joy.so"
                       }
                     },
 
