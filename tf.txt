@@ -350,7 +350,7 @@
         "pass": "1742653607661",
         "sign": "163428eb20fa4b27",
         "pkg": "com.yby.v11.singapore.tv",
-        "so": "file://Box/joy.so"
+        "so": "https://tang.hz.cz/so/xy.so"
                       }
                     },
 
