@@ -489,6 +489,17 @@ CherryTv,#genre#
 HOT,tvbus://888v7qzrdgpEFVmqE3zdPLSVSkR3f4S99kmZts8psraWUriy5E#tvbus://8XF9CAYhEgtBaAq7egfgPFoXMTtiipDVoaZPCFZji7WBcAsv8H#tvbus://8h3QBLpXGK6RBkTSiaiiDFvfFwLZFsjsMDuDEXd7i5ZTddiiqF#tvbus://83rPBCgKg8NuMBzPDs3kPZb7zFS9yxjXJ8uYb2bpPXQ6bfPTA8#tvbus://7PUpYYhEXycXwbrV6bg2iWxePFjerV7e52p5jRGQSn3Ys1bip2#tvbus://8RG9hP2JMsf4sx5E3ZmGBUDQbtsAddYyUL9DsGETdivF7WMLdi#tvbus://6FCzqSCmRXm5vYrVJKEsanw2MNQe6GdGXDBxtUhCNfMT3pD4fVpTWfA2rYK4F
 潘多拉粉紅,tvbus://7LPAET8LPKSb8B6PxhyNckv5XJd7bRKpyLRuKa4cXMQHUEshBj#tvbus://8bAfhBvMjS2TSZnAz1nQ1ScNyaVx7VRdpChqA43DciC35TvdDd#tvbus://8mDszDLpuZWe4FXjZ2hf6Mmqk8XPaBifQnQxS311eBmwGHi9Kh#tvbus://71WgrHdshUoAHySfkws3M7F2UmCNiV6nNvV6D2sWiHZe61WB4P#tvbus://7EGcfHRR971Ps4LVmR6u9AnLthm4jCjrTY7Wz2GYef8oqtCg8E#tvbus://8JjsawEKet8BRSza1hrwK63yCGifrhZsH1h7eweyVaa6ym1Cic#tvbus://5LwU9oBkAXyfSJC22UX2JjrwR3S14Yg45aQc473jshCnHTTm9A34qdBucAxGH
 彩虹MOIVE,tvbus://8PRce5vS1sLBTQgucqGPq1p7o9hmgaiH6sa6Ui3FavQYkd79nG#tvbus://8kWjP8sTZmPRxrp1wB2XGzH7sU1vhtDhAeVDb4uQhWgQtkTZxY#tvbus://89wtQ69m98huFKKpyj6cVVJHrkUpvCCoKvoWnAD8BHSQ1eWXA9#tvbus://7Giq9PC7334Z5SgdwMHdqfY3FnDKgPyEhtEGu4pDuAd51pXmNf#tvbus://7z2fKnAvSQjsHhEWa5McyAxiUTAiU5GQtut3VaPF5q4enhs2Pe#tvbus://8NcFvipG7zE8Y6r4B3rMjowhCafQUfUR3eWCkErJ5i3yJpCgDu#tvbus://5UnVfpMTEDqPb4v4ooPzJPrzM6jQrqPq6wa7iSrzvrFFzcRsWn6KuWJEniXBL
+驚艷,http://18.svi-studio.com:801/live/478790710441/100371347442/1.m3u8
+
+潘朵拉完美,http://18.svi-studio.com:801/live/478790710441/100371347442/3.m3u8
+
+香蕉,http://18.svi-studio.com:801/live/478790710441/100371347442/4.m3u8
+
+松視1台,http://18.svi-studio.com:801/live/478790710441/100371347442/5.m3u8
+
+松視2台,http://18.svi-studio.com:801/live/478790710441/100371347442/6.m3u8
+
+松視3台,http://18.svi-studio.com:801/live/478790710441/100371347442/20205.m3u8
 
 
 松視1台,http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8#http://18.svi-studio.com:801/live/055613148424/758984796805/5.m3u8 
