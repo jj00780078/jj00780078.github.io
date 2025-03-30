@@ -190,7 +190,38 @@
       "api": "csp_Jpys"
     },
 
+{"key":"小苹果弹幕版","name":"🍎苹果┃弹幕","type": 3,"api":"csp_XpgGuard","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 20},
 
+ {
+            "key": "77",
+            "name": "🇹┃苹果影视┃秒播",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+ {
+	"key": "华人影院",
+	"name": "🇹┃华人影院┃秒播",
+	"type": 3,
+	"api": "csp_XBPQ",
+	  "jar": "./js/xyqxbpq.jar",
+	"ext": {
+		"分类url": "https://www.hdvod.cc/vod/filter/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+		"分类": "电视剧$drama#电影$movie"
+	}
+       }, 
+
+ {
+            "key": "一起看 ",
+            "name": "🇹┃一起看源┃影视",
+            "type": 3,
+            "api": "csp_YQKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
 
 {"key":"糯米弹幕","name":"💘糯米｜弹幕","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 {"key":"文才弹幕","name":"💘文才┃弹幕","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
