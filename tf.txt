@@ -340,7 +340,7 @@
 
 
 
-         {   "name": "LiTV[台湾节点]",
+        {   "name": "LiTV[台湾节点]",
             "type": 0,
             "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/litv.txt",
             "ua": "okhttp/3.15",
@@ -350,15 +350,35 @@
                 "type": "append",
                 "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
           }
-        },
+    "headers": [
+        {
+            "host": "gslbserv.itv.cmvideo.cn",
+            "header": {
+                "User-Agent": "okhttp/3.12.13"
+            }
+        }
+    ],
+    "proxy": [
+        "raw.githubusercontent.com"
+    ],
+    "hosts": [
+        "cache.ott.ystenlive.itv.cmvideo.cn=39.135.132.221",
+        "cache.ott.bestlive.itv.cmvideo.cn=39.135.132.221",
+        "cache.ott.wasulive.itv.cmvideo.cn=39.135.132.221",
+        "cache.ott.fifalive.itv.cmvideo.cn=39.135.132.221",
+        "cache.ott.hnbblive.itv.cmvideo.cn=39.135.132.221"
+    ],
+    "ads": [
+        "static-mozai.4gtv.tv"
+    ]        
+
+    },
 
 
 
 
-
-
-
-
+         
+         
           {  "name": "ofiii[台湾节点]",
             "type": 0,
             "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/of.txt",
@@ -476,28 +496,12 @@
 
 ],    
 
-    "headers": [
-        {
-            "host": "gslbserv.itv.cmvideo.cn",
-            "header": {
-                "User-Agent": "okhttp/3.12.13"
-            }
-        }
-    ],
-    "proxy": [
-        "raw.githubusercontent.com"
-    ],
+
     "hosts": [
         "cache.ott.*.itv.cmvideo.cn=itv.dns.52top.com.cn"
-        "cache.ott.ystenlive.itv.cmvideo.cn=39.135.132.221",
-        "cache.ott.bestlive.itv.cmvideo.cn=39.135.132.221",
-        "cache.ott.wasulive.itv.cmvideo.cn=39.135.132.221",
-        "cache.ott.fifalive.itv.cmvideo.cn=39.135.132.221",
-        "cache.ott.hnbblive.itv.cmvideo.cn=39.135.132.221"
+
     ],
-    "ads": [
-        "static-mozai.4gtv.tv"
-    ],
+
 
     "rules": [
         {
