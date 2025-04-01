@@ -384,14 +384,7 @@
                               }
                     },
 
-                    {  "name": "沐辰直播",
-                      "type": 3,
-                      "playerType": 2,
-                      "api": "https://json.doube.eu.org/python/py_litv.py",
-                      "ext": "",
-                      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-                      "logo": "https://epg.112114.xyz/logo/{name}.png"
-                    },        
+ 
 
 
      { "name": "LITV直播(python)",
@@ -401,12 +394,7 @@
     },
 
 
-         {   "name": "快直播[低码率]",
-            "type": 0,
-            "url": "http://xg.52sw.top/play/kzb",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },  
+
 
    { "name": "金星",
       "type": 0,
@@ -429,37 +417,7 @@
 
 
 
-        {
-            "name": "网络源大杂烩",
-            "type": 0,
-            "url": "http://ttkx.cc:55/lib/kx2024.txt",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },        
-        {
-            "name": "MyTvSuper",
-            "type": 0,
-            "url": "http://xg.52sw.top/play/mytvsuper/index-mytvsuper.php",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
-        {
-            "name": "火星直播",
-            "type": 0,
-            "url": "http://xg.52sw.top/play/hxds/",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/epg/?ch={name}&date={date}",
-            "header": {
-                "Referer": "https://www.kds.tw/"
-            }
-        },
 
-         {   "name": "欧华(ouhua TV)",
-            "type": 0,
-            "url": "http://xg.52sw.top/iptv/欧华.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },        
 
         {
             "name": "173源",
