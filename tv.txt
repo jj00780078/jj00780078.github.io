@@ -36,9 +36,9 @@ YouTube新聞,#genre#
 三立新聞,http://122.117.71.103:8542/http/220.130.87.218:8081/hls/65/807/ch018.m3u8
 三立新聞,https://stream1.freetv.fun/ea74b932d9d126c79dbea6485ac7119fb16be08f6e7a4494cd2647641c93361d.m3u8
 三立新聞,https://stream1.freetv.fun/san-li-xin-wen-7.m3u8
-
-
-
+三立新聞,http://免.l5.ca/daili/Smartv.php?id=sanlinews_twn
+三立新聞,http://免.l5.ca/daili/Smartv.php?id=sanlinews
+三立新聞,http://免.l5.ca/daili/Smartv.php?id=sanlixinwen_twn
 
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 東森新聞,https://stream1.freetv.fun/4e8297ed0610c91e855ddb69d24344baa6b732dd2d1b24ac2e0a71a3d39ca41c.ctv
