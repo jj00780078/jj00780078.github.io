@@ -511,7 +511,12 @@ K頻道,tvbus://8GwyVVSjAdtbXuVsv5ogcKS1jEZA9FahAvgYoDs4nf45E5zdJ8#tvbus://7pH9M
 松視2臺,tvbus://7Fvko3o3z1zbb8r8EdRVft1FvBpGmsfJbvRY6f8DwF5veGQgoo#tvbus://7zDcYB6twwQVZi2E7eDH1Vs3izvHveD5MdZRDVB6NCkbUtRPPB#tvbus://7aa6tnS6acC5vDBbwAEQGSML1hueHKpr2Gp7D5XQMBY1U2ygTS#tvbus://8SnbhnzDXD8mGyQkMphxo4xGpC8Kp4uZtoLgiDijQU4xcUu2oi#tvbus://6uxnc9PU1jEvgGEbkjYsKgVPDgRCacVbTQtcRQrKPzNR5UAbRY#tvbus://7sJLmCdXZrXXfCkoFYuZ95vaZMSZQkFzSMpzGW8UdNCYfDvEUk#tvbus://5V4yiwguQWZdTVgDu7bsKmcsr7U7YNHy468Ne42kDtdp3kY3BJmRKxpSMRsYu
 松視3臺,tvbus://8V6ax5wximJSbDbRyRkLJ9uKsbZBtHzKkkHyheRYsCDQn1NkyZ#tvbus://8XsbtMB89TVonaQMEQGmRfDjjYgSHKjGpRhCfJp2Zx85gma3se#tvbus://8GFSfbeh9R8nSXj2QeKGziq6bkdhp1cQiF4tzuiYhG64fScPPk#tvbus://7YZ2B4dPCvHZrBib9Ku2XAUzBXDGSYM3GMFj33mF26KeGDUgJw#tvbus://7AqfZxzZiivqNSbCdpX5KDaWkNT14igZQab1iRcdYgqqL8auEN#tvbus://7JhRTQfAbTGq4EiLw2UMyGov8KkW5dDLMNLAmxQtsRDPeW9zwB#tvbus://5bWfo1ynFo4tmhThbh1FQoq8Jra16aZfxfb3GLmkLHp1Asm85oM58femW7eAw
 
-
+驚艷,http://18.svi-studio.com:80/live/656570054361/567275863459/1.m3u8
+潘朵拉完美,http://18.svi-studio.com:80/live/656570054361/567275863459/3.m3u8
+香蕉臺,http://18.svi-studio.com:80/live/656570054361/567275863459/4.m3u8
+松視1台,http://18.svi-studio.com:80/live/656570054361/567275863459/5.m3u8
+松視2台,http://18.svi-studio.com:80/live/656570054361/567275863459/6.m3u8
+松視3台,http://18.svi-studio.com:80/live/656570054361/567275863459/20205.m3u8
 
 
 18 ADULT 7,tvbus://8iZJUbYEJBu7ZNBKEnsaeag4Lc6jJQtsrPpjPSxcKjM32Z2Yex#tvbus://6x36bQBdjUwUyjS3WJ8hi9iXnpA2ZzAQYMAPPj96Q4s6RtvgYP#tvbus://7m8ZN2PirtdmB2ZiFXi5KCQwGPqoHwmVY6b7UAab1snoxtDjNB#tvbus://8NWkoDWsHon6EV8Ag4p65XivKAJZoKpHGcg2y4EZDPjPfRduyW#tvbus://8AhmdrqmEMa57jfDCFsd1oexPbjHH5ipocc2N7N7cnoKEt2uQU#tvbus://7a53QRi1iDj1aNh6cdD4sfLDwrVkKFFu89rXbFRXg2xUYveym8#tvbus://5vmwWUdQhc7pq5dxe1LKKmizB1k68AyaJZjbQGCqsMZkMjNnw4WJ4Vfq31HB4
