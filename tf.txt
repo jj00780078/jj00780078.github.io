@@ -4,6 +4,32 @@
 
 "sites":[
 
+        {
+            "key": "csp_YingShi",
+            "name": "影视|海外",
+            "type": 3,
+            "api": "csp_YingShi",
+            "ext": "proxy"
+        },
+        {
+            "key": "星星",
+            "name": "星星 | 海外",
+            "type": 3,
+            "api": "csp_Star",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "proxy"
+        },
+        {
+            "key": "獨播",
+            "name": "獨播 | 海外",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "./lib/duboku.json$$$proxy"
+        },
+
           {
             "key": "Wexduboku",
             "name": "🥇｜獨播庫｜",
