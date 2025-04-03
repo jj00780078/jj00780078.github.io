@@ -358,23 +358,14 @@
     },
 
 
-{
-      "name": "ofiii",
-      "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/of.txt",
-      "hosts": [
-        "www.ofiii.com"
-      ],
-      "script": [
-        "const play=document.getElementsByClassName('play_icon')[0],event=new MouseEvent('click',{bubbles:!0,cancelable:!0,view:window,screenX:100,screenY:100,clientX:50,clientY:50,button:0,shiftKey:!1,ctrlKey:!1,altKey:!1,metaKey:!1,modifierState:0});play.dispatchEvent(event);"
-      ]
-    },
+
 
 
          
          
           {  "name": "ofiii[台湾节点]",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/offii.txt",
+            "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/of.txt",
             "ua": "okhttp/3.15",
             "epg":"http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
