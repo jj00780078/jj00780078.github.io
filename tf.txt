@@ -359,7 +359,8 @@
 
 {
     "name" : "🍼酸奶直播",
-    "url" : "https://web.banye.tech:7777/tvbus/yogurtTv.txt",
+    "logo": "https://epg.112114.eu.org/logo/{name}.png",    
+    "url" : "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/yogurt.txt",
     "core" : {
       "auth" : "local://tvbus",
       "name" : "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
