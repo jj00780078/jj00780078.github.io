@@ -128,7 +128,8 @@ ELTA體育4台,tvbus://7wzjimj9z94DbCrJwNQFZXEuBgJqEUrjfWqziC1kqDW4JYCCSP#tvbus:
 緯來體育台,tvbus://7ztvxNYw2fjaE416njkgo9aNdAergmawskc49LDCoxdgrK1Jv1
 緯來體育台,tvbus://6qM8oHbu8RqpJqFnC5nF83bFuXBrFjkEMwHMqdJm5cavxLqK4W
 緯來體育台,tvbus://6ewxfyKnuHZmu5HKsVU7HuzDoYrZNwueotdNepPfNPW6TkyBUH3Z3VhKoLm3a
-
+緯來體育_線路一,tvbus://3Vp1puVfdW7Mo573oZc5uqRHAaFf2SQCExfB9AfPCNoLhwDBCqmRJPtjwN9kF
+緯來體育_線路二,tvbus://32qjhVwcEqtRTZ728NqPUsNP3SNG4PGuWVJApmjcpMDoktYVHCENgckvNpauG
 
 
 壹電視新聞,tvbus://8MUCNHnQ6XnFRAyVnKcRsoJQrj7V3FyZcT5Tmr4PxDhfuf5Cac
@@ -138,6 +139,9 @@ ELTA體育4台,tvbus://7wzjimj9z94DbCrJwNQFZXEuBgJqEUrjfWqziC1kqDW4JYCCSP#tvbus:
 壹電視新聞,tvbus://8EmKNvoZDMHb4r9HawydgzrrtbsLKc9EuEoKohUKxB5XagDZBb
 壹電視新聞,tvbus://8LbkHQdMMUR3tqFTf9rJ54En5xHTjYqEBRjQUEGdQVxf7JfZUR
 壹電視新聞,tvbus://65ryeDVn2PVGQ73fHGSGkMqxxwXydqegpMT3Kv3w2aJp3zK921rJCLsvK5car
+壹電視新聞_線路一,tvbus://3W2xXgi9J9fDLbnd2siJsJ65zbP6bDoCccgQDTK2fuxyhmmmLU8jQoik4WN2e
+壹電視新聞_線路二,tvbus://3gxc6SEHVqZdBBFNPBMxECK7mNcKJ32Q5UVRSxZtxvpRYYuabQXkbNBaZxNzt
+
 
 年代新聞台,tvbus://74MB7a5kGk5Cbnct2qJASHeK6GYrtcbawuEuuejtL2iAJkNVoj
 年代新聞台,tvbus://74QBUuK5Z1sDP4yuQAQCMcrbK2F5DMzjSjnc7Ewojzn2V4kCiK
