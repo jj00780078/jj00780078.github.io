@@ -141,7 +141,8 @@ ELTA體育4台,tvbus://7wzjimj9z94DbCrJwNQFZXEuBgJqEUrjfWqziC1kqDW4JYCCSP#tvbus:
 壹電視新聞,tvbus://65ryeDVn2PVGQ73fHGSGkMqxxwXydqegpMT3Kv3w2aJp3zK921rJCLsvK5car
 壹電視新聞_線路一,tvbus://3W2xXgi9J9fDLbnd2siJsJ65zbP6bDoCccgQDTK2fuxyhmmmLU8jQoik4WN2e
 壹電視新聞_線路二,tvbus://3gxc6SEHVqZdBBFNPBMxECK7mNcKJ32Q5UVRSxZtxvpRYYuabQXkbNBaZxNzt
-
+壹電視新聞,tvbus://3W2xXgi9J9fDLbnd2siJsJ65zbP6bDoCccgQDTK2fuxyhmmmLU8jQoik4WN2e
+年代新聞台,tvbus://2VADzNLCRiwvKxvYgQHWv8XDu6JpHYkp5k4jTMbEupWPTqvXs2pohyqQ2kKZM
 
 年代新聞台,tvbus://74MB7a5kGk5Cbnct2qJASHeK6GYrtcbawuEuuejtL2iAJkNVoj
 年代新聞台,tvbus://74QBUuK5Z1sDP4yuQAQCMcrbK2F5DMzjSjnc7Ewojzn2V4kCiK
