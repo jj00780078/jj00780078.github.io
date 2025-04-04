@@ -152,11 +152,6 @@
         },
 
 
-     { "name": "LITV直播(python)",
-      "type": 0,
-      "api": "https://json.doube.eu.org/python/live_litv.py",
-      "ext": {}
-    },
 
                     {
                       "name": "優格TV",
