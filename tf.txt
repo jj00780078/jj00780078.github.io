@@ -4,8 +4,35 @@
 
 "sites":[
 
-
-
+    {
+      "key": "csp_熱播之家",
+      "name": "🥇｜熱播｜藍光◎秒播(無廣告)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": 
+           {
+           "主页url": "https://www.rebovod.com/",
+           "线路数组":"mdui-panel-item-title&&/div>",
+           "线路标题":">&&<",
+           "标题":"class=\"star-up-name mdui-p-t-1\">&&</span>",
+           "副标题":"title=\"*\">&&</span>",
+           "图片":"data-original=\"&&\"",
+           "数组": "data-key=\"&&</a>",
+           "主演": "演员：&&</div>",
+           "简介": "<p>&&</p>",
+           "链接": "href=\"/index.php/vod/detail/&&.html\"",
+           "链接前缀": "https://www.rebovod.com/index.php/vod/play/",
+           "链接后缀": "/sid/1/nid/1.html",
+           "搜索url": "https://www.rebovod.com/index.php/vod/search.html?wd={wd}",
+           "分类url": "https://www.rebovod.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+           "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+           "地区": "韩国&大陆&香港&台湾&美国&法国&英国&日本&德国&泰国&印度&意大利&西班牙&加拿大&其他||韩国&內地&香港&台湾&美国&法国&英国&日本&德国&泰国&新加坡&其他||內地&港台&日韩&欧美||国产&日本&欧美&其他"
+           }
+    },
           {
             "key": "Wexduboku",
             "name": "🥇｜獨播庫｜",
