@@ -162,7 +162,7 @@
             "searchable": 1,
             "quickSearch":1,
             "filterable":1
-            
+            "changeable": 1
           },      
 
 {

@@ -18,16 +18,7 @@
         "changeable": 1
       },
 
-{"key":"sgolys","name":"影視| 欧乐(T4)","type":4,"api":"https://tang.hz.cz/power/olelive?token=b1eb6417","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},                 
-          
-          {  "key": "Wexduboku",
-            "name": "🥇｜獨播庫｜",
-            "type": 3,
-            "api": "csp_WexdubokuGuard",
-            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/wex.jar",
-            "searchable": 1,
-            "changeable": 1
-          },
+
 
 
       
@@ -88,29 +79,7 @@
             }
           },
 
- {
-            "key": "csp_獨播庫",
-            "name": "🥉｜獨播庫(偽)｜",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-              "图片": "data-original=\"&&\"",
-              "标题": "title=\"&&\"",
-              "简介": "class=\"sketch content\"&&</span>",
-              "线路数组": "class=\"myui-panel__head active&&</div>",
-              "线路标题": "class=\"title titlego\">&&</h3",
-              "分类url": "https://www.dubokuz.com/vodtype/{cateId}.html?year={year}&country={area}&genre={class}&page={catePg}",
-              "分类": "电影$movie#剧集$tv#综艺$show#动漫$anime",
-              "类型": "空||陸劇$tv-cn#日韓劇$tv-krjp#英美劇$tv-usgb#港台劇$tv-twhk||空||空",
-              "剧情": "劇情$ju-qing#喜劇$xi-ju#愛情$ai-qing#動作$dong-zuo#科幻$ke-huan#恐怖$kong-bu#戰爭$zhan-zheng||悬疑$xuan-yi#科幻$ke-huan#爱情$ai-qing#古装$gu-zhuang#战争$zhan-zheng#青春$qing-chun#喜剧$xi-ju#家庭$jia-ting#犯罪$fan-zui#奇幻$qi-huan#剧情$ju-qing#动作$dong-zuo#历史$li-shi#搞笑$gao-xiao#推理$tui-li#人性$ren-xing||真人秀$zhen-ren-xiu#選秀$xuan-xiu#音樂$yin-le#美食$mei-shi#旅行$lv-xing#脫口秀$tuo-kou-xiu#搞笑$gao-xiao#文化$wen-hua#歌舞$ge-wu||空",
-              "地区": "大陸$cn#韓國$kr#日本$jp#美國$us#英國$gb#台灣$tw#香港$hk||空||內地$cn#日韓$krjp#港台$hktw#歐美$usgb||日本$jp#國產$cn#歐美$usgb",
-              "年份": "2025&2024&2023&2022&2021&2020&2019&2018&2017&2016&2015&2014&2013&2012&2011&2010"
-            }
-          },
+
 
  {
             "key": "csp_Imaple8TV",
@@ -136,7 +105,16 @@
           },
 
 
-
+{"key":"sgolys","name":"影視| 欧乐(T4)","type":4,"api":"https://tang.hz.cz/power/olelive?token=b1eb6417","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},                 
+          
+          {  "key": "Wexduboku",
+            "name": "🥇｜獨播庫｜",
+            "type": 3,
+            "api": "csp_WexdubokuGuard",
+            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/wex.jar",
+            "searchable": 1,
+            "changeable": 1
+          },
  
         
         
