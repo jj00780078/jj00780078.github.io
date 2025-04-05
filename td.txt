@@ -132,7 +132,7 @@
           },
 
 
-{"key":"sgolys","name":"影視| 欧乐(T4)","type":4,"api":"https://tang.hz.cz/power/olelive?token=b1eb6417","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},                 
+
           
           {  "key": "Wexduboku",
             "name": "🥇｜獨播庫｜",
@@ -168,14 +168,12 @@
 {"key":"csp_XBiu考拉TV","name":"影視| 考拉TV","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/bobyang3/tvbox/own/jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.ikaola.tv/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html","分类":"電視劇$2#電影$1#動漫$4#綜藝$3#動畫片$24#紀錄片$27"}},            
             
 {"key": "瓜子影视","name": "🥜瓜子┃2K纯净","type": 3,"api": "csp_Gz360","jar": "https://tv.xn--11x555b.top/jar/spider.jar","searchable": 1,"quickSearch": 1, "filterable": 1},
-{"key":"T4-独播库","name":"影視｜独播库 (T4)","type":4,"api":"https://tang.hz.cz/power/duboku?token=647c28ca","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},     
-   
 
              
 {"key": "荐片弹幕","name": "💨荐片┃弹幕","type": 3,"api": "csp_Jianpian","jar": "https://tv.xn--11x555b.top/jar/spider.jar","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": { "danmu": true}},	     
 {"key":"drpy_js_大师兄影视[优]","name":"影視| 大师兄[优]","type":3,"api":"https://raw.githubusercontent.com/bobyang3/tvbox/own/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/bobyang3/tvbox/own/js/大师兄影视[优].js"},
 
-{"key":"金牌資源","name":"影視| 金牌2","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/bobyang3/tvbox/own/jar/xyqxbpq.jar","ext":"https://raw.githubusercontent.com/bobyang3/tvbox/own/json/金牌影院.json"},                    
+
 {"key":"苹果","name":"影視| 頻果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1}
 
 
