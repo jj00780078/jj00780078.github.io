@@ -125,33 +125,11 @@
               "分类url": "https://jumi.tv/show/{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html",
               "分类": "電影$1#電視劇$2#綜藝$3#動漫$4",
               "类型": "動作片$6#喜劇片$7#愛情片$8#科幻片$9#恐怖片$10#劇情片$11#戰爭片$12#紀錄片$20||陸劇$13#港劇$14#台劇$22#日劇$15#韓劇$23#美劇$16#海外劇$24||空||空",
-              "地区": "大陸&香港&台灣&美國&法國&英國&日本&韓國&德國&泰國&印度&意大利&西班牙&加拿大||大陸&韓國&香港&台灣&日本&美國&泰國&英國&新加坡&其他||大陸&香港&台灣&美國&法國&英國&日本&韓國&德國&泰國&印度&意大利&西班牙&加拿大&其他||大陸&香港&台灣&美國&法國&英國&日本&韓國&德國&泰國&印度&意大利&西班牙&加拿大&其他"
+              "地区": "韓國&大陸&香港&台灣&美國&法國&英國&日本&德國&泰國&印度&意大利&西班牙&加拿大||大陸&韓國&香港&台灣&日本&美國&泰國&英國&新加坡&其他||大陸&香港&台灣&美國&法國&英國&日本&韓國&德國&泰國&印度&意大利&西班牙&加拿大&其他||大陸&香港&台灣&美國&法國&英國&日本&韓國&德國&泰國&印度&意大利&西班牙&加拿大&其他"
             }
           },
 
- {
-            "key": "csp_獨播庫",
-            "name": "🥉｜獨播庫(偽)｜",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-              "图片": "data-original=\"&&\"",
-              "标题": "title=\"&&\"",
-              "简介": "class=\"sketch content\"&&</span>",
-              "线路数组": "class=\"myui-panel__head active&&</div>",
-              "线路标题": "class=\"title titlego\">&&</h3",
-              "分类url": "https://www.dubokuz.com/vodtype/{cateId}.html?year={year}&country={area}&genre={class}&page={catePg}",
-              "分类": "电影$movie#剧集$tv#综艺$show#动漫$anime",
-              "类型": "空||陸劇$tv-cn#日韓劇$tv-krjp#英美劇$tv-usgb#港台劇$tv-twhk||空||空",
-              "剧情": "劇情$ju-qing#喜劇$xi-ju#愛情$ai-qing#動作$dong-zuo#科幻$ke-huan#恐怖$kong-bu#戰爭$zhan-zheng||悬疑$xuan-yi#科幻$ke-huan#爱情$ai-qing#古装$gu-zhuang#战争$zhan-zheng#青春$qing-chun#喜剧$xi-ju#家庭$jia-ting#犯罪$fan-zui#奇幻$qi-huan#剧情$ju-qing#动作$dong-zuo#历史$li-shi#搞笑$gao-xiao#推理$tui-li#人性$ren-xing||真人秀$zhen-ren-xiu#選秀$xuan-xiu#音樂$yin-le#美食$mei-shi#旅行$lv-xing#脫口秀$tuo-kou-xiu#搞笑$gao-xiao#文化$wen-hua#歌舞$ge-wu||空",
-              "地区": "大陸$cn#韓國$kr#日本$jp#美國$us#英國$gb#台灣$tw#香港$hk||空||內地$cn#日韓$krjp#港台$hktw#歐美$usgb||日本$jp#國產$cn#歐美$usgb",
-              "年份": "2025&2024&2023&2022&2021&2020&2019&2018&2017&2016&2015&2014&2013&2012&2011&2010"
-            }
-          },
+
 
  {
             "key": "csp_Imaple8TV",
