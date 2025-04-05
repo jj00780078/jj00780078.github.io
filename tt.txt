@@ -1,95 +1,478 @@
-台灣新聞,#genre#
+{
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731501158246/spo.jar;md5;DCC4DF2D0197DCBB108CBA12050D827C",
+"wallpaper":"https://深色壁纸.xxooo.cf/",
 
-三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
-民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
-
-
-寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
-鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
-三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
-寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
-TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
-台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
-華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-
-東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
-非凡新聞,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/75/817/ch57.m3u8?token=
-非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
-非凡新聞,rtmp://f13h.mine.nu/sat/tv581
-非凡新聞,http://litv.zapi.us.kg/?id=4gtv-4gtv010
-非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?ct=17874&tid=m050e7aad65f614336734&tsum=4ea1b829d195ac69a6c2ca51b21ae378
-非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
-非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
-非凡新聞,P2p://starvod.xyz:19806/6dd2e2dfddc14417a8e17e09fa560034
-
-
-三立新聞,https://stream1.freetv.fun/san-li-xin-wen-6.ctv
-三立新聞,https://stream1.freetv.fun/e12a5ecb3e0328b72c684ffe48cb7382b9b3e283c0c99492612b5af06b539153.ctv
-
-
-壹新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
-壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
-壹新聞,http://211.72.65.236:8548/.m3u8
-壹新聞,http://211.23.114.106:8539/.m3u8
-
-
-年代新聞,https://stream1.freetv.fun/nian-dai-xin-wen-1.ctv
-年代新聞,http://odaloawe.abc.hk3.345888.xyz.cdn.cloudflare.net/live3.php?channel=b0846d284f64f3e32fb7ec3a3313cfe0&expiry=1735554697&token=1a1f36eadbe14de233c12e7bdb354937
-年代新聞,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
-年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-年代新聞,https://stream1.freetv.fun/nian-dai-xin-wen-1.m3u8
-年代新聞,p3p://167.114.175.6:55331/5fe09fec000ac0127462c4ac6b1f16a3
-年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-年代新聞,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch27.m3u8?token=
-
-
-三立新聞,p3p://167.114.175.6:55331/6014c896000c7101401f67cc5477681b
-三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
-
-三立新聞,https://stream1.freetv.fun/e12a5ecb3e0328b72c684ffe48cb7382b9b3e283c0c99492612b5af06b539153.ctv
-
-民視新聞,https://stream1.freetv.fun/6fa1566ea8689cbf43afb55f899dc5ee945e1caabde5bfc367cc510aa794d313.m3u8
-民視新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-ftv13?set=2&ch=31
-
-東森新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv152?set=2&ch=292
-東森新聞,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvnews&sp=chaojidianshi		
-寰宇台灣,http://168.138.9.147:50002/index.m3u8?pid=4gtv-4gtv156
-
-鏡新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv075?set=2&ch=268		
-鏡新聞,http://209.146.124.22:8891/litv/4gtv-4gtv075
-TVBS新聞,http://125.227.210.55:8186/VideoInput/play.ts		
-TVBS新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv072?set=2&ch=291
-TVBS新聞,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbs_n&sp=chaojidianshi		
-TVBS新聞,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-三立iNEWS,http://168.138.9.147:50002/index.m3u8?pid=iNEWS
-寰宇新聞,http://168.138.9.147:50002/index.m3u8?pid=litv-longturn14
-寰宇新聞,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-中視新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv074?set=2&ch=33
-華視新聞,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv052?set=2&ch=34
-
-東森財經,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MEFE2625686426256864&ct=19234&tsum=c294dfaad2db8dd9c4cf483c6888b31b
-東森財經,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv153?set=2&ch=293	
-東森財經,P2p://starvod.xyz:19806/1ef68fe1e1cc4e078f6c0eddea59fea0
+"sites":[
 
 
 
+ {
+            "key":"金牌弹幕",
+            "name":"🥇┃金牌┃弹幕",
+            "type":3,
+            "api":"csp_Jpys",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":{
+                "danmu":true
+            }
+        },
+        {
+            "key":"小苹果弹幕",
+            "name":"🍎┃苹果┃弹幕",
+            "type":3,
+            "api":"csp_Xpg",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":{
+                "danmu":true
+            }
+        },
 
-TVBS新聞,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
 
-東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
-東森財經,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MEFE2625686426256864&ct=19234&tsum=c294dfaad2db8dd9c4cf483c6888b31b
-民視新聞,http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=MF1F9892989898929898&ct=19234&tsum=454a768519608690638d11c0258cdcbe
+{"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+      
+    {   "key": "Auete",
+        "name": "🥇｜銀牌影院｜",
+        "type": 3,
+        "api": "csp_Auete",
+        "timeout": 15,
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "ext": "https://auete.pro/",
+        "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/fan.txt;md5;8851819289f80deae32319080028db3b"
+      },
+      
+     {  "key": "csp_开心影院",
+        "name": "🥇｜銅牌影院｜",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/json_now/開心影院.json"
+      },
+      
+     {  "key": "csp_歐樂影院ORG",
+        "name": "🥇｜鐵牌影院｜",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+          "简介": "content_desc context clearfix\">&&</span>",
+          "分类url": "https://www.oulevod.org/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "分类": "電視劇$2#電影$1#動漫$4#綜藝$3#短劇$53",
+          "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他"
+        }
+      },
+ 
+
+         {  "key": "索尼",
+            "name": "🌍VIP专享2K",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": ["韩剧","日韩综艺",
+            "国产剧",
+            "欧美剧",
+            "台剧",
+            "日剧",
+            
+            
+	     "泰剧",
+	     "记录片",
+            "海外剧",
+            "大陆综艺",
+	    
+	    "港台综艺",
+	    "欧美综艺",
+	     "港剧",
+	    "影视解说",
+            "国产动漫"
+          ]
+        },
+
+          {
+            "key": "csp_小鴨影音TV",
+            "name": "🥈｜小鴨影音｜",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+              "分类url": "https://777tv.ai/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+              "分类": "電影$1#電視劇$2#綜藝$29#動漫$30",
+              "地区": "美國&歐美&韓國&中國大陸&大陸&內地&日本&臺灣&香港&泰國&英國&新加坡&其他"
+            }
+          },
 
 
-台視新聞,http://168.138.9.147:50002/index.m3u8?pid=4gtv-4gtv051
-台視新聞,http://50.7.234.10:8278/ttvnews_twn/playlist.m3u8?tid=MBBB6637589866375898&ct=19234&tsum=d2c641a325bf02e0b68c4f245e0165b0
+        {
+            "key": "csp_NIVODvip",
+            "name": "🥉｜泥視頻｜",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/json_now/泥視頻VIP.json"
+          },
+ 
+
+{
+            "key": "csp_JUMITV",
+            "name": "🥉｜Gimy(TV)｜",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+              "分类url": "https://jumi.tv/show/{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html",
+              "分类": "電影$1#電視劇$2#綜藝$3#動漫$4",
+              "类型": "動作片$6#喜劇片$7#愛情片$8#科幻片$9#恐怖片$10#劇情片$11#戰爭片$12#紀錄片$20||陸劇$13#港劇$14#台劇$22#日劇$15#韓劇$23#美劇$16#海外劇$24||空||空",
+              "地区": "韓國&大陸&香港&台灣&美國&法國&英國&日本&德國&泰國&印度&意大利&西班牙&加拿大||大陸&韓國&香港&台灣&日本&美國&泰國&英國&新加坡&其他||大陸&香港&台灣&美國&法國&英國&日本&韓國&德國&泰國&印度&意大利&西班牙&加拿大&其他||大陸&香港&台灣&美國&法國&英國&日本&韓國&德國&泰國&印度&意大利&西班牙&加拿大&其他"
+            }
+          },
+
+
+
+ {
+            "key": "csp_Imaple8TV",
+            "name": "🥉｜楓林網(TV)｜",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+              "規則名": "楓林網TV(XB)",
+              "規則作者": "老王叔叔",
+              "規則日期": "113.12.02",
+              "数组": "class=\"myui-vodlist__box\"&&</li>",
+              "线路数组": "data-dropdown-value=&&</div>",
+              "线路标题": "<span>&&</small>[不包含:蓝光极速#蓝光高清]",
+              "分类url": "https://imaple8.tv/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
+              "分类": "電影$1#電視劇$2#綜藝$3#動漫$4",
+              "类型": "動作片$6#喜劇片$7#愛情片$8#科幻片$9#恐怖片$10#劇情片$11#戰爭片$12#紀錄片$32#動漫電影$35||海外劇$77#台劇$20#韓劇$15#港劇$21#日劇$22#大陸劇$13#泰劇$37#歐美劇$16||海外綜藝$78#港台綜藝$24#日韓綜藝$25#大陸綜藝$23#歐美綜藝$26||海外動漫$79#港台動漫$30#日韓動漫$28#大陸動漫$27#歐美動漫$29#海外動漫$31",
+              "地区": "大陸&香港&臺灣&美國&法國&英國&日本&韓國&德國&泰國&印度&意大利&西班牙&加拿大&其他||內地&韓國&香港&臺灣&日本&美國&泰國&英國&新加坡&其他||內地&港臺&日韓&歐美||國產&日本&歐美&其他"
+            }
+          },
+
+ {
+            "key":"豆瓣",
+            "name":"🍥┃豆瓣┃网盘线路、不限速、不限制客户端🍥",
+            "type":3,
+            "api":"csp_Douban",
+            "searchable":0
+        },
 
 
 
 
 
+{"key":"糯米弹幕","name":"💘糯米｜弹幕","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
+{"key":"文才弹幕","name":"💘文才┃弹幕","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
+{"key":"荐片弹幕","name":"💘荐片┃弹幕","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},      
+{"key":"小苹果弹幕版","name":"🍎苹果┃弹幕","type": 3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},     
+{"key":"立播弹幕版","name":"🐰立播┃弹幕","type":3,"api":"csp_Libvio","searchable":1,"filterable":1,"changeable":1,"ext": {
+        "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
+        "cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/tvbox/uc.txt",
+        "site": "https://libvio.link",
+        "danmu": true
+      },
+      "timeout": 25
+    },      
+
+      
+
+      
+      
+      
+      
+      
+   
+	
+      
+      
+      
+      
+      
+          {
+            "key": "Wexduboku",
+            "name": "🥇｜獨播庫｜",
+            "type": 3,
+            "api": "csp_WexdubokuGuard",
+            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/wex.jar",
+            "searchable": 1,
+            "quickSearch":1,
+            "filterable":1
+            "changeable": 1
+          },      
+
+{
+      "key": "csp_Jpys",
+      "name": "🥇金牌┃1080P",
+      "type": 3,
+      "api": "csp_Jpys"
+    },      
+    
 
 
+      
+ 
+
+
+  {
+      "key": "ConfigCenter",
+      "name": "📀┃网盘┃配置",
+      "type": 3,
+      "api": "csp_ConfigCenter",
+	  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740401936037/zxuc0224.jar;md5;43989964965deab2a4b6b48251043412",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./json/peizhi.json"
+      }
+    },
+
+       {
+            "key":"弹幕配置",
+            "name":"☄️┃弹幕┃配置",
+            "type":3,
+            "api":"csp_Config",
+            "searchable":0,
+            "changeable":0,
+            "indexs":0,
+            "style":{
+                "type":"rect",
+                "ratio":1.597
+            }
+        }
+
+],      
+      
+      
+      
+      
+      
+    
+
+
+"logo":"https://media.giphy.com/media/F0yi6rO0jogkhbYdxF/giphy.gif?cid=790b76112ehh8gyjxyy5i3l0vv26huaspzvtx8ordsti5orf&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+"lives":[
+           {"name":"🥇️台灣新聞",
+            "boot": true,
+            "type":0,
+            "url":"https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/tv.txt",
+            "playerType":2,
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png",
+            "core": {
+                "auth": "local://tvbus",
+                "name": "123",
+                "pass": "345",
+                "resp": "{\"result_code\":\"0\",\"result\":\"ok\",\"keys\":{\"user_id\":\"0027000005f5c398\",\"peer_id\":\"0ec044591d9e1418\",\"session_key\":\"0a49662f37674af5\"}}",
+                "so": "https://tang.hz.cz/so/xy.so",
+                "pkg": "com.svc.vlive.home.ytv9x",
+                "sign": "308203533082023ba00302010202042108f284300d06092a864886f70d01010b05003059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b06035504031304787879793020170d3139303332363038333233305a180f32313139303330323038333233305a3059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b060355040313047878797930820122300d06092a864886f70d01010105000382010f003082010a0282010100bb3298eb5910860b7ae30b6b874ca374667133fd08cbf42bb52d5c1a49e0fe4818fc768f5155a95eacc465d8649467c40ce632081297fb66c6838534ee4221e3d2b6b56060fdde5569e37465852f9daa3a987bff4f013981c9ff063b7e0ca7d52ccacfeddbe066bcc29780d78e929ad9dacc3b804f51c9eb0548aac4803b0d32764135d6d8d987381adea6d5ec34966aebdec717c95e064e203a3ba6d10bf8336eae43a01ca42406055c62312c6ed057afb386cd12b0b54ac1611e6e1fef8e71c8da0597a43f542e645f54e614c2603b58ce3690e69e0da24e944eecacdcf6faa2043ccce1f15860432527b706269510cd6bd8314999fa870fb8825a1e1805070203010001a321301f301d0603551d0e041604149fcb5d4d1dd5743459052b9ab79539ebc8924570300d06092a864886f70d01010b05000382010100658ddae3d7833e5b7cbf504cc016deda2cee97cb2b0bbdb889d06f19860389904ffcdf0f21966299d4c0e19d109065bdd769977f1a67d4928fecdee48eb3c7ce5fb4009653510b9897bdc66aa54a29930ed5c27cbd3a75c4362944afa4625a7c7f0d3e77bcaf8f23d9233ad9c83d33305c88f6110f6d50de9eec1c47135fff99826bc79c88355f99d41c00eb54a7292c44a340fb78d3ac1acf39ad0d13bccc2fdf69e1d86504ae4087a4b59a662986a4e03c0b379f92dce5c8c9da54e164f9480c8a9fed01bcc562640b78adaaa5adcfda0e03a477ea63ec136819298e55f428f74076c1b444556001b84cbd5d47b080b6aeb5f1a567c03ea6a64a9c2876e3b2"
+            }
+           },
+
+
+
+           { "name": "優格TV",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png",
+
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/yy.txt",
+            "ua": "okhttp/3.15",
+            
+            "core": {
+                "auth": "local://tvbus",
+                "name": "123",
+                "pass": "345",
+                "resp": "{\"result_code\":\"0\",\"result\":\"ok\",\"keys\":{\"user_id\":\"0027000005f5c398\",\"peer_id\":\"0ec044591d9e1418\",\"session_key\":\"0a49662f37674af5\"}}",
+                "so": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/xy.so",
+                "pkg": "com.svc.vlive.home.ytv9x",
+                "sign": "308203533082023ba00302010202042108f284300d06092a864886f70d01010b05003059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b06035504031304787879793020170d3139303332363038333233305a180f32313139303330323038333233305a3059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b060355040313047878797930820122300d06092a864886f70d01010105000382010f003082010a0282010100bb3298eb5910860b7ae30b6b874ca374667133fd08cbf42bb52d5c1a49e0fe4818fc768f5155a95eacc465d8649467c40ce632081297fb66c6838534ee4221e3d2b6b56060fdde5569e37465852f9daa3a987bff4f013981c9ff063b7e0ca7d52ccacfeddbe066bcc29780d78e929ad9dacc3b804f51c9eb0548aac4803b0d32764135d6d8d987381adea6d5ec34966aebdec717c95e064e203a3ba6d10bf8336eae43a01ca42406055c62312c6ed057afb386cd12b0b54ac1611e6e1fef8e71c8da0597a43f542e645f54e614c2603b58ce3690e69e0da24e944eecacdcf6faa2043ccce1f15860432527b706269510cd6bd8314999fa870fb8825a1e1805070203010001a321301f301d0603551d0e041604149fcb5d4d1dd5743459052b9ab79539ebc8924570300d06092a864886f70d01010b05000382010100658ddae3d7833e5b7cbf504cc016deda2cee97cb2b0bbdb889d06f19860389904ffcdf0f21966299d4c0e19d109065bdd769977f1a67d4928fecdee48eb3c7ce5fb4009653510b9897bdc66aa54a29930ed5c27cbd3a75c4362944afa4625a7c7f0d3e77bcaf8f23d9233ad9c83d33305c88f6110f6d50de9eec1c47135fff99826bc79c88355f99d41c00eb54a7292c44a340fb78d3ac1acf39ad0d13bccc2fdf69e1d86504ae4087a4b59a662986a4e03c0b379f92dce5c8c9da54e164f9480c8a9fed01bcc562640b78adaaa5adcfda0e03a477ea63ec136819298e55f428f74076c1b444556001b84cbd5d47b080b6aeb5f1a567c03ea6a64a9c2876e3b2"
+            }
+        },
+                    {
+                      "name": "小雲1台",
+                      "logo": "https://epg.112114.eu.org/logo/{name}.png",
+
+                      "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/yo.txt",
+                      "core": {
+                        "auth": "local://tvbus",
+                        "name": "123",
+                        "pass": "345",
+                        "resp": "{\"result_code\":\"0\",\"result\":\"ok\",\"keys\":{\"user_id\":\"0027000005f5c398\",\"peer_id\":\"0ec044591d9e1418\",\"session_key\":\"0a49662f37674af5\"}}",
+                        "so": "https://tang.hz.cz/so/xy.so",
+                        "pkg": "com.svc.vlive.home.ytv9x",
+                        "sign": "308203533082023ba00302010202042108f284300d06092a864886f70d01010b05003059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b06035504031304787879793020170d3139303332363038333233305a180f32313139303330323038333233305a3059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b060355040313047878797930820122300d06092a864886f70d01010105000382010f003082010a0282010100bb3298eb5910860b7ae30b6b874ca374667133fd08cbf42bb52d5c1a49e0fe4818fc768f5155a95eacc465d8649467c40ce632081297fb66c6838534ee4221e3d2b6b56060fdde5569e37465852f9daa3a987bff4f013981c9ff063b7e0ca7d52ccacfeddbe066bcc29780d78e929ad9dacc3b804f51c9eb0548aac4803b0d32764135d6d8d987381adea6d5ec34966aebdec717c95e064e203a3ba6d10bf8336eae43a01ca42406055c62312c6ed057afb386cd12b0b54ac1611e6e1fef8e71c8da0597a43f542e645f54e614c2603b58ce3690e69e0da24e944eecacdcf6faa2043ccce1f15860432527b706269510cd6bd8314999fa870fb8825a1e1805070203010001a321301f301d0603551d0e041604149fcb5d4d1dd5743459052b9ab79539ebc8924570300d06092a864886f70d01010b05000382010100658ddae3d7833e5b7cbf504cc016deda2cee97cb2b0bbdb889d06f19860389904ffcdf0f21966299d4c0e19d109065bdd769977f1a67d4928fecdee48eb3c7ce5fb4009653510b9897bdc66aa54a29930ed5c27cbd3a75c4362944afa4625a7c7f0d3e77bcaf8f23d9233ad9c83d33305c88f6110f6d50de9eec1c47135fff99826bc79c88355f99d41c00eb54a7292c44a340fb78d3ac1acf39ad0d13bccc2fdf69e1d86504ae4087a4b59a662986a4e03c0b379f92dce5c8c9da54e164f9480c8a9fed01bcc562640b78adaaa5adcfda0e03a477ea63ec136819298e55f428f74076c1b444556001b84cbd5d47b080b6aeb5f1a567c03ea6a64a9c2876e3b2"
+                      }
+                    },
+                    {
+                      "name": "小雲2台",
+                      "logo": "https://epg.112114.eu.org/logo/{name}.png",
+
+                      "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/yg.txt",
+                      "core": {
+                        "auth": "local://tvbus",
+                        "name": "123",
+                        "pass": "345",
+                        "resp": "{\"result_code\":\"0\",\"result\":\"ok\",\"keys\":{\"user_id\":\"0027000005f5c398\",\"peer_id\":\"0ec044591d9e1418\",\"session_key\":\"0a49662f37674af5\"}}",
+                        "so": "https://tang.hz.cz/so/xy.so",
+                        "pkg": "com.svc.vlive.home.ytv9x",
+                        "sign": "308203533082023ba00302010202042108f284300d06092a864886f70d01010b05003059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b06035504031304787879793020170d3139303332363038333233305a180f32313139303330323038333233305a3059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b060355040313047878797930820122300d06092a864886f70d01010105000382010f003082010a0282010100bb3298eb5910860b7ae30b6b874ca374667133fd08cbf42bb52d5c1a49e0fe4818fc768f5155a95eacc465d8649467c40ce632081297fb66c6838534ee4221e3d2b6b56060fdde5569e37465852f9daa3a987bff4f013981c9ff063b7e0ca7d52ccacfeddbe066bcc29780d78e929ad9dacc3b804f51c9eb0548aac4803b0d32764135d6d8d987381adea6d5ec34966aebdec717c95e064e203a3ba6d10bf8336eae43a01ca42406055c62312c6ed057afb386cd12b0b54ac1611e6e1fef8e71c8da0597a43f542e645f54e614c2603b58ce3690e69e0da24e944eecacdcf6faa2043ccce1f15860432527b706269510cd6bd8314999fa870fb8825a1e1805070203010001a321301f301d0603551d0e041604149fcb5d4d1dd5743459052b9ab79539ebc8924570300d06092a864886f70d01010b05000382010100658ddae3d7833e5b7cbf504cc016deda2cee97cb2b0bbdb889d06f19860389904ffcdf0f21966299d4c0e19d109065bdd769977f1a67d4928fecdee48eb3c7ce5fb4009653510b9897bdc66aa54a29930ed5c27cbd3a75c4362944afa4625a7c7f0d3e77bcaf8f23d9233ad9c83d33305c88f6110f6d50de9eec1c47135fff99826bc79c88355f99d41c00eb54a7292c44a340fb78d3ac1acf39ad0d13bccc2fdf69e1d86504ae4087a4b59a662986a4e03c0b379f92dce5c8c9da54e164f9480c8a9fed01bcc562640b78adaaa5adcfda0e03a477ea63ec136819298e55f428f74076c1b444556001b84cbd5d47b080b6aeb5f1a567c03ea6a64a9c2876e3b2"
+                      }
+                    },
+
+
+    
+        {
+            "name": "itv",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/litv.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "catchup": {
+                "type": "append",
+                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+            }
+
+
+    },
+
+{
+    "name" : "🍼酸奶直播",
+    "logo": "https://epg.112114.eu.org/logo/{name}.png",    
+    "url" : "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/yogurt.txt",
+    "core" : {
+      "auth" : "local://tvbus",
+      "name" : "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "pass" : "https://epg.112114.xyz/logo/{name}.png",
+      "resp" : "{\"result_code\":\"0\",\"result\":\"ok\",\"keys\":{\"user_id\":\"0027000005f5c398\",\"peer_id\":\"0ec044591d9e1418\",\"session_key\":\"0a49662f37674af5\"}}",
+      "so" : "https://web.banye.tech:7777/tvbus/tvbus.so",
+      "pkg" : "com.svc.vlive.home.ytv9x",
+      "sign" : "308203533082023ba00302010202042108f284300d06092a864886f70d01010b05003059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b06035504031304787879793020170d3139303332363038333233305a180f32313139303330323038333233305a3059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b060355040313047878797930820122300d06092a864886f70d01010105000382010f003082010a0282010100bb3298eb5910860b7ae30b6b874ca374667133fd08cbf42bb52d5c1a49e0fe4818fc768f5155a95eacc465d8649467c40ce632081297fb66c6838534ee4221e3d2b6b56060fdde5569e37465852f9daa3a987bff4f013981c9ff063b7e0ca7d52ccacfeddbe066bcc29780d78e929ad9dacc3b804f51c9eb0548aac4803b0d32764135d6d8d987381adea6d5ec34966aebdec717c95e064e203a3ba6d10bf8336eae43a01ca42406055c62312c6ed057afb386cd12b0b54ac1611e6e1fef8e71c8da0597a43f542e645f54e614c2603b58ce3690e69e0da24e944eecacdcf6faa2043ccce1f15860432527b706269510cd6bd8314999fa870fb8825a1e1805070203010001a321301f301d0603551d0e041604149fcb5d4d1dd5743459052b9ab79539ebc8924570300d06092a864886f70d01010b05000382010100658ddae3d7833e5b7cbf504cc016deda2cee97cb2b0bbdb889d06f19860389904ffcdf0f21966299d4c0e19d109065bdd769977f1a67d4928fecdee48eb3c7ce5fb4009653510b9897bdc66aa54a29930ed5c27cbd3a75c4362944afa4625a7c7f0d3e77bcaf8f23d9233ad9c83d33305c88f6110f6d50de9eec1c47135fff99826bc79c88355f99d41c00eb54a7292c44a340fb78d3ac1acf39ad0d13bccc2fdf69e1d86504ae4087a4b59a662986a4e03c0b379f92dce5c8c9da54e164f9480c8a9fed01bcc562640b78adaaa5adcfda0e03a477ea63ec136819298e55f428f74076c1b444556001b84cbd5d47b080b6aeb5f1a567c03ea6a64a9c2876e3b2"
+    }
+  },
+
+
+
+         
+         
+          {  "name": "ofiii[台湾节点]",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/of.txt",
+            "ua": "okhttp/3.15",
+            "epg":"http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+
+
+
+                    {
+                      "name": "小雲測試專用",
+                      "type": 0,
+                      "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/yw.txt",
+                      "core": {
+                        "auth": "local://tvbus",
+                        "name": "123",
+                        "pass": "345",
+                        "resp": "{\"result_code\":\"0\",\"result\":\"ok\",\"keys\":{\"user_id\":\"0027000005f5c398\",\"peer_id\":\"0ec044591d9e1418\",\"session_key\":\"0a49662f37674af5\"}}",
+                        "so": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/live/xy.so",
+                        "pkg": "com.svc.vlive.home.ytv9x",
+                        "sign": "308203533082023ba00302010202042108f284300d06092a864886f70d01010b05003059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b06035504031304787879793020170d3139303332363038333233305a180f32313139303330323038333233305a3059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b060355040313047878797930820122300d06092a864886f70d01010105000382010f003082010a0282010100bb3298eb5910860b7ae30b6b874ca374667133fd08cbf42bb52d5c1a49e0fe4818fc768f5155a95eacc465d8649467c40ce632081297fb66c6838534ee4221e3d2b6b56060fdde5569e37465852f9daa3a987bff4f013981c9ff063b7e0ca7d52ccacfeddbe066bcc29780d78e929ad9dacc3b804f51c9eb0548aac4803b0d32764135d6d8d987381adea6d5ec34966aebdec717c95e064e203a3ba6d10bf8336eae43a01ca42406055c62312c6ed057afb386cd12b0b54ac1611e6e1fef8e71c8da0597a43f542e645f54e614c2603b58ce3690e69e0da24e944eecacdcf6faa2043ccce1f15860432527b706269510cd6bd8314999fa870fb8825a1e1805070203010001a321301f301d0603551d0e041604149fcb5d4d1dd5743459052b9ab79539ebc8924570300d06092a864886f70d01010b05000382010100658ddae3d7833e5b7cbf504cc016deda2cee97cb2b0bbdb889d06f19860389904ffcdf0f21966299d4c0e19d109065bdd769977f1a67d4928fecdee48eb3c7ce5fb4009653510b9897bdc66aa54a29930ed5c27cbd3a75c4362944afa4625a7c7f0d3e77bcaf8f23d9233ad9c83d33305c88f6110f6d50de9eec1c47135fff99826bc79c88355f99d41c00eb54a7292c44a340fb78d3ac1acf39ad0d13bccc2fdf69e1d86504ae4087a4b59a662986a4e03c0b379f92dce5c8c9da54e164f9480c8a9fed01bcc562640b78adaaa5adcfda0e03a477ea63ec136819298e55f428f74076c1b444556001b84cbd5d47b080b6aeb5f1a567c03ea6a64a9c2876e3b2"
+                              }
+                    },
+
+ 
+
+
+     { "name": "LITV直播(python)",
+      "type": 0,
+      "api": "https://json.doube.eu.org/python/live_litv.py",
+      "ext": {}
+    },
+
+
+
+
+   { "name": "金星",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/joy.txt",
+      "epg":"https://diyp100.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.v1.mk/logo/{name}.png",
+      "core": {
+        "auth": "https://sgla.googlejt.com/v1/auth",
+        "name": "08a77819f9b7",
+        "pass": "1742653607661",
+        "sign": "163428eb20fa4b27",
+        "pkg": "com.yby.v11.singapore.tv",
+        "so": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/joy.so"
+                      }
+                    },
+
+
+
+        
+
+
+
+
+
+        {
+            "name": "173源",
+            "type": 0,
+            "url": "http://xg.52sw.top/play/bst/173.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+        
+{"name": "IPTV研究所","type": 0,"url": "https://www.mytvsuper.com.mp/m3u/Live.m3u","playerType": 2,"ua": "okhttp/3","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png" },
+{"name":"YOUTUBE直播","type":0,"url":"https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/JS/YTTV.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"雷蒙影视电视直播","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/CTVLive/main/live.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"雷蒙影视轻量直播","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/CTVLive/main/litelive.m3u","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},	 
+{"name":"看电视呗","type":0,"url":"http://tv.850930.xyz/kdsb.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+
+],    
+
+
+    "hosts": [
+        "cache.ott.*.itv.cmvideo.cn=itv.dns.52top.com.cn"
+
+    ],
+
+
+    "rules": [
+        {
+            "name": "ofiii[台湾节点]",
+            "hosts": [
+                "www.ofiii.com"
+            ],
+            "script": [
+                "const play=document.getElementsByClassName(\"play_icon\")[0];const event=new MouseEvent(\"click\",{bubbles:!0,cancelable:!0,view:window,screenX:100,screenY:100,clientX:50,clientY:50,button:0,shiftKey:!1,ctrlKey:!1,altKey:!1,metaKey:!1,modifierState:0});play.dispatchEvent(event);"
+            ]
+        }  	            
+
+]
+}
