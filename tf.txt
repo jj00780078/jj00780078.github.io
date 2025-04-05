@@ -199,12 +199,9 @@
       },
       "timeout": 25
     },      
-{"key": "csp_XYQHiker_可可影视","name":"🎦可可影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttkx.cc:55/lib/可可影视.json"},      
-{"key": "奈飞影视","name":"🎦鸭奈飞","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttkx.cc:55/lib/ynfys.json"},    	
-{"key":"csp_xBPQ睛天影视","name":"🎦睛天影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttkx.cc:55/lib/睛天影视.json"}, 
+
       
-{"key":"T4-独播库","name":"影視｜独播库 (T4)","type":4,"api":"https://tang.hz.cz/power/duboku?token=647c28ca","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},     
-{"key":"sgolys","name":"影視| 欧乐(T4)","type":4,"api":"https://tang.hz.cz/power/olelive?token=b1eb6417","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+
       
       
       
