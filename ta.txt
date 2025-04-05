@@ -52,7 +52,7 @@
       },
       
 
-{"key": "csp_LiteApple","name": "🍎┃苹果┃影视","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
+
  
          {
             "key": "csp_小鴨影音TV",
