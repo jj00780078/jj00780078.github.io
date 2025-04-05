@@ -2,22 +2,10 @@
 "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731501158246/spo.jar;md5;DCC4DF2D0197DCBB108CBA12050D827C",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
-"sites":[
+  "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
+  "sites": [
+ 
 
-
-
- {
-            "key":"金牌弹幕",
-            "name":"🥇┃金牌┃弹幕",
-            "type":3,
-            "api":"csp_Jpys",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":{
-                "danmu":true
-            }
-        },
         {
             "key":"小苹果弹幕",
             "name":"🍎┃苹果┃弹幕",
@@ -32,8 +20,14 @@
         },
 
 
-{"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-      
+
+ {
+      "key": "csp_Jpys",
+      "name": "🥇金牌┃1080P",
+      "type": 3,
+      "api": "csp_Jpys"
+    },    
+
     {   "key": "Auete",
         "name": "🥇｜銀牌影院｜",
         "type": 3,
@@ -71,36 +65,8 @@
           "分类": "電視劇$2#電影$1#動漫$4#綜藝$3#短劇$53",
           "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他"
         }
-      },
- 
+      },       
 
-         {  "key": "索尼",
-            "name": "🌍VIP专享2K",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": ["韩剧","日韩综艺",
-            "国产剧",
-            "欧美剧",
-            "台剧",
-            "日剧",
-            
-            
-	     "泰剧",
-	     "记录片",
-            "海外剧",
-            "大陆综艺",
-	    
-	    "港台综艺",
-	    "欧美综艺",
-	     "港剧",
-	    "影视解说",
-            "国产动漫"
-          ]
-        },
 
           {
             "key": "csp_小鴨影音TV",
@@ -130,9 +96,18 @@
             "filterable": 1,
             "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/json_now/泥視頻VIP.json"
           },
- 
 
-{
+
+
+
+
+{"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+
+
+
+
+
+ {
             "key": "csp_JUMITV",
             "name": "🥉｜Gimy(TV)｜",
             "type": 3,
@@ -145,7 +120,7 @@
               "分类url": "https://jumi.tv/show/{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html",
               "分类": "電影$1#電視劇$2#綜藝$3#動漫$4",
               "类型": "動作片$6#喜劇片$7#愛情片$8#科幻片$9#恐怖片$10#劇情片$11#戰爭片$12#紀錄片$20||陸劇$13#港劇$14#台劇$22#日劇$15#韓劇$23#美劇$16#海外劇$24||空||空",
-              "地区": "韓國&大陸&香港&台灣&美國&法國&英國&日本&德國&泰國&印度&意大利&西班牙&加拿大||大陸&韓國&香港&台灣&日本&美國&泰國&英國&新加坡&其他||大陸&香港&台灣&美國&法國&英國&日本&韓國&德國&泰國&印度&意大利&西班牙&加拿大&其他||大陸&香港&台灣&美國&法國&英國&日本&韓國&德國&泰國&印度&意大利&西班牙&加拿大&其他"
+              "地区": "大陸&香港&台灣&美國&法國&英國&日本&韓國&德國&泰國&印度&意大利&西班牙&加拿大||大陸&韓國&香港&台灣&日本&美國&泰國&英國&新加坡&其他||大陸&香港&台灣&美國&法國&英國&日本&韓國&德國&泰國&印度&意大利&西班牙&加拿大&其他||大陸&香港&台灣&美國&法國&英國&日本&韓國&德國&泰國&印度&意大利&西班牙&加拿大&其他"
             }
           },
 
@@ -174,6 +149,54 @@
             }
           },
 
+
+
+
+
+
+
+{
+            "key": "索尼",
+            "name": "🌍VIP专享2K",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": ["韩剧","日韩综艺",
+            "国产剧",
+            "欧美剧",
+            "台剧",
+            "日剧",
+            
+            
+	     "泰剧",
+	     "记录片",
+            "海外剧",
+            "大陆综艺",
+	    
+	    "港台综艺",
+	    "欧美综艺",
+	     "港剧",
+	    "影视解说",
+            "国产动漫"
+          ]
+        },
+
+          {
+            "key": "Wexduboku",
+            "name": "🥇｜獨播庫｜",
+            "type": 3,
+            "api": "csp_WexdubokuGuard",
+            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/wex.jar",
+            "searchable": 1,
+            "changeable": 1
+          },            
+
+
+      
+
  {
             "key":"豆瓣",
             "name":"🍥┃豆瓣┃网盘线路、不限速、不限制客户端🍥",
@@ -198,84 +221,18 @@
         "danmu": true
       },
       "timeout": 25
-    },      
-
-      
-
-      
-      
-      
-      
-      
-   
-	
-      
-      
-      
-      
-      
-          {
-            "key": "Wexduboku",
-            "name": "🥇｜獨播庫｜",
-            "type": 3,
-            "api": "csp_WexdubokuGuard",
-            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/wex.jar",
-            "searchable": 1,
-            "quickSearch":1,
-            "filterable":1
-            "changeable": 1
-          },      
-
-{
-      "key": "csp_Jpys",
-      "name": "🥇金牌┃1080P",
-      "type": 3,
-      "api": "csp_Jpys"
-    },      
-    
+    }      
 
 
-      
- 
 
-
-  {
-      "key": "ConfigCenter",
-      "name": "📀┃网盘┃配置",
-      "type": 3,
-      "api": "csp_ConfigCenter",
-	  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740401936037/zxuc0224.jar;md5;43989964965deab2a4b6b48251043412",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "./json/peizhi.json"
-      }
-    },
-
-       {
-            "key":"弹幕配置",
-            "name":"☄️┃弹幕┃配置",
-            "type":3,
-            "api":"csp_Config",
-            "searchable":0,
-            "changeable":0,
-            "indexs":0,
-            "style":{
-                "type":"rect",
-                "ratio":1.597
-            }
-        }
 
 ],      
-      
-      
-      
-      
-      
-    
 
 
-"logo":"https://media.giphy.com/media/F0yi6rO0jogkhbYdxF/giphy.gif?cid=790b76112ehh8gyjxyy5i3l0vv26huaspzvtx8ordsti5orf&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+
+
+
+
 "lives":[
            {"name":"🥇️台灣新聞",
             "boot": true,
