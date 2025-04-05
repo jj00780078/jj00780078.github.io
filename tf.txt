@@ -153,24 +153,7 @@
             "searchable":0
         },
 
-          {
-            "key": "Wexduboku",
-            "name": "🥇｜獨播庫｜",
-            "type": 3,
-            "api": "csp_WexdubokuGuard",
-            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/wex.jar",
-            "searchable": 1,
-            "quickSearch":1,
-            "filterable":1
-            "changeable": 1
-          },      
 
-{
-      "key": "csp_Jpys",
-      "name": "🥇金牌┃1080P",
-      "type": 3,
-      "api": "csp_Jpys"
-    },
 
 
 
@@ -205,7 +188,24 @@
       
       
       
-      
+          {
+            "key": "Wexduboku",
+            "name": "🥇｜獨播庫｜",
+            "type": 3,
+            "api": "csp_WexdubokuGuard",
+            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/wex.jar",
+            "searchable": 1,
+            "quickSearch":1,
+            "filterable":1
+            "changeable": 1
+          },      
+
+{
+      "key": "csp_Jpys",
+      "name": "🥇金牌┃1080P",
+      "type": 3,
+      "api": "csp_Jpys"
+    },      
     
 
 
