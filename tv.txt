@@ -37,7 +37,7 @@ YouTube新聞,#genre#
 三立新聞,https://stream1.freetv.fun/ea74b932d9d126c79dbea6485ac7119fb16be08f6e7a4494cd2647641c93361d.m3u8
 三立新聞,https://stream1.freetv.fun/san-li-xin-wen-7.m3u8
 三立新聞,http://zb.xmzb.xyz/123.php?id=⚽马上oeepppo一三立新闻
-
+三立新聞,http://108.181.20.197/livehttpplay?channel_id=10126
 
 
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
