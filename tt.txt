@@ -1,6 +1,7 @@
 {
 "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731501158246/spo.jar;md5;DCC4DF2D0197DCBB108CBA12050D827C",
-  "wallpaper":"http://127.0.0.1:9978/proxy?do=wall",
+"wallpaper":"https://深色壁纸.xxooo.cf/",
+
   "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
   "sites": [
  
@@ -97,12 +98,12 @@
           },
 
 
-{"key": "csp_LiteApple","name": "🍎┃苹果┃影视","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1}, 
-{"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},
+
+
 
 {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
-{"key":"csp_Auete","name":"Auete┃无搜索","type":3,"api":"csp_Auete","searchable":1,"playerType":1,"quickSearch":1,"filterable":1},
+
 
 
 
@@ -195,7 +196,7 @@
 
 
       
-{"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
+
  {
             "key":"豆瓣",
             "name":"🍥┃豆瓣┃网盘线路、不限速、不限制客户端🍥",
@@ -220,10 +221,10 @@
         "danmu": true
       },
       "timeout": 25
-    },      
+    }      
 
 
-{"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1}
+
 
 ],      
 
