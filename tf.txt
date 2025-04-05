@@ -4,7 +4,7 @@
 
 "sites":[
 
-    { "key": "Youtube",
+    { "key": "🏠RobYang Direct | Youtube",
       "name": "🏠RobYang Direct | Youtube",
       "type": 3,
       "ua": "okhttp/4.12.0",
