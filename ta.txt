@@ -132,7 +132,27 @@
             }
           },
 
-
+   {
+      "key": "大米星球（APP）",
+      "name": "🌙大米星球（APP）",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://dmdy2.vip/api.php/app/"
+   },
+  {
+      "key": "Xinsj",
+      "name": "👓新视觉",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.6080yy3.com/","jar": "https://jihulab.com/ygbh1/box/-/raw/main/JAR/fan.jar"
+    },  
+{"key":"drpy_js_超前点播","name":"🍌VIP影视","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://jihulab.com/ygbh1/box/-/raw/main/yg/js/%E8%B6%85%E5%89%8D%E7%82%B9%E6%92%AD.js"},
+{"key":"csp_YQKAPP","name":"👩‍👦一起看电视","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
+{"key":"drpy_js_追剧猫","name":"🐱追剧猫","type":3,"api":"./lib/drpy2.min.js","ext":"./h/rjm2.js"},
+{"key":"csp_XBPQTVB影视","name":"☁️极速云播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./h/tvbyun.json","jar":"./jar/xBPQ_1106.jar"},
 
 
 
