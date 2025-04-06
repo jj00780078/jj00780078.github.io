@@ -1,10 +1,21 @@
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732869331411/fan.txt;md5;0a23452a5e6b48557d487772d369f38f",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743680412925/f0404a.txt;md5;b070447e9df94e2350a300aabc346b85",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "sites":[
 
-		{
+{"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteAppleGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
+ {
+      "key": "神车",
+      "name": "🐻小熊┃秒播",
+      "type": 3,
+      "api": "csp_AppSKGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "rfOX1voDIQhH8epBwtCFsq+8syyZ18T30GkibomjS1xHcE9fpWU7oKJ1cO9K0M5hrnOHZ9dKjiJz5HEyTr57RZHCqunfFT7jH/mEy+uqVyo="
+    },
+{
 				"key": "JS_布雷影视",
 				"name": "🌼布雷影视┃JS",
 				"type": 3,
@@ -14,57 +25,15 @@
 				"filterable": 1,
 				"ext": "https://d.kstore.dev/download/8815/JS/bulei.js"
 			},
-		    {
-      "key": "csp_LiteApple",
-      "name": "🍎┃苹果┃影视",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
 
-	{
-			"key": "天天",
-			"name": "🦢天天┃1080P",
-			"type": 3,
-			"api": "csp_AppRJ",
-			"ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
-		},
-		{
-			"key": "热热",
-			"name": "🏜热热┃1080P",
-			"type": 3,
-			"api": "csp_AppRJ",
-			"ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
-		},
-		{
+
+{
 			"key": "追剧",
 			"name": "🏈追剧┃1080P",
 			"type": 3,
 			"api": "csp_AppRJ",
 			"ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
 		},
-
-	{
-				"key": "csp_XBPQ_星辰影院",
-				"name": "*⃣️星辰影院┃XB",
-				"type": 3,
-				"api": "csp_XBPQ",
-				"searchable": 1,
-				"quickSearch": 1,
-				"filterable": 1,
-				"ext": {
-					"简介": "detail-sketch\">&&<br>",
-					"线路数组": "data-toggle=\"tab\"&&</li>",
-					"线路标题": ">&&<",
-					"播放数组": "stui-content__playlist&&</ul>",
-					"播放标题": ">&&<[不包含:1080P]",
-					"分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
-					"分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"
-				}
-			},
-
 
 
  {
