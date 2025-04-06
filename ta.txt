@@ -4,36 +4,34 @@
 
 "sites":[
 
-{"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteAppleGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
  {
-      "key": "神车",
-      "name": "🐻小熊┃秒播",
+      "key": "苹果",
+      "name": "🍎苹果┃不卡┃纯净",
       "type": 3,
-      "api": "csp_AppSKGuard",
+      "api": "csp_LiteAppleGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+ {
+            "key": "金牌影视",
+           "name": "🏅金牌┃蓝光┃无广",
+           "jar": "http://我不是.摸鱼儿.xyz/by/jar/moyuer.php",
+            "type": 3,
+            "api": "csp_Jpys"
+        },
+
+  {
+      "key": "AppHD",
+      "name": "🤞一起┃蓝光┃无广",
+      "type": 3,
+      "api": "csp_AppFree4K",
+      "jar": "http://我不是.摸鱼儿.xyz/by/jar/moyuer.php",
       "searchable": 1,
       "quickSearch": 0,
-      "changeable": 0,
-      "ext": "rfOX1voDIQhH8epBwtCFsq+8syyZ18T30GkibomjS1xHcE9fpWU7oKJ1cO9K0M5hrnOHZ9dKjiJz5HEyTr57RZHCqunfFT7jH/mEy+uqVyo="
+      "filterable": 0,
+      "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw5rDqsKjwpPCncKjwqfDmcOsw57Dn8KbwpRewqbDosOjwqHCpcKaWnvClcKpwqDCrcKawqDDnMKYZWNkwrHDl8Ogw5vCqsKWY8KTYsKxwqbCocKlwppaecKmV8KzwpPCocKuw6BoZGRpw53Dl8Krwq3CrWRjYmHCsMKawqbCmcKhdcKRwp7Cm8OHw5TDsMKgwrRTV+ecpOaTncKgwp/CmsKgw4rClMKiwqPClcOOw6XDpsKgwrRTV8KYwqTDrcOjw63Cs8KpYsKRwqDCoMOvwqTCqMOfw6zCmMKVwpjClMKnw6nDo8OpwqnCncKjwp/CnsKnw6PDosOpwrnCqMKiwpxtwqDCn8KawqDCvsKUwp59wqXDjsOlw6bCoMK0U1fCmMKkw63Do8OtwrPCqWLClMKdXsOvw5zDnsOzwqjClMKjwpnCkcKow5fDp8Okw69ib8KRwpPCtsOXw6fCn8OuwqLCm8KVwp7CtsOEw4PDhcK8dnh6dsOMwr/DkcOPw4B4e8KCVsOuw6XDpsK2wqFfUFfClMOew5bDrMOyw6rCp3vClcKpwqDCrcKawqDDscKowqnCmWbCr8KpwqHDtg=="
     },
-{
-				"key": "JS_布雷影视",
-				"name": "🌼布雷影视┃JS",
-				"type": 3,
-				"api": "https://gitee.com/lujun189/ceshi/raw/master/1/libs/drpy2.min.js",
-				"searchable": 1,
-				"quickSearch": 1,
-				"filterable": 1,
-				"ext": "https://d.kstore.dev/download/8815/JS/bulei.js"
-			},
-
-
-{
-			"key": "追剧",
-			"name": "🏈追剧┃1080P",
-			"type": 3,
-			"api": "csp_AppRJ",
-			"ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
-		},
 
 
  {
