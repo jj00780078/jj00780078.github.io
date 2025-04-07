@@ -274,11 +274,17 @@
                 "type": "append",
                 "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
             }
+           },
 
 
-    },
 
-           { "name": "優格TV",
+    
+
+
+
+
+
+          { "name": "優格TV",
             "logo": "https://epg.112114.eu.org/logo/{name}.png",
 
             "type": 0,
@@ -373,7 +379,12 @@
                               }
                     },
 
- 
+ {
+      "name": "SMT直播(python)",
+      "type": 3,
+      "api": "./live_smt.py",
+      "ext": {}
+    }, 
 
 
      { "name": "LITV直播(python)",
