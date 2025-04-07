@@ -382,7 +382,7 @@
  {
       "name": "SMT直播(python)",
       "type": 3,
-      "api": "./live_smt.py",
+      "api": "https://json.doube.eu.org/python/live_smt.py",
       "ext": {}
     }, 
 
