@@ -19,101 +19,6 @@
             }
         },
 
-		{
-			"key":"Youtube",
-			"name":"Youtube",
-			"type":3,
-			"api": "csp_Youtube",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"timeout": 120,
-			"ext":{
-				"token":"./lib/tokenm.json",
-				"json":"./lib/youtube.json",
-				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
-				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
-				"codecs":"",
-				"proxy":"proxy",
-				"danmu":true
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 1.77
-			}
-		},
-
-	{"key":"TGYunPanLocal","name":"TG频道搜索","type":3,"api":"csp_TGYunPanLocal","timeout":120, 
-			"ext":{
-				"token":"./lib/tokenm.json",
-				"json":"./lib/tgsearch.json",
-				"keywords":"名称,片名,推荐",
-				"tgsearch_url":"http://127.0.0.1:10199",
-				"tgsearch_media_url":"http://127.0.0.1:10199",
-				"channellist":"tgsearchers,leoziyuan,ucpanpan,pan123pan,zyfb123,zyzhpd123,xx123pan,tianyi_pd2,tianyirigeng,tyypzhpd,cloudtianyi,kuakeclound,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe",
-				"proxy":"proxy",
-				"danmu":true
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 1.77
-			}
-		},
-		{"key":"TGYunPan","name":"TG群组搜索","type":3,"api":"csp_TGYunPan","timeout":120, 
-			"ext":{
-				"token":"./lib/tokenm.json",
-				"json":"./lib/tgsearch.json",
-				"keywords":"名称,片名,推荐",
-				"tgsearch_url":"http://127.0.0.1:10199",
-				"tgsearch_media_url":"http://127.0.0.1:10199",
-				"channellist":"alypzyhzq|1000,Mbox115|1000,shares_115|1000,NewQuark|1000,New_Sharing|1000,wanwansubchat|1000",
-				"proxy":"noproxy",
-				"danmu":true
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 1.77
-			}
-		},
-{ "key":"csp_YingShi","name":"影视|海外","type":3,"api":"csp_YingShi","ext":"proxy"},
-		{
-			"key": "星星",
-			"name": "星星 | 海外",
-			"type": 3,
-			"api": "csp_Star",
-			"searchable": 1,
-			"changeable": 0,
-			"ext":"proxy"
-		},
-		{
-			"key": "獨播",
-			"name": "獨播 | 海外",
-			"type": 3,
-			"api": "csp_XPathMacFilter",
-			"searchable": 1,
-			"changeable": 0,
-			"ext": "https://fm.caioa.link/main/lib/duboku.json$$$proxy"
-		},
-
-
-               {
-			"key": "應用商店",
-			"name": "應用商店",
-			"type": 3,
-			"api": "csp_Market",
-			"searchable": 0,
-			"changeable": 0,
-			"ext": "https://fm.t4tv.hz.cz/json/market.json"
-		},
-		{
-			"key": "直播转点播",
-			"name": "🐼️┃电视┃直播",
-			"type": 3,
-			"searchable": 0,
-			"api": "./lib/live2vod.js",
-			"ext": "https://fm.caioa.link/main/lib/feimaolive.json"
-		},
-
 
  {
       "key": "csp_Jpys",
@@ -464,6 +369,15 @@
                               }
                     },
 
+
+          {  "name": "ofiii[台湾节点]",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/of.txt",
+            "ua": "okhttp/3.15",
+            "epg":"http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+
+
      { "name": "LITV直播(python)",
       "type": 0,
       "api": "https://json.doube.eu.org/python/live_litv.py",
@@ -482,12 +396,7 @@
 
 
 
-          {  "name": "ofiii[台湾节点]",
-            "type": 0,
-            "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/of.txt",
-            "ua": "okhttp/3.15",
-            "epg":"http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
+
 
 
    { "name": "金星",
@@ -501,7 +410,7 @@
         "pass": "1742653607661",
         "sign": "163428eb20fa4b27",
         "pkg": "com.yby.v11.singapore.tv",
-        "so": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/joy.so"
+        "so": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/xy.so"
                       }
                     },
 
