@@ -92,7 +92,7 @@
 			"api": "csp_XPathMacFilter",
 			"searchable": 1,
 			"changeable": 0,
-			"ext": "./lib/duboku.json$$$proxy"
+			"ext": "https://fm.caioa.link/main/lib/duboku.json$$$proxy"
 		},
 
 
@@ -111,7 +111,7 @@
 			"type": 3,
 			"searchable": 0,
 			"api": "./lib/live2vod.js",
-			"ext": "./lib/feimaolive.json"
+			"ext": "https://fm.caioa.link/main/lib/feimaolive.json"
 		},
 
 
