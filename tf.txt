@@ -374,20 +374,23 @@
                               }
                     },
 
- {
-      "name": "SMT直播(python)",
-         
-      "type": 0,
-      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/smart.txt",
-      "ext": {}
-    }, 
-
-
      { "name": "LITV直播(python)",
       "type": 0,
       "api": "https://json.doube.eu.org/python/live_litv.py",
       "ext": {}
     },
+
+
+ {
+      "name": "SMT直播(python)",
+         
+      "type": 0,
+      "api": "./live_smt.py",
+      "ext": {}
+    }, 
+
+
+
 
           {  "name": "ofiii[台湾节点]",
             "type": 0,
