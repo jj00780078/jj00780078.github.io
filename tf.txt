@@ -388,8 +388,8 @@
  {
       "name": "SMT直播(python)",
          
-      "type": 0,
-      "api": "./live_smt.py",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
       "ext": {}
     }, 
 
