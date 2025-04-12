@@ -490,7 +490,17 @@ HOT,tvbus://888v7qzrdgpEFVmqE3zdPLSVSkR3f4S99kmZts8psraWUriy5E#tvbus://8XF9CAYhE
 潘多拉粉紅,tvbus://7LPAET8LPKSb8B6PxhyNckv5XJd7bRKpyLRuKa4cXMQHUEshBj#tvbus://8bAfhBvMjS2TSZnAz1nQ1ScNyaVx7VRdpChqA43DciC35TvdDd#tvbus://8mDszDLpuZWe4FXjZ2hf6Mmqk8XPaBifQnQxS311eBmwGHi9Kh#tvbus://71WgrHdshUoAHySfkws3M7F2UmCNiV6nNvV6D2sWiHZe61WB4P#tvbus://7EGcfHRR971Ps4LVmR6u9AnLthm4jCjrTY7Wz2GYef8oqtCg8E#tvbus://8JjsawEKet8BRSza1hrwK63yCGifrhZsH1h7eweyVaa6ym1Cic#tvbus://5LwU9oBkAXyfSJC22UX2JjrwR3S14Yg45aQc473jshCnHTTm9A34qdBucAxGH
 彩虹MOIVE,tvbus://8PRce5vS1sLBTQgucqGPq1p7o9hmgaiH6sa6Ui3FavQYkd79nG#tvbus://8kWjP8sTZmPRxrp1wB2XGzH7sU1vhtDhAeVDb4uQhWgQtkTZxY#tvbus://89wtQ69m98huFKKpyj6cVVJHrkUpvCCoKvoWnAD8BHSQ1eWXA9#tvbus://7Giq9PC7334Z5SgdwMHdqfY3FnDKgPyEhtEGu4pDuAd51pXmNf#tvbus://7z2fKnAvSQjsHhEWa5McyAxiUTAiU5GQtut3VaPF5q4enhs2Pe#tvbus://8NcFvipG7zE8Y6r4B3rMjowhCafQUfUR3eWCkErJ5i3yJpCgDu#tvbus://5UnVfpMTEDqPb4v4ooPzJPrzM6jQrqPq6wa7iSrzvrFFzcRsWn6KuWJEniXBL
 驚艷,http://18.svi-studio.com:801/live/478790710441/100371347442/1.m3u8
-
+HAPPY,http://jaz9.my.to:8096/stream/channelid/1112801812?profile=pass
+彩虹E台,http://jaz9.my.to:9981/stream/channelid/717712967?profile=pass
+彩虹MOVIE,http://jaz9.my.to:9981/stream/channelid/763770139?profile=pass
+K頻道,http://jaz9.my.to:9981/stream/channelid/1882185632?profile=pass
+松視1台,http://jaz9.my.to:9981/stream/channelid/1301131534?profile=pass
+松視2台,http://jaz9.my.to:9981/stream/channelid/905748090?profile=pass
+松視3台,http://jaz9.my.to:9981/stream/channelid/442937802?profile=pass
+潘朵啦高畫質玩美台,http://jaz9.my.to:9981/stream/channelid/1087412808?profile=pass
+驚豔成人電影台,http://jaz9.my.to:9981/stream/channelid/1407469285?profile=pass
+香蕉台,http://jaz9.my.to:9981/stream/channelid/249443143?profile=pass
+JStar極限台電影頻道,http://jaz9.my.to:9981/stream/channelid/537002061?profile=pass
 
 
 松視1台,http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8#http://18.svi-studio.com:801/live/055613148424/758984796805/5.m3u8 
