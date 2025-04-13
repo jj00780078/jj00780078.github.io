@@ -247,13 +247,7 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
 
- {
-      "name": "SMT直播(python)",
-         
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
-      "ext": {}
-    }, 
+
 
 
 
@@ -272,7 +266,13 @@
     }
   },
 
-
+ {
+      "name": "SMT直播(python)",
+         
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
+      "ext": {}
+    }, 
 
           {  "name": "ofiii[台湾节点]",
             "type": 0,
