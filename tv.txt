@@ -158,14 +158,3 @@ ELTA體育4台,tvbus://7wzjimj9z94DbCrJwNQFZXEuBgJqEUrjfWqziC1kqDW4JYCCSP#tvbus:
 
 
 
-壹電視新聞_線路一,tvbus://3iXmoiqMLxP8FVEQVDptTGf5sFFB7X7KkdSzpGW9aPUpcSx9SM
-壹電視新聞_線路二,tvbus://4UNQb8wNtMprgjPXYCAs4hEyRiyjjFsysXDhU9EQ4MitJPeKjb
-
-三立新聞_線路一,tvbus://4JdW8JdAGrJcAJaLDzCTQcDcz8gSnB5nALFZasSwP1nDxszPQ1
-三立新聞_線路二,tvbus://3bpNb6c5opD1WMvqzXAJnsBHyn23MbpuEiLRkJQJXweb1oqKG9
-民視新聞_線路一,tvbus://4h3Mdn2uvmzgXtFmFcF29z8Qd4qiSzMUGFjSZAiafKxYa8DZPL
-民視新聞_線路二,tvbus://3hTNsEo1eDRWr7MX3EbNA7cmyRAEj6SXnuAudJGkSgbbLbXLky
-東森新聞,tvbus://492S2vSPPEwx1KzjfasUzko6spv2fs62fAjYzeJsPPMH5n1c9n
-寰宇新聞台灣,tvbus://3MBC1v2Q5FENrLYktwmi8CnQKEvjN8Tfm6mttKzDz7ggzV7RFc
-鏡新聞,tvbus://41ZgYTNGt7GcCymx1jGcya1tQz7P8VWUQ9UHrBycf3eQQbMhxs
-TVBS新聞,tvbus://4iNe2wXP78HSnoSLDyYsd1RhDXR3exHCrBB5xPUE5y3KwJ5gXA
