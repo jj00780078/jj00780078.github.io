@@ -1,5 +1,10 @@
 Decoder=3
 新闻频道,#genre#
+
+非凡新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv010
+東森財經新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv153
+
+
 三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
 三立新聞,p3p://108.181.32.169:50934/6766bc7f000ed78dc349b377648221c8
 三立新聞,http://122.117.71.103:8542/http/220.130.87.218:8081/hls/65/807/ch018.m3u8
@@ -79,7 +84,7 @@ TVBS HD,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv073
 
 中天亚洲台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv109
 
-半岛新闻,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv10
+
 影视频道,#genre#
 影迷數位電影台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv011
 AMC电影台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv017
