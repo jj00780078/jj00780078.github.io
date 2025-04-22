@@ -18,7 +18,7 @@ YouTube新聞,#genre#
 非凡新聞,p3p://108.181.32.169:39875/676955eb00013181cd70c73b35a34c93
 非凡新聞,http://108.181.21.27:33687/livehttpplay?channel_id=20034
 非凡新聞,http://154.44.15.148:5781/v/1/445
-
+非凡新聞,https://stream1.freetv.fun/47633d1dc2ae9a95a129bd4456177b9d840be282ec37dffe46c11a1fa975539c.ctv
 
 
 
@@ -67,7 +67,7 @@ YouTube新聞,#genre#
 三立新聞,https://stream1.freetv.fun/a97a103dc92d94b93dcc836a385d40739a3220f141df8d6333ba8e7a84f54464.m3u8
 三立新聞,http://150.138.77.132:10037/150.php?id=三立新闻台
 三立新聞,http://122.117.71.103:8542/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
-聞
+
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 東森新聞,https://stream1.freetv.fun/4e8297ed0610c91e855ddb69d24344baa6b732dd2d1b24ac2e0a71a3d39ca41c.ctv
 東森新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv152
