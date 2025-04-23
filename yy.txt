@@ -505,22 +505,26 @@ K頻道,tvbus://8GwyVVSjAdtbXuVsv5ogcKS1jEZA9FahAvgYoDs4nf45E5zdJ8#tvbus://7pH9M
 驚艷臺,http://18.svi-studio.com:80/live/656570054361/567275863459/1.m3u8
 
 
-HOT,tvbus://888v7qzrdgpEFVmqE3zdPLSVSkR3f4S99kmZts8psraWUriy5E#tvbus://8XF9CAYhEgtBaAq7egfgPFoXMTtiipDVoaZPCFZji7WBcAsv8H#tvbus://8h3QBLpXGK6RBkTSiaiiDFvfFwLZFsjsMDuDEXd7i5ZTddiiqF#tvbus://83rPBCgKg8NuMBzPDs3kPZb7zFS9yxjXJ8uYb2bpPXQ6bfPTA8#tvbus://7PUpYYhEXycXwbrV6bg2iWxePFjerV7e52p5jRGQSn3Ys1bip2#tvbus://8RG9hP2JMsf4sx5E3ZmGBUDQbtsAddYyUL9DsGETdivF7WMLdi#tvbus://6FCzqSCmRXm5vYrVJKEsanw2MNQe6GdGXDBxtUhCNfMT3pD4fVpTWfA2rYK4F
-潘多拉粉紅,tvbus://7LPAET8LPKSb8B6PxhyNckv5XJd7bRKpyLRuKa4cXMQHUEshBj#tvbus://8bAfhBvMjS2TSZnAz1nQ1ScNyaVx7VRdpChqA43DciC35TvdDd#tvbus://8mDszDLpuZWe4FXjZ2hf6Mmqk8XPaBifQnQxS311eBmwGHi9Kh#tvbus://71WgrHdshUoAHySfkws3M7F2UmCNiV6nNvV6D2sWiHZe61WB4P#tvbus://7EGcfHRR971Ps4LVmR6u9AnLthm4jCjrTY7Wz2GYef8oqtCg8E#tvbus://8JjsawEKet8BRSza1hrwK63yCGifrhZsH1h7eweyVaa6ym1Cic#tvbus://5LwU9oBkAXyfSJC22UX2JjrwR3S14Yg45aQc473jshCnHTTm9A34qdBucAxGH
-彩虹MOIVE,tvbus://8PRce5vS1sLBTQgucqGPq1p7o9hmgaiH6sa6Ui3FavQYkd79nG#tvbus://8kWjP8sTZmPRxrp1wB2XGzH7sU1vhtDhAeVDb4uQhWgQtkTZxY#tvbus://89wtQ69m98huFKKpyj6cVVJHrkUpvCCoKvoWnAD8BHSQ1eWXA9#tvbus://7Giq9PC7334Z5SgdwMHdqfY3FnDKgPyEhtEGu4pDuAd51pXmNf#tvbus://7z2fKnAvSQjsHhEWa5McyAxiUTAiU5GQtut3VaPF5q4enhs2Pe#tvbus://8NcFvipG7zE8Y6r4B3rMjowhCafQUfUR3eWCkErJ5i3yJpCgDu#tvbus://5UnVfpMTEDqPb4v4ooPzJPrzM6jQrqPq6wa7iSrzvrFFzcRsWn6KuWJEniXBL
-驚艷臺,http://18.svi-studio.com:801/live/478790710441/100371347442/1.m3u8
-HAPPY,http://jaz9.my.to:8096/stream/channelid/1112801812?profile=pass
-彩虹e臺,http://jaz9.my.to:9981/stream/channelid/717712967?profile=pass
-彩虹MOVIE,http://jaz9.my.to:9981/stream/channelid/763770139?profile=pass
-K頻道,http://jaz9.my.to:9981/stream/channelid/1882185632?profile=pass
-松視1台,http://jaz9.my.to:9981/stream/channelid/1301131534?profile=pass
-松視2台,http://jaz9.my.to:9981/stream/channelid/905748090?profile=pass
-松視3台,http://jaz9.my.to:9981/stream/channelid/442937802?profile=pass
-潘朵拉玩美,http://jaz9.my.to:9981/stream/channelid/1087412808?profile=pass
-驚艷臺,http://jaz9.my.to:9981/stream/channelid/1407469285?profile=pass
-香蕉臺,http://jaz9.my.to:9981/stream/channelid/249443143?profile=pass
-JStar極限台電影頻道,http://jaz9.my.to:9981/stream/channelid/537002061?profile=pass
-
+潘多拉完美,p3p://167.114.175.6:55331/5fe4450c000c918b829fca233c845311
+香蕉,p3p://167.114.175.6:55331/60626a760005067e6f5bbecb5816771e
+松视1,p3p://167.114.175.6:55331/5fe445280008a40682a0367c343436bb
+松视2,p3p://167.114.175.6:55331/60232b5f00007bc37850649979e379df
+松视3,p3p://167.114.175.6:55331/6109e9590001f40bfd9b661109395f3b
+惊艳,p3p://167.114.175.6:55331/60626a1b00010e3e6f5a5a4f018e5e
+beLOOK,p3p://167.114.175.6:55331/606271190002a1266f75aaee0463186a
+HAPPY,p3p://167.114.175.6:55331/616b79be000a35b17ab2f7b84c325eeb
+彩虹e,p3p://167.114.175.6:55331/6062716c0008efc86f76f0c44d55329f
+彩虹K,p3p://167.114.175.6:55331/63fd56ec000b5f0d26d4fe1b07963493
+彩虹电影,p3p://167.114.175.6:55331/6253066c00049259f74b05224cf375e6
+彩虹频道,p3p://167.114.175.6:55331/63fd589300099ff426db7203798a21f9
+极限电影,p3p://167.114.175.6:55331/6109e9bb0005fd87fd9ce5ea2c1f18d3
+驚艷（故障）,http://18.svi-studio.com:80/live/824908251669/532612644941/1.m3u8
+潘朵拉完美,http://18.svi-studio.com:80/live/824908251669/532612644941/3.m3u8
+香蕉,http://18.svi-studio.com:80/live/824908251669/532612644941/4.m3u8
+松視1台,http://18.svi-studio.com:80/live/824908251669/532612644941/5.m3u8
+松視2台,http://18.svi-studio.com:80/live/824908251669/532612644941/6.m3u8
+松視3台,http://18.svi-studio.com:80/live/824908251669/532612644941/20205.m3u8
+极限台,http://m6z.cn/5GCB1h
 
 
 
