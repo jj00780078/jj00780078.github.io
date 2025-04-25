@@ -22,7 +22,8 @@ YouTube新聞,#genre#
 非凡新聞,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 非凡新聞,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
-非凡新聞台,https://haoyunlai.serv00.net/Smartv-1.php?id=feifannews_twn
+非凡新聞,https://haoyunlai.serv00.net/Smartv-1.php?id=feifannews_twn
+
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
 壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
 壹新聞,http://108.181.20.197/livehttpplay?channel_id=20028
@@ -52,7 +53,7 @@ YouTube新聞,#genre#
 年代新聞,http://122.117.71.103:8538/http/61.222.53.250:8081/hls/67/809/ch27.m3u8?txiptv&playlive
 年代新聞,http://122.117.71.103:8538/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
 年代新聞,http://154.44.15.148:5781/v/1/405
-年代新聞台,https://haoyunlai.serv00.net/Smartv-1.php?id=niandainews_twn
+年代新聞,https://haoyunlai.serv00.net/Smartv-1.php?id=niandainews_twn
 
 三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
