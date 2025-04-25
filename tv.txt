@@ -2,9 +2,9 @@ YouTube新聞,#genre#
 
 東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
 
-
-非凡新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20034
 非凡新聞,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/75/817/ch57.m3u8
+非凡新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20034
+
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
@@ -33,9 +33,10 @@ YouTube新聞,#genre#
 壹新聞,http://108.181.21.27:32933/livehttpplay?channel_id=20028
 壹新聞,http://154.44.15.148:5781/v/1/399
 壹新聞,https://no1x2.asiaw.top/live/t6u5b1q4/69a0087b/index.m3u8
-
-年代新聞,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch27.m3u8?token=
+壹新闻,http://43.162.126.196:8462/v/1/399
+年代新闻,http://43.162.126.196:8462/v/1/405
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+年代新聞,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch27.m3u8?token=
 年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
 年代新聞,https://www.insurancegogogo.com/4987/niandainews_twn/playlist.m3u8
 年代新聞,http://108.181.20.197/livehttpplay?channel_id=20033
