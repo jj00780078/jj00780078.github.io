@@ -23,6 +23,8 @@ YouTube新聞,#genre#
 非凡新聞,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
 非凡新聞,https://haoyunlai.serv00.net/Smartv-1.php?id=feifannews_twn
+非凡新聞,http://103.251.89.243:50007/4gtv-4gtv010/index.m3u8
+非凡新聞,http://106.107.177.223:50007/4gtv-4gtv010/index.m3u8
 
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
 壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=

@@ -1,7 +1,7 @@
 Decoder=3
 新闻频道,#genre#
 
-東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
+
 
 非凡新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20034
 非凡新聞,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/75/817/ch57.m3u8
@@ -50,6 +50,15 @@ Decoder=3
 三立新聞,http://150.138.77.132:10037/150.php?id=三立新闻台
 三立新聞,http://122.117.71.103:8542/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
 
+民視新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv13
+東森新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv152
+寰宇台灣,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv156
+鏡電視新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv075
+TVBS新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv072
+寰宇新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn14
+寰宇財經台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv158
+非凡新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv010
+東森財經新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv153
 
 
 
@@ -61,20 +70,11 @@ Decoder=3
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 寰宇新聞台,https://www.youtube.com/watch?v=6IquAgfvYmc
 TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
-東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
 寰宇財經台,https://www.youtube.com/watch?v=WTRQiVWK1jY
-三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
+東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
 
 
-民視新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv13
-東森新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv152
-寰宇台灣,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv156
-鏡電視新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv075
-TVBS新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv072
-寰宇新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn14
-寰宇財經台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv158
-非凡新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv010
-東森財經新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv153
+
 
 
 非凡新聞,http://free.cnlive.club/channel/n3acea59d/index.m3u8?q=1744544337310
