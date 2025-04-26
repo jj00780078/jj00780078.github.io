@@ -56,6 +56,7 @@ Decoder=3
 鏡電視新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv075
 TVBS新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv072
 寰宇新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn14
+三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 寰宇財經台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv158
 非凡新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv010
 東森財經新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv153
