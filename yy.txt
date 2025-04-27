@@ -544,7 +544,16 @@ HAPPY,p3p://167.114.175.6:55331/616b79be000a35b17ab2f7b84c325eeb
 松视2,http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8#http://18.svi-studio.com:801/live/055613148424/758984796805/6.m3u8 
 松视3,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8#http://18.svi-studio.com:801/live/055613148424/758984796805/20205.m3u8
 
-
+极限电影,http://m6z.cn/5GCB1h
+松视1,http://u3v.cn/5VEYzx
+松视3,http://u3v.cn/5O8LuQ
+香蕉台,http://m6z.cn/5VEYzn
+彩虹e,http://m6z.cn/5z1J9J
+彩虹k,http://m6z.cn/6xbpLi
+彩虹电影,http://m6z.cn/6idbMy
+惊艳台,http://m6z.cn/63bbE4
+潘多拉,http://m6z.cn/6aGYHR
+happy,http://m6z.cn/5O8LuG
 
 
 
