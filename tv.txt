@@ -163,5 +163,12 @@ ELTA體育4台,tvbus://7wzjimj9z94DbCrJwNQFZXEuBgJqEUrjfWqziC1kqDW4JYCCSP#tvbus:
 緯來體育台,tvbus://6qM8oHbu8RqpJqFnC5nF83bFuXBrFjkEMwHMqdJm5cavxLqK4W
 緯來體育台,tvbus://6ewxfyKnuHZmu5HKsVU7HuzDoYrZNwueotdNepPfNPW6TkyBUH3Z3VhKoLm3a
 
+TV,#genre#
 
-
+三立新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2794
+三立新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2392
+三立新聞+,http://cookies.elementfx.com/ublive/ublive.php?id=320
+東森新聞,http://cookies.elementfx.com/ublive/ublive.php?id=1025
+東森新聞4,http://cookies.elementfx.com/ublive/ublive.php?id=2766
+東森新聞,http://cookies.elementfx.com/ublive/ublive.php?id=1358
+東森新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2393
