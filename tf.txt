@@ -334,7 +334,7 @@
 
 {
       "name": "唐三小云",
-      "url": "https://tang.hz.cz/so/vipxiaoyun.m3u",
+      "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/yg.m3u",
       "core": {
         "auth": "local://tvbus",
         "name": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
