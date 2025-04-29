@@ -84,7 +84,7 @@ YouTube新聞,#genre#
 寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
-
+寰宇財經,https://www.youtube.com/watch?v=WTRQiVWK1jY
 
 
 
