@@ -387,7 +387,11 @@
       "ext": {}
     },
 
-
+{
+    "name": "4GTV - 台湾",
+    "url": "http://docker.livednow.dpdns.org/?type=m3u",
+    "ua": "judy/5.2.1"
+  },
 
  {
       "name": "SMT直播(py)",
