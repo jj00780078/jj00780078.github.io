@@ -291,7 +291,7 @@
 
   {
     "name": "4GTV - 台湾",
-    "url": "http://docker.livednow.dpdns.org/?type=m3u",
+    "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/4GTV.txt",
     "ua": "judy/5.2.1"
   },
 
