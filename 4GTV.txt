@@ -74,6 +74,8 @@ https://smart.pendy.dpdns.org/youtube.php?id=MV9mI0GChwo
 https://smart.pendy.dpdns.org/youtube.php?id=ylYJSBUgaMA
 #EXTINF:-1 tvg-id="Judy" tvg-name="东森新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",東森新聞
 https://smart.pendy.dpdns.org/youtube.php?id=E0zhe2gkXBs
+#EXTINF:-1 tvg-id="Judy" tvg-name="寰宇台灣" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",寰宇台灣
+https://smart.pendy.dpdns.org/youtube.php?id=w87VGpgd90U
 #EXTINF:-1 tvg-id="Judy" tvg-name="TVBSNEWS" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",TVBS NEWS
 http://223.16.133.25:35455/youtube/m_dhMSvUCIc?quality=1080
 #EXTINF:-1 tvg-id="Judy" tvg-name="寰宇新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",寰宇新聞
