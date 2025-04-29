@@ -18,15 +18,12 @@ http://docker.livednow.dpdns.org/litv-ftv13/index.m3u8
 http://docker.livednow.dpdns.org/4gtv-live089/index.m3u8
 #EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="新聞財經",東森財經新聞
 http://docker.livednow.dpdns.org/4gtv-4gtv153/index.m3u8
-
-
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
-https://www.4gtv.tv/channel/litv-longturn14?set=1&ch=36 
+http://docker.livednow.dpdns.org/li-litv-longturn14/index.m3u8
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="新聞財經",寰宇新聞台灣台
-https://www.4gtv.tv/channel/4gtv-4gtv156?set=1&ch=280 
+http://docker.livednow.dpdns.org/li-4gtv-4gtv156/index.m3u8
 
-#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="新聞財經",寰宇財經
-http://mytvsuper.com.mp:50007/4gtv-4gtv158/index.m3u8
+
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="新聞財經",鏡電視新聞台
 http://docker.livednow.dpdns.org/li-4gtv-4gtv075/index.m3u8
 #EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台"tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="新聞財經",東森新聞
@@ -41,18 +38,10 @@ http://docker.livednow.dpdns.org/li-4gtv-4gtv153/index.m3u8
 http://docker.livednow.dpdns.org/4gtv-4gtv074/index.m3u8
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="新聞財經",中天新聞台
 http://docker.livednow.dpdns.org/li-4gtv-4gtv009/index.m3u8
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
-http://docker.livednow.dpdns.org/li-litv-longturn14/index.m3u8
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="新聞財經",寰宇新聞台灣台
-http://docker.livednow.dpdns.org/li-4gtv-4gtv156/index.m3u8
-#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="新聞財經",寰宇財經
+
+#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="新聞財經",寰宇財經
 http://docker.livednow.dpdns.org/li-4gtv-4gtv158/index.m3u8
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
-http://docker.livednow.dpdns.org/of-litv-longturn14/index.m3u8
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="新聞財經",寰宇新聞台灣台
-http://docker.livednow.dpdns.org/of-4gtv-4gtv156/index.m3u8
-#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="新聞財經",寰宇財經
-http://docker.livednow.dpdns.org/of-4gtv-4gtv158/index.m3u8
+
 #EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png" group-title="新聞財經",台視新聞台
 http://docker.livednow.dpdns.org/li-4gtv-4gtv051/index.m3u8
 #EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png" group-title="綜合其他",台視HD
