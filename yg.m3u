@@ -1,8 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="5504" tvg-name="寰宇財經台" tvg-logo="https://vpic.6868c.cc/media_asset/20231017/16975363850910100.png" group-title="台灣",寰宇財經台
 tvbus://7qKmBdusJBLmMrQXkecVPziGdLEcp5uPyZh1NxrdPzYj9r761H
-#EXTINF:-1 tvg-id="5505" tvg-name="寰宇財經台" tvg-logo="https://vpic.6868c.cc/media_asset/20231017/16975363850910100.png" group-title="台灣",寰宇財經台
-tvbus://7yHi8aUfpRc8PPrtYRjGSmd21ydyw9AtwxfBioyvgbnqhmuBLB
+
 #EXTINF:-1 tvg-id="5506" tvg-name="寰宇財經台" tvg-logo="https://vpic.6868c.cc/media_asset/20231017/16975363850910100.png" group-title="台灣",寰宇財經台
 tvbus://8FJtejgVYvR6xdYnZ7WKH4VPqSsAK1PCgxAYC7S876Lqv8kNhM
 #EXTINF:-1 tvg-id="5507" tvg-name="寰宇財經台" tvg-logo="https://vpic.6868c.cc/media_asset/20231017/16975363850910100.png" group-title="台灣",寰宇財經台
@@ -13,10 +12,11 @@ tvbus://7cxs7Fh1Y61pGRg1mrV3jdat9TeWgkfF53JdBRncgPR4LvLwpe
 tvbus://88GKRgjYbNHPy2DPNuACeimLRYKHUkxosT6Tiej8RL2XbQ2ttp
 #EXTINF:-1 tvg-id="5510" tvg-name="寰宇財經台" tvg-logo="https://vpic.6868c.cc/media_asset/20231017/16975363850910100.png" group-title="台灣",寰宇財經台
 tvbus://5SUGdUD49YWiBn3DCyotEqeAA36R4GmgseFobB7dZzt1Jp4SStTEUhdtk5dG1
+#EXTINF:-1 tvg-id="5505" tvg-name="寰宇財經台" tvg-logo="https://vpic.6868c.cc/media_asset/20231017/16975363850910100.png" group-title="台灣",寰宇財經台
+tvbus://7yHi8aUfpRc8PPrtYRjGSmd21ydyw9AtwxfBioyvgbnqhmuBLB
 #EXTINF:-1 tvg-id="5616" tvg-name="東森財經新聞" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20286.png" group-title="台灣",東森財經新聞
 tvbus://7SLqnsy9jpAzqugrzTQGtsfPaRkW1pRi1wiQ44hmy5coCgZWtG
-#EXTINF:-1 tvg-id="5617" tvg-name="東森財經新聞" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20286.png" group-title="台灣",東森財經新聞
-tvbus://8EtmkwuxyBJgEMYSXqZFJ77Mfy6S5H931LZSM33F3sfgcBJgHo
+
 #EXTINF:-1 tvg-id="5618" tvg-name="東森財經新聞" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20286.png" group-title="台灣",東森財經新聞
 tvbus://8YKVxSkFyiKr5bZX9fNk9mhqS8Zx72xWw1Y1Pivfkuq5yzj9Yc
 #EXTINF:-1 tvg-id="5619" tvg-name="東森財經新聞" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20286.png" group-title="台灣",東森財經新聞
@@ -27,10 +27,11 @@ tvbus://6uvqZA7yduuG9gq1EyFmvDMRWst5hXz38dpCqMzUTSbu4LWCcw
 tvbus://7PGoZmmQkfwJvpxidCmhHU2tb2Qpm5YVPP8D27KEt1uUvF9EWE
 #EXTINF:-1 tvg-id="5622" tvg-name="東森財經新聞" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20286.png" group-title="台灣",東森財經新聞
 tvbus://5ne7q3NMaAD8Ziy25puFWQMgfS6WW2699ASVjk1gzEmoi7MsAo36sJnaSjFkr
+#EXTINF:-1 tvg-id="5617" tvg-name="東森財經新聞" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20286.png" group-title="台灣",東森財經新聞
+tvbus://8EtmkwuxyBJgEMYSXqZFJ77Mfy6S5H931LZSM33F3sfgcBJgHo
 #EXTINF:-1 tvg-id="6022" tvg-name="非凡新聞HD" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20295.png" group-title="台灣",非凡新聞HD
 tvbus://8hvSoaq5ExzUysN3NQhiBX3nrsCqZYMSHrFgJeZqsaRMB5bGUq
-#EXTINF:-1 tvg-id="6023" tvg-name="非凡新聞HD" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20295.png" group-title="台灣",非凡新聞HD
-tvbus://73xq5ZEYqXCd4CB5w7eTjhnP3XEeNTBmSz9QJfRgi8JX6MAnYx
+
 #EXTINF:-1 tvg-id="6024" tvg-name="非凡新聞HD" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20295.png" group-title="台灣",非凡新聞HD
 tvbus://7ZDsZvENatTKfFgphRCfcCSxG7QA69F4jt8wpsekTMLh6RZrKh
 #EXTINF:-1 tvg-id="6025" tvg-name="非凡新聞HD" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20295.png" group-title="台灣",非凡新聞HD
@@ -41,10 +42,11 @@ tvbus://7q5oTkhUWw6gvSR2AVGaP542aF4DzPAyydqF2ZgyrffqJJwWnL
 tvbus://7CtUY9rRps3HwNva55Sw5U6JK2j3GnX5yYQHm1p1c33BWRvj6Q
 #EXTINF:-1 tvg-id="6028" tvg-name="非凡新聞HD" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20295.png" group-title="台灣",非凡新聞HD
 tvbus://6H2PmemfDiyqvqyefVd3xUTR41kipN8nnbt1PGyt4Yq3A9jiEJ6tYaHociusM
+#EXTINF:-1 tvg-id="6023" tvg-name="非凡新聞HD" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20295.png" group-title="台灣",非凡新聞HD
+tvbus://73xq5ZEYqXCd4CB5w7eTjhnP3XEeNTBmSz9QJfRgi8JX6MAnYx
 #EXTINF:-1 tvg-id="5427" tvg-name="壹電視新聞" tvg-logo="https://vpic.6868c.cc/media_asset/20230425/168241141278601.png" group-title="台灣",壹電視新聞
 tvbus://8MUCNHnQ6XnFRAyVnKcRsoJQrj7V3FyZcT5Tmr4PxDhfuf5Cac
-#EXTINF:-1 tvg-id="5428" tvg-name="壹電視新聞" tvg-logo="https://vpic.6868c.cc/media_asset/20230425/168241141278601.png" group-title="台灣",壹電視新聞
-tvbus://8JtrQzEXuEeVd3k5cAv3aYvbgSMQon1fCfb7nW3nV63THspYJP
+
 #EXTINF:-1 tvg-id="5429" tvg-name="壹電視新聞" tvg-logo="https://vpic.6868c.cc/media_asset/20230425/168241141278601.png" group-title="台灣",壹電視新聞
 tvbus://6xQiWnu6797ULEUudhpKEBLKKffxksDpR1ZJ7DfkFMuHUELHxZ
 #EXTINF:-1 tvg-id="5430" tvg-name="壹電視新聞" tvg-logo="https://vpic.6868c.cc/media_asset/20230425/168241141278601.png" group-title="台灣",壹電視新聞
@@ -55,10 +57,11 @@ tvbus://8EmKNvoZDMHb4r9HawydgzrrtbsLKc9EuEoKohUKxB5XagDZBb
 tvbus://8LbkHQdMMUR3tqFTf9rJ54En5xHTjYqEBRjQUEGdQVxf7JfZUR
 #EXTINF:-1 tvg-id="5433" tvg-name="壹電視新聞" tvg-logo="https://vpic.6868c.cc/media_asset/20230425/168241141278601.png" group-title="台灣",壹電視新聞
 tvbus://65ryeDVn2PVGQ73fHGSGkMqxxwXydqegpMT3Kv3w2aJp3zK921rJCLsvK5car
+#EXTINF:-1 tvg-id="5428" tvg-name="壹電視新聞" tvg-logo="https://vpic.6868c.cc/media_asset/20230425/168241141278601.png" group-title="台灣",壹電視新聞
+tvbus://8JtrQzEXuEeVd3k5cAv3aYvbgSMQon1fCfb7nW3nV63THspYJP
 #EXTINF:-1 tvg-id="5518" tvg-name="年代新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/20211022/c20337.png" group-title="台灣",年代新聞台
 tvbus://74MB7a5kGk5Cbnct2qJASHeK6GYrtcbawuEuuejtL2iAJkNVoj
-#EXTINF:-1 tvg-id="5519" tvg-name="年代新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/20211022/c20337.png" group-title="台灣",年代新聞台
-tvbus://74QBUuK5Z1sDP4yuQAQCMcrbK2F5DMzjSjnc7Ewojzn2V4kCiK
+
 #EXTINF:-1 tvg-id="5520" tvg-name="年代新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/20211022/c20337.png" group-title="台灣",年代新聞台
 tvbus://8ieWZ9f18JrbCeF4CW3G25h48obsv2AvHVX5LBHM5fcyP2P9Ng
 #EXTINF:-1 tvg-id="5521" tvg-name="年代新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/20211022/c20337.png" group-title="台灣",年代新聞台
@@ -69,10 +72,11 @@ tvbus://795mShmCxV7ADT29YhLBwokvt57ghdUH12ECZR3wN5FMXusV7N
 tvbus://7KHa7sv7xXRmBrHwaemCkq4xf49fmPVuEEcCQwWPR2t6kFFWXa
 #EXTINF:-1 tvg-id="5524" tvg-name="年代新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/20211022/c20337.png" group-title="台灣",年代新聞台
 tvbus://6eyoMUSgMdqLQ85ogrctqsXoQ6WmJTtuKWAe8Qd6R9LCBfmeQmvPVoUdxza51
+#EXTINF:-1 tvg-id="5519" tvg-name="年代新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/20211022/c20337.png" group-title="台灣",年代新聞台
+tvbus://74QBUuK5Z1sDP4yuQAQCMcrbK2F5DMzjSjnc7Ewojzn2V4kCiK
 #EXTINF:-1 tvg-id="5063" tvg-name="三立新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/20211022/c20342.png" group-title="台灣",三立新聞台
 tvbus://8eTvXoNzJPmcw6HvtCVMJ4wvTeuBNcVqwQsBwY5jLWTHLLXyVr
-#EXTINF:-1 tvg-id="5064" tvg-name="三立新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/20211022/c20342.png" group-title="台灣",三立新聞台
-tvbus://8fgwfy8LNW2ytQinXNyybJ2JTvV5r6FRQG3J4Us8ZXxdYWwoBE
+
 #EXTINF:-1 tvg-id="5065" tvg-name="三立新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/20211022/c20342.png" group-title="台灣",三立新聞台
 tvbus://8dCw91U4FVKtpiczSqjveLPAHa6e8hAMkXnvkp4RAkezwFBUJi
 #EXTINF:-1 tvg-id="5066" tvg-name="三立新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/20211022/c20342.png" group-title="台灣",三立新聞台
@@ -83,12 +87,12 @@ tvbus://8dFhBRAtzZDLX6f1E5RCxrMHqbPLWbq6VduEpAYP8P9Lf7RnpH
 tvbus://7GsfpHGDVu6ijp3qNqZ84GRaYWFWLffnz2VWBPFsCw3Z3CQCKg
 #EXTINF:-1 tvg-id="5069" tvg-name="三立新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/20211022/c20342.png" group-title="台灣",三立新聞台
 tvbus://5UKsrc8vjqZBpQ1cG6GRRmJ5YjwhPbRumf2hLx4k25cjP8TMpo1Jso925YwXS
-
+#EXTINF:-1 tvg-id="5064" tvg-name="三立新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/20211022/c20342.png" group-title="台灣",三立新聞台
+tvbus://8fgwfy8LNW2ytQinXNyybJ2JTvV5r6FRQG3J4Us8ZXxdYWwoBE
 
 #EXTINF:-1 tvg-id="5693" tvg-name="民視新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/20211022/c20336.png" group-title="台灣",民視新聞台
 tvbus://8YCTFi7kMxVWz7oybQLnJ3HWFkvxvCyzaAAWHHZYfg2goP2cr2
-#EXTINF:-1 tvg-id="5694" tvg-name="民視新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/20211022/c20336.png" group-title="台灣",民視新聞台
-tvbus://7rCTwXHcZLxqgFFx1X5BYpFLQ55tZzjLWQCHn8Vm6kVb2xSVw7
+
 #EXTINF:-1 tvg-id="5695" tvg-name="民視新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/20211022/c20336.png" group-title="台灣",民視新聞台
 tvbus://6zEiCGXFVSMy3kCi9pYQxXp7qap8fSyxPaRvEazKaBQSGwHPWL
 #EXTINF:-1 tvg-id="5696" tvg-name="民視新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/20211022/c20336.png" group-title="台灣",民視新聞台
@@ -99,11 +103,11 @@ tvbus://8Ty6By4g6Y4by9UbEtyx2LYBU3jEuPQJ2F1VXuCs7yf1txvYEN
 tvbus://7Ef3jqaoCM3RFypAt6stoeLm9YbCLr8ELAFEui9n9DnsPHCcZi
 #EXTINF:-1 tvg-id="5699" tvg-name="民視新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/20211022/c20336.png" group-title="台灣",民視新聞台
 tvbus://6LnacdfQ8bG4TVdB8TXSgcJgk8DvMyWnvqxMrtp1uEEDu57EF746HK1BmVmhU
-
+#EXTINF:-1 tvg-id="5694" tvg-name="民視新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/20211022/c20336.png" group-title="台灣",民視新聞台
+tvbus://7rCTwXHcZLxqgFFx1X5BYpFLQ55tZzjLWQCHn8Vm6kVb2xSVw7
 #EXTINF:-1 tvg-id="5588" tvg-name="東森新聞" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20289.png" group-title="台灣",東森新聞
 tvbus://7QRT1G4YH3c8gMm1JA611dBbm4vHJ2S8cVjuDSzMtkcdPgAy3r
-#EXTINF:-1 tvg-id="5589" tvg-name="東森新聞" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20289.png" group-title="台灣",東森新聞
-tvbus://7AWQxjV8s5jUAD47rEHAfJh1UfEEcDLm5hY4wfKpVb5UWhMUhu
+
 #EXTINF:-1 tvg-id="5590" tvg-name="東森新聞" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20289.png" group-title="台灣",東森新聞
 tvbus://6uYmHSMV7HXv5zfQmpRseSFYbjEEz61CULKXx9Z93vXAwytwS6
 #EXTINF:-1 tvg-id="5591" tvg-name="東森新聞" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20289.png" group-title="台灣",東森新聞
@@ -114,10 +118,11 @@ tvbus://7aXEdzSiSvbhQX4qCyEuz7HqHDmxEDRgdXMEPW4C5PTfLkR7s7
 tvbus://7Eav5id5K7Y2VG99QRsfqCLpMBwYE2AMzFYgR7AWtt3CHZhtkM
 #EXTINF:-1 tvg-id="5594" tvg-name="東森新聞" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20289.png" group-title="台灣",東森新聞
 tvbus://63RfkhyVD1tQV8HDZ6P6dCR8VvsUv54KxG7s52PwrmxrFTZi9GiKxMSfFv2Hr
+#EXTINF:-1 tvg-id="5589" tvg-name="東森新聞" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20289.png" group-title="台灣",東森新聞
+tvbus://7AWQxjV8s5jUAD47rEHAfJh1UfEEcDLm5hY4wfKpVb5UWhMUhu
 #EXTINF:-1 tvg-id="5490" tvg-name="寰宇新聞台灣台" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20310.png" group-title="台灣",寰宇新聞台灣台
 tvbus://8jWQgQXXSQ4oc6Vyphu3sZsqmbE8yy25aNyKheYxyTnNqqAt1p
-#EXTINF:-1 tvg-id="5491" tvg-name="寰宇新聞台灣台" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20310.png" group-title="台灣",寰宇新聞台灣台
-tvbus://6umW85Gv3sqEZyaiVx2w51ZLDAyPAMupDP8qHXzPvYpVfwCmxh
+
 #EXTINF:-1 tvg-id="5492" tvg-name="寰宇新聞台灣台" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20310.png" group-title="台灣",寰宇新聞台灣台
 tvbus://8RxPxtva6igLZNnaPajBGa7i7wi8WpgXM7ALzQW92u19f4Wc9Z
 #EXTINF:-1 tvg-id="5493" tvg-name="寰宇新聞台灣台" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20310.png" group-title="台灣",寰宇新聞台灣台
@@ -128,10 +133,11 @@ tvbus://8DFytzZXdjdMAYBJprky6YLuUmUpFSYKvFJh3PZgqRvbXgE8KD
 tvbus://7c1YsZYqVkeWUNrbGjemqFMGMfYYQAzFmw9a2A4s2Gt5Kuo6FH
 #EXTINF:-1 tvg-id="5496" tvg-name="寰宇新聞台灣台" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20310.png" group-title="台灣",寰宇新聞台灣台
 tvbus://6eJZbe5dMCy6P6wHMHsextD29S4u9p2PympqMgG8zv7NgGGsrSEvpKFzpq6fX
+#EXTINF:-1 tvg-id="5491" tvg-name="寰宇新聞台灣台" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20310.png" group-title="台灣",寰宇新聞台灣台
+tvbus://6umW85Gv3sqEZyaiVx2w51ZLDAyPAMupDP8qHXzPvYpVfwCmxh
 #EXTINF:-1 tvg-id="5910" tvg-name="鏡新聞" tvg-logo="https://vpic.6868c.cc/media_asset/20220713/1657765942001972060.jpg" group-title="台灣",鏡新聞
 tvbus://84dn5FWas3rkF4yABzNwMW1Z4J55PmUZk3E9zAr2kWCM6MEzY6
-#EXTINF:-1 tvg-id="5911" tvg-name="鏡新聞" tvg-logo="https://vpic.6868c.cc/media_asset/20220713/1657765942001972060.jpg" group-title="台灣",鏡新聞
-tvbus://8djHa4vejTjdEiMkKx2HhxNLgjAZvjC98gvYPGA2xdzjiVgSXX
+
 #EXTINF:-1 tvg-id="5912" tvg-name="鏡新聞" tvg-logo="https://vpic.6868c.cc/media_asset/20220713/1657765942001972060.jpg" group-title="台灣",鏡新聞
 tvbus://7LEoYiJn4fcvgTBqP9t28QmaUVE4qfibsp7Za1gBcdW4wYP7NH
 #EXTINF:-1 tvg-id="5913" tvg-name="鏡新聞" tvg-logo="https://vpic.6868c.cc/media_asset/20220713/1657765942001972060.jpg" group-title="台灣",鏡新聞
@@ -142,10 +148,11 @@ tvbus://8NiQoPjhqmdacuff3cLETDtJ4CPhGvxJWEzepsKc52WzGAu7F3
 tvbus://7UjraXFkL5rFGBEYE6udHrtAMKn3tLgQ6wgJwsiPnpXffaAKFK
 #EXTINF:-1 tvg-id="5916" tvg-name="鏡新聞" tvg-logo="https://vpic.6868c.cc/media_asset/20220713/1657765942001972060.jpg" group-title="台灣",鏡新聞
 tvbus://5ocwEM8SdUnWJn5RTC8mMMJC6Zf5VpzuyFPuWk1Vu2ZW759qVwG3vpiL86Woy
+#EXTINF:-1 tvg-id="5911" tvg-name="鏡新聞" tvg-logo="https://vpic.6868c.cc/media_asset/20220713/1657765942001972060.jpg" group-title="台灣",鏡新聞
+tvbus://8djHa4vejTjdEiMkKx2HhxNLgjAZvjC98gvYPGA2xdzjiVgSXX
 #EXTINF:-1 tvg-id="5049" tvg-name="三立iNEWS" tvg-logo="https://vpic.6868c.cc/boss_manage/20221228/1672214387271.png" group-title="台灣",三立iNEWS
 tvbus://8Cm8PoXpA7e3V4q5U9gRmmmGGLXiZWib9786z8W7C1h7a86z7S
-#EXTINF:-1 tvg-id="5050" tvg-name="三立iNEWS" tvg-logo="https://vpic.6868c.cc/boss_manage/20221228/1672214387271.png" group-title="台灣",三立iNEWS
-tvbus://7xaUgZdbh5QRHo2zXXEUYGy3j47tt4tfpeH39iNwGmftSZ4AME
+
 #EXTINF:-1 tvg-id="5051" tvg-name="三立iNEWS" tvg-logo="https://vpic.6868c.cc/boss_manage/20221228/1672214387271.png" group-title="台灣",三立iNEWS
 tvbus://8PPqagexmLvMrV3PjsMwf1Wu19G6ADA223rfo3A52r92vagA7V
 #EXTINF:-1 tvg-id="5052" tvg-name="三立iNEWS" tvg-logo="https://vpic.6868c.cc/boss_manage/20221228/1672214387271.png" group-title="台灣",三立iNEWS
@@ -156,11 +163,11 @@ tvbus://8LWZADoyVjvoWp7LEiiUkQbYNfj9qczCeD13vM4jU2GvEgSXBw
 tvbus://8DAN4twXkdkPPS2P9MLUDyUHgg6BTREinDeYGkPi5BgP69N8bG
 #EXTINF:-1 tvg-id="5055" tvg-name="三立iNEWS" tvg-logo="https://vpic.6868c.cc/boss_manage/20221228/1672214387271.png" group-title="台灣",三立iNEWS
 tvbus://69WVYHi2tLC9mU1AYYcHsePLLF9usTb8JQTKat95cPrda9Vw8cEChFHtSHDe5
-
+#EXTINF:-1 tvg-id="5050" tvg-name="三立iNEWS" tvg-logo="https://vpic.6868c.cc/boss_manage/20221228/1672214387271.png" group-title="台灣",三立iNEWS
+tvbus://7xaUgZdbh5QRHo2zXXEUYGy3j47tt4tfpeH39iNwGmftSZ4AME
 #EXTINF:-1 tvg-id="5497" tvg-name="寰宇新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20310.png" group-title="台灣",寰宇新聞台
 tvbus://8FW6CQgdnmzqUsnZBVnpPoLbscW8U42TfDdzMB2mRw2oNWCi6n
-#EXTINF:-1 tvg-id="5498" tvg-name="寰宇新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20310.png" group-title="台灣",寰宇新聞台
-tvbus://8fd2sr8h9GM6xh7zS5h9JT9o6L24yctN8RzSBhESgisGHeX4Mg
+
 #EXTINF:-1 tvg-id="5499" tvg-name="寰宇新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20310.png" group-title="台灣",寰宇新聞台
 tvbus://8dTwvpVhrosM47A3VDKtsda8XMfAeuQ2urwsbmvyBjDe3CjTkN
 #EXTINF:-1 tvg-id="5500" tvg-name="寰宇新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20310.png" group-title="台灣",寰宇新聞台
@@ -171,10 +178,11 @@ tvbus://7BPVj4Xesm3kSo19cMH2xEN6uHC6ubFfdrRnvkpTYitTSRXJ17
 tvbus://7fEh4wdsMD4FxwjY7eS3hgB2GLQW9rirT5VLPnGAq6XrZfC7Gt
 #EXTINF:-1 tvg-id="5503" tvg-name="寰宇新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20310.png" group-title="台灣",寰宇新聞台
 tvbus://5Wbmpy8qYx6ECvxTdxD8TnP6Ubn5mS34a2PYLN8fpPFv5J4JRczcYxE4vPR12
+#EXTINF:-1 tvg-id="5498" tvg-name="寰宇新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20310.png" group-title="台灣",寰宇新聞台
+tvbus://8fd2sr8h9GM6xh7zS5h9JT9o6L24yctN8RzSBhESgisGHeX4Mg
 #EXTINF:-1 tvg-id="4993" tvg-name="TVBS新聞" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20103.png" group-title="台灣",TVBS新聞
 tvbus://8L9szRfgZ4pXki9zoxAf9YmqpQm2gZ9GPmY3YioaKZfD4mGwFv
-#EXTINF:-1 tvg-id="4994" tvg-name="TVBS新聞" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20103.png" group-title="台灣",TVBS新聞
-tvbus://8Z9MTYyke1Kk45QjA6qM9Kitb8RkVEPu49u32URbLccNX61LA7
+
 #EXTINF:-1 tvg-id="4995" tvg-name="TVBS新聞" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20103.png" group-title="台灣",TVBS新聞
 tvbus://7PsuKYbyx1HmfcbzgCHr8gDS8edpLSpnBTJRRRYNYr3EuU4nc8
 #EXTINF:-1 tvg-id="4996" tvg-name="TVBS新聞" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20103.png" group-title="台灣",TVBS新聞
@@ -185,6 +193,8 @@ tvbus://7aj9PqHMh4tbZXBaWgVYXeyo7FKq1ywfd5vEchozVXiCpRfnPJ
 tvbus://8DVqu9aMLH2vbdnAoVnWw5TDbijGJTR6RZHjk6L4LCVmb6Ck35
 #EXTINF:-1 tvg-id="4999" tvg-name="TVBS新聞" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20103.png" group-title="台灣",TVBS新聞
 tvbus://69BxyanSzQCgWhHxxiweRUYumA56atwvX4xLSquf9unb3bLS9Y3mY2vj5PUvF
+#EXTINF:-1 tvg-id="4994" tvg-name="TVBS新聞" tvg-logo="https://vpic.6868c.cc/channellogo/202110121/c20103.png" group-title="台灣",TVBS新聞
+tvbus://8Z9MTYyke1Kk45QjA6qM9Kitb8RkVEPu49u32URbLccNX61LA7
 #EXTINF:-1 tvg-id="5378" tvg-name="台視新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/20211022/c20345.png" group-title="台灣",台視新聞台
 tvbus://81Yq8oykwpLstPH5C7sbnPxwqLn55NNKKxDYAGBs3mm8oQ5n9y
 #EXTINF:-1 tvg-id="5379" tvg-name="台視新聞台" tvg-logo="https://vpic.6868c.cc/channellogo/20211022/c20345.png" group-title="台灣",台視新聞台
