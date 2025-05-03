@@ -99,7 +99,17 @@ TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=
 
 
 
+三立iNEWS,http://4gtv.mumi.rip:9877/229/4gtv-live089/index.m3u8
 
+年代新聞,https://stream1.freetv.fun/517c64a9bdf7c9970fe1d047628171b825ead65650ae2e88293ca4d95b3a9cc2.ctv#http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+東森新聞,https://stream1.freetv.fun/34438cfe544b494f8d68c7620c788c161e9bc0d59b6261d14b67c8c7900b084f.m3u8
+
+民視新聞,https://stream1.freetv.fun/34df3fb93c2c6fe6893c7aefa0cfea5547b582ab9759fbd1be87eaeea0e82bad.m3u8#https://stream1.freetv.fun/5894b8838d821283efe476fc68f07338f39c2d48776be1326f3d378cc73aa9e0.m3u8#https://stream1.freetv.fun/327c04d14d84294b71f2f6d67abb2565bc8313d24eb4190dfa2c5e6e5ab1428f.m3u8#https://epg.pw/stream/75e14c76b6bf52ae5f96e83d07ea3b69008f6b017d18a395b6c6346ef60bcb27.m3u8
+三立新聞,https://stream1.freetv.fun/d199101b211d2efeb52e94bf3f8cfe100c586f3d1825ba547c29d259dde928e8.ctv#http://125.227.210.55:8162/VideoInput/play.ts
+TVBS新聞,http://61.221.215.25:8800/hls/9/index.m3u8#https://stream1.freetv.fun/654c1d76067bc90729826819ea043d06be160c63b8a331bd4b09c0bc830eba0a.m3u8
+
+東森財經新聞,https://stream1.freetv.fun/9ab1d387aea892378b7046dff801ff75aa65efb7a39fabda8629a2246ab8542e.m3u8
+非凡新聞,rtmp://f13h.mine.nu/sat/tv581#https://stream1.freetv.fun/47633d1dc2ae9a95a129bd4456177b9d840be282ec37dffe46c11a1fa975539c.ctv
 
 
 
