@@ -20,24 +20,20 @@
         },
 
 
-		{
-			"key": "金牌影视",
-			"name": "🥇┃金牌┃影视",
-			"type": 3,
-			"api": "./py/金牌影视.py",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"playerType": 2,
-			"ext": {
-				"site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
-			}
-		},	
+        {
+            "key": "金牌影视",
+            "name": "金牌｜影视",
+            "type": 3,
+            "api": "csp_WebJP",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },      
 
 {"key":"黑木影視","name":"黑木影視","type":1,"api":"https://heimuer.ggff.net/api.php/tvbox","searchable":1,"quickSearch":1,"filterable":0},
 
     {   "key": "Auete",
-        "name": "🥇｜銀牌影院｜",
+        "name": "🥇｜Auete｜銀牌影院｜",
         "type": 3,
         "api": "csp_Auete",
         "timeout": 15,
@@ -49,7 +45,7 @@
       },
       
      {  "key": "csp_开心影院",
-        "name": "🥇｜銅牌影院｜",
+        "name": "🥇｜开心影院｜銅牌影院｜",
         "type": 3,
         "api": "csp_XBPQ",
         "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
@@ -60,7 +56,7 @@
       },
       
      {  "key": "csp_歐樂影院ORG",
-        "name": "🥇｜鐵牌影院｜",
+        "name": "🥇｜歐樂影院｜鐵牌影院｜",
         "type": 3,
         "api": "csp_XBPQ",
         "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
@@ -105,30 +101,7 @@
             "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/json_now/泥視頻VIP.json"
           },
 
-     {
-            "key": "晴天",
-            "name": "🌞┃晴天┃影视",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://appcms.sun4k.top",
-                "dataKey": "b025dcd9c289cbb3",
-                "dataIv": "b025dcd9c289cbb3",
-                "deviceId": "",
-                "version": ""
-            }
-        },
 
-        {
-            "key": "来看影视",
-            "name": "🕶️┃来看┃影视",
-            "type": 3,
-            "api": "csp_Lkdy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },	
         {
             "key": "快看影视",
             "name": "🫣┃快看┃影视",
@@ -138,36 +111,13 @@
             "quickSearch": 1,
             "filterable": 1
         },		
-        {
-            "key": "一起影视",
-            "name": "🛩️┃一起┃影视",
-            "type": 3,
-            "api": "csp_AppFree4K",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw5rDqsKjwpPCncKjwqfDmcOsw57Dn8KbwpRewqbDosOjwqHCpcKaWnvClcKpwqDCrcKawqDDnMKYZWNkwrHDl8Ogw5vCqsKWY8KTYsKxwqbCocKlwppaecKmV8KzwpPCocKuw6BoZGRpw53Dl8Krwq3CrWRjYmHCsMKawqbCmcKhdcKRwp7Cm8OHw5TDsMKgwrRTV+ecpOaTncKgwp/CmsKgw4rClMKiwqPClcOOw6XDpsKgwrRTV8KYwqTDrcOjw63Cs8KpYsKRwqDCoMOvwqTCqMOfw6zCmMKVwpjClMKnw6nDo8OpwqnCncKjwp/CnsKnw6PDosOpwrnCqMKiwpxtwqDCn8KawqDCvsKUwp59wqXDjsOlw6bCoMK0U1fCmMKkw63Do8OtwrPCqWLClMKdXsOvw5zDnsOzwqjClMKjwpnCkcKow5fDp8Okw69ib8KRwpPCtsOXw6fCn8OuwqLCm8KVwp7CtsOEw4PDhcK8dnh6dsOMwr/DkcOPw4B4e8KCVsOuw6XDpsK2wqFfUFfClMOew5bDrMOyw6rCp3vClcKpwqDCrcKawqDDscKowqnCmWbCr8KpwqHDtg=="
-        },		
-		{
-			"key": "熊猫",
-			"name": "🐼┃熊猫┃影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"ext": "./XBPQ/熊猫.json"
-		},	
-		{
-			"key": "影院大全",
-			"name": "🎞┃影院┃大全",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"ext": "./XBPQ/影院.json"
-		},
 
 
 
 
 
-{"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+
+
 
  {
             "key": "csp_JUMITV",
@@ -278,7 +228,7 @@
 
 
 {"key":"糯米弹幕","name":"💘糯米｜弹幕","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
-{"key":"文才弹幕","name":"💘文才┃弹幕","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
+{"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"荐片弹幕","name":"💘荐片┃弹幕","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},      
 {"key":"小苹果弹幕版","name":"🍎苹果┃弹幕","type": 3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},     
 {"key":"立播弹幕版","name":"🐰立播┃弹幕","type":3,"api":"csp_Libvio","searchable":1,"filterable":1,"changeable":1,"ext": {
