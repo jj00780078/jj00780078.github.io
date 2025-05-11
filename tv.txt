@@ -33,7 +33,7 @@ YouTube新聞,#genre#
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
 壹新聞,http://108.181.20.197/livehttpplay?channel_id=20028
 壹新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
-壹新聞,p3p://108.181.32.169:39875/67c065fd00054ff32185a62f6d595c5f
+壹新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2777
 壹新聞,http://108.181.21.27:32933/livehttpplay?channel_id=20028
 壹新聞,http://154.44.15.148:5781/v/1/399
 壹新聞,https://no1x2.asiaw.top/live/t6u5b1q4/69a0087b/index.m3u8

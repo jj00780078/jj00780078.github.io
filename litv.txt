@@ -14,7 +14,7 @@ Decoder=3
 
 壹新聞,http://108.181.20.197/livehttpplay?channel_id=20028
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
-壹新聞,http://108.181.20.197/livehttpplay?channel_id=20028
+壹新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2777
 壹新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 
 
