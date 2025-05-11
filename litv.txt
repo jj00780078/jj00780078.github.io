@@ -1,8 +1,11 @@
 Decoder=3
-新闻频道,#genre#
+新聞频道,#genre#
 
+寰宇財經台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv158
+東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
+東森財經新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv153
 
-
+非凡新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv010
 非凡新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20034
 非凡新聞,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/75/817/ch57.m3u8
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
@@ -90,22 +93,22 @@ TVBS新聞台,http://free.cnlive.club/channel/7713a03d/index.m3u8?q=174454433731
 寰宇財經台,http://free.cnlive.club/channel/n7b52d555/index.m3u8?q=1744544337310
 
 
-中天新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv009
-TVBS新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv072
-東森新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv152
-民視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv13
-鏡電視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv075
-非凡新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv010
-台視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv051
-華視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv052
-中視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv074
-寰宇新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn14
-寰宇台灣,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv156
+中天新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv009
+TVBS新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv072
+东森新闻台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv152
+民视新闻台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv13
+镜电视新闻台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv075
+非凡新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv010
+台视新闻台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv051
+华视新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv052
+中视新闻台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv074
+寰宇新闻台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn14
+寰宇新闻台湾台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv156
 
-東森財經新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv153
+东森财经新闻台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv153
 非凡商业,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv048
-台视財經台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv056
-
+台视财经台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv056
+第1商业台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv104
 
 
 
