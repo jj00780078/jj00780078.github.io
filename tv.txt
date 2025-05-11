@@ -40,8 +40,9 @@ YouTube新聞,#genre#
 
 
 
-年代新聞,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch27.m3u8?token=
+
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+年代新聞,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch27.m3u8?token=
 年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
 年代新聞,https://www.insurancegogogo.com/4987/niandainews_twn/playlist.m3u8
 年代新聞,http://108.181.20.197/livehttpplay?channel_id=20033
