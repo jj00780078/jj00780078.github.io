@@ -996,19 +996,19 @@
 {
 “name”： “繁華線”，
 “type”： 0， （類型）： 0，
-“url”： “https://pan.aa53.cn/down.php/b24526e4ad2796388274b67cd222ef65.txt&3344520”，
+“url”： “https://pan.aa53.cn/down.php/b24526e4ad2796388274b67cd222ef65.txt&3344520”,
 “playerType”：1
 },
 {
 “name”： “IPV6（1）”， @名稱
 “type”： 0， （類型）： 0，
-“url”： “https://pan.aa53.cn/down.php/b24526e4ad2796388274b67cd222ef65.txt&3344520”，
+“url”： “https://pan.aa53.cn/down.php/b24526e4ad2796388274b67cd222ef65.txt&3344520”,
 “playerType”：1
 },
 {
 “name”： “日後”，
 “type”： 0， （類型）： 0，
-“url”： “https://pan.aa53.cn/down.php/b24526e4ad2796388274b67cd222ef65.txt&3344520”，
+“url”： “https://pan.aa53.cn/down.php/b24526e4ad2796388274b67cd222ef65.txt&3344520”,
 “playerType”：1
 },
 
@@ -1022,7 +1022,7 @@
 {
 “name”： “平臺直播”， /zh
 “type”： 0， （類型）： 0，
-“url”： “https://pan.aa53.cn/down.php/b24526e4ad2796388274b67cd222ef65.txt&3344520”，
+“url”： “https://pan.aa53.cn/down.php/b24526e4ad2796388274b67cd222ef65.txt&3344520”,
 “UA”： “確定 HTTP/3.15”，
 “playerType”：2
 }
