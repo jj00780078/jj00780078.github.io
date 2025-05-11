@@ -749,30 +749,7 @@
 			}
 		}
 	],
-  "lives": [
 
-
-
-
-
-   {
-      "name": "繁华线",
-      "type": 0,
-      "url": "https://pan.aa53.cn/down.php/b24526e4ad2796388274b67cd222ef65.txt&3344520",
-      "playerType": 1
-    },
-    {
-      "name": "IPV6①",
-      "type": 0,
-      "url": "https://pan.aa53.cn/down.php/b24526e4ad2796388274b67cd222ef65.txt&3344520",
-      "playerType": 1
-    },
-    {
-      "name": "日后",
-      "type": 0,
-      "url": "https://pan.aa53.cn/down.php/b24526e4ad2796388274b67cd222ef65.txt&3344520",
-      "playerType": 1
-    },
 {
 				“name”： “🌸黑軟解碼🌸”，
 				“type”： “1”， @類型
@@ -986,9 +963,32 @@
 			}
 		}
 	],
-“lives”：[
 
 
+  "lives": [
+
+
+
+
+
+   {
+      "name": "繁华线",
+      "type": 0,
+      "url": "https://pan.aa53.cn/down.php/b24526e4ad2796388274b67cd222ef65.txt&3344520",
+      "playerType": 1
+    },
+    {
+      "name": "IPV6①",
+      "type": 0,
+      "url": "https://pan.aa53.cn/down.php/b24526e4ad2796388274b67cd222ef65.txt&3344520",
+      "playerType": 1
+    },
+    {
+      "name": "日后",
+      "type": 0,
+      "url": "https://pan.aa53.cn/down.php/b24526e4ad2796388274b67cd222ef65.txt&3344520",
+      "playerType": 1
+    },
 
 
 
@@ -1018,9 +1018,7 @@
       "url": "https://pan.aa53.cn/down.php/b24526e4ad2796388274b67cd222ef65.txt&3344520",
       "ua": "okhttp/3.15",
       "playerType": 2
-    }
-  ]
-}
+},
 {
 “name”： “平臺直播”， /zh
 “type”： 0， （類型）： 0，
