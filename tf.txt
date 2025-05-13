@@ -1,5 +1,6 @@
 {
 "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731501158246/spo.jar;md5;DCC4DF2D0197DCBB108CBA12050D827C",
+
 "wallpaper":"http://tool.teyonds.com/api",
 
   "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
@@ -18,6 +19,31 @@
                 "danmu":true
             }
         },
+
+      {
+         "key":"嗷呜小苹果",
+         "name":"🍎小苹果",
+         "type":3,
+         "api":"https://raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/app/小苹果APP.py",
+         "searchable":1,
+         "filterable":0,
+         "changeable":0
+      },
+
+      {
+         "key":"沐辰八号影院",
+         "name":"🥇八号影院",
+         "type":4,
+         "api":"https://py.doube.eu.org/spider?site=BaHaoTV",
+         "searchable":1,
+         "quickSearch":0,
+         "filterable":0,
+         "changeable":0,
+         "header":{
+            "User-Agent":"okhttp/5.0.0-alpha.14",
+            "Referer":"test"
+         }
+      },
 
 
  {
