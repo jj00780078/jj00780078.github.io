@@ -27,9 +27,6 @@ YouTube新聞,#genre#
 非凡新聞,http://106.107.177.223:50007/4gtv-4gtv010/index.m3u8
 
 
-壹新闻,http://61.163.58.168:2005/play/forward/5?tvid=nexttvnews&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5IjoiMCIsImlwIjoiMTA5LjgxLjIxOC45NiIsInR2aWQiOiIyMjA0MTQ0MCIsImVjb25vbWl6ZSI6IjAiLCJleHAiOjE3NDUwMDQzMzcsIm5iZiI6MTc0NDk4NjMzNywiaWF0IjoxNzQ0OTg2MzM3fQ.epCAYnkrQ0dom1tw6JHikm9kNSFN2cv30Ij9gIsPJ6s
-壹新闻,http://61.163.58.168:2005/play/forward/5?tvid=149&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5IjoiMCIsImlwIjoiMTA5LjgxLjIxOC45NiIsInR2aWQiOiIyMjA0MTQ0MCIsImVjb25vbWl6ZSI6IjAiLCJleHAiOjE3NDUwMDQzMzcsIm5iZiI6MTc0NDk4NjMzNywiaWF0IjoxNzQ0OTg2MzM3fQ.epCAYnkrQ0dom1tw6JHikm9kNSFN2cv30Ij9gIsPJ6s
-壹新闻,http://61.163.58.168:2005/play/forward/5?tvid=NEXTNews&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5IjoiMCIsImlwIjoiMTA5LjgxLjIxOC45NiIsInR2aWQiOiIyMjA0MTQ0MCIsImVjb25vbWl6ZSI6IjAiLCJleHAiOjE3NDUwMDQzMzcsIm5iZiI6MTc0NDk4NjMzNywiaWF0IjoxNzQ0OTg2MzM3fQ.epCAYnkrQ0dom1tw6JHikm9kNSFN2cv30Ij9gIsPJ6s
 
 壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
