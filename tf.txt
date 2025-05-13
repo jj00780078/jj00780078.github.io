@@ -31,18 +31,13 @@
       },
 
       {
-         "key":"沐辰八号影院",
-         "name":"🥇八号影院",
-         "type":4,
-         "api":"https://py.doube.eu.org/spider?site=BaHaoTV",
+         "key":"沐辰爱瓜TV",
+         "name":"🍎爱瓜TV",
+         "type":3,
+         "api":"https://json.doube.eu.org/python/py_aigua.py",
          "searchable":1,
-         "quickSearch":0,
          "filterable":0,
-         "changeable":0,
-         "header":{
-            "User-Agent":"okhttp/5.0.0-alpha.14",
-            "Referer":"test"
-         }
+         "changeable":0
       },
 
 
