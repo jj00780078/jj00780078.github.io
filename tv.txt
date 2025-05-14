@@ -117,7 +117,94 @@ TVBS新聞,http://61.221.215.25:8800/hls/9/index.m3u8#https://stream1.freetv.fun
 
 
 
+Smartv,#genre#
 
+寰宇新聞台,http://haoyunlai.serv00.net/Smartv-1.php?id=huanyuxinwen_twn
+寰宇財經台,http://haoyunlai.serv00.net/Smartv-1.php?id=huanyutaiwan_twn
+年代新聞台,http://haoyunlai.serv00.net/Smartv-1.php?id=niandainews_twn
+台湾|台视 HD,http://47.238.244.142/Smart.php?id=ttv_taiwan
+台湾|台视新闻,http://47.238.244.142/Smart.php?id=ttvnews_twn
+台湾|台视综合,http://47.238.244.142/Smart.php?id=ttvzhonghe
+台湾|中视 HD,http://47.238.244.142/Smart.php?id=zhongshihd_twn
+台湾|中视新闻,http://47.238.244.142/Smart.php?id=zhongshinews_twn
+台湾|中视经典,http://47.238.244.142/Smart.php?id=zhongshi_twn
+台湾|华视 HD,http://47.238.244.142/Smart.php?id=ctshd_twn
+台湾|公视 HD,http://47.238.244.142/Smart.php?id=ctv_taiwan
+台湾|公视台语台,http://47.238.244.142/Smart.php?id=ctv2_twn
+台湾|三立台湾台,http://47.238.244.142/Smart.php?id=sanlitaiwan
+台湾|三立都会台,http://47.238.244.142/Smart.php?id=sanlidouhui
+台湾|三立综合台,http://47.238.244.142/Smart.php?id=sanlizhonghe
+台湾|三立戏剧台,http://47.238.244.142/Smart.php?id=sanlixiju_twn
+台湾|东森新闻台,http://47.238.244.142/Smart.php?id=ettvnews
+台湾|东森财经新闻台,http://47.238.244.142/Smart.php?id=ettvcaijing_twn
+台湾|东森综合台,http://47.238.244.142/Smart.php?id=ettvzhonghe
+台湾|东森戏剧台,http://47.238.244.142/Smart.php?id=ettvdrama
+台湾|东森电影台,http://47.238.244.142/Smart.php?id=ettvmovie
+台湾|东森洋片台,http://47.238.244.142/Smart.php?id=ettvwestern
+台湾|东森幼幼台,http://47.238.244.142/Smart.php?id=yoyo_twn
+台湾|东森超视,http://47.238.244.142/Smart.php?id=ettvsuper
+台湾|TVBS HD,http://47.238.244.142/Smart.php?id=tvbs
+台湾|TVBS 新闻台,http://47.238.244.142/Smart.php?id=tvbs_n
+台湾|TVBS 欢乐台,http://47.238.244.142/Smart.php?id=tvbshuanle_twn
+台湾|民视 HD,http://47.238.244.142/Smart.php?id=ftvhd_taiwan
+台湾|民视新闻台,http://47.238.244.142/Smart.php?id=ftvnew_taiwan
+台湾|民视台湾台,http://47.238.244.142/Smart.php?id=ftvtaiwan_twn
+台湾|中天综合,http://47.238.244.142/Smart.php?id=ctizhonghe
+台湾|中天娱乐,http://47.238.244.142/Smart.php?id=ctient
+台湾|中天亚洲,http://47.238.244.142/Smart.php?id=ctiasia_twn
+台湾|中天新闻,http://47.238.244.142/Smart.php?id=ctinews
+台湾|寰宇新闻台,http://47.238.244.142/Smart.php?id=huanyuxinwen_twn
+台湾|寰宇财经台,http://47.238.244.142/Smart.php?id=huanyutaiwan_twn
+台湾|八大第一台,http://47.238.244.142/Smart.php?id=badafirst
+台湾|八大综合台,http://47.238.244.142/Smart.php?id=badazhonghe
+台湾|八大戏剧台,http://47.238.244.142/Smart.php?id=badadrama
+台湾|八大娱乐台,http://47.238.244.142/Smart.php?id=badaentertain
+台湾|纬来体育,http://47.238.244.142/Smart.php?id=videolandsport
+台湾|纬来精彩,http://47.238.244.142/Smart.php?id=videolandspecial_twn
+台湾|纬来日本,http://47.238.244.142/Smart.php?id=videolandjapan
+台湾|纬来电影,http://47.238.244.142/Smart.php?id=videolandmovie
+台湾|纬来综合,http://47.238.244.142/Smart.php?id=videolandzonghe
+台湾|纬来育乐,http://47.238.244.142/Smart.php?id=videolandyule
+台湾|爱尔达综合台,http://47.238.244.142/Smart.php?id=eltazonghe_twn
+台湾|爱尔达影剧台,http://47.238.244.142/Smart.php?id=eltayingju_twn
+台湾|爱尔达体育1台,http://47.238.244.142/Smart.php?id=eltasport_twn
+台湾|爱尔达体育2台,http://47.238.244.142/Smart.php?id=eltasport2_twn
+台湾|爱尔达体育3台,http://47.238.244.142/Smart.php?id=eltasport3_twn
+台湾|非凡新闻,http://47.238.244.142/Smart.php?id=feifannews_twn
+台湾|年代新闻,http://47.238.244.142/Smart.php?id=niandainews_twn
+台湾|龙华戏剧,http://47.238.244.142/Smart.php?id=lunghuaxiju_twn
+台湾|龙华偶像,http://47.238.244.142/Smart.php?id=lunghuaidol_twn
+台湾|龙华电影,http://47.238.244.142/Smart.php?id=xingwei_movie
+台湾|龙华洋片,http://47.238.244.142/Smart.php?id=lunghuawestern_twn
+台湾|龙华经典,http://47.238.244.142/Smart.php?id=lunghuajingdian_twn
+台湾|靖天国际,http://47.238.244.142/Smart.php?id=jingtianintl_twn
+台湾|靖天卡通,http://47.238.244.142/Smart.php?id=jingtiancartoon_twn
+台湾|大愛電視,http://47.238.244.142/Smart.php?id=daai_twn
+台湾|大愛二台,http://47.238.244.142/Smart.php?id=daai2_twn
+台湾|EYE 旅游台,http://47.238.244.142/Smart.php?id=eyetvtravel_twn
+台湾|EYE 戏剧台,http://47.238.244.142/Smart.php?id=eyetvxiju_twn
+台湾|亚洲美食,http://47.238.244.142/Smart.php?id=afc_twn
+台湾|美食星球,http://47.238.244.142/Smart.php?id=foodplanet_twn
+台湾|TLC旅遊生活,http://47.238.244.142/Smart.php?id=tlc_twn
+台湾|亚洲旅游台,http://47.238.244.142/Smart.php?id=asiatravel_twn
+台湾|Arirang,http://47.238.244.142/Smart.php?id=arirang_twn
+台湾|AXN Taiwan,http://47.238.244.142/Smart.php?id=axn_twn
+台湾|MTV Live,http://47.238.244.142/Smart.php?id=mtvhd_twn
+台湾|HBO_HD,http://47.238.244.142/Smart.php?id=hbohd_twn
+台湾|HBO_HITS,http://47.238.244.142/Smart.php?id=hbohit_twn
+台湾|CINEMAX,http://47.238.244.142/Smart.php?id=cinemax_twn
+台湾|好萊塢電影台,http://47.238.244.142/Smart.php?id=hollywoodmovies_twn
+台湾|卫视电影台,http://47.238.244.142/Smart.php?id=weishimovie_twn
+台湾|龙祥时代,http://47.238.244.142/Smart.php?id=lungxiangtime_twn
+台湾|美亚电影,http://47.238.244.142/Smart.php?id=meiyamovie_twn
+台湾|華藝綜合,http://47.238.244.142/Smart.php?id=weishichinese_twn
+台湾|博斯运动一台,http://47.238.244.142/Smart.php?id=bosisport1_twn
+台湾|博斯运动二台,http://47.238.244.142/Smart.php?id=bosisport2_twn
+台湾|博斯高球一台,http://47.238.244.142/Smart.php?id=bosigolf1_twn
+台湾|博斯高球二台,http://47.238.244.142/Smart.php?id=bosigolf2_twn
+台湾|博斯网球台,http://47.238.244.142/Smart.php?id=bositennis_twn
+台湾|博斯无限台,http://47.238.244.142/Smart.php?id=bosiunlimited_twn
+台湾|好消息 2,http://47.238.244.142/Smart.php?id=good2_twn
 
 
 
