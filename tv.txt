@@ -26,9 +26,8 @@ YouTube新聞,#genre#
 非凡新聞,http://103.251.89.243:50007/4gtv-4gtv010/index.m3u8
 非凡新聞,http://106.107.177.223:50007/4gtv-4gtv010/index.m3u8
 
-非凡新闻台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/feifannews_twn/playlist.m3u8
-年代新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/niandainews_twn/playlist.m3u8
-年代新闻,http://198.16.100.186:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
+
+
 壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
 壹新聞,http://108.181.20.197/livehttpplay?channel_id=20028
@@ -40,7 +39,7 @@ YouTube新聞,#genre#
 
 
 
-
+年代新聞,http://198.16.100.186:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch27.m3u8?token=
 年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
