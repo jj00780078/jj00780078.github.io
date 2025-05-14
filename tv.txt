@@ -2,6 +2,7 @@ YouTube新聞,#genre#
 
 東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
 
+非凡新聞,http://47.238.244.142/Smart.php?id=feifannews_twn
 非凡新聞,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/75/817/ch57.m3u8
 非凡新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20034
 非凡新聞,http://156.253.12.5:932/tslive/IPTV.php?id=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB
@@ -27,7 +28,6 @@ YouTube新聞,#genre#
 非凡新聞,http://106.107.177.223:50007/4gtv-4gtv010/index.m3u8
 
 
-
 壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
 壹新聞,http://108.181.20.197/livehttpplay?channel_id=20028
@@ -38,6 +38,7 @@ YouTube新聞,#genre#
 壹新聞,https://no1x2.asiaw.top/live/t6u5b1q4/69a0087b/index.m3u8
 
 
+年代新聞,http://47.238.244.142/Smart.php?id=niandainews_twn
 
 年代新聞,http://198.16.100.186:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
@@ -118,14 +119,22 @@ TVBS新聞,http://61.221.215.25:8800/hls/9/index.m3u8#https://stream1.freetv.fun
 
 
 Smartv,#genre#
+台湾|寰宇财经台,http://47.238.244.142/Smart.php?id=huanyutaiwan_twn
+台湾|东森财经新闻台,http://47.238.244.142/Smart.php?id=ettvcaijing_twn
+台湾|非凡新闻,http://47.238.244.142/Smart.php?id=feifannews_twn
+台湾|年代新闻,http://47.238.244.142/Smart.php?id=niandainews_twn
+台湾|三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
+台湾|三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
+台湾|民视新闻台,http://47.238.244.142/Smart.php?id=ftvnew_taiwan
+台湾|东森新闻台,http://47.238.244.142/Smart.php?id=ettvnews
+台湾|寰宇新闻台,http://47.238.244.142/Smart.php?id=huanyuxinwen_twn
+台湾|鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+台湾|三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
+台湾|寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+台湾|TVBS 新闻台,http://47.238.244.142/Smart.php?id=tvbs_n
 
-寰宇新聞台,http://haoyunlai.serv00.net/Smartv-1.php?id=huanyuxinwen_twn
-寰宇財經台,http://haoyunlai.serv00.net/Smartv-1.php?id=huanyutaiwan_twn
-年代新聞台,http://haoyunlai.serv00.net/Smartv-1.php?id=niandainews_twn
-台湾|台视 HD,http://47.238.244.142/Smart.php?id=ttv_taiwan
 台湾|台视新闻,http://47.238.244.142/Smart.php?id=ttvnews_twn
-台湾|台视综合,http://47.238.244.142/Smart.php?id=ttvzhonghe
-台湾|中视 HD,http://47.238.244.142/Smart.php?id=zhongshihd_twn
+
 台湾|中视新闻,http://47.238.244.142/Smart.php?id=zhongshinews_twn
 台湾|中视经典,http://47.238.244.142/Smart.php?id=zhongshi_twn
 台湾|华视 HD,http://47.238.244.142/Smart.php?id=ctshd_twn
@@ -135,8 +144,7 @@ Smartv,#genre#
 台湾|三立都会台,http://47.238.244.142/Smart.php?id=sanlidouhui
 台湾|三立综合台,http://47.238.244.142/Smart.php?id=sanlizhonghe
 台湾|三立戏剧台,http://47.238.244.142/Smart.php?id=sanlixiju_twn
-台湾|东森新闻台,http://47.238.244.142/Smart.php?id=ettvnews
-台湾|东森财经新闻台,http://47.238.244.142/Smart.php?id=ettvcaijing_twn
+台湾|台视 HD,http://47.238.244.142/Smart.php?id=ttv_taiwan
 台湾|东森综合台,http://47.238.244.142/Smart.php?id=ettvzhonghe
 台湾|东森戏剧台,http://47.238.244.142/Smart.php?id=ettvdrama
 台湾|东森电影台,http://47.238.244.142/Smart.php?id=ettvmovie
@@ -144,17 +152,17 @@ Smartv,#genre#
 台湾|东森幼幼台,http://47.238.244.142/Smart.php?id=yoyo_twn
 台湾|东森超视,http://47.238.244.142/Smart.php?id=ettvsuper
 台湾|TVBS HD,http://47.238.244.142/Smart.php?id=tvbs
-台湾|TVBS 新闻台,http://47.238.244.142/Smart.php?id=tvbs_n
+台湾|台视综合,http://47.238.244.142/Smart.php?id=ttvzhonghe
+台湾|中视 HD,http://47.238.244.142/Smart.php?id=zhongshihd_twn
 台湾|TVBS 欢乐台,http://47.238.244.142/Smart.php?id=tvbshuanle_twn
 台湾|民视 HD,http://47.238.244.142/Smart.php?id=ftvhd_taiwan
-台湾|民视新闻台,http://47.238.244.142/Smart.php?id=ftvnew_taiwan
+
 台湾|民视台湾台,http://47.238.244.142/Smart.php?id=ftvtaiwan_twn
 台湾|中天综合,http://47.238.244.142/Smart.php?id=ctizhonghe
 台湾|中天娱乐,http://47.238.244.142/Smart.php?id=ctient
 台湾|中天亚洲,http://47.238.244.142/Smart.php?id=ctiasia_twn
 台湾|中天新闻,http://47.238.244.142/Smart.php?id=ctinews
-台湾|寰宇新闻台,http://47.238.244.142/Smart.php?id=huanyuxinwen_twn
-台湾|寰宇财经台,http://47.238.244.142/Smart.php?id=huanyutaiwan_twn
+
 台湾|八大第一台,http://47.238.244.142/Smart.php?id=badafirst
 台湾|八大综合台,http://47.238.244.142/Smart.php?id=badazhonghe
 台湾|八大戏剧台,http://47.238.244.142/Smart.php?id=badadrama
@@ -170,8 +178,7 @@ Smartv,#genre#
 台湾|爱尔达体育1台,http://47.238.244.142/Smart.php?id=eltasport_twn
 台湾|爱尔达体育2台,http://47.238.244.142/Smart.php?id=eltasport2_twn
 台湾|爱尔达体育3台,http://47.238.244.142/Smart.php?id=eltasport3_twn
-台湾|非凡新闻,http://47.238.244.142/Smart.php?id=feifannews_twn
-台湾|年代新闻,http://47.238.244.142/Smart.php?id=niandainews_twn
+
 台湾|龙华戏剧,http://47.238.244.142/Smart.php?id=lunghuaxiju_twn
 台湾|龙华偶像,http://47.238.244.142/Smart.php?id=lunghuaidol_twn
 台湾|龙华电影,http://47.238.244.142/Smart.php?id=xingwei_movie
