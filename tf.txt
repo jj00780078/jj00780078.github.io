@@ -40,6 +40,59 @@
          "changeable":0
       },
 
+        {
+            "key": "csp_CandyMuj_freeok",
+            "name": "💖FreeOK",
+            "type": 3,
+            "api": "csp_CandyMuj_freeok",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key": "csp_CandyMuj_sstv",
+            "name": "💖速搜影院(2K)",
+            "type": 3,
+            "api": "csp_CandyMuj_sstv",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key": "csp_CandyMuj_hjtv",
+            "name": "💖韩剧TV",
+            "type": 3,
+            "api": "csp_CandyMuj_hjtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+
+        {
+            "key": "csp_WoGG",
+            "name": "💖玩偶影视4K",
+            "type": 3,
+            "api": "csp_Wogg",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "CandyMuj",
+                "filter": "./conf/wogg.json"
+            }
+        },
+        {
+            "key": "csp_WoGG1",
+            "name": "💖玩偶影视4K-备1",
+            "type": 3,
+            "api": "csp_Wogg",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "影視天下第一",
+                "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
+            },
+            "jar": "https://gh-proxy.com/github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+        },
 
  {
       "key": "csp_Jpys",
