@@ -132,8 +132,8 @@ TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=
 TVBS新聞,http://61.221.215.25:8800/hls/9/index.m3u8#https://stream1.freetv.fun/654c1d76067bc90729826819ea043d06be160c63b8a331bd4b09c0bc830eba0a.m3u8
 
 東森財經,https://stream1.freetv.fun/9ab1d387aea892378b7046dff801ff75aa65efb7a39fabda8629a2246ab8542e.m3u8
-非凡新聞,rtmp://f13h.mine.nu/sat/tv581#https://stream1.freetv.fun/47633d1dc2ae9a95a129bd4456177b9d840be282ec37dffe46c11a1fa975539c.ctv
-
+非凡新聞,http://docker.livednow.dpdns.org/4gtv-4gtv010/index.m3u8#
+非凡新聞,https://stream1.freetv.fun/47633d1dc2ae9a95a129bd4456177b9d840be282ec37dffe46c11a1fa975539c.ctv
 
 
 
