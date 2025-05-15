@@ -48,6 +48,7 @@ TVBS新聞台,tvbus://8L9szRfgZ4pXki9zoxAf9YmqpQm2gZ9GPmY3YioaKZfD4mGwFv#tvbus:/
 壹新聞,http://108.181.20.197/livehttpplay?channel_id=20028
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
 壹新聞,p3p://167.114.175.6:55331/621dbb640001cb2b272027f74da62753
+壹新聞,p3p://173.208.176.178:31809/621dbb640001cb2b272027f74da62753
 壹新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 壹新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2777
 壹新聞,http://108.181.21.27:32933/livehttpplay?channel_id=20028
@@ -66,7 +67,7 @@ TVBS新聞台,tvbus://8L9szRfgZ4pXki9zoxAf9YmqpQm2gZ9GPmY3YioaKZfD4mGwFv#tvbus:/
 年代新聞,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
 年代新聞,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch27.m3u8?token=
 年代新聞,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
-
+年代新聞,p3p://173.208.176.178:31809/5fe09fec000ac0127462c4ac6b1f16a3
 年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
 年代新聞,https://www.insurancegogogo.com/4987/niandainews_twn/playlist.m3u8
 年代新聞,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/niandainews_twn/playlist.m3u8
@@ -91,6 +92,7 @@ TVBS新聞台,tvbus://8L9szRfgZ4pXki9zoxAf9YmqpQm2gZ9GPmY3YioaKZfD4mGwFv#tvbus:/
 三立新聞,https://stream1.freetv.fun/ea74b932d9d126c79dbea6485ac7119fb16be08f6e7a4494cd2647641c93361d.m3u8
 三立新聞,https://stream1.freetv.fun/san-li-xin-wen-7.m3u8
 三立新聞,p3p://167.114.175.6:55331/6014c896000c7101401f67cc5477681b
+三立新聞,p3p://173.208.176.178:31809/6014c896000c7101401f67cc5477681b
 三立新聞,http://108.181.20.197/livehttpplay?channel_id=10126
 三立新聞,p3p://108.181.32.169:39875/6766bc7f000ed78dc349b377648221c8
 三立新聞,https://stream1.freetv.fun/44989190362ce9eee5fb2db79fa32a1112bc5751271fcb5925a6e9619080fef8.m3u8
