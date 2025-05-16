@@ -110,6 +110,17 @@ TVBS新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=
 台视财经台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv056
 第1商业台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv104
 
+鏡電視新聞台,http://docker.livednow.dpdns.org/li-4gtv-4gtv075/index.m3u8
+非凡商業,http://docker.livednow.dpdns.org/4gtv-4gtv048/index.m3u8
+非凡新聞,http://docker.livednow.dpdns.org/4gtv-4gtv010/index.m3u8
+民視新聞,http://docker.livednow.dpdns.org/li-litv-ftv13/index.m3u8
+民視新聞,http://docker.livednow.dpdns.org/litv-ftv13/index.m3u8
+東森財經新聞,http://docker.livednow.dpdns.org/li-4gtv-4gtv153/index.m3u8
+東森新聞,http://docker.livednow.dpdns.org/li-4gtv-4gtv152/index.m3u8
+TVBS新聞台,http://docker.livednow.dpdns.org/li-4gtv-4gtv072/index.m3u8
+台視財經台,http://docker.livednow.dpdns.org/4gtv-4gtv056/index.m3u8
+台視新聞台,http://docker.livednow.dpdns.org/li-4gtv-4gtv051/index.m3u8
+中視新聞台,http://docker.livednow.dpdns.org/li-4gtv-4gtv074/index.m3u8
 
 
 
