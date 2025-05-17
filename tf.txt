@@ -305,16 +305,7 @@
       }
     },    
 
-        {
-            "name": "p3p",
-            "type": 0,
-            "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/libp3p.txt",
 
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "so": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/libp2ptv.so"
-
-            }
-           },
     
 
         {
