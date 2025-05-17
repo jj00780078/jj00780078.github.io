@@ -313,9 +313,7 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "so": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/libp3p.so",
-            "catchup": {
-                "type": "append",
-                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+            "pkg": "com.svc.vlive.home.ytv9x"
             }
            },
     
