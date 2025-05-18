@@ -161,10 +161,6 @@ TVBS新聞,http://61.221.215.25:8800/hls/9/index.m3u8#https://stream1.freetv.fun
 
 
 
-
-
-
-
 優格TV,#genre#
 
 東森財經新聞,tvbus://7SLqnsy9jpAzqugrzTQGtsfPaRkW1pRi1wiQ44hmy5coCgZWtG#tvbus://8EtmkwuxyBJgEMYSXqZFJ77Mfy6S5H931LZSM33F3sfgcBJgHo#tvbus://8YKVxSkFyiKr5bZX9fNk9mhqS8Zx72xWw1Y1Pivfkuq5yzj9Yc#tvbus://8fMdBzotQiVzgFA5MANp3Frz9t5n9iLSCmWgPYnfPtrwnEt3w2#tvbus://6uvqZA7yduuG9gq1EyFmvDMRWst5hXz38dpCqMzUTSbu4LWCcw#tvbus://7PGoZmmQkfwJvpxidCmhHU2tb2Qpm5YVPP8D27KEt1uUvF9EWE#tvbus://5ne7q3NMaAD8Ziy25puFWQMgfS6WW2699ASVjk1gzEmoi7MsAo36sJnaSjFkr
@@ -219,4 +215,44 @@ ELTA體育4台,tvbus://7wzjimj9z94DbCrJwNQFZXEuBgJqEUrjfWqziC1kqDW4JYCCSP#tvbus:
 緯來體育台,tvbus://6ewxfyKnuHZmu5HKsVU7HuzDoYrZNwueotdNepPfNPW6TkyBUH3Z3VhKoLm3a
 
 
+測試,#genre#
 
+[SD]非凡新闻[geo-blocked],rtmp://f13h.mine.nu/sat/tv581
+[HD]非凡新闻,https://stream1.freetv.fun/fei-fan-xin-wen-5.ctv
+[HD]非凡新聞[geo-blocked],rtmp://f13h.mine.nu/sat/tv581
+[BD]三立新闻,https://stream1.freetv.fun/san-li-xin-wen-5.m3u8
+[HD]三立新闻,https://stream1.freetv.fun/san-li-xin-wen-3.ctv
+[BD]三立新闻,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
+[BD]三立新闻,https://stream1.freetv.fun/san-li-xin-wen-7.m3u8
+[BD]三立新闻,https://stream1.freetv.fun/san-li-xin-wen-6.m3u8
+[BD]寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-2.m3u8
+[BD]寰宇新聞[geo-blocked],https://stream1.freetv.fun/huan-yu-xin-wen-6.m3u8
+[BD]寰宇新闻[geo-blocked],https://stream1.freetv.fun/huan-yu-xin-wen-4.m3u8
+[BD]年代新闻,https://stream1.freetv.fun/nian-dai-xin-wen-7.ctv
+[BD]年代新闻,https://stream1.freetv.fun/nian-dai-xin-wen-2.ctv
+[BD]三立财经,https://stream1.freetv.fun/san-li-cai-jing-2.m3u8
+[BD]東森新聞[geo-blocked],https://stream1.freetv.fun/dong-sen-xin-wen-3.m3u8
+[BD]東森新聞,https://stream1.freetv.fun/dong-sen-xin-wen-5.ctv
+[BD]民視新聞,https://stream1.freetv.fun/min-shi-xin-wen-18.m3u8
+[BD]民視新聞台[geo-blocked],https://stream1.freetv.fun/min-shi-xin-wen-14.m3u8
+[BD]民视新闻 hd,https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8
+[BD]民视新闻 hd,https://stream1.freetv.fun/min-shi-xin-wen-9.m3u8
+[BD]民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-1.m3u8
+[HD]民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-12.ctv
+[HD]民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-19.ctv
+[BD]民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-4.m3u8
+[BD]民视 新闻,https://stream1.freetv.fun/min-shi--xin-wen-1.m3u8
+[BD]民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-15.m3u8
+[BD]民视新闻[geo-blocked],https://stream1.freetv.fun/min-shi-xin-wen-11.m3u8
+[BD]民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-6.m3u8
+[BD]民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-7.m3u8
+[BD]民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-8.m3u8
+[BD]民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-5.m3u8
+[BD]民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-10.m3u8
+[BD]民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-17.m3u8
+[BD]民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-2.m3u8
+[BD]民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-3.m3u8
+[BD]民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-20.m3u8
+
+非凡新聞1,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv010/index.m3u8
+年代新聞1,https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn
