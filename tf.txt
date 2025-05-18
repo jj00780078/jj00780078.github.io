@@ -403,32 +403,7 @@
                     },
 
 
-{
-            "name": "PerfectTV",
-            "type": 0,
-            "url": "https://perfecttv.net/PerfecttvFree.m3u",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 2
-        },
 
-{
-            "name": "欧华直播",
-            "type": 0,
-            "url": "http://files.catbox.moe/hppkqj.txt",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 1
-        }, 
-{
-      "name": "MQitv",
-      "api": "csp_MQiTV",
-      "ua": "okhttp",
-      "ext": "https://59.125.210.231:4433",
-      "timeout": 30,
-      "playerType": 1
-      
-    }, 
 
 {
             "name": "RobYangrb",
@@ -436,13 +411,7 @@
             "playerType": 2,
             "url": "https://firebasestorage.googleapis.com/v0/b/myiptv-f81a8.appspot.com/o/robyang.txt.m3u?alt=media&token=72c905aa-6d4d-4f2e-b3d1-78114ee11b9b"
         },
-{
-            "name": "freetv台湾",
-            "type": 0,
-            "url": "http://freetv.fun/test_channels_taiwan_new.m3u",
-            "timeout": 30,
-            "playerType": 1
-        },
+
 
      { "name": "LITV直播(python)",
       "type": 0,
