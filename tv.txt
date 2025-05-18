@@ -217,6 +217,11 @@ ELTA體育4台,tvbus://7wzjimj9z94DbCrJwNQFZXEuBgJqEUrjfWqziC1kqDW4JYCCSP#tvbus:
 
 測試,#genre#
 
+東森財經新聞,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv153/index.m3u8
+東森財經新聞,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv153/index.m3u8
+
+非凡新聞,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv010/index.m3u8
+
 民視新聞,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv13/index.m3u8
 東森新聞,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv152/index.m3u8
 寰宇新聞台灣台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv156/index.m3u8
@@ -232,7 +237,7 @@ ELTA體育4台,tvbus://7wzjimj9z94DbCrJwNQFZXEuBgJqEUrjfWqziC1kqDW4JYCCSP#tvbus:
 東森新聞,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv152/index.m3u8
 民視新聞,http://xn--elt51t.azip.dpdns.org:5008/li-litv-ftv13/index.m3u8
 TVBS新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv072/index.m3u8
-東森財經新聞,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv153/index.m3u8
+
 中視新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv074/index.m3u8
 中天新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv009/index.m3u8
 寰宇新聞,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn14/index.m3u8
@@ -241,15 +246,15 @@ TVBS新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv072/index.m3u8
 非凡商業,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv048/index.m3u8
 寰宇財經,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv158/index.m3u8
 台視財經台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv056/index.m3u8
-華視新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv052/index.m3u8
+華視新聞台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv041/index.m3u8
 華視新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv052/index.m3u8
 
 中視新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv074/index.m3u8
 中天新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv009/index.m3u8
 台視新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv051/index.m3u8
 中視新聞台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv074/index.m3u8
-華視,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv041/index.m3u8
-華視新聞台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv052/index.m3u8
+
+
 中天新聞台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv009/index.m3u8
 寰宇新聞,http://xn--elt51t.azip.dpdns.org:5008/of-litv-longturn14/index.m3u8
 寰宇新聞台灣台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv156/index.m3u8
@@ -258,9 +263,22 @@ TVBS新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv072/index.m3u8
 台視新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv051/index.m3u8
 SBN 全球財經台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live060/index.m3u8
 
+東森新聞,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
+民視新聞,https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
+民視新聞,https://stream1.freetv.fun/min-shi-xin-wen-12.ctv寰宇財經,https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
+寰宇新聞台灣台,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
+東森財經新聞,https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
+非凡新聞,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
+年代新聞,https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn
 
-民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-12.ctv
-[HD]民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-19.ctv
 
 
-非凡新聞1,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv010/index.m3u8
+
+
+
+
+
+
+
+
+
