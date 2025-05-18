@@ -412,14 +412,7 @@
             "url": "https://firebasestorage.googleapis.com/v0/b/myiptv-f81a8.appspot.com/o/robyang.txt.m3u?alt=media&token=72c905aa-6d4d-4f2e-b3d1-78114ee11b9b"
         },
 
-{
-      "name": "Gather",
-      "type": 0,
-      "url": "http://tv.iill.top/m3u/Gather",
-      "ua": "okhttp/3.8.1",
-      "timeout": 20,
-      "playerType": 1
-    },
+
 
 
      { "name": "LITV直播(python)",
@@ -495,7 +488,14 @@
         },         
         
 
-
+{
+      "name": "Gather",
+      "type": 0,
+      "url": "http://tv.iill.top/m3u/Gather",
+      "ua": "okhttp/3.8.1",
+      "timeout": 20,
+      "playerType": 1
+    },
 
 
 
