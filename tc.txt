@@ -4,6 +4,90 @@
   "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
   "sites": [
  
+{
+            "key": "T4-独播库",
+            "name": "🎦┃獨播庫",
+            "type": 4,
+            "api": "http://tang.hz.cz/power/duboku?token=f3d23dd2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+
+{
+            "key": "GUAZI",
+            "name": "🍈┃瓜子影視",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "csp_Gz360",
+            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/Melon%20seeds.jar"
+            
+        },
+{
+            "key": "T4-欧乐",
+            "name": "📽️┃歐樂影院",
+            "type": 4,
+            "api": "http://tang.hz.cz/power/olelive?token=f3d23dd2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+
+
+{
+            "key": "小宝影院",
+            "name": "🎬┃小寶影院",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60,
+            "api": "csp_XBPQ",
+            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/XBPQ.jar",
+            "ext": {
+                "主页url": "https://xiaoxintv.com",
+                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "数组": "class=\"myui-vodlist__box\">&&</div>",
+                "简介": "剧情简介</h3>&&</span>",
+                "线路数组": "data-toggle=\"tab&&</li>",
+                "线路标题": ">&&</a>",
+                "播放数组": "class=\"myui-content__list&&</ul>",
+                "播放列表": "<li&&</li>",
+                "播放标题": ">&&</a",
+                "播放链接": "href=\"&&\"",
+                "搜索数组": "lazyload\"&&</a",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索标题": "title=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "分类url": "https://xiaoxintv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+                "分类": "电影$7#电视剧$6#动漫$5#综艺$3#纪录片$21#体育$20"
+            }
+        },
+
+{
+            "key": "T4-安博",
+            "name": "🌈┃安博",
+            "type": 4,
+            "api": "http://tang.hz.cz/power/ub18?token=f3d23dd2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": {
+                "danmu": true
+            }
+        },
+
+
+
+
+
+
+
  {
       "key": "csp_Jpys",
       "name": "🥇金牌┃1080P",
