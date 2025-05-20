@@ -193,6 +193,28 @@ TVBS新聞,http://61.221.215.25:8800/hls/9/index.m3u8#https://stream1.freetv.fun
 非凡新聞,https://stream1.freetv.fun/47633d1dc2ae9a95a129bd4456177b9d840be282ec37dffe46c11a1fa975539c.ctv
 
 
+TVBS新聞,http://tv543.ddns.net:50007/li-4gtv-4gtv072/index.m3u8
+東森新聞,http://tv543.ddns.net:50007/4gtv-4gtv152/index.m3u8
+東森新聞,http://tv543.ddns.net:50007/li-4gtv-4gtv152/index.m3u8
+民視新聞,http://tv543.ddns.net:50007/li-litv-ftv13/index.m3u8
+民視新聞,http://tv543.ddns.net:50007/litv-ftv13/index.m3u8
+三立新聞,http://tv543.ddns.net:50007/4gtv-live089/index.m3u8
+三立新聞,http://tv543.ddns.net:50007/iNEWS/index.m3u8
+
+東森財經,http://tv543.ddns.net:50007/4gtv-4gtv153/index.m3u8
+東森財經,http://tv543.ddns.net:50007/li-4gtv-4gtv153/index.m3u8
+寰宇新聞,http://tv543.ddns.net:50007/li-litv-longturn14/index.m3u8
+寰宇新聞,http://tv543.ddns.net:50007/litv-longturn14/index.m3u8
+寰宇新聞,http://tv543.ddns.net:50007/of-litv-longturn14/index.m3u8
+寰宇台灣,http://tv543.ddns.net:50007/4gtv-4gtv156/index.m3u8
+寰宇台灣,http://tv543.ddns.net:50007/li-4gtv-4gtv156/index.m3u8
+寰宇台灣,http://tv543.ddns.net:50007/of-4gtv-4gtv156/index.m3u8
+寰宇財經,http://tv543.ddns.net:50007/4gtv-4gtv158/index.m3u8
+寰宇財經,http://tv543.ddns.net:50007/li-4gtv-4gtv158/index.m3u8
+寰宇財經,http://tv543.ddns.net:50007/of-4gtv-4gtv158/index.m3u8
+鏡新聞,http://tv543.ddns.net:50007/4gtv-4gtv075/index.m3u8
+鏡新聞,http://tv543.ddns.net:50007/li-4gtv-4gtv075/index.m3u8
+非凡新聞,http://tv543.ddns.net:50007/4gtv-4gtv010/index.m3u8
 
 
 
