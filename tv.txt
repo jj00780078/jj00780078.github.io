@@ -7,9 +7,7 @@ YouTube新聞,#genre#
 壹新聞,http://108.181.20.197/livehttpplay?channel_id=20028
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
-壹新聞,tvbus://8MUCNHnQ6XnFRAyVnKcRsoJQrj7V3FyZcT5Tmr4PxDhfuf5Cac#tvbus://8JtrQzEXuEeVd3k5cAv3aYvbgSMQon1fCfb7nW3nV63THspYJP#tvbus://65ryeDVn2PVGQ73fHGSGkMqxxwXydqegpMT3Kv3w2aJp3zK921rJCLsvK5car#tvbus://5x9sknJgFF5tyZFmAATSabfX8EWJeUqh9jMajzZmqGfStzgH63S65Dio3WdPv#tvbus://6RG54MwymkPPzUQ479WCB9hr5BLwDyt9xNedKdmeT6yspRbwtLYTXmUvkM73Q
-年代新聞,tvbus://7fkqZDMkSsAG9prCFMWtSLmabJEqs7qpnt7ZvAkmfFPn3MBRK3#tvbus://7SsyqyoLgP1oTX3DD4xJtGWzVYge1CUxEFhSyF1xRawSMN4Qb6#tvbus://5h2TZD5bBdVk6fkXE1wmVSVdLiy3adNKUpym41KfpjNvnUh9KGcWJEwFEd57K#tvbus://5Jv5rV9wMmdVnHPUTcLozVBdTWkyHLymSmLuubNPGXGpBQFdt3v5xzHjLNnAd#tvbus://6djXxs3VWPpKW154feZ1HCMpa3GKw9ikKo6Vci12C9kJ8iPWDW4nrecVSBvVZ
-三立新聞,tvbus://76zFjX53rGCK1a9wJizjVs6zbvjg8kCpwe1LbKRjLqrhRTPzMa#tvbus://7CrTkgyk1qVk2mW2YPsZwTf3YFgfpEAZHmLQjan7JZaVEckgtW#tvbus://6ChkpPaigRFC87vDuKbWuDk5LRRPMpoPJHLe17HhhBLZ1ur3erhWkvRyGRepb#tvbus://5MFbJvGBSHoBwyxUfJCewxS83CggMnsGbjwJGf2gqf6DdeDEBXAqjp7TgqaaJ#tvbus://6bs46xJg4dRFdkfGEdAUaA7JxvRCRs65zH3iGbcyXZhpEALM1A5NAxkkk1mbm
+
 
 
 民視新聞,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv13/index.m3u8
