@@ -405,19 +405,19 @@
             }
            },
 
-          {
-      "name": "MQ",
+          
+     { "name": "MQ",
       "api": "csp_MQiTV",
       "jar": "https://10526.kstore.vip/tv.jar",
       "ext": "https://59.125.210.231:4433"
     },
 
-{ 
+    { 
       "name": "IP解析", 
       "api": "csp_MQiTV", 
       "ext": "https://59.125.210.231:4433", 
       "jar": "https://mpimg.cn/down.php/1f6ad25d85981dd689b5534170cdcd42.jar", 
-      "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}",
+      "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
      
     },  
 
