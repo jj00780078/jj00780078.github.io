@@ -79,7 +79,7 @@ TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=
 壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
 壹新聞,http://108.181.20.197/livehttpplay?channel_id=20028
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
-壹新聞·,https://flv3948069e.live.126.net/live/61bbd83a3fcf24c4fa524a298e3e8b87.flv
+壹新聞,https://flv3948069e.live.126.net/live/61bbd83a3fcf24c4fa524a298e3e8b87.flv
 壹新聞,p3p://167.114.175.6:55331/621dbb640001cb2b272027f74da62753
 壹新聞,p3p://173.208.176.178:31809/621dbb640001cb2b272027f74da62753
 壹新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
@@ -179,16 +179,16 @@ TVBS新聞,http://61.221.215.25:8800/hls/9/index.m3u8#https://stream1.freetv.fun
 
 
 
+
+东森新闻,http://47.239.163.171/HDTV/QQ群1047470024.php?id=47
+寰宇新闻,http://47.239.163.171/HDTV/QQ群1047470024.php?id=45
+镜新闻,http://47.239.163.171/HDTV/QQ群1047470024.php?id=46
+TVBS新闻,http://47.239.163.171/HDTV/QQ群1047470024.php?id=40
 非凡新闻,http://47.239.163.171/HDTV/QQ群1047470024.php?id=44
 壹新闻,http://47.239.163.171/HDTV/QQ群1047470024.php?id=36
 壹新闻,http://47.239.163.171/HDTV/QQ群1047470024.php?id=42
 年代新闻,http://47.239.163.171/HDTV/QQ群1047470024.php?id=43
 三立新闻,http://47.239.163.171/HDTV/QQ群1047470024.php?id=63
-东森新闻,http://47.239.163.171/HDTV/QQ群1047470024.php?id=47
-寰宇新闻,http://47.239.163.171/HDTV/QQ群1047470024.php?id=45
-镜新闻,http://47.239.163.171/HDTV/QQ群1047470024.php?id=46
-TVBS新闻,http://47.239.163.171/HDTV/QQ群1047470024.php?id=40
-
 
 
 
