@@ -277,7 +277,20 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
 
+          {
+      "name": "MQ",
+      "api": "csp_MQiTV",
+      "jar": "https://10526.kstore.vip/tv.jar",
+      "ext": "https://59.125.210.231:4433"
+    },
 
+
+        {
+            "name": "RobYangrb",
+            "type": 0,
+            "playerType": 2,
+            "url": "https://firebasestorage.googleapis.com/v0/b/myiptv-f81a8.appspot.com/o/robyang.txt.m3u?alt=media&token=72c905aa-6d4d-4f2e-b3d1-78114ee11b9b"
+        },
 
                     {
                       "name": "優格TV",
