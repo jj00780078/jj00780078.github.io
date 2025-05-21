@@ -118,17 +118,6 @@
 
 
 
-{"key":"csp_biubiu_奈菲影院","name":"🐛奈菲影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/sub/biubiu/奈菲影院.json"},
-{"key":"csp_biubiu_蓝莓影视","name":"🐛蓝莓影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/sub/biubiu/蓝莓影视.json"},
-{"key":"csp_xpath_duboku","name":"🦋独播库","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/sub/xpath/duboku2.json"},
-{"key":"csp_xpath_789kp","name":"🦋789看片","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://9xi4o.tk/sub/xpath/789kp.json"},
-{"key":"csp_xpath_Gimy","name": "🦋Gimy影院","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://9xi4o.tk/sub/xpath/Gimy2.json"},
-{"key":"csp_xpath_yanet","name":"🦋鸭奈飞","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://9xi4o.tk/sub/xpath/yanet.json"},
-{"key":"csp_xpath_yanetflix","name":"🦋鸭奈非","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/sub/xpath/yanetflix.json"},
-{"key":"csp_biubiu_鸭奈飞","name":"🐛鸭奈飞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/sub/biubiu/鸭奈飞.json"},
-{"key":"csp_biubiu_GIMY影视","name":"🐛GIMY影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/sub/biubiu/GIMY影视.json"},
-{"key":"csp_biubiu_COKEMV","name":"🐛COKEMV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/sub/biubiu/COKEMV.json"},
-{"key":"csp_biubiu_YYDS影院","name":"🐛YYDS影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/sub/biubiu/YYDS影院.json"},
 
 {"key":"黑木影視","name":"黑木影視","type":1,"api":"https://heimuer.ggff.net/api.php/tvbox","searchable":1,"quickSearch":1,"filterable":0},
 
