@@ -285,12 +285,7 @@
     },
 
 
-        {
-            "name": "RobYangrb",
-            "type": 0,
-            "playerType": 2,
-            "url": "https://firebasestorage.googleapis.com/v0/b/myiptv-f81a8.appspot.com/o/robyang.txt.m3u?alt=media&token=72c905aa-6d4d-4f2e-b3d1-78114ee11b9b"
-        },
+
 
                     {
                       "name": "優格TV",
