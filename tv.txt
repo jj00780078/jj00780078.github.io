@@ -4,6 +4,12 @@ YouTube新聞,#genre#
 東森財經,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv153/index.m3u8
 非凡新聞,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv010/index.m3u8
 
+非凡新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=44
+壹新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=36
+壹新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=42
+年代新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=43
+三立新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=63
+
 壹新聞,http://108.181.20.197/livehttpplay?channel_id=20028
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
