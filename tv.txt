@@ -14,8 +14,6 @@ YouTube新聞,#genre#
 
 
 壹新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=42
-年代新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=43
-三立新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=63
 
 
 民視新聞,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv13/index.m3u8
@@ -99,7 +97,7 @@ TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=
 
 
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-
+年代新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=43
 年代新聞,http://198.16.100.186:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 
 年代新聞,p2p://142.54.189.229:7575/64df11830008ea4904a2921502394fe8.ts
@@ -126,6 +124,8 @@ TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=
 年代新聞,https://haoyunlai.serv00.net/Smartv-1.php?id=niandainews_twn
 年代新聞,http://211.72.65.236:8529/.m3u8
 年代新聞,http://211.72.65.236:8539/.m3u8
+
+三立新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=63
 
 三立新聞,p2p://142.54.189.229:7575/64df114a00089e6504a1b34e5ec80344.ts
 三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
