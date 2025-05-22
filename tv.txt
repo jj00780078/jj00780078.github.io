@@ -191,13 +191,27 @@ TVBS新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=40
 年代新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=43
 三立新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=63
 
-
-
-
-
-
-
-
+壹新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=52be12&tk=bc0f2d0fea7b
+壹新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=0426af&tk=bc0f2d0fea7b
+年代新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=d6e2bd&tk=bc0f2d0fea7b
+非凡新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=cbb740&tk=bc0f2d0fea7b
+寰宇新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=470b0f&tk=bc0f2d0fea7b
+镜新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=da4f76&tk=bc0f2d0fea7b
+东森新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=fd65c6&tk=bc0f2d0fea7b
+三立新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=74f177&tk=bc0f2d0fea7b
+三立新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=fe245b&tk=bc0f2d0fea7b
+壹新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=885be0&tk=bc0f2d0fea7b
+年代新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=e86cea&tk=bc0f2d0fea7b
+非凡新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=2531c8&tk=bc0f2d0fea7b
+寰宇新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=20de12&tk=bc0f2d0fea7b
+镜新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=d30948&tk=bc0f2d0fea7b
+东森新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=ca31b6&tk=bc0f2d0fea7b
+TVBS新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=cc4b78&tk=bc0f2d0fea7b
+TVBS新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=d2a834&tk=bc0f2d0fea7b
+TVBS新闻,p2p://142.54.189.229:7575/64df0c5d000a530d048e75f37b155008.ts
+东森新闻,p2p://142.54.189.229:7575/64df0db3000d67790493aeaf65c56300.ts
+三立新闻,p2p://142.54.189.229:7575/64df114a00089e6504a1b34e5ec80344.ts
+年代新闻,p2p://142.54.189.229:7575/64df11830008ea4904a2921502394fe8.ts
 
 
 
