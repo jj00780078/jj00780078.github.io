@@ -187,32 +187,7 @@ TVBS新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=40
 TVBS新聞,p2p://142.54.189.229:7575/64df0c5d000a530d048e75f37b155008.ts
 
 
-壹新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=52be12&tk=bc0f2d0fea7b
-壹新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=0426af&tk=bc0f2d0fea7b
-年代新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=d6e2bd&tk=bc0f2d0fea7b
-非凡新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=cbb740&tk=bc0f2d0fea7b
-寰宇新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=470b0f&tk=bc0f2d0fea7b
-镜新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=da4f76&tk=bc0f2d0fea7b
-东森新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=fd65c6&tk=bc0f2d0fea7b
-三立新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=74f177&tk=bc0f2d0fea7b
-三立新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=fe245b&tk=bc0f2d0fea7b
-壹新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=885be0&tk=bc0f2d0fea7b
-年代新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=e86cea&tk=bc0f2d0fea7b
-非凡新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=2531c8&tk=bc0f2d0fea7b
-寰宇新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=20de12&tk=bc0f2d0fea7b
-镜新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=d30948&tk=bc0f2d0fea7b
-东森新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=ca31b6&tk=bc0f2d0fea7b
-TVBS新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=cc4b78&tk=bc0f2d0fea7b
-TVBS新闻,http://kkk.jjjj.jiduo.me/api.php?n=cctvtw&id=d2a834&tk=bc0f2d0fea7b
 
-壹電視新聞,http://web6868.com/b33df98348714a6b3d91980d08baa12c/eb2eeae0f632eb56d727944102c3f5dfd239d7d118e6d73083d9ec34300a34fd/b7e9d90e427aa45ca9091c55e0cd1b86/index.m3u8
-壹電視新聞,http://web6868.com/a66f9ba171694a58b8fa8ee657ab7ff3/eb2eeae0f632eb56d727944102c3f5dfd239d7d118e6d73083d9ec34300a34fd/ef5fa393563a0e0f5244085298476016/index.m3u8
-壹電視新聞,http://web6868.com/e2432ed9193c730b13c0e7680f86a140/eb2eeae0f632eb56d727944102c3f5dfd239d7d118e6d73083d9ec34300a34fd/84fc464312395523e32204b9c0cb714a/index.m3u8
-年代新聞,http://web6868.com/795a9231e76bc157b3b9a1bd9aa5e569/eb2eeae0f632eb56d727944102c3f5dfd239d7d118e6d73083d9ec34300a34fd/7596c5d18258779cc2476e162fc226cf/index.m3u8
-年代新聞,http://web6868.com/29d31774c5af2fcc50f5720bebeeb533/eb2eeae0f632eb56d727944102c3f5dfd239d7d118e6d73083d9ec34300a34fd/da396e776e0fcc1b36ee38c1272d8d56/index.m3u8
-年代新聞,http://web6868.com/21eb841956d418bb8d81e5b73bcd910b/eb2eeae0f632eb56d727944102c3f5dfd239d7d118e6d73083d9ec34300a34fd/689c0230dd567562bd42d3ee12b3d490/index.m3u8
-年代新聞,http://web6868.com/20a0e2cf92309a9d446a6cec59b6895b/eb2eeae0f632eb56d727944102c3f5dfd239d7d118e6d73083d9ec34300a34fd/4701c27ad5e5759bea1a73b04c0cb79d/index.m3u8
-年代新聞,http://web6868.com/77a542a25228b8a55bf992c779b20f09/eb2eeae0f632eb56d727944102c3f5dfd239d7d118e6d73083d9ec34300a34fd/70d039b2ba10c47afd352657d851507c/index.m3u8
 
 
 
