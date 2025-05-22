@@ -11,7 +11,7 @@ YouTube新聞,#genre#
 壹新聞,http://108.181.20.197/livehttpplay?channel_id=20028
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
-壹新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=36
+
 壹新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=42
 年代新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=43
 三立新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=63
@@ -69,8 +69,7 @@ TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=
 
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,http://docker.livednow.dpdns.org/4gtv-4gtv010/index.m3u8#
-非凡新聞,p3p://108.181.32.169:57694/676955eb00013181cd70c73b35a34c93
-非凡新聞,p3p://167.114.175.6:55331/6146918a000a6ec0ea89b8904d520fbf
+
 非凡新聞,http://205.185.123.236:50089/4gtv-4gtv010/index.m3u8
 非凡新聞,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/feifannews_twn/playlist.m3u8
 非凡新聞,https://www.insurancegogogo.com/4987/feifannews_twn/playlist.m3u8
@@ -84,11 +83,11 @@ TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=
 
 
 壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
+
 壹新聞,http://108.181.20.197/livehttpplay?channel_id=20028
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
 壹新聞,https://flv3948069e.live.126.net/live/61bbd83a3fcf24c4fa524a298e3e8b87.flv
-壹新聞,p3p://167.114.175.6:55331/621dbb640001cb2b272027f74da62753
-壹新聞,p3p://173.208.176.178:31809/621dbb640001cb2b272027f74da62753
+
 壹新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 壹新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2777
 壹新聞,http://108.181.21.27:32933/livehttpplay?channel_id=20028
@@ -98,9 +97,10 @@ TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=
 壹新聞,http://211.72.65.236:8548/.m3u8
 
 
+年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 
 年代新聞,http://198.16.100.186:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
-年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+
 年代新聞,p3p://108.181.32.169:57694/67694e1500009a3dcd522b1b1f7e14f1
 年代新聞,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch27.m3u8?token=
 年代新聞,http://108.181.20.197/livehttpplay?channel_id=20033
@@ -108,8 +108,7 @@ TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=
 年代新聞,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch27.m3u8?token=
 年代新聞,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 年代新聞,http://47.238.244.142/Smart.php?id=niandainews_twn
-年代新聞,p3p://167.114.175.6:55331/5fe09fec000ac0127462c4ac6b1f16a3
-年代新聞,p3p://173.208.176.178:31809/5fe09fec000ac0127462c4ac6b1f16a3
+
 年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
 年代新聞,https://www.insurancegogogo.com/4987/niandainews_twn/playlist.m3u8
 年代新聞,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/niandainews_twn/playlist.m3u8
@@ -117,7 +116,7 @@ TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=
 年代新聞,http://61.163.58.168:2005/play/forward/5?tvid=eranewslm&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5rex5Zyz5biCIiwiaXAiOiI1OS4zNi4xNjYuMjE1IiwidHZpZCI6IjI3OTY4NTIzIiwiZWNvbm9taXplIjoi5bm_5LicIiwiZXhwIjoxNzQ2MTAyMDU0LCJuYmYiOjE3NDYwODQwNTQsImlhdCI6MTc0NjA4NDA1NH0.S3NFp_Pg4T14ExLY5n4E7Buq6SAN5oBM1DHjok1eRWs
 年代新聞,http://150.138.77.132:10037/150.php?id=年代新闻
 年代新聞,http://免.l5.ca/daili/Smartv.php?id=niandainews_twn
-年代新聞,https://stream1.freetv.fun/b568fdf49ecc39119662a57f6e4ee16a6e41643a2a3c66854f9bc81663a8174b.ctv
+
 年代新聞,http://108.181.21.27:43079/livehttpplay?channel_id=20033
 年代新聞,http://108.181.20.215:41933/livehttpplay?id=20033
 年代新聞,http://122.117.71.103:8538/http/61.222.53.250:8081/hls/67/809/ch27.m3u8?txiptv&playlive
@@ -135,14 +134,9 @@ TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=
 三立新聞,https://stream1.freetv.fun/ea74b932d9d126c79dbea6485ac7119fb16be08f6e7a4494cd2647641c93361d.m3u8
 三立新聞,https://stream1.freetv.fun/san-li-xin-wen-7.m3u8
 三立新聞,https://flv3948069e.live.126.net/live/9be129b3fe3a48bd5734d347485c8d73.flv
-三立新聞,p3p://167.114.175.6:55331/6014c896000c7101401f67cc5477681b
-三立新聞,p3p://173.208.176.178:31809/6014c896000c7101401f67cc5477681b
+
 三立新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
-三立新聞,p3p://108.181.32.169:39875/6766bc7f000ed78dc349b377648221c8
-三立新聞,https://stream1.freetv.fun/44989190362ce9eee5fb2db79fa32a1112bc5751271fcb5925a6e9619080fef8.m3u8
-三立新聞,https://stream1.freetv.fun/d199101b211d2efeb52e94bf3f8cfe100c586f3d1825ba547c29d259dde928e8.ctv
-三立新聞,https://stream1.freetv.fun/ea74b932d9d126c79dbea6485ac7119fb16be08f6e7a4494cd2647641c93361d.m3u8
-三立新聞,https://stream1.freetv.fun/a97a103dc92d94b93dcc836a385d40739a3220f141df8d6333ba8e7a84f54464.m3u8
+
 三立新聞,http://150.138.77.132:10037/150.php?id=三立新闻台
 三立新聞,http://122.117.71.103:8542/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
 三立新聞,https://tv.iill.top/4gtv/229
