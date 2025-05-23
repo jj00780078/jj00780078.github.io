@@ -187,7 +187,13 @@ TVBS新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=40
 
 TVBS新聞,p2p://142.54.189.229:7575/64df0c5d000a530d048e75f37b155008.ts
 
-
+東森新聞台,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
+年代新聞台,https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn
+東森財經新聞 ETTV Business,https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
+寰宇財經台,https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
+寰宇新聞台,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
+TVBS News 新聞台,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
+非凡新聞台,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
 
 
 
