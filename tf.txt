@@ -410,6 +410,16 @@
      
     },  
 
+{
+  "name": "BeeSport直播(python)",
+  "type": 3,
+  "api": "https://json.doube.eu.org/python/live_beesport.py",
+  "ext": {},
+  "header": {
+    "Referer": "https://p.m82xg4z0cdbz7.com/"
+  }
+}, 
+
 
   {
       "name": "SMT直播(python)",
