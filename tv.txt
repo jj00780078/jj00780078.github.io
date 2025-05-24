@@ -235,7 +235,10 @@ TVBS新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv072/index.m3u8
 台視新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv051/index.m3u8
 SBN 全球財經台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live060/index.m3u8
 
-
+年代新聞-替,http://cookies.elementfx.com/ublive/ublive.php?id=2719
+壹新聞-備,http://cookies.elementfx.com/ublive/ublive.php?id=2777
+年代新聞-備,http://cookies.elementfx.com/ublive/ublive.php?id=1099
+壹新聞-替,http://cookies.elementfx.com/ublive/ublive.php?id=494
 
 
 東森新聞,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
