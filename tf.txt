@@ -7,28 +7,32 @@
   "sites": [
  
 
-
-
-      {
-         "key":"嗷呜小苹果",
-         "name":"🍎小苹果",
-         "type":3,
-         "api":"https://raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/app/小苹果APP.py",
-         "searchable":1,
-         "filterable":0,
-         "changeable":0
-      },
-
-{
-            "key": "T4-独播库",
-            "name": "🎦┃獨播庫",
-            "type": 4,
-            "api": "http://tang.hz.cz/power/duboku?token=f3d23dd2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
+        {
+            "key":"小苹果弹幕",
+            "name":"🍎┃苹果┃弹幕",
+            "type":3,
+            "api":"csp_Xpg",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":{
+                "danmu":true
+            }
         },
+
+
+
+          {
+            "key": "Wexduboku",
+            "name": "🥇｜獨播庫｜",
+            "type": 3,
+            "api": "csp_WexdubokuGuard",
+            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/wex.jar",
+            "searchable": 1,
+            "changeable": 1
+          },            
+
+
 
         {
             "key": "金牌影视",
@@ -285,32 +289,28 @@
           ]
         },
 
-        {
-            "key":"小苹果弹幕",
-            "name":"🍎┃苹果┃弹幕",
-            "type":3,
-            "api":"csp_Xpg",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":{
-                "danmu":true
-            }
-        },
 
 
+      {
+         "key":"嗷呜小苹果",
+         "name":"🍎小苹果",
+         "type":3,
+         "api":"https://raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/app/小苹果APP.py",
+         "searchable":1,
+         "filterable":0,
+         "changeable":0
+      },
 
-          {
-            "key": "Wexduboku",
-            "name": "🥇｜獨播庫｜",
-            "type": 3,
-            "api": "csp_WexdubokuGuard",
-            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/wex.jar",
+{
+            "key": "T4-独播库",
+            "name": "🎦┃獨播庫",
+            "type": 4,
+            "api": "http://tang.hz.cz/power/duboku?token=f3d23dd2",
             "searchable": 1,
-            "changeable": 1
-          },            
-
-
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
       
 
  {
