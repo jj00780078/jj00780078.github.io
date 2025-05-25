@@ -26,10 +26,63 @@ Decoder=3
 
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
 三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
-
-三立新聞,http://211.23.114.106:8542/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
-
-
+三立新聞,http://211.23.114.106:8540/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
+三立新聞,http://211.23.114.106:8541/.m3u8
+三立新聞,http://211.23.114.106:8542/.m3u8
+三立新聞,http://211.23.114.106:8543/.m3u8
+三立新聞,http://211.23.114.106:8544/.m3u8
+三立新聞,http://211.23.114.106:8545/.m3u8
+三立新聞,http://211.23.114.106:8546/.m3u8
+三立新聞,http://211.23.114.106:8547/.m3u8
+三立新聞,http://211.23.114.106:8548/.m3u8
+三立新聞,http://211.23.114.106:8549/.m3u8
+三立新聞,http://211.23.114.106:8550/.m3u8
+三立新聞,http://211.23.114.106:8551/.m3u8
+三立新聞,http://211.23.114.106:8552/.m3u8
+三立新聞,http://211.23.114.106:8553/.m3u8
+三立新聞,http://211.23.114.106:8554/.m3u8
+三立新聞,http://211.23.114.106:8555/.m3u8
+三立新聞,http://211.23.114.106:8556/.m3u8
+三立新聞,http://211.23.114.106:8557/.m3u8
+三立新聞,http://211.23.114.106:8558/.m3u8
+三立新聞,http://211.23.114.106:8559/.m3u8
+三立新聞,http://211.23.114.106:8560/.m3u8
+三立新聞,http://211.23.114.106:8539/.m3u8
+三立新聞,http://211.23.114.106:8538/.m3u8
+三立新聞,http://211.23.114.106:8537/.m3u8
+三立新聞,http://211.23.114.106:8536/.m3u8
+三立新聞,http://211.23.114.106:8535/.m3u8
+三立新聞,http://211.23.114.106:8534/.m3u8
+三立新聞,http://211.23.114.106:8533/.m3u8
+三立新聞,http://211.23.114.106:8532/.m3u8
+三立新聞,http://211.23.114.106:8531/.m3u8
+三立新聞,http://211.23.114.106:8530/.m3u8
+三立新聞,http://211.23.114.106:8529/.m3u8
+三立新聞,http://211.23.114.106:8528/.m3u8
+三立新聞,http://211.23.114.106:8527/.m3u8
+三立新聞,http://211.23.114.106:8526/.m3u8
+三立新聞,http://211.23.114.106:8525/.m3u8
+三立新聞,http://211.23.114.106:8524/.m3u8
+三立新聞,http://211.23.114.106:8523/.m3u8
+三立新聞,http://211.23.114.106:8522/.m3u8
+三立新聞,http://211.23.114.106:8521/.m3u8
+三立新聞,http://211.23.114.106:8520/.m3u8
+三立新聞,http://211.23.114.106:8519/.m3u8
+三立新聞,http://211.23.114.106:8518/.m3u8
+三立新聞,http://211.23.114.106:8517/.m3u8
+三立新聞,http://211.23.114.106:8516/.m3u8
+三立新聞,http://211.23.114.106:8515/.m3u8
+三立新聞,http://211.23.114.106:8514/.m3u8
+三立新聞,http://211.23.114.106:8513/.m3u8
+三立新聞,http://211.23.114.106:8512/.m3u8
+三立新聞,http://211.23.114.106:8511/.m3u8
+三立新聞,http://211.23.114.106:8510/.m3u8
+三立新聞,http://211.23.114.106:8509/.m3u8
+三立新聞,http://211.23.114.106:8508/.m3u8
+三立新聞,http://211.23.114.106:8507/.m3u8
+三立新聞,http://211.23.114.106:8506/.m3u8
+三立新聞,http://211.23.114.106:8505/.m3u8
+三立新聞,http://211.23.114.106:8504/.m3u8
 東森財經新聞,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv153/index.m3u8
 東森財經新聞,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv153/index.m3u8
 
@@ -129,26 +182,26 @@ TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 
 
-//非凡新聞,http://free.cnlive.club/channel/n3acea59d/index.m3u8?q=1744544337310
-//TVBS新聞台,http://free.cnlive.club/channel/7713a03d/index.m3u8?q=1744544337310
-//東森新聞,http://free.cnlive.club/channel/2c4f5ac9/index.m3u8?q=1744544337310
-//東森財經新聞,http://free.cnlive.club/channel/79b28eb7/index.m3u8?q=1744544337310
-//民視新聞,http://free.cnlive.club/channel/7c544dc1/index.m3u8?q=1744544337310
-//寰宇新聞台,http://free.cnlive.club/channel/n7be4ad71/index.m3u8?q=1744544337310
-//寰宇新聞台灣台,http://free.cnlive.club/channel/n15612544/index.m3u8?q=1744544337310
-//寰宇財經台,http://free.cnlive.club/channel/n7b52d555/index.m3u8?q=1744544337310
+非凡新聞,http://free.cnlive.club/channel/n3acea59d/index.m3u8?q=1744544337310
+TVBS新聞台,http://free.cnlive.club/channel/7713a03d/index.m3u8?q=1744544337310
+東森新聞,http://free.cnlive.club/channel/2c4f5ac9/index.m3u8?q=1744544337310
+東森財經新聞,http://free.cnlive.club/channel/79b28eb7/index.m3u8?q=1744544337310
+民視新聞,http://free.cnlive.club/channel/7c544dc1/index.m3u8?q=1744544337310
+寰宇新聞台,http://free.cnlive.club/channel/n7be4ad71/index.m3u8?q=1744544337310
+寰宇新聞台灣台,http://free.cnlive.club/channel/n15612544/index.m3u8?q=1744544337310
+寰宇財經台,http://free.cnlive.club/channel/n7b52d555/index.m3u8?q=1744544337310
 
-//鏡電視新聞台,http://docker.livednow.dpdns.org/li-4gtv-4gtv075/index.m3u8
-//非凡商業,http://docker.livednow.dpdns.org/4gtv-4gtv048/index.m3u8
-//非凡新聞,http://docker.livednow.dpdns.org/4gtv-4gtv010/index.m3u8
-//民視新聞,http://docker.livednow.dpdns.org/li-litv-ftv13/index.m3u8
-//民視新聞,http://docker.livednow.dpdns.org/litv-ftv13/index.m3u8
-//東森財經新聞,http://docker.livednow.dpdns.org/li-4gtv-4gtv153/index.m3u8
-//東森新聞,http://docker.livednow.dpdns.org/li-4gtv-4gtv152/index.m3u8
-//TVBS新聞台,http://docker.livednow.dpdns.org/li-4gtv-4gtv072/index.m3u8
-//台視財經台,http://docker.livednow.dpdns.org/4gtv-4gtv056/index.m3u8
-//台視新聞台,http://docker.livednow.dpdns.org/li-4gtv-4gtv051/index.m3u8
-//中視新聞台,http://docker.livednow.dpdns.org/li-4gtv-4gtv074/index.m3u8
+鏡電視新聞台,http://docker.livednow.dpdns.org/li-4gtv-4gtv075/index.m3u8
+非凡商業,http://docker.livednow.dpdns.org/4gtv-4gtv048/index.m3u8
+非凡新聞,http://docker.livednow.dpdns.org/4gtv-4gtv010/index.m3u8
+民視新聞,http://docker.livednow.dpdns.org/li-litv-ftv13/index.m3u8
+民視新聞,http://docker.livednow.dpdns.org/litv-ftv13/index.m3u8
+東森財經新聞,http://docker.livednow.dpdns.org/li-4gtv-4gtv153/index.m3u8
+東森新聞,http://docker.livednow.dpdns.org/li-4gtv-4gtv152/index.m3u8
+TVBS新聞台,http://docker.livednow.dpdns.org/li-4gtv-4gtv072/index.m3u8
+台視財經台,http://docker.livednow.dpdns.org/4gtv-4gtv056/index.m3u8
+台視新聞台,http://docker.livednow.dpdns.org/li-4gtv-4gtv051/index.m3u8
+中視新聞台,http://docker.livednow.dpdns.org/li-4gtv-4gtv074/index.m3u8
 
 
 
