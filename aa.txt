@@ -1,18 +1,10 @@
 {
 "wallpaper": "https://picsum.photos/1080/",
 "spider": "./jar/xyq202503缝合.jar",
-//"logo": "./jar/爱心.gif",
-//"logo": "./jar/av.png",
-"logo": "./jar/美.gif",
-//"logo": "./jar/飞鱼.jpg",
-//"homeLogo": "./jar/美.gif",EasyBox
-//"logo": "./jar/开车.webp",
-//"spider": "./jar/xbpq.jar",
-//"spider": "./jar/XBiubiuLA4.jar",
+
   "sites": [
   
-//type,0表达xml，1表达json，3表达jar内置json
-   //___
+
  
 {"key":"csp_LocalFile","name": "💾本地视频","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0,"style": {"type": "rect","ratio": 1.6}},
 {"key":"csp_XYQHiker_樱花动漫","name": "樱花动漫(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./tv/XYQHiker/樱花动漫.json","style": {"type": "rect","ratio": 1.6}},
@@ -2044,8 +2036,8 @@
     "fqnovel.com",
     "googletagmanager.com",
     "google-analytics.com"
-  ]
-  ,
+  ],
+  
   "rules": [
     { "name": "量子廣告",
       "hosts": ["vip.lz","hd.lz","12.xm","hgzy"],
