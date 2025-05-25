@@ -82,10 +82,10 @@ TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=
 
 
 壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
-
+壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8
 壹新聞,http://108.181.20.197/livehttpplay?channel_id=20028
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
-壹新聞,https://flv3948069e.live.126.net/live/61bbd83a3fcf24c4fa524a298e3e8b87.flv
+壹新聞,http://211.72.65.236:8548/.m3u8
 壹新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=42
 壹新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 壹新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2777
@@ -93,7 +93,7 @@ TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=
 壹新聞,http://154.44.15.148:5781/v/1/399
 壹新聞,https://no1x2.asiaw.top/live/t6u5b1q4/69a0087b/index.m3u8
 壹新聞,http://61.163.58.168:2005/play/forward/5?tvid=nexttvnews&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5rex5Zyz5biCIiwiaXAiOiI1OS4zNi4xNjYuMjE1IiwidHZpZCI6IjI3OTY4NTIzIiwiZWNvbm9taXplIjoi5bm_5LicIiwiZXhwIjoxNzQ2MTAyMDU0LCJuYmYiOjE3NDYwODQwNTQsImlhdCI6MTc0NjA4NDA1NH0.S3NFp_Pg4T14ExLY5n4E7Buq6SAN5oBM1DHjok1eRWs
-壹新聞,http://211.72.65.236:8548/.m3u8
+
 
 
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
