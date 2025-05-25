@@ -24,7 +24,7 @@
 
           {
             "key": "Wexduboku",
-            "name": "🥇｜獨播庫｜",
+            "name": "🎦｜獨播庫｜",
             "type": 3,
             "api": "csp_WexdubokuGuard",
             "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/wex.jar",
@@ -304,7 +304,7 @@
 {
             "key": "T4-独播库",
             "name": "🎦┃獨播庫",
-            "type": 4,
+            "type": 3,
             "api": "http://tang.hz.cz/power/duboku?token=f3d23dd2",
             "searchable": 1,
             "quickSearch": 1,
@@ -441,12 +441,7 @@
       }
     },    
 
-    {
-      "name": "快直播",
-      "type": 3,
-      "api": "https://json.doube.eu.org/python/live_kzb.py",
-      "ext": "68747470733A2F2F6A7A623132332E7A68756261696368656E672E636F6D2F70726F642D6170692F697074762F676574497074764C697374"
-    },
+
 
 
     
