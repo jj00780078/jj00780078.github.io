@@ -4,15 +4,24 @@
   "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
   "sites": [
  
-{
-            "key": "T4-独播库",
-            "name": "🎦┃獨播庫",
-            "type": 4,
-            "api": "http://tang.hz.cz/power/duboku?token=f3d23dd2",
+          {
+            "key": "Wexduboku",
+            "name": "🎦｜獨播庫｜",
+            "type": 3,
+            "api": "csp_WexdubokuGuard",
+            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/wex.jar",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
+            "changeable": 1
+          },            
+
+
+
+        {
+            "key": "金牌影视",
+           "name": "🏅金牌┃蓝光┃无广",
+           "jar": "http://我不是.摸鱼儿.xyz/by/jar/moyuer.php",
+            "type": 3,
+            "api": "csp_Jpys"
         },
 
 {
@@ -25,16 +34,7 @@
             "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/Melon%20seeds.jar"
             
         },
-{
-            "key": "T4-欧乐",
-            "name": "📽️┃歐樂影院",
-            "type": 4,
-            "api": "http://tang.hz.cz/power/olelive?token=f3d23dd2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
+
 
 
 {
