@@ -140,7 +140,8 @@ TVBS新聞,p2p://142.54.189.229:7575/64df0c5d000a530d048e75f37b155008.ts
 
 
 
-
+三立新闻,webview://http://m.345iptv.com/?act=play&token=5306092da4db4bf69dc2cd81e05c1e2b&tid=gt&id=48
+民视新闻,webview://http://m.345iptv.com/?act=play&token=989c7d8a750ff4bfda95fcae1708bbe7&tid=gt&id=50
 
 
 
