@@ -66,19 +66,6 @@
             }
         },
 
-{
-            "key": "T4-安博",
-            "name": "🌈┃安博",
-            "type": 4,
-            "api": "http://tang.hz.cz/power/ub18?token=f3d23dd2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": {
-                "danmu": true
-            }
-        },
 
 
       
