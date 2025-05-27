@@ -61,17 +61,18 @@ TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=
 非凡新聞,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 非凡新聞,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
-非凡新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=44
-非凡新聞,p3p://108.181.32.169:41467/676955eb00013181cd70c73b35a34c93
-非凡新聞,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_gKZPb.php?id=非凡新闻
 
-壹新聞,http://211.23.114.106:8530/.m3u8
+非凡新聞,p3p://108.181.32.169:41467/676955eb00013181cd70c73b35a34c93
+
+
+
 壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
 壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8
 壹新聞,http://108.181.20.197/livehttpplay?channel_id=20028
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
 壹新聞,p3p://108.181.32.169:41467/67c065fd00054ff32185a62f6d595c5f
-壹新聞,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_gKZPb.php?id=壹新闻
+壹新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2777
+壹新聞,http://211.23.114.106:8530/.m3u8
 
 
 年代新聞,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch27.m3u8?token=
@@ -82,7 +83,7 @@ TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=
 年代新聞,http://198.16.100.186:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 年代新聞,p2p://142.54.189.229:7575/64df11830008ea4904a2921502394fe8.ts
 年代新聞,http://108.181.20.197/livehttpplay?channel_id=20033
-年代新聞,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_gKZPb.php?id=年代新闻
+
 
 
 
@@ -100,7 +101,7 @@ TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=
 三立新聞,p2p://142.54.189.229:7575/64df114a00089e6504a1b34e5ec80344.ts
 三立新聞,http://108.181.20.197/livehttpplay?channel_id=10126
 三立新聞,http://122.117.71.103:8542/http/220.130.87.218:8081/hls/65/807/ch018.m3u8
-三立新聞,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_gKZPb.php?id=三立新闻台
+
 
 
 
@@ -246,5 +247,7 @@ TVBS新闻,p3p://167.114.175.6:55331/621858e3000e70ad1217c0700d576ad0
 非凡商业,p3p://167.114.175.6:55331/621dbc3b00051ea5272370aa6e685347
 台视财经,p3p://167.114.175.6:55331/6223b571000a13023e78ece5030b5b05
 
-
-
+非凡新聞,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_gKZPb.php?id=非凡新闻
+壹新聞,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_gKZPb.php?id=壹新闻
+年代新聞,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_gKZPb.php?id=年代新闻
+三立新聞,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_gKZPb.php?id=三立新闻台
