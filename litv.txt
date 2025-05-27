@@ -2,12 +2,16 @@ Decoder=3
 新聞频道,#genre#
 
 寰宇財經台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv158
+寰宇財經台,https://www.youtube.com/watch?v=WTRQiVWK1jY
 
+
+東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
+東森財經新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv153
 東森財經新聞,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv153/index.m3u8
 東森財經新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv153
 東森財經新聞,p3p://108.181.32.169:41467/64251ff20001f010ea5e4b9002e57212
-東森財經新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv153
-東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
+
+
 
 非凡新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv010
 非凡新聞,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv010/index.m3u8
@@ -48,34 +52,46 @@ Decoder=3
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
 三立新聞,p2p://142.54.189.229:7575/64df114a00089e6504a1b34e5ec80344.ts
 
+
+寰宇財經台,https://www.youtube.com/watch?v=WTRQiVWK1jY
+東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
+
+三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
+寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
+鏡電視新聞台,https://www.youtube.com/watch?v=5n0y6b0Q25o
+三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
+寰宇新聞台,https://www.youtube.com/watch?v=6IquAgfvYmc
+TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
+台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
+
+
+
+
+
+
 東森財經新聞,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv153/index.m3u8
 東森財經新聞,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv153/index.m3u8
-
 非凡新聞,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv010/index.m3u8
-
 民視新聞,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv13/index.m3u8
 東森新聞,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv152/index.m3u8
 寰宇新聞台灣台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv156/index.m3u8
 鏡電視新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv075/index.m3u8
-
 三立iNEWS,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live089/index.m3u8
 三立iNEWS,http://xn--elt51t.azip.dpdns.org:5008/iNEWS/index.m3u8
-
-
 寰宇新聞台,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn14/index.m3u8
-
 鏡電視新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv075/index.m3u8
 東森新聞,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv152/index.m3u8
 民視新聞,http://xn--elt51t.azip.dpdns.org:5008/li-litv-ftv13/index.m3u8
 TVBS新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv072/index.m3u8
-
-
 寰宇新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn14/index.m3u8
 寰宇新聞台灣台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv156/index.m3u8
 寰宇財經台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv158/index.m3u8
-
 寰宇財經台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv158/index.m3u8
-
 華視新聞台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv041/index.m3u8
 華視新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv052/index.m3u8
 台視新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv051/index.m3u8
@@ -85,16 +101,23 @@ TVBS新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv072/index.m3u8
 中天新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv009/index.m3u8
 台視新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv051/index.m3u8
 中視新聞台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv074/index.m3u8
-
-
 中天新聞台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv009/index.m3u8
 寰宇新聞台,http://xn--elt51t.azip.dpdns.org:5008/of-litv-longturn14/index.m3u8
 寰宇新聞台灣台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv156/index.m3u8
 寰宇財經台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv158/index.m3u8
 
-台視財經台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv056/index.m3u8
-第1商業台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv104/index.m3u8  
-非凡商業,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv048/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 東森財經新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv153
@@ -132,16 +155,6 @@ TVBS新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv072
 
 
 
-三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
-民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
-寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
-鏡電視新聞台,https://www.youtube.com/watch?v=5n0y6b0Q25o
-三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
-寰宇新聞台,https://www.youtube.com/watch?v=6IquAgfvYmc
-TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
-寰宇財經台,https://www.youtube.com/watch?v=WTRQiVWK1jY
-東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
 
 
 鏡電視新聞台,http://211.23.114.106:8545/.m3u8

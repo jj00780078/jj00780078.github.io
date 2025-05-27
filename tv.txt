@@ -1,9 +1,16 @@
 YouTube新聞,#genre#
 
+寰宇財經,https://www.youtube.com/watch?v=WTRQiVWK1jY
+寰宇財經,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv158
 
+
+
+東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
+東森財經,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv153
 東森財經,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv153/index.m3u8
 東森財經,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv153
 東森財經,p3p://108.181.32.169:41467/64251ff20001f010ea5e4b9002e57212
+
 非凡新聞,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv010/index.m3u8
 
 
@@ -15,7 +22,14 @@ YouTube新聞,#genre#
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
 
-
+三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
+寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
+寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 
 民視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv13
