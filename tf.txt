@@ -6,6 +6,81 @@
   "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
   "sites": [
  
+    {
+      "key": "py_gowaiju",
+      "name": "💖外剧更新時間",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/国外剧APP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+
+{"key":"csp_appys","name":"💖肥羊m3u","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.zishi.xyz/api.php/app/"},
+{ "key": "超前全片源", "name": "💖全网m3u", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType":2, "ext": "http://zhangbokeji.top:291/api.php/app/" }, 
+ {
+            "key": "QD4K",
+            "name": "💖起点m3u",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://172.83.156.150:1010/api.php/app/"
+        },
+
+
+    {
+            "key": "py_金牌影视",
+            "name": "💖金牌影视",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/金牌.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2,
+            "ext": {
+                "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://m.fjvtw.com/,https://m.hhduc.com,https://www.hellorlgzf7sn.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+            }
+        },
+
+        {"key": "mioaying","name": "💝分享猫影","type": 3,"api": "https://4708.kstore.space/box/py/mioaying影视.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60}, 
+
+
+     {
+         "key":"黑木影视",
+         "name":"💖黑木影视",
+         "type":1,
+         "api":"https://heimuer.ggff.net/api.php/tvbox",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":1
+      },
+
+{
+      "key": "py_aigua",
+      "name": "💖分享爱瓜",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/爱瓜(代理).py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+
+{
+      "key": "py_wawa",
+      "name": "💖分享哇哇",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/wawa.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+
+
 
         {
             "key":"小苹果弹幕",

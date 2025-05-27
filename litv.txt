@@ -16,12 +16,12 @@ Decoder=3
 非凡新聞,http://156.253.12.5:932/tslive/IPTV.php?id=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB
 非凡新聞,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_gKZPb.php?id=非凡新闻
 
-壹新聞,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_gKZPb.php?id=壹新闻
+
 壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8
 壹新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2777
 壹新聞,http://211.23.114.106:8530/.m3u8
 壹新聞,http://211.23.114.106:8516/.m3u8
-
+壹新聞,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_gKZPb.php?id=壹新闻
 
 
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
@@ -44,8 +44,8 @@ Decoder=3
 三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
 三立新聞,p3p://108.181.32.169:41467/6766bc7f000ed78dc349b377648221c8
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
-三立新聞,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_gKZPb.php?id=三立新闻台
 三立新聞,p2p://142.54.189.229:7575/64df114a00089e6504a1b34e5ec80344.ts
+三立新聞,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_gKZPb.php?id=三立新闻台
 
 東森財經新聞,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv153/index.m3u8
 東森財經新聞,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv153/index.m3u8
