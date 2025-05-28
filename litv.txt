@@ -6,13 +6,14 @@ Decoder=3
 寰宇財經台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv158
 
 東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
-東森財經新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv153
-東森財經新聞,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv153/index.m3u8
 東森財經新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv153
+東森財經新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv153
+
+
 東森財經新聞,p3p://108.181.32.169:41467/64251ff20001f010ea5e4b9002e57212
 
 
-
+非凡新聞,http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv010,1,6
 非凡新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv010
 非凡新聞,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv010/index.m3u8
 非凡新聞,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/75/817/ch57.m3u8
@@ -51,6 +52,10 @@ Decoder=3
 三立新聞,p3p://108.181.32.169:41467/6766bc7f000ed78dc349b377648221c8
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
 三立新聞,p2p://142.54.189.229:7575/64df114a00089e6504a1b34e5ec80344.ts
+
+
+
+民视新闻台,http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-ftv13,1,7
 
 
 寰宇財經台,https://www.youtube.com/watch?v=WTRQiVWK1jY
@@ -93,7 +98,7 @@ TVBS新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv072
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 寰宇財經台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv158
 非凡新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv010
-東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
+
 東森財經新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv153
 
 
