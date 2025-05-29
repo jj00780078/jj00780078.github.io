@@ -43,21 +43,9 @@
         },
 
 
-    {
-      "key": "Lib",
-      "name": "🌟TH┃立播┃秒播",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
 
-        {"key": "mioaying","name": "💝分享猫影","type": 3,"api": "https://4708.kstore.space/box/py/mioaying影视.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60}, 
+
+        
 
 
      {
@@ -324,7 +312,7 @@
         },
 
 
-
+{"key": "mioaying","name": "💝分享猫影","type": 3,"api": "https://4708.kstore.space/box/py/mioaying影视.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60}, 
 {"key":"糯米弹幕","name":"💘糯米｜弹幕","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"荐片弹幕","name":"💘荐片┃弹幕","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},      
@@ -344,16 +332,7 @@
 
 
 
-      {
-         "key":"嗷呜小苹果",
-         "name":"🍎小苹果",
-         "type":3,
-         "api":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/小苹果APP.py",
-         "searchable":1,
-         "quickSearch":1,
-         "filterable":1,
-         "changeable":0
-      },
+
 
 {
       "key": "py_aigua",
