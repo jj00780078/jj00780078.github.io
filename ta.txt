@@ -80,17 +80,7 @@
       "api": "csp_Jpys"
     },
 
-    {   "key": "Auete",
-        "name": "🥇｜銀牌影院｜",
-        "type": 3,
-        "api": "csp_Auete",
-        "timeout": 15,
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1,
-        "ext": "https://auete.pro/",
-        "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/fan.txt;md5;8851819289f80deae32319080028db3b"
-      },
+ 
       
      {  "key": "csp_开心影院",
         "name": "🥇｜銅牌影院｜",
