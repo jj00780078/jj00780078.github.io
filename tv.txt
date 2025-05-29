@@ -73,16 +73,16 @@ TVBS新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv072
 非凡新聞,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 非凡新聞,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
-
+非凡新聞,p3p://108.181.32.169:50934/676955eb00013181cd70c73b35a34c93
 非凡新聞,p3p://108.181.32.169:41467/676955eb00013181cd70c73b35a34c93
 
 
 
 壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
-壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8
+壹新聞,p3p://108.181.32.169:50934/67c065fd00054ff32185a62f6d595c5f
 壹新聞,http://108.181.20.197/livehttpplay?channel_id=20028
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
-壹新聞,p3p://108.181.32.169:41467/67c065fd00054ff32185a62f6d595c5f
+
 壹新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2777
 壹新聞,http://211.23.114.106:8530/.m3u8
 
@@ -95,7 +95,7 @@ TVBS新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv072
 年代新聞,http://198.16.100.186:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 年代新聞,p2p://142.54.189.229:7575/64df11830008ea4904a2921502394fe8.ts
 年代新聞,http://108.181.20.197/livehttpplay?channel_id=20033
-
+年代新聞,p3p://108.181.32.169:50934/67694e1500009a3dcd522b1b1f7e14f1
 
 
 
@@ -108,7 +108,7 @@ TVBS新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv072
 
 三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
-
+三立新聞,p3p://108.181.32.169:50934/6766bc7f000ed78dc349b377648221c8
 三立新聞,p3p://108.181.32.169:41467/6766bc7f000ed78dc349b377648221c8
 三立新聞,p2p://142.54.189.229:7575/64df114a00089e6504a1b34e5ec80344.ts
 三立新聞,http://108.181.20.197/livehttpplay?channel_id=10126
