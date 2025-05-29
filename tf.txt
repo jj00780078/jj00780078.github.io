@@ -17,18 +17,7 @@
       "changeable": 1
     },
 
-{"key":"csp_appys","name":"💖肥羊m3u","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.zishi.xyz/api.php/app/"},
-{ "key": "超前全片源", "name": "💖全网m3u", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType":2, "ext": "http://zhangbokeji.top:291/api.php/app/" }, 
- {
-            "key": "QD4K",
-            "name": "💖起点m3u",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://172.83.156.150:1010/api.php/app/"
-        },
+
 
 
     {
@@ -44,6 +33,20 @@
                 "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://m.fjvtw.com/,https://m.hhduc.com,https://www.hellorlgzf7sn.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
             }
         },
+
+        {
+            "key":"小苹果弹幕",
+            "name":"🍎┃苹果┃弹幕",
+            "type":3,
+            "api":"csp_Xpg",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":{
+                "danmu":true
+            }
+        },
+
 
         {"key": "mioaying","name": "💝分享猫影","type": 3,"api": "https://4708.kstore.space/box/py/mioaying影视.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60}, 
 
@@ -82,18 +85,7 @@
 
 
 
-        {
-            "key":"小苹果弹幕",
-            "name":"🍎┃苹果┃弹幕",
-            "type":3,
-            "api":"csp_Xpg",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":{
-                "danmu":true
-            }
-        },
+
 
 
 
@@ -355,7 +347,18 @@
 {"key":"糯米弹幕","name":"💘糯米｜弹幕","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"荐片弹幕","name":"💘荐片┃弹幕","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},      
-
+{"key":"csp_appys","name":"💖肥羊m3u","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.zishi.xyz/api.php/app/"},
+{ "key": "超前全片源", "name": "💖全网m3u", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType":2, "ext": "http://zhangbokeji.top:291/api.php/app/" }, 
+ {
+            "key": "QD4K",
+            "name": "💖起点m3u",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://172.83.156.150:1010/api.php/app/"
+        },
 
 
 
@@ -468,7 +471,7 @@
             "name": "litv",
             "type": 0,
             "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/litv.txt",
-            "ua": "okhttp/4.12.0",
+            "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "catchup": {
