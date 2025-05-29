@@ -47,6 +47,83 @@
             }
         },
 
+    {
+       "key": "csp_XBPQ_6V",
+       "name": "🌞TH┃挺好┃4K",
+       "type": 3,
+       "api": "csp_XBPQ",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "ext":"./BFWJ/jss/挺好4K.json",
+       "jar":"./BFWJ/jar/0606.jar"
+     },
+         {
+      "key": "原创",
+      "name": "☀TH┃原创┃不卡",
+      "type": 3,
+      "api": "csp_YCyz",
+      "timeout": 15,
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+
+    {
+      "key": "白白",
+      "name": "🐟TH┃白白┃秒播",
+      "type": 3,
+      "api": "csp_Sbaibai",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "神车",
+      "name": "🚎TH┃神车┃秒播",
+      "type": 3,
+      "api": "csp_AppSx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjPcVZY48PN/RIZ5QqOrsp1OZsTS9wQSSpQpK6jnh0fUMKIu22IxR6Z7/exDifuKH+Agjg9"
+    },
+    {
+      "key": "Lib",
+      "name": "🌟TH┃立播┃秒播",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "zxzj",
+      "name": "🍊TH┃在线┃秒播",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzjhd.com/"
+    },
+    {
+      "key": "比特",
+      "name": "🍄TH┃比特┃秒播",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+
 
         {"key": "mioaying","name": "💝分享猫影","type": 3,"api": "https://4708.kstore.space/box/py/mioaying影视.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60}, 
 
@@ -84,7 +161,22 @@
     },
 
 
-
+    {
+      "key": "Biliych",
+      "name": "🅱明星演唱会┃弹幕",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "./lib/biliych.json"
+      }
+    },
 
 
 
