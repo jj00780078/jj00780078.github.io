@@ -530,7 +530,7 @@
 
 
 {
-      "name": "云TV",
+      "name": "小云TV",
       "type": 0,
       "playerType": 1,
       "boot": true,
