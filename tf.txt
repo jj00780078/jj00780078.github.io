@@ -18,17 +18,6 @@
     },
 
 
-
-
-        {
-            "key": "金牌影视",
-           "name": "🏅金牌┃蓝光┃无广",
-           "jar": "http://我不是.摸鱼儿.xyz/by/jar/moyuer.php",
-            "type": 3,
-            "api": "csp_Jpys"
-        },
-
-
         {
             "key":"小苹果弹幕",
             "name":"🍎┃苹果┃弹幕",
@@ -41,6 +30,29 @@
                 "danmu":true
             }
         },
+
+      {
+         "key":"沐辰爱瓜TV",
+         "name":"🍎爱瓜TV",
+         "type":3,
+         "api":"https://json.doube.eu.org/python/py_aigua.py",
+         "searchable":1,
+         "filterable":1,
+         "changeable":1
+      },
+
+ 
+       {
+            "key": "金牌影视",
+           "name": "🏅金牌┃蓝光┃无广",
+           "jar": "http://我不是.摸鱼儿.xyz/by/jar/moyuer.php",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "csp_Jpys"
+        },
+
+
 
 
 
@@ -56,15 +68,6 @@
         },
         
 
-      {
-         "key":"沐辰爱瓜TV",
-         "name":"🍎爱瓜TV",
-         "type":3,
-         "api":"https://json.doube.eu.org/python/py_aigua.py",
-         "searchable":1,
-         "filterable":0,
-         "changeable":0
-      },
 
 
 
@@ -81,46 +84,32 @@
             "api": "csp_WexdubokuGuard",
             "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/wex.jar",
             "searchable": 1,
+            "quickSearch": 1,
             "changeable": 1
           },            
 
 
-
-
-
-
-
-
-
-{
-            "key": "小宝影院",
-            "name": "🎬┃小寶影院",
+        {
+            "key": "csp_NIVODvip",
+            "name": "🥉｜泥視頻｜",
             "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 0,
-            "timeout": 60,
-            "api": "csp_XBPQ",
-            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/XBPQ.jar",
-            "ext": {
-                "主页url": "https://xiaoxintv.com",
-                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "数组": "class=\"myui-vodlist__box\">&&</div>",
-                "简介": "剧情简介</h3>&&</span>",
-                "线路数组": "data-toggle=\"tab&&</li>",
-                "线路标题": ">&&</a>",
-                "播放数组": "class=\"myui-content__list&&</ul>",
-                "播放列表": "<li&&</li>",
-                "播放标题": ">&&</a",
-                "播放链接": "href=\"&&\"",
-                "搜索数组": "lazyload\"&&</a",
-                "搜索图片": "data-original=\"&&\"",
-                "搜索标题": "title=\"&&\"",
-                "搜索链接": "href=\"&&\"",
-                "分类url": "https://xiaoxintv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
-                "分类": "电影$7#电视剧$6#动漫$5#综艺$3#纪录片$21#体育$20"
-            }
+            "filterable": 1,
+            "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/json_now/泥視頻VIP.json"
+          },
+
+ {
+            "key": "QD4K",
+            "name": "💖起点m3u",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://172.83.156.150:1010/api.php/app/"
         },
 
 
@@ -132,33 +121,46 @@
 
 
 
-      
-     {  "key": "csp_开心影院",
-        "name": "🥇｜开心影院｜銅牌影院｜",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/json_now/開心影院.json"
-      },
-      
-     {  "key": "csp_歐樂影院ORG",
-        "name": "🥇｜歐樂影院｜鐵牌影院｜",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {
-          "简介": "content_desc context clearfix\">&&</span>",
-          "分类url": "https://www.oulevod.org/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
-          "分类": "電視劇$2#電影$1#動漫$4#綜藝$3#短劇$53",
-          "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他"
-        }
-      },       
+
+
+
+
+
+
+
+
+{
+            "key": "索尼",
+            "name": "🌍VIP专享2K",
+            "type": 3,
+            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": ["韩剧","日韩综艺",
+            "国产剧",
+            "欧美剧",
+            "台剧",
+            "日剧",
+            
+            
+	     "泰剧",
+	     "记录片",
+            "海外剧",
+            "大陆综艺",
+	    
+	    "港台综艺",
+	    "欧美综艺",
+	     "港剧",
+	    "影视解说",
+            "国产动漫"
+          ]
+        },
+
+
+
+
 
 
           {
@@ -176,34 +178,6 @@
               "地区": "美國&歐美&韓國&中國大陸&大陸&內地&日本&臺灣&香港&泰國&英國&新加坡&其他"
             }
           },
-
-
-        {
-            "key": "csp_NIVODvip",
-            "name": "🥉｜泥視頻｜",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/json_now/泥視頻VIP.json"
-          },
-
-
-        {
-            "key": "快看影视",
-            "name": "🫣┃快看┃影视",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },		
-
-
-
-
 
 
 
@@ -256,34 +230,7 @@
 
 
 
-{
-            "key": "索尼",
-            "name": "🌍VIP专享2K",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": ["韩剧","日韩综艺",
-            "国产剧",
-            "欧美剧",
-            "台剧",
-            "日剧",
-            
-            
-	     "泰剧",
-	     "记录片",
-            "海外剧",
-            "大陆综艺",
-	    
-	    "港台综艺",
-	    "欧美综艺",
-	     "港剧",
-	    "影视解说",
-            "国产动漫"
-          ]
-        },
+
 
  {
             "key":"豆瓣",
@@ -296,20 +243,68 @@
 
 {"key": "mioaying","name": "💝分享猫影","type": 3,"api": "https://4708.kstore.space/box/py/mioaying影视.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60}, 
 {"key":"糯米弹幕","name":"💘糯米｜弹幕","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
-{"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"荐片弹幕","name":"💘荐片┃弹幕","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},      
-{"key":"csp_appys","name":"💖肥羊m3u","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.zishi.xyz/api.php/app/"},
-{ "key": "超前全片源", "name": "💖全网m3u", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType":2, "ext": "http://zhangbokeji.top:291/api.php/app/" }, 
- {
-            "key": "QD4K",
-            "name": "💖起点m3u",
+
+
+{
+            "key": "小宝影院",
+            "name": "🎬┃小寶影院",
             "type": 3,
-            "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://172.83.156.150:1010/api.php/app/"
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60,
+            "api": "csp_XBPQ",
+            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/XBPQ.jar",
+            "ext": {
+                "主页url": "https://xiaoxintv.com",
+                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "数组": "class=\"myui-vodlist__box\">&&</div>",
+                "简介": "剧情简介</h3>&&</span>",
+                "线路数组": "data-toggle=\"tab&&</li>",
+                "线路标题": ">&&</a>",
+                "播放数组": "class=\"myui-content__list&&</ul>",
+                "播放列表": "<li&&</li>",
+                "播放标题": ">&&</a",
+                "播放链接": "href=\"&&\"",
+                "搜索数组": "lazyload\"&&</a",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索标题": "title=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "分类url": "https://xiaoxintv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+                "分类": "电影$7#电视剧$6#动漫$5#综艺$3#纪录片$21#体育$20"
+            }
         },
+
+
+
+      
+     {  "key": "csp_开心影院",
+        "name": "🥇｜开心影院｜銅牌影院｜",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/json_now/開心影院.json"
+      },
+      
+     {  "key": "csp_歐樂影院ORG",
+        "name": "🥇｜歐樂影院｜鐵牌影院｜",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+          "简介": "content_desc context clearfix\">&&</span>",
+          "分类url": "https://www.oulevod.org/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "分类": "電視劇$2#電影$1#動漫$4#綜藝$3#短劇$53",
+          "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他"
+        }
+      },       
 
 
 
@@ -357,6 +352,10 @@
     },
 
 
+
+
+{ "key": "超前全片源", "name": "💖全网m3u", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType":2, "ext": "http://zhangbokeji.top:291/api.php/app/" }, 		
+{"key":"csp_appys","name":"💖肥羊m3u","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.zishi.xyz/api.php/app/"},
 {"key":"小苹果弹幕版","name":"🍎苹果┃弹幕","type": 3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},     
 {"key":"立播弹幕版","name":"🐰立播┃弹幕","type":3,"api":"csp_Libvio","searchable":1,"filterable":1,"changeable":1,"ext": {
         "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
