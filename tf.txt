@@ -44,19 +44,28 @@
 
 
 
-
+         {
+            "key": "GUAZI",
+            "name": "🍈┃瓜子影視",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "csp_Gz360",
+            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/Melon%20seeds.jar"
+            
+        },
         
 
-
-     {
-         "key":"黑木影视",
-         "name":"💖黑木影视",
-         "type":1,
-         "api":"https://heimuer.ggff.net/api.php/tvbox",
+      {
+         "key":"沐辰爱瓜TV",
+         "name":"🍎爱瓜TV",
+         "type":3,
+         "api":"https://json.doube.eu.org/python/py_aigua.py",
          "searchable":1,
-         "quickSearch":1,
-         "filterable":1
+         "filterable":0,
+         "changeable":0
       },
+
 
 
 
@@ -79,16 +88,7 @@
 
 
 
-         {
-            "key": "GUAZI",
-            "name": "🍈┃瓜子影視",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "api": "csp_Gz360",
-            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/Melon%20seeds.jar"
-            
-        },
+
 
 
 
@@ -125,15 +125,7 @@
 
 
 
-      {
-         "key":"沐辰爱瓜TV",
-         "name":"🍎爱瓜TV",
-         "type":3,
-         "api":"https://json.doube.eu.org/python/py_aigua.py",
-         "searchable":1,
-         "filterable":0,
-         "changeable":0
-      },
+
 
 
 
@@ -347,7 +339,15 @@
     },
 
 
-
+     {
+         "key":"黑木影视",
+         "name":"💖黑木影视",
+         "type":1,
+         "api":"https://heimuer.ggff.net/api.php/tvbox",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":1
+      },
 
  
     {  "key": "csp_Jpys",
