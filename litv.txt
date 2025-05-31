@@ -2,10 +2,10 @@ Decoder=3
 新聞频道,#genre#
 
 
-寰宇財經台,https://www.youtube.com/watch?v=EnuEsX3FSh0
+
 寰宇財經台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv158
 
-東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
+
 東森財經新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv153
 東森財經新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv153
 
@@ -52,21 +52,7 @@ Decoder=3
 
 
 
-寰宇財經台,https://www.youtube.com/watch?v=WTRQiVWK1jY
-東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
 
-三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
-民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
-寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
-鏡電視新聞台,https://www.youtube.com/watch?v=5n0y6b0Q25o
-三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
-寰宇新聞台,https://www.youtube.com/watch?v=6IquAgfvYmc
-TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
-台視新聞台,https://www.youtube.com/watch?v=xL0ch83RAK8
-中視新聞台,https://www.youtube.com/watch?v=TCnaIE_SAtM
-華視新聞台,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-中天新聞台,https://www.youtube.com/watch?v=vr3XyVCR4T0
 
 東森財經新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv153
 非凡新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv010
@@ -120,7 +106,21 @@ TVBS新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv072/index.m3u8
 
 
 
+寰宇財經台,https://www.youtube.com/watch?v=EnuEsX3FSh0
+東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
 
+三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
+寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
+鏡電視新聞台,https://www.youtube.com/watch?v=5n0y6b0Q25o
+三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
+寰宇新聞台,https://www.youtube.com/watch?v=6IquAgfvYmc
+TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
+台視新聞台,https://www.youtube.com/watch?v=xL0ch83RAK8
+中視新聞台,https://www.youtube.com/watch?v=TCnaIE_SAtM
+華視新聞台,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+中天新聞台,https://www.youtube.com/watch?v=vr3XyVCR4T0
 
 
 
