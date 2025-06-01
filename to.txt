@@ -112,15 +112,15 @@
         },
 
 
-        {
-      "key": "步步",
+        
+     {"key": "步步",
       "name": "💖步步",
       "type": 3,
       "api": "https://weixine.net/js/lib/drpy2.min.js",
       "ext": "https://gitee.com/smallmi1007/mimi/raw/master/ceshi.js"
     },
 
-      "key": "南瓜",
+    { "key": "南瓜",
       "name": "宝盒┃南瓜",
       "type": 3,
       "api": "csp_NanGua",
