@@ -121,7 +121,18 @@ CINEMAX(TW),tvbus://72UZFYDHr8sXeQFbgprZx67QJADJBWTHwRC2ULiB6mvbENydDK#tvbus://7
 
 
 Cherry,#genre#
-极限,http://ali.hlspull.yximgs.com:80/live/9c5225e5f3f005a3f77da0166f3e5db4.flv
+
+极限,http://ali.hlspull.yximgs.com:80/live/880adf00a3f2417a2cea55db850fd3e3.flv
+happy,http://ali.hlspull.yximgs.com:80/live/cf61f3b627e3ef2db6120b48076cd54d.flv
+香蕉,http://ali.hlspull.yximgs.com:80/live/884161eacdb2c338c85727c37d43bd66.flv
+惊艳,http://ali.hlspull.yximgs.com:80/live/a420b7acf3f1c23e94a5d1bb5d76fe76.flv
+潘朵拉,http://ali.hlspull.yximgs.com:80/live/2f538f528b3b08d44b02282e9db2bf13.flv
+彩虹电影,http://ali.hlspull.yximgs.com:80/live/a6061e87d3619b606d3e00e8430115a9.flv
+k频道,http://ali.hlspull.yximgs.com:80/live/854fc43f3349980e1670f9bda3b39c8c.flv
+e频道,http://ali.hlspull.yximgs.com:80/live/cc23024d36717afa42308cc027d348e0.flv
+松3,http://ali.hlspull.yximgs.com:80/live/8b8346034ba68c62c7df956316ae56ee.flv
+松1,http://ali.hlspull.yximgs.com:80/live/370ddf5c2eb2659562a695a6e6844d6
+
 
 happy,http://ali.hlspull.yximgs.com:80/live/eae555aaff9a9be74babaf2269e493d3.flv
 香蕉,http://ali.hlspull.yximgs.com:80/live/ff774e2be6a42d7d236d30c9bf30ec4f.flv
