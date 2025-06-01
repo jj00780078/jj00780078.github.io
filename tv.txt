@@ -112,11 +112,6 @@ TVBS新聞,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv072
 三立新聞,p2p://142.54.189.229:7575/64df114a00089e6504a1b34e5ec80344.ts
 三立新聞,http://108.181.20.197/livehttpplay?channel_id=10126
 三立新聞,http://122.117.71.103:8542/http/220.130.87.218:8081/hls/65/807/ch018.m3u8
-三立新,http://61.163.58.168:2060/play/forward/4?tvid=setnews&token=936148146f419b8a164a77c2253ed520
-三立新,http://61.163.58.168:2060/play/forward/4?tvid=SETNews&token=936148146f419b8a164a77c2253ed520
-壹新闻,http://61.163.58.168:2060/play/forward/4?tvid=nexttvnews&token=936148146f419b8a164a77c2253ed520#http://61.163.58.168:2060/play/forward/4?tvid=149&token=936148146f419b8a164a77c2253ed520#http://61.163.58.168:2060/play/forward/4?tvid=NEXTNews&token=936148146f419b8a164a77c2253ed520
-年代新闻,http://61.163.58.168:2060/play/forward/4?tvid=eranewslm&token=936148146f419b8a164a77c2253ed520#http://61.163.58.168:2060/play/forward/4?tvid=155&token=936148146f419b8a164a77c2253ed520
-非凡新闻,http://61.163.58.168:2060/play/forward/4?tvid=ustvnewshd&token=936148146f419b8a164a77c2253ed520#http://61.163.58.168:2060/play/forward/4?tvid=ustvnewslm&token=936148146f419b8a164a77c2253ed520#http://61.163.58.168:2060/play/forward/4?tvid=USNews&token=936148146f419b8a164a77c2253ed520#http://61.163.58.168:2060/play/forward/4?tvid=154&token=936148146f419b8a164a77c2253ed520
 
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 東森新聞,p2p://142.54.189.229:7575/64df0db3000d67790493aeaf65c56300.ts
@@ -158,6 +153,11 @@ TVBS新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv072/index.m3u8
 
 
 
+三立新,http://61.163.58.168:2060/play/forward/4?tvid=setnews&token=
+三立新,http://61.163.58.168:2060/play/forward/4?tvid=SETNews&token=
+壹新闻,http://61.163.58.168:2060/play/forward/4?tvid=nexttvnews&token=#http://61.163.58.168:2060/play/forward/4?tvid=149&token=936148146f419b8a164a77c2253ed520#http://61.163.58.168:2060/play/forward/4?tvid=NEXTNews&token=936148146f419b8a164a77c2253ed520
+年代新闻,http://61.163.58.168:2060/play/forward/4?tvid=eranewslm&token=#http://61.163.58.168:2060/play/forward/4?tvid=155&token=936148146f419b8a164a77c2253ed520
+非凡新闻,http://61.163.58.168:2060/play/forward/4?tvid=ustvnewshd&token=#http://61.163.58.168:2060/play/forward/4?tvid=ustvnewslm&token=936148146f419b8a164a77c2253ed520#http://61.163.58.168:2060/play/forward/4?tvid=USNews&token=936148146f419b8a164a77c2253ed520#http://61.163.58.168:2060/play/forward/4?tvid=154&token=936148146f419b8a164a77c2253ed520
 
 
 
@@ -281,6 +281,13 @@ TVBS新闻,p3p://167.114.175.6:55331/621858e3000e70ad1217c0700d576ad0
 东森财经,p3p://167.114.175.6:55331/61468bd70005123dea7373f226636dba
 非凡商业,p3p://167.114.175.6:55331/621dbc3b00051ea5272370aa6e685347
 台视财经,p3p://167.114.175.6:55331/6223b571000a13023e78ece5030b5b05
+
+三立新,http://61.163.58.168:2060/play/forward/4?tvid=setnews&token=936148146f419b8a164a77c2253ed520
+三立新,http://61.163.58.168:2060/play/forward/4?tvid=SETNews&token=936148146f419b8a164a77c2253ed520
+壹新闻,http://61.163.58.168:2060/play/forward/4?tvid=nexttvnews&token=936148146f419b8a164a77c2253ed520#http://61.163.58.168:2060/play/forward/4?tvid=149&token=936148146f419b8a164a77c2253ed520#http://61.163.58.168:2060/play/forward/4?tvid=NEXTNews&token=936148146f419b8a164a77c2253ed520
+年代新闻,http://61.163.58.168:2060/play/forward/4?tvid=eranewslm&token=936148146f419b8a164a77c2253ed520#http://61.163.58.168:2060/play/forward/4?tvid=155&token=936148146f419b8a164a77c2253ed520
+非凡新闻,http://61.163.58.168:2060/play/forward/4?tvid=ustvnewshd&token=936148146f419b8a164a77c2253ed520#http://61.163.58.168:2060/play/forward/4?tvid=ustvnewslm&token=936148146f419b8a164a77c2253ed520#http://61.163.58.168:2060/play/forward/4?tvid=USNews&token=936148146f419b8a164a77c2253ed520#http://61.163.58.168:2060/play/forward/4?tvid=154&token=936148146f419b8a164a77c2253ed520
+
 
 非凡新聞,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_gKZPb.php?id=非凡新闻
 壹新聞,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_gKZPb.php?id=壹新闻
