@@ -153,11 +153,11 @@ TVBS新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv072/index.m3u8
 
 
 
-三立新,http://61.163.58.168:2060/play/forward/4?tvid=setnews&token=
-三立新,http://61.163.58.168:2060/play/forward/4?tvid=SETNews&token=
-壹新闻,http://61.163.58.168:2060/play/forward/4?tvid=nexttvnews&token=#http://61.163.58.168:2060/play/forward/4?tvid=149&token=936148146f419b8a164a77c2253ed520#http://61.163.58.168:2060/play/forward/4?tvid=NEXTNews&token=936148146f419b8a164a77c2253ed520
-年代新闻,http://61.163.58.168:2060/play/forward/4?tvid=eranewslm&token=#http://61.163.58.168:2060/play/forward/4?tvid=155&token=936148146f419b8a164a77c2253ed520
-非凡新闻,http://61.163.58.168:2060/play/forward/4?tvid=ustvnewshd&token=#http://61.163.58.168:2060/play/forward/4?tvid=ustvnewslm&token=936148146f419b8a164a77c2253ed520#http://61.163.58.168:2060/play/forward/4?tvid=USNews&token=936148146f419b8a164a77c2253ed520#http://61.163.58.168:2060/play/forward/4?tvid=154&token=936148146f419b8a164a77c2253ed520
+三立新,http://61.163.58.168:2060/.m3u8
+三立新,http://61.163.58.168:2060/play/forward/4?tvid=SETNews.m3u8
+壹新闻,http://61.163.58.168:2060/play/forward/4?tvid=nexttvnews.m3u8#http://61.163.58.168:2060/play/forward/4?tvid=149&token=936148146f419b8a164a77c2253ed520#http://61.163.58.168:2060/play/forward/4?tvid=NEXTNews&token=936148146f419b8a164a77c2253ed520
+年代新闻,http://61.163.58.168:2060/play/forward/4?tvid=eranewslm.m3u8#http://61.163.58.168:2060/play/forward/4?tvid=155&token=936148146f419b8a164a77c2253ed520
+非凡新闻,http://61.163.58.168:2060/play/forward/4?tvid=ustvnewshd.m3u8#http://61.163.58.168:2060/play/forward/4?tvid=ustvnewslm&token=936148146f419b8a164a77c2253ed520#http://61.163.58.168:2060/play/forward/4?tvid=USNews&token=936148146f419b8a164a77c2253ed520#http://61.163.58.168:2060/play/forward/4?tvid=154&token=936148146f419b8a164a77c2253ed520
 
 
 
