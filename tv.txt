@@ -147,10 +147,22 @@ TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立iNEWS,http://4gtv.mumi.rip:9877/229/4gtv-live089/index.m3u8
 TVBS新聞台,p2p://142.54.189.229:7575/64df0c5d000a530d048e75f37b155008.ts
 
+東森財經HD,http://szx.putids.com/proxy/jiudian.php?id=8533/live1185
+非凡新聞HD,http://szx.putids.com/proxy/jiudian.php?id=8836/live1057
+壹新聞HD,http://szx.putids.com/proxy/jiudian.php?id=8820/live1021
+年代新聞HD,http://szx.putids.com/proxy/jiudian.php?id=8831/live1051
+民視新聞HD,http://szx.putids.com/proxy/jiudian.php?id=8832/live1053
+三立新聞 HD,http://szx.putids.com/proxy/jiudian.php?id=8530/live1182
+東森新聞HD,http://szx.putids.com/proxy/jiudian.php?id=8806/live1007
+中天新聞 HD,http://szx.putids.com/proxy/jiudian.php?id=8513/live1165
 
-
-
-
+壹新闻,http://szx.putids.com/proxy/xgxg.php?id=152
+年代新闻,http://szx.putids.com/proxy/xgxg.php?id=143
+非凡新闻HD,http://szx.putids.com/proxy/guonei.php?id=fhzx2
+东森财经新闻,http://szx.putids.com/proxy/guonei.php?id=dscjxw
+东森新闻,http://szx.putids.com/proxy/xgxg.php?id=78
+寰宇新闻,http://szx.putids.com/proxy/xgxg.php?id=131
+TVBS新闻,http://szx.putids.com/proxy/xgxg.php?id=80
 
 
 
