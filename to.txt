@@ -249,8 +249,6 @@
 
 {"key": "mioaying","name": "💝分享猫影","type": 3,"api": "https://4708.kstore.space/box/py/mioaying影视.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60}, 
 {"key":"糯米弹幕","name":"💘糯米｜弹幕","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
-{"key":"欧哥","name":"❤欧歌｜4K弹幕","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://alicliimg.clewm.net/342/790/68790342/1747406568293389b1b65395f3fcc91560f4527e5a4531747406566.jpg;md5;ca6858586b97f51af3f0a6b2ce3070ad","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/json/og.json?"},
-
 
 {
             "key": "小宝影院",
