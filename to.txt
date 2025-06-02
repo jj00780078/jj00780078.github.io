@@ -449,11 +449,7 @@
            },
 
           
-     { "name": "MQ",
-      "api": "csp_MQiTV",
-      "jar": "https://10526.kstore.vip/tv.jar",
-      "ext": "https://59.125.210.231:4433"
-    },
+
 
     { 
       "name": "IP解析", 
@@ -569,7 +565,11 @@
       "playerType": 1
     },
 
-
+     { "name": "MQ",
+      "api": "csp_MQiTV",
+      "jar": "https://10526.kstore.vip/tv.jar",
+      "ext": "https://59.125.210.231:4433"
+    },
 
 
         
