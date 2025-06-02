@@ -2,7 +2,7 @@ YouTube新聞,#genre#
 
 寰宇財經台,https://www.youtube.com/watch?v=EnuEsX3FSh0
 寰宇財經台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv158
-
+寰宇財經台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv158/index.m3u8?proxy=true
 
 東森財經新聞台,https://www.youtube.com/watch?v=1I2iq41Akmo
 東森財經新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv153
@@ -74,6 +74,8 @@ TVBS新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv072
 
 
 東森財經新聞台,https://www.youtube.com/watch?v=1I2iq41Akmo
+東森財經新聞台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv153/index.m3u8?proxy=true
+
 
 非凡新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv010
 非凡新聞台,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/75/817/ch57.m3u8
@@ -87,7 +89,7 @@ TVBS新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv072
 非凡新聞台,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
 非凡新聞台,p3p://108.181.32.169:50934/676955eb00013181cd70c73b35a34c93
 非凡新聞台,p3p://108.181.32.169:41467/676955eb00013181cd70c73b35a34c93
-
+非凡新聞台,http://mianti.pendy.dpdns.org/4gtv-4gtv010/index.m3u8?proxy=true
 
 壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
 壹新聞,p3p://108.181.32.169:50934/67c065fd00054ff32185a62f6d595c5f
