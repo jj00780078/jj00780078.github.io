@@ -17,7 +17,6 @@
       "changeable": 1
     },
 
-
         {
             "key":"小苹果弹幕",
             "name":"🍎┃苹果┃弹幕",
@@ -51,7 +50,17 @@
         },
 
 
-
+        {
+            "key": "csp_NIVODvip",
+            "name": "🥉｜泥視頻｜",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/json_now/泥視頻VIP.json"
+          },
 
 
 
@@ -65,6 +74,82 @@
             "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/Melon%20seeds.jar"
             
         },
+
+    {
+      "key": "仓鼠",
+      "name": "仓鼠｜APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet2",
+      "ext": {
+        "url": "https://qjappcms.cs4k.top",
+        "dataKey": "Z98KXaLtO2wC1Pte",
+        "dataIv": "Z98KXaLtO2wC1Pte",
+        "deviceId": "",
+        "version": "120"
+      }
+    },
+    {
+      "key": "水滴",
+      "name": "水滴｜APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet2",
+      "ext": {
+        "url": "http://1.94.105.93",
+        "dataKey": "gKdQKLbwhhLp4Ytv",
+        "dataIv": "gKdQKLbwhhLp4Ytv",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+
+    {
+      "key": "玉米",
+      "name": "玉米｜APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.zjc.app",
+        "dataKey": "ab4e9a421675f14b",
+        "dataIv": "ab4e9a421675f14b",
+        "deviceId": "",
+        "version": "442"
+      }
+    },
+
+    {
+      "key": "米兔",
+      "name": "米兔｜APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://v.tkbot.fun",
+        "dataKey": "d032c12876bc6848",
+        "dataIv": "d032c12876bc6848",
+        "deviceId": "",
+        "version": "200"
+      }
+    },
+
+    {
+      "key": "星河",
+      "name": "星河｜APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://121.62.22.204:9876",
+        "dataKey": "f5e2tx53ykp6s2c9",
+        "dataIv": "f5e2tx53ykp6s2c9",
+        "deviceId": "",
+        "version": "361"
+      }
+    },
+
+
         
 
 
@@ -88,17 +173,7 @@
           },            
 
 
-        {
-            "key": "csp_NIVODvip",
-            "name": "🥉｜泥視頻｜",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/json_now/泥視頻VIP.json"
-          },
+
 
  {
             "key": "QD4K",
