@@ -165,8 +165,16 @@ TVBS新聞台,p2p://142.54.189.229:7575/64df0c5d000a530d048e75f37b155008.ts
 TVBS新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=tvbs_n
 
 
-
-
+民視新聞台,http://mianti.pendy.dpdns.org/li-litv-ftv13/index.m3u8?proxy=true
+東森新聞台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv152/index.m3u8?proxy=true
+寰宇新聞台灣台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv156/index.m3u8?proxy=true
+鏡電視新聞台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv075/index.m3u8?proxy=true
+TVBS新聞台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv072/index.m3u8?proxy=true
+寰宇新聞台,http://mianti.pendy.dpdns.org/li-litv-longturn14/index.m3u8?proxy=true
+三立iNEWS,http://mianti.pendy.dpdns.org/4gtv-live089/index.m3u8?proxy=true
+寰宇財經台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv158/index.m3u8?proxy=true
+非凡新聞台,http://mianti.pendy.dpdns.org/4gtv-4gtv010/index.m3u8?proxy=true
+東森財經新聞台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv153/index.m3u8?proxy=true
 
 
 
