@@ -439,47 +439,89 @@ TVBS欢乐台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv068
 
 
 其他频道,#genre#
-新唐人亞太台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live050/index.m3u8
-Arirang TV,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv079/index.m3u8
-Global Trekker,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live112/index.m3u8
-原住民族電視台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live014/index.m3u8
-大愛電視,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live007/index.m3u8
-LiveABC 互動英語台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live030/index.m3u8
-達文西,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv018/index.m3u8
-ELTV生活英語台,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn20/index.m3u8
-Nick Jr.,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live032/index.m3u8
-Nickelodeon,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live105/index.m3u8
-DreamWorks,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live017/index.m3u8
-Smart知识台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn19
-达文西频道,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv018
-阿里郎,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv079
-生活英语台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn20
-国际财经,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv104
-美国之音,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv03
-好消息,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv16
-好消息2台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv17
-非凡商业,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv048
-国会频道1,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv084
-国会频道2,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv085
-TRACE URBAN,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv082
-MEZZO LIVE,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv083
-GLOBETROTTER,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv016
-GinxTV,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv053
-TVBS HD,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv073
-國會頻道1,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv084/index.m3u8
-國會頻道2,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv085/index.m3u8
-MEZZO LIVE HD,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv083/index.m3u8
-CLASSICA 古典樂,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv059/index.m3u8
-中天亚洲台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv109
-FRANCE24 英文台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live146/index.m3u8
-半島國際新聞台,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv10/index.m3u8
-VOA 美國之音,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv03/index.m3u8
-CNBC Asia 財經台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live130/index.m3u8
-DW德國之聲,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live071/index.m3u8
-國會頻道1,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv084/index.m3u8
-國會頻道2,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv085/index.m3u8
-
-
+台湾|台视 HD,http://smt.iktv.ddns-ip.net/Smart.php?id=ttv_taiwan
+台湾|台视新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=ttvnews_twn
+台湾|台视综合,http://smt.iktv.ddns-ip.net/Smart.php?id=ttvzhonghe
+台湾|中视 HD,http://smt.iktv.ddns-ip.net/Smart.php?id=zhongshihd_twn
+台湾|中视新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=zhongshinews_twn
+台湾|中视经典,http://smt.iktv.ddns-ip.net/Smart.php?id=zhongshi_twn
+台湾|华视 HD,http://smt.iktv.ddns-ip.net/Smart.php?id=ctshd_twn
+台湾|公视 HD,http://smt.iktv.ddns-ip.net/Smart.php?id=ctv_taiwan
+台湾|公视台语台,http://smt.iktv.ddns-ip.net/Smart.php?id=ctv2_twn
+台湾|三立台湾台,http://smt.iktv.ddns-ip.net/Smart.php?id=sanlitaiwan
+台湾|三立都会台,http://smt.iktv.ddns-ip.net/Smart.php?id=sanlidouhui
+台湾|三立综合台,http://smt.iktv.ddns-ip.net/Smart.php?id=sanlizhonghe
+台湾|三立戏剧台,http://smt.iktv.ddns-ip.net/Smart.php?id=sanlixiju_twn
+台湾|东森新闻台,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvnews
+台湾|东森财经新闻台,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvcaijing_twn
+台湾|东森综合台,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvzhonghe
+台湾|东森戏剧台,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvdrama
+台湾|东森电影台,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvmovie
+台湾|东森洋片台,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvwestern
+台湾|东森幼幼台,http://smt.iktv.ddns-ip.net/Smart.php?id=yoyo_twn
+台湾|东森超视,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvsuper
+台湾|TVBS HD,http://smt.iktv.ddns-ip.net/Smart.php?id=tvbs
+台湾|TVBS 新闻台,http://smt.iktv.ddns-ip.net/Smart.php?id=tvbs_n
+台湾|TVBS 欢乐台,http://smt.iktv.ddns-ip.net/Smart.php?id=tvbshuanle_twn
+台湾|民视 HD,http://smt.iktv.ddns-ip.net/Smart.php?id=ftvhd_taiwan
+台湾|民视新闻台,http://smt.iktv.ddns-ip.net/Smart.php?id=ftvnew_taiwan
+台湾|民视台湾台,http://smt.iktv.ddns-ip.net/Smart.php?id=ftvtaiwan_twn
+台湾|中天综合,http://smt.iktv.ddns-ip.net/Smart.php?id=ctizhonghe
+台湾|中天娱乐,http://smt.iktv.ddns-ip.net/Smart.php?id=ctient
+台湾|中天亚洲,http://smt.iktv.ddns-ip.net/Smart.php?id=ctiasia_twn
+台湾|中天新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=ctinews
+台湾|寰宇新闻台,http://smt.iktv.ddns-ip.net/Smart.php?id=huanyuxinwen_twn
+台湾|寰宇财经台,http://smt.iktv.ddns-ip.net/Smart.php?id=huanyutaiwan_twn
+台湾|八大第一台,http://smt.iktv.ddns-ip.net/Smart.php?id=badafirst
+台湾|八大综合台,http://smt.iktv.ddns-ip.net/Smart.php?id=badazhonghe
+台湾|八大戏剧台,http://smt.iktv.ddns-ip.net/Smart.php?id=badadrama
+台湾|八大娱乐台,http://smt.iktv.ddns-ip.net/Smart.php?id=badaentertain
+台湾|纬来体育,http://smt.iktv.ddns-ip.net/Smart.php?id=videolandsport
+台湾|纬来精彩,http://smt.iktv.ddns-ip.net/Smart.php?id=videolandspecial_twn
+台湾|纬来日本,http://smt.iktv.ddns-ip.net/Smart.php?id=videolandjapan
+台湾|纬来电影,http://smt.iktv.ddns-ip.net/Smart.php?id=videolandmovie
+台湾|纬来综合,http://smt.iktv.ddns-ip.net/Smart.php?id=videolandzonghe
+台湾|纬来育乐,http://smt.iktv.ddns-ip.net/Smart.php?id=videolandyule
+台湾|爱尔达综合台,http://smt.iktv.ddns-ip.net/Smart.php?id=eltazonghe_twn
+台湾|爱尔达影剧台,http://smt.iktv.ddns-ip.net/Smart.php?id=eltayingju_twn
+台湾|爱尔达体育1台,http://smt.iktv.ddns-ip.net/Smart.php?id=eltasport_twn
+台湾|爱尔达体育2台,http://smt.iktv.ddns-ip.net/Smart.php?id=eltasport2_twn
+台湾|爱尔达体育3台,http://smt.iktv.ddns-ip.net/Smart.php?id=eltasport3_twn
+台湾|非凡新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=feifannews_twn
+台湾|年代新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=niandainews_twn
+台湾|龙华戏剧,http://smt.iktv.ddns-ip.net/Smart.php?id=lunghuaxiju_twn
+台湾|龙华偶像,http://smt.iktv.ddns-ip.net/Smart.php?id=lunghuaidol_twn
+台湾|龙华电影,http://smt.iktv.ddns-ip.net/Smart.php?id=xingwei_movie
+台湾|龙华洋片,http://smt.iktv.ddns-ip.net/Smart.php?id=lunghuawestern_twn
+台湾|龙华经典,http://smt.iktv.ddns-ip.net/Smart.php?id=lunghuajingdian_twn
+台湾|靖天国际,http://smt.iktv.ddns-ip.net/Smart.php?id=jingtianintl_twn
+台湾|靖天卡通,http://smt.iktv.ddns-ip.net/Smart.php?id=jingtiancartoon_twn
+台湾|大愛電視,http://smt.iktv.ddns-ip.net/Smart.php?id=daai_twn
+台湾|大愛二台,http://smt.iktv.ddns-ip.net/Smart.php?id=daai2_twn
+台湾|EYE 旅游台,http://smt.iktv.ddns-ip.net/Smart.php?id=eyetvtravel_twn
+台湾|EYE 戏剧台,http://smt.iktv.ddns-ip.net/Smart.php?id=eyetvxiju_twn
+台湾|亚洲美食,http://smt.iktv.ddns-ip.net/Smart.php?id=afc_twn
+台湾|美食星球,http://smt.iktv.ddns-ip.net/Smart.php?id=foodplanet_twn
+台湾|TLC旅遊生活,http://smt.iktv.ddns-ip.net/Smart.php?id=tlc_twn
+台湾|亚洲旅游台,http://smt.iktv.ddns-ip.net/Smart.php?id=asiatravel_twn
+台湾|Arirang,http://smt.iktv.ddns-ip.net/Smart.php?id=arirang_twn
+台湾|AXN Taiwan,http://smt.iktv.ddns-ip.net/Smart.php?id=axn_twn
+台湾|MTV Live,http://smt.iktv.ddns-ip.net/Smart.php?id=mtvhd_twn
+台湾|HBO_HD,http://smt.iktv.ddns-ip.net/Smart.php?id=hbohd_twn
+台湾|HBO_HITS,http://smt.iktv.ddns-ip.net/Smart.php?id=hbohit_twn
+台湾|CINEMAX,http://smt.iktv.ddns-ip.net/Smart.php?id=cinemax_twn
+台湾|好萊塢電影台,http://smt.iktv.ddns-ip.net/Smart.php?id=hollywoodmovies_twn
+台湾|卫视电影台,http://smt.iktv.ddns-ip.net/Smart.php?id=weishimovie_twn
+台湾|龙祥时代,http://smt.iktv.ddns-ip.net/Smart.php?id=lungxiangtime_twn
+台湾|美亚电影,http://smt.iktv.ddns-ip.net/Smart.php?id=meiyamovie_twn
+台湾|華藝綜合,http://smt.iktv.ddns-ip.net/Smart.php?id=weishichinese_twn
+台湾|博斯运动一台,http://smt.iktv.ddns-ip.net/Smart.php?id=bosisport1_twn
+台湾|博斯运动二台,http://smt.iktv.ddns-ip.net/Smart.php?id=bosisport2_twn
+台湾|博斯高球一台,http://smt.iktv.ddns-ip.net/Smart.php?id=bosigolf1_twn
+台湾|博斯高球二台,http://smt.iktv.ddns-ip.net/Smart.php?id=bosigolf2_twn
+台湾|博斯网球台,http://smt.iktv.ddns-ip.net/Smart.php?id=bositennis_twn
+台湾|博斯无限台,http://smt.iktv.ddns-ip.net/Smart.php?id=bosiunlimited_twn
+台湾|好消息 2,http://smt.iktv.ddns-ip.net/Smart.php?id=good2_twn
 
 TVBS,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv073
 台视,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv066
