@@ -50,7 +50,13 @@ Decoder=3
 
 
 
+年代新聞,http://smt.iktv.ddns-ip.net/Smart.php?id=niandainews_twn
+民視新聞,http://smt.iktv.ddns-ip.net/Smart.php?id=ftvnew_taiwan
+寰宇新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=huanyuxinwen_twn
 
+東森新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvnews
+東森財經新聞,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvcaijing_twn
+TVBS新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=tvbs_n
 
 
 
