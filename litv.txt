@@ -49,17 +49,6 @@ Decoder=3
 
 
 
-
-年代新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=niandainews_twn
-民視新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=ftvnew_taiwan
-寰宇新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=huanyuxinwen_twn
-
-東森新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvnews
-東森財經新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvcaijing_twn
-TVBS新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=tvbs_n
-
-
-
 東森財經新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv153
 非凡新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv010
 民視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv13
@@ -68,11 +57,23 @@ TVBS新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=tvbs_n
 鏡電視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv075
 寰宇新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn14
 TVBS新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv072
-
 台視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv051
 中視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv074
 華視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv052
 中天新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv009
+
+
+
+
+
+
+年代新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=niandainews_twn
+民視新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=ftvnew_taiwan
+東森新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvnews
+東森財經新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvcaijing_twn
+寰宇新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=huanyuxinwen_twn
+TVBS新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=tvbs_n
+
 
 
 民視新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv13
