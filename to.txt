@@ -76,6 +76,24 @@
         },
 
 
+         {  "key": "黑猫影视",
+            "name": "黑猫影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "数组": "class=\"vertical-box cs-itembox\">&&class=\"vid_item_mask\"",
+                "图片": "data-original=\"&&\"",
+                "标题": "class=\"title\">&&</a>",
+                "副标题": "class=\"unit\">&&</div>",
+                "链接": "<a href=\"&&\"",
+                "简介": "label>*&&</div>",
+                "分类": "电影$229#电视剧$230#动漫$232#综艺$231",
+                "分类url": "https://www.hmaotv.com/vod/index.html?page={catePg}&type_id={cateId}"
+            }
+        },
 
 
 
