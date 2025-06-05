@@ -192,11 +192,11 @@ TVBS新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=tvbs_n
 
 
 
-
-
-
-
-
+年代新闻台,p3p://173.208.176.178:31809/5fe09fec000ac0127462c4ac6b1f16a3
+三立新闻台,p3p://173.208.176.178:31809/6014c896000c7101401f67cc5477681b
+闽壹新闻台,p3p://173.208.176.178:31809/621dbb640001cb2b272027f74da62753
+年代新聞,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=niandainews_twn
+非凡新聞台,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=feifannews_twn
 
 
 
