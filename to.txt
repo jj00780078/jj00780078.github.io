@@ -449,12 +449,7 @@
             }
            },
 
-     {
-      "name": "Judy直播1",
-      "type": 3,
-      "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
-      "ext": {}
-    },
+
 
      {
       "name": "Judy直播",
@@ -475,20 +470,7 @@
      
     },  
 
-  {
-  "name": "008",
-  "type": 3,
-  "url": "https://xxx/?type=m3u",
-  "ext": {}
-   },
 
-
-  {
-  "name": "009",
-  "type": 0,
-  "url": "https://xxx/?type=m3u",
-  "ext": {}
-   },
 
   {
       "name": "SMT直播(python)",
