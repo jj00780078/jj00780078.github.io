@@ -450,7 +450,7 @@
            },
 
      {
-      "name": "Judy直播",
+      "name": "Judy直播1",
       "type": 3,
       "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
       "ext": {}
@@ -463,12 +463,7 @@
       "ext": {}
     },
  
-    {
-      "name": "SMT直播",
-      "type": 3,
-      "api": "https://json.doube.eu.org/python/live_smt.py",
-      "ext": {}
-    },         
+
 
 
     { 
@@ -481,7 +476,7 @@
     },  
 
   {
-  "name": "009",
+  "name": "008",
   "type": 3,
   "url": "https://xxx/?type=m3u",
   "ext": {}
@@ -543,6 +538,12 @@
       "ext": {}
     }, 
 
+    {
+      "name": "SMT直播",
+      "type": 3,
+      "api": "https://json.doube.eu.org/python/live_smt.py",
+      "ext": {}
+    },         
 
          {  "name": "ofiii[台湾节点]",
             "type": 0,
