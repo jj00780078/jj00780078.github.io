@@ -197,6 +197,14 @@ TVBS新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=tvbs_n
 非凡新聞台,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=feifannews_twn
 
 
+三立新聞,http://robyang.serv00.net/ublive.php?id=43
+三立新聞,http://robyang.serv00.net/ublive.php?id=2794
+三立新聞,http://robyang.serv00.net/ublive.php?id=2392
+三立新聞,http://robyang.serv00.net/ublive.php?id=320
+壹新聞-備,http://robyang.serv00.net/ublive.php?id=2777
+
+年代新聞-備,http://robyang.serv00.net/ublive.php?id=1099
+
 
 
 
