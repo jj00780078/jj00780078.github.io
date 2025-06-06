@@ -12,14 +12,25 @@ Decoder=3
 
 東森財經新聞台,p3p://108.181.32.169:41467/64251ff20001f010ea5e4b9002e57212
 
-非凡新聞台,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/75/817/ch57.m3u8
 
+
+非凡新聞台,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/75/817/ch57.m3u8
 非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞台,p3p://108.181.32.169:50934/676955eb00013181cd70c73b35a34c93
 
+非凡新聞台,http://robyang.serv00.net/ublive.php?id=3236
+非凡新聞台,http://robyang.serv00.net/ublive.php?id=2795
+壹新聞,http://robyang.serv00.net/ublive.php?id=2777
+年代新聞台,http://robyang.serv00.net/ublive.php?id=1099
+年代新聞台,http://robyang.serv00.net/ublive.php?id=2719
+三立新聞台,http://robyang.serv00.net/ublive.php?id=2794
+三立新聞台,http://robyang.serv00.net/ublive.php?id=43
+三立新聞台,http://robyang.serv00.net/ublive.php?id=2285
+三立新聞台,http://robyang.serv00.net/ublive.php?id=320
 
 
-
+壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8
+壹新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2777
 
 
 年代新聞台,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
