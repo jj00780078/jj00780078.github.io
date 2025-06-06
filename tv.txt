@@ -13,9 +13,9 @@ YouTube新聞,#genre#
 非凡新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv010/index.m3u8
 
 
-壹新聞,http://robyang.serv00.net/ublive.php?id=2777
-壹新聞,http://211.23.114.106:8516/.m3u8
 
+壹新聞,http://211.23.114.106:8516/.m3u8
+壹新聞,http://robyang.serv00.net/ublive.php?id=2777
 
 
 年代新聞台,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
@@ -199,26 +199,26 @@ TVBS新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=tvbs_n
 
 東森財經新聞台,http://robyang.serv00.net/ublive.php?id=2397
 東森財經新聞台,http://robyang.serv00.net/ublive.php?id=12
-非凡新聞-備,http://robyang.serv00.net/ublive.php?id=3236
-非凡新聞-備,http://robyang.serv00.net/ublive.php?id=2795
-壹新聞-備,http://robyang.serv00.net/ublive.php?id=2777
-年代新聞-備,http://robyang.serv00.net/ublive.php?id=1099
-年代新聞-備,http://robyang.serv00.net/ublive.php?id=2719
-三立新聞-備,http://robyang.serv00.net/ublive.php?id=2794
-三立新聞-備,http://robyang.serv00.net/ublive.php?id=43
+非凡新聞台,http://robyang.serv00.net/ublive.php?id=3236
+非凡新聞台,http://robyang.serv00.net/ublive.php?id=2795
+壹新聞,http://robyang.serv00.net/ublive.php?id=2777
+年代新聞台,http://robyang.serv00.net/ublive.php?id=1099
+年代新聞台,http://robyang.serv00.net/ublive.php?id=2719
+三立新聞台,http://robyang.serv00.net/ublive.php?id=2794
+三立新聞台,http://robyang.serv00.net/ublive.php?id=43
 
 民視新聞台,http://robyang.serv00.net/ublive.php?id=2395
 民視新聞台,http://robyang.serv00.net/ublive.php?id=13
 
-東森新聞-備,http://robyang.serv00.net/ublive.php?id=2766
-東森新聞-備,http://robyang.serv00.net/ublive.php?id=1358
-東森新聞-備,http://robyang.serv00.net/ublive.php?id=2393
-東森新聞-備,http://robyang.serv00.net/ublive.php?id=1025
+東森新聞台,http://robyang.serv00.net/ublive.php?id=2766
+東森新聞台,http://robyang.serv00.net/ublive.php?id=1358
+東森新聞台,http://robyang.serv00.net/ublive.php?id=2393
+東森新聞台,http://robyang.serv00.net/ublive.php?id=1025
 寰宇新聞台灣台,http://robyang.serv00.net/ublive.php?id=2401
 鏡電視新聞台,http://robyang.serv00.net/ublive.php?id=463
 寰宇新聞台,http://robyang.serv00.net/ublive.php?id=304
-三立iNEWS-備,http://robyang.serv00.net/ublive.php?id=6
-三立iNEWS-備,http://robyang.serv00.net/ublive.php?id=2398
+三立iNEWS,http://robyang.serv00.net/ublive.php?id=6
+三立iNEWS,http://robyang.serv00.net/ublive.php?id=2398
 TVBS新聞台,http://robyang.serv00.net/ublive.php?id=2736
 TVBS新聞台,http://robyang.serv00.net/ublive.php?id=2
 
