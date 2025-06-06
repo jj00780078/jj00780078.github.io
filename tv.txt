@@ -1,12 +1,6 @@
 YouTube新聞,#genre#
 
-寰宇財經台,http://smt.iktv.ddns-ip.net/Smart.php?id=huanyutaiwan_twn
-東森財經新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvcaijing_twn
-非凡新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=feifannews_twn
-年代新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=niandainews_twn
-三立新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=sanlinews_twn
-民視新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=ftvnew_taiwan
-東森新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvnews
+
 
 
 
@@ -30,6 +24,15 @@ YouTube新聞,#genre#
 
 年代新聞台,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 三立新聞台,http://125.227.210.55:8162/VideoInput/play.ts
+
+三立新聞台,https://www.youtube.com/watch?v=MV9mI0GChwo
+民視新聞台,https://www.youtube.com/watch?v=ylYJSBUgaMA
+東森新聞台,https://www.youtube.com/watch?v=V1p33hqPrUk
+寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
+鏡電視新聞台,https://www.youtube.com/watch?v=5n0y6b0Q25o
+三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
+寰宇新聞台,https://www.youtube.com/watch?v=6IquAgfvYmc
+TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 
 
@@ -85,15 +88,8 @@ TVBS新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv072
 
 
 
-東森財經新聞台,https://www.youtube.com/watch?v=1I2iq41Akmo
-三立新聞台,https://www.youtube.com/watch?v=MV9mI0GChwo
-民視新聞台,https://www.youtube.com/watch?v=ylYJSBUgaMA
-東森新聞台,https://www.youtube.com/watch?v=V1p33hqPrUk
-寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
-鏡電視新聞台,https://www.youtube.com/watch?v=5n0y6b0Q25o
-三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
-寰宇新聞台,https://www.youtube.com/watch?v=6IquAgfvYmc
-TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
+
+
 
 東森財經新聞台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv153/index.m3u8?proxy=true
 
