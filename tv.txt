@@ -165,11 +165,11 @@ TVBS新聞台,p2p://142.54.189.229:7575/64df0c5d000a530d048e75f37b155008.ts
 
 
 
-
+非凡新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=feifannews_twn
 年代新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=niandainews_twn
 民視新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=ftvnew_taiwan
 寰宇新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=huanyuxinwen_twn
-
+三立新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=sanlinews_twn
 東森新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvnews
 東森財經新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvcaijing_twn
 TVBS新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=tvbs_n
