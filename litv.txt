@@ -25,7 +25,7 @@ Decoder=3
 年代新聞台,http://robyang.serv00.net/ublive.php?id=1099
 年代新聞台,http://robyang.serv00.net/ublive.php?id=2719
 三立新聞台,http://robyang.serv00.net/ublive.php?id=2794
-三立新聞台,http://robyang.serv00.net/ublive.php?id=43
+
 
 
 
@@ -48,8 +48,8 @@ Decoder=3
 三立新聞台,https://www.youtube.com/watch?v=MV9mI0GChwo
 三立新聞台,p3p://108.181.32.169:50934/6766bc7f000ed78dc349b377648221c8
 三立新聞台,http://125.227.210.55:8162/VideoInput/play.ts
-三立新聞台,p2p://142.54.189.229:7575/64df114a00089e6504a1b34e5ec80344.ts
 三立新聞台,p3p://108.181.32.169:41467/6766bc7f000ed78dc349b377648221c8
+
 
 
 
