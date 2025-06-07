@@ -538,7 +538,6 @@
             "name": "快直播(python)",
             "type": 3,
             
-            "ua": "okhttp/3.15",
             "api": "https://json.doube.eu.org/python/live_kzb.py",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}",
             "ext": "68747470733a2f2f6a7a62356b716c6e2e6875616a69616564752e636f6d2f70726f642d6170692f697074762f676574497074764c697374"
@@ -591,7 +590,7 @@
 
      { "name": "MQ",
       "api": "csp_MQiTV",
-      "jar": "https://10526.kstore.vip/tv.jar",
+      "jar": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/mqitv.jar",
       "timeout": 30,
       "playerType": 1,     
       "ext": "https://59.125.210.231:4433"
