@@ -504,6 +504,14 @@
       "ext": {}
     },
 
+     { "name": "MQ",
+      "api": "csp_MQiTV",
+      "jar": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/mqitv.jar",
+      "ext": "https://59.125.210.231:4433",
+      "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"   
+     },
+
+    
 
 
 {
@@ -539,7 +547,7 @@
    { "name": "金星",
       "type": 0,
       "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/joy.txt",
-      "epg":"https://diyp100.112114.xyz/?ch={name}&date={date}",
+      "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"  ,
       "logo": "https://epg.v1.mk/logo/{name}.png",
       "core": {
         "auth": "https://sgla.googlejt.com/v1/auth",
@@ -580,14 +588,6 @@
       "playerType": 1
     },
 
-     { "name": "MQ",
-      "api": "csp_MQiTV",
-      "jar": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/mqitv.jar",
-    
-      "ext": "https://59.125.210.231:4433",
-
-      "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-    },
 
 
         
