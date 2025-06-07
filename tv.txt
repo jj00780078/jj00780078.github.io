@@ -24,17 +24,16 @@ YouTube新聞,#genre#
 
 年代新聞台,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 三立新聞台,http://125.227.210.55:8162/VideoInput/play.ts
-三立新聞台,https://www.youtube.com/watch?v=hGJkDZDchYI
-三立新聞台,https://www.youtube.com/watch?v=0EgZW36EUZw
+
 三立新聞台,https://www.youtube.com/watch?v=MV9mI0GChwo
 民視新聞台,https://www.youtube.com/watch?v=ylYJSBUgaMA
 東森新聞台,https://www.youtube.com/watch?v=V1p33hqPrUk
-東森新聞台,https://www.youtube.com/watch?v=E0zhe2gkXBs
 寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
 鏡電視新聞台,https://www.youtube.com/watch?v=5n0y6b0Q25o
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 寰宇新聞台,https://www.youtube.com/watch?v=6IquAgfvYmc
 TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
+
 
 
 
