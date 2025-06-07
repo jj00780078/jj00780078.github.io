@@ -94,7 +94,7 @@ https://www.youtube.com/watch?v=MV9mI0GChwo
 #EXTINF:-1 tvg-id="Judy" tvg-name="民视新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",民視新聞
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-id="Judy" tvg-name="东森新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",東森新聞
-https://www.youtube.com/watch?v=E0zhe2gkXBs
+https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-id="Judy" tvg-name="寰宇台灣" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",寰宇台灣
 https://www.youtube.com/watch?v=w87VGpgd90U
 #EXTINF:-1 tvg-id="Judy" tvg-name="TVBSNEWS" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",TVBS NEWS
@@ -109,7 +109,7 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=1I2iq41Akmo
 
 #EXTINF:-1 tvg-id="Judy" tvg-name="寰宇财经新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",寰宇財經新聞
-https://www.youtube.com/watch?v=WTRQiVWK1jY
+https://www.youtube.com/watch?v=EnuEsX3FSh0
 
 #EXTINF:-1 tvg-id="Judy" tvg-name="TVBS选新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",TVBS 選新聞
 https://www.youtube.com/watch?v=d1jUeoc3pio
