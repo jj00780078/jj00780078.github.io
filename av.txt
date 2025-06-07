@@ -209,7 +209,7 @@ HAPPY,p3p://167.114.175.6:55331/616b79be000a35b17ab2f7b84c325eeb
 松视2,http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8#http://18.svi-studio.com:801/live/055613148424/758984796805/6.m3u8 
 松视3,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8#http://18.svi-studio.com:801/live/055613148424/758984796805/20205.m3u8
 
-看不了的等修复,http://ali.hlspull.yximgs.com:80/live/c7d03756c1f917033682d56606b9668c.flv
+
 极限,http://ali.hlspull.yximgs.com:80/live/91dc51a893678bdcff4bc3cb2e1d479a.flv
 hap,http://ali.hlspull.yximgs.com:80/live/9465185b1cce59c929d3af7de1497520.flv
 香蕉,http://ali.hlspull.yximgs.com:80/live/ad8be608918f515c45e5b4e02a0476ea.flv
@@ -222,9 +222,18 @@ e,http://ali.hlspull.yximgs.com:80/live/7a7649bbf442ec4bb0646ac76469f9ec.flv
 松1,http://ali.hlspull.yximgs.com:80/live/b6526b4f416c1e3cfa3962a56478a8c6.flv
 pigoo,https://luong.utako.moe/pigoo/index.m3u8 
 
+极限,http://ali.hlspull.yximgs.com:80/live/2d7b99b886a1d12286c641d11cb0b283.flv
+pigoo,http://ali.hlspull.yximgs.com:80/live/e1d0b7c095d39aca00e75858c7485f4d.flv
 
-极限电影,http://ali.hlspull.yximgs.com:80/live/91dc51a893678bdcff4bc3cb2e1d479a.flv
-
+happy,http://ali.hlspull.yximgs.com:80/live/98f94700935912b511a14422039d3d05.flv
+香蕉,http://ali.hlspull.yximgs.com:80/live/e8ca161fb933c424a984bc96d699adce.flv
+惊艳,http://ali.hlspull.yximgs.com:80/live/859b062483d82d16cc4591bbf033ece4.flv
+潘朵拉,http://ali.hlspull.yximgs.com:80/live/33ee6f09106a157c335558040a626842.flv
+彩虹电影,http://ali.hlspull.yximgs.com:80/live/5fe3a1b75993be83956e3d17b6d925ff.flv
+k频道,http://ali.hlspull.yximgs.com:80/live/9a09cfd14a8b1ad18dbd61f286fa81b8.flv
+e频道,http://ali.hlspull.yximgs.com:80/live/0377d6869f56f7af77f91da3714f3e84.flv
+松3,http://ali.hlspull.yximgs.com:80/live/d19ca6e6b19c9bf461d861dafaf356c6.flv
+松1,http://ali.hlspull.yximgs.com:80/live/7a05ec3a1ab9f0fa1b97096fb2586003.flv
 
 
 
