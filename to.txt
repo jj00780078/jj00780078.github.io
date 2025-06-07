@@ -534,7 +534,12 @@
             "epg":"http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
 
-
+{
+"name": "快直播(python)",
+"type": 3,
+"api": "./sites/时间/kzb.py",
+"ext": "68747470733a2f2f6a7a62356b716c6e2e6875616a69616564752e636f6d2f70726f642d6170692f697074762f676574497074764c697374"
+},
 
 
    { "name": "金星",
