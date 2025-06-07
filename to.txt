@@ -530,7 +530,7 @@
          {  "name": "ofiii[台湾节点]",
             "type": 0,
             "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/ofiii.m3u",
-            "ua": "okhttp/3.8.1",
+            "ua": "okhttp/3.15",
             "epg":"http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
 
@@ -538,7 +538,7 @@
             "name": "快直播(python)",
             "type": 0,
             "url": "http://xg.52sw.top/play/kzb",
-            "ua": "okhttp/3.8.1",
+            "ua": "okhttp/3.15",
             "api": "./sites/时间/kzb.py",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}",
             "ext": "68747470733a2f2f6a7a62356b716c6e2e6875616a69616564752e636f6d2f70726f642d6170692f697074762f676574497074764c697374"
