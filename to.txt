@@ -583,7 +583,7 @@
      { "name": "MQ",
       "api": "csp_MQiTV",
       "jar": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/mqitv.jar",
-      "ua": "okhttp/3.15",     
+      "ua": "okhttp/4.12.0",     
       "ext": "https://59.125.210.231:4433",
       "timeout": 30,
       "playerType": 1
