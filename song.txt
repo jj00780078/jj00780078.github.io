@@ -3,49 +3,19 @@
   "logo": "https://10526.kstore.vip/zha.gif",
   "sites": [
 
-    {
-      "key": "config",
-      "name": "配置中心┃★星河★",
-      "type": 3,
-      "api": "csp_Config",
-      "jar": "https://10526.kstore.vip/xmky.jar",
-      "searchable": 0
-    },
 
-    {
-      "key": "biligequ",
-      "name": "★ bili歌曲 ★",
+
+     {
+      "key": "drpy_js_KTV",
+      "name": "KTV音乐┃★星河★",
       "type": 3,
-      "jar": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/xmky.jar",
-      "api": "csp_Bili",     
-      "searchable": 1,
-      "ext": {
-        "json": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/bili.json",
-        "cookie": "SESSDATA=819d93e8%2C1764426658%2C4ec10%2A61CjA74Z7n0isRlTABldomYIMAwyRBPDvLaJl9ERae-vTzTalKiYoDX6Qu9J0E5fof-h0SVlJfUUE0T1RLaExUQWloSUNBNG9ROEZQazBJX3FDX0VkWUFZQ0t2LXFtbnJmdUI1eEkwUnVJVl96Nk1sZTBDeFYtTkxVUjc5MjZsVjFWSENjR0hnZUVBIIEC;bili_jct=b655010f87e4dcb20ea46a191d23a443;DedeUserID=3546382984022310;DedeUserID__ckMd5=9728526c8c2ad2a5;sid=51az4mji"
-      },
+      "api": "https://10526.kstore.vip/%E6%98%9F%E6%B2%B3%E5%BD%B1%E8%A7%86/drpy2.min.js",
+      "changeable": 0,
       "style": {
         "type": "rect",
-        "ratio": 1.333
-      }
-    },
-
-
-
-    {
-      "key": "biligequ",
-      "name": "bili歌曲┃★星河★",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://10526.kstore.vip/xmky.jar",
-      "searchable": 1,
-      "ext": {
-        "json": "https://10526.kstore.vip/星河影视/bili歌曲.json",
-        "cookie": "SESSDATA=819d93e8%2C1764426658%2C4ec10%2A61CjA74Z7n0isRlTABldomYIMAwyRBPDvLaJl9ERae-vTzTalKiYoDX6Qu9J0E5fof-h0SVlJfUUE0T1RLaExUQWloSUNBNG9ROEZQazBJX3FDX0VkWUFZQ0t2LXFtbnJmdUI1eEkwUnVJVl96Nk1sZTBDeFYtTkxVUjc5MjZsVjFWSENjR0hnZUVBIIEC;bili_jct=b655010f87e4dcb20ea46a191d23a443;DedeUserID=3546382984022310;DedeUserID__ckMd5=9728526c8c2ad2a5;sid=51az4mji"
+        "ratio": 1
       },
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      }
+      "ext": "https://10526.kstore.vip/%E6%98%9F%E6%B2%B3%E5%BD%B1%E8%A7%86/KTV.js"
     },
 
     {
@@ -66,18 +36,27 @@
 
 
 
+
+
+
+
     {
-      "key": "drpy_js_KTV",
-      "name": "KTV音乐┃★星河★",
+      "key": "biligequ",
+      "name": "bili歌曲┃★星河★",
       "type": 3,
-      "api": "https://10526.kstore.vip/%E6%98%9F%E6%B2%B3%E5%BD%B1%E8%A7%86/drpy2.min.js",
-      "changeable": 0,
+      "api": "csp_Bili",
+      "jar": "https://10526.kstore.vip/xmky.jar",
+      "searchable": 1,
+      "ext": {
+        "json": "https://10526.kstore.vip/星河影视/bili歌曲.json",
+        "cookie": "SESSDATA=819d93e8%2C1764426658%2C4ec10%2A61CjA74Z7n0isRlTABldomYIMAwyRBPDvLaJl9ERae-vTzTalKiYoDX6Qu9J0E5fof-h0SVlJfUUE0T1RLaExUQWloSUNBNG9ROEZQazBJX3FDX0VkWUFZQ0t2LXFtbnJmdUI1eEkwUnVJVl96Nk1sZTBDeFYtTkxVUjc5MjZsVjFWSENjR0hnZUVBIIEC;bili_jct=b655010f87e4dcb20ea46a191d23a443;DedeUserID=3546382984022310;DedeUserID__ckMd5=9728526c8c2ad2a5;sid=51az4mji"
+      },
       "style": {
         "type": "rect",
-        "ratio": 1
-      },
-      "ext": "https://10526.kstore.vip/%E6%98%9F%E6%B2%B3%E5%BD%B1%E8%A7%86/KTV.js"
+        "ratio": 1.333
+      }
     },
+
 
     {
       "key": "py_小苹果APP",
@@ -88,6 +67,8 @@
       "filterable": 0,
       "changeable": 0
     },
+
+
 
     {
       "key": "py_aidianying",
@@ -128,6 +109,14 @@
       "searchable": 0
     },
 
+    {
+      "key": "config",
+      "name": "配置中心┃★星河★",
+      "type": 3,
+      "api": "csp_Config",
+      "jar": "https://10526.kstore.vip/xmky.jar",
+      "searchable": 0
+    },
     {
       "key": "csp_Netfixtv",
       "name": "至臻4K┃★星河★",
