@@ -87,7 +87,7 @@
 
     {
       "key": "drpy_js_KTV",
-      "name": "KTV音乐┃★星河★",
+      "name": "★ KTV音乐 ★",
       "type": 3,
       "api": "https://10526.kstore.vip/%E6%98%9F%E6%B2%B3%E5%BD%B1%E8%A7%86/drpy2.min.js",
       "changeable": 0,
@@ -100,8 +100,8 @@
 
     {
       "key": "biligequ",
-      "name": "bili歌曲┃★星河★",
-      "type": 3,
+      "name": "★ bili歌曲 ★",
+      "type": 1,
       "api": "csp_Bili",
       "jar": "https://10526.kstore.vip/xmky.jar",
       "searchable": 1,
@@ -114,10 +114,11 @@
         "ratio": 1.333
       }
     },
+
     {
       "key": "酷狗",
-      "name": "酷狗音乐┃★星河★",
-      "type": 3,
+      "name": "★ 酷狗音乐 ★",
+      "type": 1,
       "api": "csp_Kugou",
       "playerType": 2,
       "ext": {
