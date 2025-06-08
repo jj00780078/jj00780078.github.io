@@ -111,7 +111,7 @@
       },
       "style": {
         "type": "rect",
-        "ratio": 1.333
+        "ratio": 1
       }
     },
 
