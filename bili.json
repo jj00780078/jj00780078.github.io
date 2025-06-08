@@ -1,0 +1,44 @@
+{
+  "class": [
+    {
+      "type_name": "2025热门歌曲",
+      "type_id": "2025热门歌曲"
+    },
+    {
+      "type_name": "音乐飙升榜",
+      "type_id": "音乐飙升榜"
+    },
+    {
+      "type_name": "音乐热歌榜",
+      "type_id": "音乐热歌榜"
+    },
+    {
+      "type_name": "音乐人气榜",
+      "type_id": "音乐人气榜"
+    },
+    {
+      "type_name": "音乐MV榜",
+      "type_id": "音乐MV榜"
+    },
+    {
+      "type_name": "音乐电音榜",
+      "type_id": "音乐电音榜"
+    },
+    {
+      "type_name": "音乐DJ榜",
+      "type_id": "音乐DJ榜"
+    },
+    {
+      "type_name": "音乐影视榜",
+      "type_id": "音乐影视榜"
+    },
+    {
+      "type_name": "音乐游戏榜",
+      "type_id": "音乐游戏榜"
+    },
+    {
+      "type_name": "音乐动漫榜",
+      "type_id": "音乐动漫榜"
+    }
+  ]
+}
