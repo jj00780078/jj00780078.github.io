@@ -20,7 +20,7 @@ YouTube新聞,#genre#
 
 壹新聞,http://211.23.114.106:8516/.m3u8
 壹新聞,http://robyang.serv00.net/ublive.php?id=2777
-壹新聞,http://smt.iktv.ddns-ip.net/Smart.php?id=nexttvnews_twn
+
 
 年代新聞台,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 三立新聞台,http://125.227.210.55:8162/VideoInput/play.ts
@@ -134,8 +134,8 @@ TVBS新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv072
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
 
 壹新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2777
-壹新聞,http://211.23.114.106:8530/.m3u8
-壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+壹新聞,http://211.23.114.106:8531/.m3u8
+壹新聞,http://211.23.114.106:8532/.m3u8
 
 年代新聞台,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch27.m3u8?token=
 年代新聞台,http://198.16.100.186:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
