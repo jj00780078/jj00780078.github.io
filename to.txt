@@ -6,6 +6,17 @@
   "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
   "sites": [
  
+
+    {
+      "key": "py_aidianying",
+      "name": "★Ivdy影视",
+      "type": 3,
+      "api": "https://10526.kstore.vip/星河影视/aidianying.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0
+    },
+
     {
       "key": "py_gowaiju",
       "name": "💖外剧更新時間",
@@ -108,15 +119,7 @@
             
         },
 
-    {
-      "key": "py_aidianying",
-      "name": "★Ivdy影视",
-      "type": 3,
-      "api": "https://10526.kstore.vip/星河影视/aidianying.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0
-    },
+
 
     {
       "key": "drpy_js_KTV",
