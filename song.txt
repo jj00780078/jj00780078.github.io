@@ -1,0 +1,511 @@
+{
+  "spider": "https://10526.kstore.vip/xinghe.txt",
+  "logo": "https://10526.kstore.vip/zha.gif",
+  "sites": [
+
+    {
+      "key": "biligequ",
+      "name": "bili歌曲┃★星河★",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://10526.kstore.vip/xmky.jar",
+      "searchable": 1,
+      "ext": {
+        "json": "https://10526.kstore.vip/星河影视/bili歌曲.json",
+        "cookie": "SESSDATA=819d93e8%2C1764426658%2C4ec10%2A61CjA74Z7n0isRlTABldomYIMAwyRBPDvLaJl9ERae-vTzTalKiYoDX6Qu9J0E5fof-h0SVlJfUUE0T1RLaExUQWloSUNBNG9ROEZQazBJX3FDX0VkWUFZQ0t2LXFtbnJmdUI1eEkwUnVJVl96Nk1sZTBDeFYtTkxVUjc5MjZsVjFWSENjR0hnZUVBIIEC;bili_jct=b655010f87e4dcb20ea46a191d23a443;DedeUserID=3546382984022310;DedeUserID__ckMd5=9728526c8c2ad2a5;sid=51az4mji"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
+    },
+
+    {
+      "key": "酷狗",
+      "name": "酷狗音乐┃★星河★",
+      "type": 3,
+      "api": "csp_Kugou",
+      "playerType": 2,
+      "ext": {
+        "classes": [
+          {
+            "type_name": "酷狗",
+            "type_id": "kugou"
+          }
+        ]
+      }
+    },
+
+
+
+    {
+      "key": "drpy_js_KTV",
+      "name": "KTV音乐┃★星河★",
+      "type": 3,
+      "api": "https://10526.kstore.vip/%E6%98%9F%E6%B2%B3%E5%BD%B1%E8%A7%86/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://10526.kstore.vip/%E6%98%9F%E6%B2%B3%E5%BD%B1%E8%A7%86/KTV.js"
+    },
+
+    {
+      "key": "py_小苹果APP",
+      "name": "小苹果┃★星河★",
+      "type": 3,
+      "api": "https://10526.kstore.vip/星河影视/小苹果.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0
+    },
+
+    {
+      "key": "py_aidianying",
+      "name": "Ivdy影视┃★星河★",
+      "type": 3,
+      "api": "https://10526.kstore.vip/星河影视/aidianying.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0
+    },
+
+    {
+      "key": "csp_LiteApple",
+      "name": "苹果影视┃★星河★",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
+    {
+      "key": "瓜子影视",
+      "name": "瓜子影视┃★星河★",
+      "type": 3,
+      "api": "csp_Gz360",
+      "jar": "https://10526.kstore.vip/xs.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
+    {
+      "key": "drpy_js_豆瓣",
+      "name": "星河祝莘莘学子，笔下生花，金榜耀华",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0
+    },
+    {
+      "key": "config",
+      "name": "配置中心┃★星河★",
+      "type": 3,
+      "api": "csp_Config",
+      "jar": "https://10526.kstore.vip/xmky.jar",
+      "searchable": 0
+    },
+    {
+      "key": "csp_Netfixtv",
+      "name": "至臻4K┃★星河★",
+      "type": 3,
+      "changeable": "0",
+      "quickSearch": 1,
+      "api": "csp_Duopan",
+      "jar": "https://10526.kstore.vip/xmky.jar",
+      "filterable": 1,
+      "ext": {
+        "site_urls": [
+          "https://mihdr.top",
+          "https://www.mihdr.top",
+          "http://www.miqk.cc",
+          "https://www.zhizhenpan.fun"
+        ],
+        "url_key": "Netfixtv",
+        "token": "",
+        "ucCookie": "",
+        "quarkCookie": "",
+        "threadinfo": {
+          "chunksize": 512,
+          "threads": 16
+        }
+      }
+    },
+    {
+      "key": "csp_Netfixtv2",
+      "name": "二小4K┃★星河★",
+      "type": 3,
+      "changeable": "0",
+      "quickSearch": 1,
+      "api": "csp_Duopan",
+      "jar": "https://10526.kstore.vip/xmky.jar",
+      "filterable": 1,
+      "ext": {
+        "site_urls": [
+          "https://erixaopan.fun/",
+          "https://2xiaopan.fun/",
+          "https://www.2xiaopan.fun/",
+          "https://erxiaofn.click/",
+          "https://www.xhww.net/"
+        ],
+        "url_key": "UC",
+        "token": "",
+        "ucCookie": "",
+        "quarkCookie": "",
+        "threadinfo": {
+          "chunksize": 512,
+          "threads": 16
+        }
+      }
+    },
+    {
+      "key": "csp_Wogg",
+      "name": "玩偶4K┃★星河★",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar": "https://10526.kstore.vip/xmky.jar",
+      "changeable": "0",
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "Yu2Y3Q8tqDTqZ+GCqfQZz8i/vsP/tl9O+/0ZjpgnBg+2RfEareoNuL/Pl5M72Qa7kLxIiSX9vw43FPihBY2n/maEHOEs7WGA2T/7NojmydALUIhhnc3jYOnh2KHHfokMo6IosAN/HGNN8Je7i0Q/rCJt+qvuglBYeJM+3KOvqRoAjFEtGWMIO4HmbteO16itktROL+xInERNUR0+M+8v3YhuLM3LsniomLauA0b+XyNqqjoTS9lBZFYqI3Pi8Gvi/QeEKbT8gJfKPIrDFcmkRYA3Otk80eCyEibHw3hYvexl7bB9NLbGbhaNkBprzdTykwjP/eLv1ewrxm8G9Z/CR10iCP2H0jNgk66cr9pJcmBlI8E111c+8rO5tj/CneVAB47YuwlWLYTe7hGNJq9ImoLPakTrArhHE3tO1kGvUNSSuBpsHgyWKM9yLo6mMxSdRCql805ssvng9k6Ts+uxXTYGsF5ChBMoPo9piGtr5n1uWfLx7NH6OmBdJKKxHEq1TugmFEnVBAGHHEL2SqRt+g=="
+    },
+    {
+      "key": "csp_Duopan",
+      "name": "蜡笔4K┃★星河★",
+      "type": 3,
+      "api": "csp_Duopan",
+      "jar": "https://10526.kstore.vip/xmky.jar",
+      "filterable": 1,
+      "ext": {
+        "site_urls": [
+          "https://feimao666.fun",
+          "http://feimao888.fun",
+          "http://feimaoai.site",
+          "http://www.labi88.sbs",
+          "http://fmao.site",
+          "https://fmao.shop"
+        ],
+        "threadinfo": {
+          "chunksize": 512,
+          "threads": 16
+        },
+        "url_key": "Duopan4"
+      }
+    },
+    {
+      "key": "csp_appys_臻彩",
+      "name": "臻彩世界┃★星河★",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://10526.kstore.vip/xmky.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/kan.txt"
+    },
+
+    {
+      "key": "py_jieyingshi",
+      "name": "界界影视┃★星河★",
+      "type": 3,
+      "api": "https://json.doube.eu.org/python/py_jieyingshi.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0
+    },
+
+    {
+      "key": "咖啡",
+      "name": "咖啡影视┃★星河★",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet2",
+      "jar": "https://10526.kstore.vip/xmky.jar",
+      "ext": "N/01JeZBCBEQ0wOXNuAI/q97iGf3Y/QaLBH0kIoVdrnchbMLbbfPL19q8ovW5h2m+h6Vc2ZfvuHR8URxTWX9fgAm0kDDPtgJttitzPQi4xPbaH/BOVSMXdJGDbrzM3VAoJEcX+yxPdaXkrxvaZdq0lCjldlb9yAWC8ZiHssSH+9EKI//ESHDquz0m1V5Bhe/W7UmkE2CRveFiiN2uJABZy1DE1fmdV0B+V+gwiUMKelPBhYA29qkB/0/MY0gVsENky2zTdTFCl4qaFGUz8+G6j6ze5mYO4KfuQ9soedmY0yeXNzPeMZ6rquyAGtngEkw"
+    },
+
+    {
+      "key": "天天",
+      "name": "天天影视┃★星河★",
+      "type": 3,
+      "quickSearch": 1,
+      "jar": "https://10526.kstore.vip/xmky.jar",
+      "api": "csp_AppRJ",
+      "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
+    },
+    {
+      "key": "热热",
+      "name": "热播影视┃★星河★",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "https://13826.kstore.space/rebo.py"
+    },
+    {
+      "key": "海马",
+      "name": "海马影视┃★星河★",
+      "type": 3,
+      "quickSearch": 0,
+      "api": "https://13826.kstore.space/haima.py",
+      "ext": ""
+    },
+    {
+      "key": "csp_Lgyy",
+      "name": "流光影视┃★星河★",
+      "jar": "https://10526.kstore.vip/xmky.jar",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_FreeOk"
+    },
+    {
+      "key": "csp_baibai",
+      "name": "白白影视┃★星河★",
+      "jar": "https://10526.kstore.vip/xmky.jar",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_SuBaiBai",
+      "ext": "https://www.subaibai.com"
+    },
+    {
+      "key": "牛牛",
+      "name": "牛牛影视┃★星河★",
+      "type": 3,
+      "api": "https://13826.kstore.space/mioaying.py",
+      "ext": ""
+    },
+    {
+      "key": "光速",
+      "name": "光速影视┃★星河★",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "https://10526.kstore.vip/xs.jar",
+      "playerType": 1,
+      "ext": "jaHR0cDovLzU5LjE1My4xNjcuMTM3Ojg4OTl8NGQ4M2I4N2M0YzVlYTExMXw0ZDgzYjg3YzRjNWVhMTExfDQ2Mg=="
+    },
+    {
+      "key": "荐片",
+      "name": "荐片影视┃★星河★",
+      "api": "csp_Jianpian",
+      "type": 3,
+      "playerType": "2",
+      "ext": "http://api2.rinhome.com"
+    },
+    {
+      "key": "csp_Wwys",
+      "name": "农民影视┃★星河★",
+      "type": 3,
+      "api": "csp_Wwys",
+      "ext": "https://www.wwgz.cn"
+    },
+    {
+      "key": "csp_Qiyou",
+      "name": "七友影视┃★星河★",
+      "type": 3,
+      "api": "csp_Qiyou",
+      "ext": "http://www.dyxz2.com/"
+    },
+
+    {
+      "key": "仓鼠",
+      "name": "鼠鼠影视┃★星河★",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet2",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn85YdqME5ZFXdHXyEUNrexXmXuKOZHlPhQJvT6ZKEMODJQuGTLg+gpKS+XoOxUH8DdjcutGqV/lfrY9l/Ww/J/LYA0AH34KTXsOeg1p5p+KSYaG5at+IT/dqPugeQjLLpkECHqWJpIs4B2evdM7dDIOBuPmMrT5lbU1yNZHMNkr8tConVxhS1qlq57WIByuNTQ=="
+    },
+    {
+      "key": "二三",
+      "name": "贰叁影视┃★星河★",
+      "type": 3,
+      "api": "csp_Muou",
+      "jar": "https://10526.kstore.vip/xs.jar",
+      "playerType": 2,
+      "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
+    },
+    {
+      "key": "蝴蝶",
+      "name": "彩虹影视┃★星河★",
+      "type": 3,
+      "api": "csp_Hudie",
+      "jar": "https://10526.kstore.vip/xs.jar",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+    },
+    {
+      "key": "csp_J",
+      "name": "饺子外剧┃★星河★",
+      "type": 3,
+      "api": "csp_Jiaozi",
+      "playerType": 2
+    },
+    {
+      "key": "csp_SaoHuo",
+      "name": "火火影视┃★星河★",
+      "type": 3,
+      "api": "csp_SaoHuo",
+      "playerType": 2
+    },
+    {
+      "key": "星芽短剧",
+      "name": "星芽短剧┃★星河★",
+      "type": 3,
+      "api": "csp_AppXY",
+      "jar": "https://10526.kstore.vip/xs.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "河马短剧",
+      "name": "河马短剧┃★星河★",
+      "type": 3,
+      "api": "csp_AppHMDJ",
+      "jar": "https://10526.kstore.vip/xs.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw53Dr8KUwp7CmsKlw63Dp8Kow63DsFpcUFfDrcOcw6rCoMK0U1fCi+WGtemFoeaQmOWRncKl5Yem5L2K5ZCnauW+oeiov+i2t+a8iuetksOXWlxQV8Odw5jDncOrw7PCo8Kke8KVw7LCmsK0wpnCocKqwqXCqcKZwq/CqcKwwqDDtw=="
+    },
+    {
+      "key": "csp_Dm84",
+      "name": "巴士动漫┃★星河★",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Dm84"
+    },
+    {
+      "key": "csp_FirstAid",
+      "name": "急救教学┃★星河★",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      },
+      "gridview": "0-0-4.1"
+    },
+
+    {
+      "key": "drpy_js_有声小说",
+      "name": "有声小说┃★星河★",
+      "type": 3,
+      "api": "https://10526.kstore.vip/%E6%98%9F%E6%B2%B3%E5%BD%B1%E8%A7%86/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://10526.kstore.vip/%E6%98%9F%E6%B2%B3%E5%BD%B1%E8%A7%86/有声小说吧.js"
+    },
+    {
+      "key": "bilitingshu",
+      "name": "bili听书┃★星河★",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://10526.kstore.vip/xmky.jar",
+      "searchable": 1,
+      "ext": {
+        "json": "https://10526.kstore.vip/星河影视/bili听书.json",
+        "cookie": "SESSDATA=819d93e8%2C1764426658%2C4ec10%2A61CjA74Z7n0isRlTABldomYIMAwyRBPDvLaJl9ERae-vTzTalKiYoDX6Qu9J0E5fof-h0SVlJfUUE0T1RLaExUQWloSUNBNG9ROEZQazBJX3FDX0VkWUFZQ0t2LXFtbnJmdUI1eEkwUnVJVl96Nk1sZTBDeFYtTkxVUjc5MjZsVjFWSENjR0hnZUVBIIEC;bili_jct=b655010f87e4dcb20ea46a191d23a443;DedeUserID=3546382984022310;DedeUserID__ckMd5=9728526c8c2ad2a5;sid=51az4mji"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
+    },
+    {
+      "key": "bilimanhua",
+      "name": "bili漫画┃★星河★",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://10526.kstore.vip/xmky.jar",
+      "searchable": 1,
+      "ext": {
+        "json": "https://10526.kstore.vip/星河影视/bili漫画.json",
+        "cookie": "SESSDATA=819d93e8%2C1764426658%2C4ec10%2A61CjA74Z7n0isRlTABldomYIMAwyRBPDvLaJl9ERae-vTzTalKiYoDX6Qu9J0E5fof-h0SVlJfUUE0T1RLaExUQWloSUNBNG9ROEZQazBJX3FDX0VkWUFZQ0t2LXFtbnJmdUI1eEkwUnVJVl96Nk1sZTBDeFYtTkxVUjc5MjZsVjFWSENjR0hnZUVBIIEC;bili_jct=b655010f87e4dcb20ea46a191d23a443;DedeUserID=3546382984022310;DedeUserID__ckMd5=9728526c8c2ad2a5;sid=51az4mji"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
+    },
+
+    {
+      "key": "926看球",
+      "name": "926看球┃★星河★",
+      "type": 3,
+      "api": "https://10526.kstore.vip/星河影视/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://10526.kstore.vip/星河影视/926看球.js"
+    },
+    {
+      "key": "看球",
+      "name": "310看球┃★星河★",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "gridview": 3,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "push_agent",
+      "name": "笔墨书星河",
+      "type": 3,
+      "api": "csp_Push",
+      "playerType": "2",
+      "searchable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+    }
+  ],
+  "lives": [
+
+    {
+      "name": "MQ",
+      "api": "csp_MQiTV",
+      "jar": "https://10526.kstore.vip/mqtv.jar",
+      "ext": "https://59.125.210.231:4433"
+    },
+    {
+      "name": "星河电视",
+      "type": 3,
+      "url": "https://10526.kstore.vip/移动.txt",
+      "ua": "xinghe/5.2.0",
+      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/{name}.png"
+    },
+    {
+      "name": "BeeSport直播(python)",
+      "type": 3,
+      "api": "https://10526.kstore.vip/live_beesport.py",
+      "ext": {},
+      "header": {
+        "Referer": "https://p.m82xg4z0cdbz7.com/"
+      }
+    },
+    {
+      "name": "MQ",
+      "api": "csp_MQiTV",
+      "jar": "https://10526.kstore.vip/mqtv.jar",
+      "ext": "https://59.125.210.231:4433"
+    }
+  ],
+  "hosts": [
+    "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+    "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+    "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+    "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+    "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+    "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
+  ]
+}
