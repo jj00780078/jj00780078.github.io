@@ -75,11 +75,60 @@
             
         },
 
+    {
+      "key": "py_aidianying",
+      "name": "★Ivdy影视",
+      "type": 3,
+      "api": "https://10526.kstore.vip/星河影视/aidianying.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0
+    },
 
+    {
+      "key": "drpy_js_KTV",
+      "name": "KTV音乐┃★星河★",
+      "type": 3,
+      "api": "https://10526.kstore.vip/%E6%98%9F%E6%B2%B3%E5%BD%B1%E8%A7%86/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://10526.kstore.vip/%E6%98%9F%E6%B2%B3%E5%BD%B1%E8%A7%86/KTV.js"
+    },
 
-
-
-
+    {
+      "key": "biligequ",
+      "name": "bili歌曲┃★星河★",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://10526.kstore.vip/xmky.jar",
+      "searchable": 1,
+      "ext": {
+        "json": "https://10526.kstore.vip/星河影视/bili歌曲.json",
+        "cookie": "SESSDATA=819d93e8%2C1764426658%2C4ec10%2A61CjA74Z7n0isRlTABldomYIMAwyRBPDvLaJl9ERae-vTzTalKiYoDX6Qu9J0E5fof-h0SVlJfUUE0T1RLaExUQWloSUNBNG9ROEZQazBJX3FDX0VkWUFZQ0t2LXFtbnJmdUI1eEkwUnVJVl96Nk1sZTBDeFYtTkxVUjc5MjZsVjFWSENjR0hnZUVBIIEC;bili_jct=b655010f87e4dcb20ea46a191d23a443;DedeUserID=3546382984022310;DedeUserID__ckMd5=9728526c8c2ad2a5;sid=51az4mji"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
+    },
+    {
+      "key": "酷狗",
+      "name": "酷狗音乐┃★星河★",
+      "type": 3,
+      "api": "csp_Kugou",
+      "playerType": 2,
+      "ext": {
+        "classes": [
+          {
+            "type_name": "酷狗",
+            "type_id": "kugou"
+          }
+        ]
+      }
+    },
 
 
 
@@ -411,7 +460,7 @@
 
 
 "lives":[
-           {"name":"🥇️台灣新聞",
+           {"name":"💝 YouTube新聞",
             "boot": true,
             "type":0,
             "url":"https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/tv.txt",
@@ -437,9 +486,9 @@
     
 
         {
-            "name": "litv",
+            "name": "🥇 litv",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/litv.txt",
+            "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/ltv.txt",
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
@@ -452,7 +501,7 @@
 
 
      {
-      "name": "Judy直播",
+      "name": "🥇 Judy直播",
       "type": 0,
       "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
       "ext": {}
@@ -460,9 +509,8 @@
  
 
 
-
     { 
-      "name": "IP解析", 
+      "name": "🥈 IP解析", 
       "api": "csp_MQiTV", 
       "ext": "https://59.125.210.231:4433", 
       "jar": "https://mpimg.cn/down.php/1f6ad25d85981dd689b5534170cdcd42.jar", 
@@ -473,7 +521,7 @@
 
 
   {
-      "name": "SMT直播(python)",
+      "name": "🥈 SMT直播(python)",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt_proxy_001.py",
       "ext": {}
@@ -485,14 +533,14 @@
 
 
         {
-            "name": "RobYangrb",
+            "name": "🥉 RobYangrb",
             "type": 0,
             "playerType": 2,
             "url": "https://firebasestorage.googleapis.com/v0/b/myiptv-f81a8.appspot.com/o/robyang.txt.m3u?alt=media&token=72c905aa-6d4d-4f2e-b3d1-78114ee11b9b"
         },
 
   {
-    "name": "4GTV",
+    "name": "🥉 4GTV",
     "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/4GTV.txt",
     "ua": "judy/5.2.1"
   },

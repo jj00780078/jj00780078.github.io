@@ -266,7 +266,7 @@
   "ads":["mozai.4gtv.tv"],
   "lives":[
 
-{"name":"🥇️新聞直播🥇️","boot": true,"type":0,"url":"https://jj00780078.github.io/tw.txt","playerType":2,"epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"YouTube新聞","boot": true,"type":0,"url":"https://jj00780078.github.io/tw.txt","playerType":2,"epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
    
 
 
