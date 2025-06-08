@@ -22,8 +22,9 @@ Decoder=3
 非凡新聞台,http://robyang.serv00.net/ublive.php?id=2795
 
 年代新聞台,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-年代新聞台,http://robyang.serv00.net/ublive.php?id=1099
-年代新聞台,http://robyang.serv00.net/ublive.php?id=2719
+年代新聞台,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+年代新聞台,http://198.16.100.186:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
+
 三立新聞台,p2p://142.54.189.229:7575/64df114a00089e6504a1b34e5ec80344.ts
 三立新聞台,http://robyang.serv00.net/ublive.php?id=2794
 
@@ -33,8 +34,8 @@ Decoder=3
 
 
 
-年代新聞台,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-年代新聞台,http://198.16.100.186:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
+年代新聞台,http://robyang.serv00.net/ublive.php?id=1099
+年代新聞台,http://robyang.serv00.net/ublive.php?id=2719
 年代新聞台,http://198.16.100.186:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 年代新聞台,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞台,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch27.m3u8?token=
@@ -50,6 +51,18 @@ Decoder=3
 三立新聞台,http://125.227.210.55:8162/VideoInput/play.ts
 三立新聞台,p3p://108.181.32.169:41467/6766bc7f000ed78dc349b377648221c8
 
+民視新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv13
+東森新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv152
+寰宇新聞台灣台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv156
+鏡電視新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv075
+TVBS新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv072
+寰宇新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn14
+三立iNEWS,http://4gtv.livednow.dpdns.org/4gtv-live089/index.m3u8
+寰宇財經台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv158
+非凡新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv010
+
+非凡新聞台,http://156.253.12.5:932/tslive/IPTV.php?id=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB
+東森財經新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv153
 
 
 
@@ -80,18 +93,6 @@ TVBS新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=tvbs_n
 
 
 
-民視新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv13
-東森新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv152
-寰宇新聞台灣台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv156
-鏡電視新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv075
-TVBS新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv072
-寰宇新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn14
-三立iNEWS,http://4gtv.livednow.dpdns.org/4gtv-live089/index.m3u8
-寰宇財經台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv158
-非凡新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv010
-
-非凡新聞台,http://156.253.12.5:932/tslive/IPTV.php?id=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB
-東森財經新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv153
 
 東森財經新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv153/index.m3u8
 民視新聞台,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv13/index.m3u8
