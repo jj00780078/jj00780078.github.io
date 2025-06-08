@@ -133,16 +133,17 @@ e频道,http://ali.hlspull.yximgs.com:80/live/cc23024d36717afa42308cc027d348e0.f
 松3,http://ali.hlspull.yximgs.com:80/live/8b8346034ba68c62c7df956316ae56ee.flv
 松1,http://ali.hlspull.yximgs.com:80/live/370ddf5c2eb2659562a695a6e6844d6
 
-
-happy,http://ali.hlspull.yximgs.com:80/live/eae555aaff9a9be74babaf2269e493d3.flv
-香蕉,http://ali.hlspull.yximgs.com:80/live/ff774e2be6a42d7d236d30c9bf30ec4f.flv
-惊艳,http://ali.hlspull.yximgs.com:80/live/1abcf27c538a3252cf3ea1244938bc48.flv
-潘朵拉,http://ali.hlspull.yximgs.com:80/live/72fb3c6551504c947277906c766352c5.flv
-彩虹,http://ali.hlspull.yximgs.com:80/live/cd66f962dc5bfaeb9c59658a9e6475b5.flv
-k频道,http://ali.hlspull.yximgs.com:80/live/643911581f37fff06a9fd7db0af4a40d.flv
-e频道,http://ali.hlspull.yximgs.com:80/live/f6abd0c0830b0a2a6c9008530bacf371.flv
-松3,http://ali.hlspull.yximgs.com:80/live/356b3616406cfe7e2d19f457f94a90af.flv
-松1,http://ali.hlspull.yximgs.com:80/live/9c98b9f7dd238be0b9c8096edaceb176.flv
+极限电影,http://ali.hlspull.yximgs.com:80/live/2d7b99b886a1d12286c641d11cb0b283.flv
+happy,http://ali.hlspull.yximgs.com:80/live/98f94700935912b511a14422039d3d05.flv
+香蕉,http://ali.hlspull.yximgs.com:80/live/11a1a34a4d0c2d0091c68a59f90b0917.flv
+惊艳,http://ali.hlspull.yximgs.com:80/live/7d374ee8b4de1ec2ab06f5b103844c7c.flv
+潘朵拉玩美,http://ali.hlspull.yximgs.com:80/live/35b9088296f00740c2b8b232d926e185.flv
+潘朵拉粉紅,http://ali.hlspull.yximgs.com:80/live/e1d0b7c095d39aca00e75858c7485f4d.flv
+彩虹,http://ali.hlspull.yximgs.com:80/live/3301e0ef15a66d123fba17ffabd20aa5.flv
+k频道,http://ali.hlspull.yximgs.com:80/live/9a09cfd14a8b1ad18dbd61f286fa81b8.flv
+e频道,http://ali.hlspull.yximgs.com:80/live/0377d6869f56f7af77f91da3714f3e84.flv
+松3,http://ali.hlspull.yximgs.com:80/live/d19ca6e6b19c9bf461d861dafaf356c6.flv
+松1,http://ali.hlspull.yximgs.com:80/live/da65af872ef710d9cd4dddec14631eac.flv
 
 2,p3p://173.208.176.178:31809/60232b5f00007bc37850649979e379df#p3p://167.114.175.6:55331/60232b5f00007bc37850649979e379df
 香,p3p://167.114.175.6:55331/60626a760005067e6f5bbecb5816771e#p3p://173.208.176.178:31809/60626a760005067e6f5bbecb5816771e
