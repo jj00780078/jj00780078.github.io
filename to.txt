@@ -102,8 +102,8 @@
       "key": "biligequ",
       "name": "★ bili歌曲 ★",
       "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/xmky.jar",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/xmky.jar",
+     
       "searchable": 1,
       "ext": {
         "json": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/bili.json",
@@ -111,7 +111,7 @@
       },
       "style": {
         "type": "rect",
-        "ratio": 1
+        "ratio": 1.333
       }
     },
 
