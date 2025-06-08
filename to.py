@@ -148,22 +148,39 @@
       }
     },
 
+   {
+      "key": "HG影视",
+      "name": "HG影视｜影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cs.hgyx.vip/api2/api.php/app/"
+    }, 
+
+    {
+      "key": "海纳影视",
+      "name": "海纳｜影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/HNYS.json"
+    },
  
+   {
+      "key": "爱看机器人",
+      "name": "爱看｜影视",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 
 
 
 
 
-          {
-            "key": "Wexduboku",
-            "name": "🎦｜獨播庫｜",
-            "type": 3,
-            "api": "csp_WexdubokuGuard",
-            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/wex.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-          },            
 
 
 
@@ -319,6 +336,16 @@
 {"key":"糯米弹幕","name":"💘糯米｜弹幕","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 
 
+          {
+            "key": "Wexduboku",
+            "name": "🎦｜獨播庫｜",
+            "type": 3,
+            "api": "csp_WexdubokuGuard",
+            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/wex.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+          },            
 
 
 
