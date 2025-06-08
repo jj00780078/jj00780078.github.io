@@ -116,8 +116,8 @@
     },
 
     {
-      "key": "biligequ",
-      "name": "★ bili歌曲",
+      "key": "biligequ ",
+      "name": " bili歌曲",
       "type": 0,
       "api": "csp_Bili",
       "jar": "https://10526.kstore.vip/xmky.jar",
