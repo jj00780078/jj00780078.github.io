@@ -1,19 +1,6 @@
 YouTube新聞,#genre#
 
-寰宇新聞 頻道,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=w87VGpgd90U  
-東森新聞 CH51,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=V1p33hqPrUk  
-寰宇財經新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=WTRQiVWK1jY  
-三立iNEWS,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=pF507BLtbqU  
-中天電視,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=vr3XyVCR4T0  
-三立LIVE新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=MV9mI0GChwo  
-57東森財經新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=1I2iq41Akmo  
-LIVE NOW,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=SdzewdkJa-o  
-57東森財經新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=AEBeWMM1atA  
-中天深喉嚨,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=DM_PEM8GrIg  
-三立LIVE新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=hGJkDZDchYI  
-寰宇新聞 頻道,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=Ej3LQM_lTEw  
-TVBS選新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=o_-hSMgpAzs  
-東森新聞 CH51,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=E0zhe2gkXBs  
+
 
 
 
