@@ -1,6 +1,20 @@
 YouTube新聞,#genre#
 
-
+寰宇財經台,https://tv.iill.top/litv/4gtv-4gtv158
+東森財經新聞,https://tv.iill.top/litv/4gtv-4gtv153
+非凡新聞,https://tv.iill.top/litv/4gtv-4gtv010
+三立新聞,https://tv.iill.top/4gtv/229
+民視新聞,https://tv.iill.top/litv/litv-ftv13
+東森新聞,https://tv.iill.top/litv/4gtv-4gtv152
+寰宇新聞台灣台,https://tv.iill.top/litv/4gtv-4gtv156
+鏡電視新聞台,https://tv.iill.top/litv/4gtv-4gtv075
+三立iNEWS,https://tv.iill.top/litv/4gtv-live089
+寰宇新聞台,https://tv.iill.top/litv/litv-longturn14
+TVBS新闻,https://tv.iill.top/litv/4gtv-4gtv072
+華視新聞台,https://tv.iill.top/litv/4gtv-4gtv052
+台視新聞台,https://tv.iill.top/litv/4gtv-4gtv051
+中視新聞台,https://tv.iill.top/litv/4gtv-4gtv074
+中天新聞台,https://tv.iill.top/litv/4gtv-4gtv009
 
 
 
@@ -506,3 +520,18 @@ TVBS新聞台,http://docker.livednow.dpdns.org/li-4gtv-4gtv072/index.m3u8
 寰宇新闻,http://szx.putids.com/proxy/xgxg.php?id=131
 TVBS新闻,http://szx.putids.com/proxy/xgxg.php?id=80
 
+寰宇財經台,https://tv.iill.top/litv/4gtv-4gtv158
+東森財經新聞,https://tv.iill.top/litv/4gtv-4gtv153
+非凡新聞,https://tv.iill.top/litv/4gtv-4gtv010
+三立新聞,https://tv.iill.top/4gtv/229
+民視新聞,https://tv.iill.top/litv/litv-ftv13
+東森新聞,https://tv.iill.top/litv/4gtv-4gtv152
+寰宇新聞台灣台,https://tv.iill.top/litv/4gtv-4gtv156
+鏡電視新聞台,https://tv.iill.top/litv/4gtv-4gtv075
+三立iNEWS,https://tv.iill.top/litv/4gtv-live089
+寰宇新聞台,https://tv.iill.top/litv/litv-longturn14
+TVBS新闻,https://tv.iill.top/litv/4gtv-4gtv072
+華視新聞台,https://tv.iill.top/litv/4gtv-4gtv052
+台視新聞台,https://tv.iill.top/litv/4gtv-4gtv051
+中視新聞台,https://tv.iill.top/litv/4gtv-4gtv074
+中天新聞台,https://tv.iill.top/litv/4gtv-4gtv009
