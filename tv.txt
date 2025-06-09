@@ -42,17 +42,41 @@ YouTube新聞,#genre#
 寰宇新聞台,https://www.youtube.com/watch?v=6IquAgfvYmc
 TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
-
+寰宇財經台,https://tv.iill.top/litv/litv-longturn23
 民視新聞台,https://tv.iill.top/litv/litv-ftv13
 東森新聞台,https://tv.iill.top/litv/4gtv-4gtv152
 寰宇新聞台灣台,https://tv.iill.top/litv/4gtv-4gtv156
+寰宇新聞台灣台,https://tv.iill.top/litv/litv-longturn15
 鏡電視新聞台,https://tv.iill.top/litv/4gtv-4gtv075
 三立iNEWS,https://tv.iill.top/litv/4gtv-live089
 寰宇新聞台,https://tv.iill.top/litv/litv-longturn14
 TVBS新聞台,https://tv.iill.top/litv/4gtv-4gtv072
 
 
-
+寰宇財經,
+https://live.lalifeier.eu.org/youtube/25SE1bbTv9.m3u8?t=1749468270&key=662c9edad5ab35c1f75ea4e1bf60f66f
+東森財經新聞,
+https://live.lalifeier.eu.org/youtube/WHEPzbFA3hw.m3u8?t=1749468270&key=2d3b06cf9e564c05a3a83032e165e13b
+三立新聞2台,
+https://live.lalifeier.eu.org/youtube/CKjSm5ZeehE.m3u8?t=1749468270&key=dba1e6cb85fca41f9aa2d873eebf35d4
+三立新聞,
+https://live.lalifeier.eu.org/youtube/oZdzzvxTfUY.m3u8?t=1749468270&key=333d0174adf0620e5187ef42b5e715c3
+三立12小時新聞,
+https://live.lalifeier.eu.org/youtube/MzyekdjkblA.m3u8?t=1749468270&key=fe51374ced51a197246fff8f557c23b2
+民視新聞,
+https://live.lalifeier.eu.org/youtube/ylYJSBUgaMA.m3u8?t=1749468270&key=3f734340cadfa895baa0f1ab7a07efe1
+東森新聞,
+https://live.lalifeier.eu.org/youtube/LuQ4S-i5zoE.m3u8?t=1749468270&key=1bb4cc0a62ac3d5097f35ddb7362c243
+寰宇新聞台灣,
+https://live.lalifeier.eu.org/youtube/w87VGpgd90U.m3u8?t=1749468270&key=ac54eb9310a0c1f4ce57a88efbe07e78
+鏡新聞,
+https://live.lalifeier.eu.org/youtube/5n0y6b0Q25o.m3u8?t=1749468270&key=d2ad830e63fd4e79a861422cf306ce99
+寰宇新聞,
+https://live.lalifeier.eu.org/youtube/6IquAgfvYmc.m3u8?t=1749468270&key=b2cc15e7d5485c7b1961b3aa2b1f3ae1
+三立 iNEWS,
+https://live.lalifeier.eu.org/youtube/CKjSm5ZeehE.m3u8?t=1749468270&key=dba1e6cb85fca41f9aa2d873eebf35d4
+TVBS 55,
+https://live.lalifeier.eu.org/youtube/m_dhMSvUCIc.m3u8?t=1749468270&key=8a812d117c0722d5982667516742be0f
 
 寰宇財經台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv158/index.m3u8
 寰宇財經台,http://4gtv.livednow.dpdns.org/4gtv-4gtv158/index.m3u8
