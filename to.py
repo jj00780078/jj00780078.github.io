@@ -180,50 +180,7 @@
       "filterable": 1
     },
 
-    {
-      "key": "星河",
-      "name": "星河┃APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://121.62.22.204:9876",
-        "dataKey": "f5e2tx53ykp6s2c9",
-        "dataIv": "f5e2tx53ykp6s2c9",
-        "deviceId": "",
-        "version": "361"
-      }
-    },
 
-     {
-            "key": "橘猫",
-            "name": "橘猫┃4K",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet2",
-            "ext": {
-                "url": "https://qjappcms.jm4k.top",
-                "dataKey": "pBVmysmGX8TsgrQN",
-                "dataIv": "pBVmysmGX8TsgrQN",
-                "deviceId": "",
-                "version": "120"
-            }
-        },  
-
-  {
-            "key": "水滴",
-            "name": "水滴┃APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet2",
-            "ext": {
-                "url": "http://1.94.105.93",
-                "dataKey": "gKdQKLbwhhLp4Ytv",
-                "dataIv": "gKdQKLbwhhLp4Ytv",
-                "deviceId": "",
-                "version": ""
-            }
-        }, 
 
 
 
@@ -484,18 +441,10 @@
          "filterable":1
       },
 
-   {
-      "key": "金牌影视",
-      "name": "金牌┃影视",
+    {  "key": "csp_Jpys",
+      "name": "🥇金牌┃1080P",
       "type": 3,
-      "api": "assets://bhdc/宝盒/py/金牌影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": {
-        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
-      }
+      "api": "csp_Jpys"
     },
 
 

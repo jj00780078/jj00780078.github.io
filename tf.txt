@@ -87,20 +87,13 @@
       },
 
  
-   {
-      "key": "金牌影视",
-      "name": "金牌┃影视",
-      "type": 3,
-      "api": "assets://bhdc/宝盒/py/金牌影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": {
-        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
-      }
-    },
-
+       {
+            "key": "金牌影视",
+           "name": "🏅金牌┃蓝光",
+           "jar": "http://我不是.摸鱼儿.xyz/by/jar/moyuer.php",
+            "type": 3,
+            "api": "csp_Jpys"
+        },
 
 
 
