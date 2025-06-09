@@ -85,13 +85,11 @@
       },
 
  
-       {
-            "key": "金牌影视",
-           "name": "🏅金牌┃蓝光",
-           "jar": "http://我不是.摸鱼儿.xyz/by/jar/moyuer.php",
-            "type": 3,
-            "api": "csp_Jpys"
-        },
+     {  "key": "csp_Jpys",
+      "name": "🥇金牌┃1080P",
+      "type": 3,
+      "api": "csp_Jpys"
+    },
 
 
         {
@@ -441,11 +439,7 @@
          "filterable":1
       },
 
-    {  "key": "csp_Jpys",
-      "name": "🥇金牌┃1080P",
-      "type": 3,
-      "api": "csp_Jpys"
-    },
+
 
 
 
