@@ -272,22 +272,25 @@ TVBS新聞台,http://robyang.serv00.net/ublive.php?id=2
 
 
 Mitv新聞,#genre#
-中天新聞台,mitv://starvod.xyz:19806/3d4286732dc444f89d884fe9a1a9cd35.ts
-三立iNEWS,mitv://starvod.xyz:19806/957c56d439114b078398a4748cb111bf.ts
-壹電視新聞台,mitv://starvod.xyz:19806/c1e8882a70774eff8c4ec7b33c28abf9.ts
-年代新聞,mitv://starvod.xyz:19806/ee88a10598104dde88555111081627a4.ts
-東森新聞台(備),mitv://starvod.xyz:19806/c03309d1018144cd830c09eb3fad2321.ts
-東森新聞台,mitv://starvod.xyz:19806/571f577835b04059a840f24b40695776.ts
-華視新聞,mitv://starvod.xyz:19806/9ec2df7a3773446fa13539a8ca57d5b0.ts
-民視新聞台,mitv://starvod.xyz:19806/872d70e460874e1dabb952c580e5d190.ts
-三立新聞台,mitv://starvod.xyz:19806/7715336aa3654b1b9bc72a9672e9034a.ts
-TVBS新聞台,mitv://starvod.xyz:19806/b608ab000afc4cc19a467b01b6181840.ts
+
+非凡商業台,mitv://starvod.xyz:19806/89e126238a0345e582505c3391af389d.ts
 東森財經新聞台,mitv://starvod.xyz:19806/e8dcb71b19a3408c9dee7f293de36fd2.ts
 非凡新聞台,mitv://starvod.xyz:19806/5bef8a795d6047009431cb56608243a4.ts
-寰宇新聞台,mitv://starvod.xyz:19806/03fa5de4704d42c3ba38e490d3ef003a.ts
-鏡新聞,mitv://starvod.xyz:19806/c2722787c71243b685af438cf9059236.ts
-非凡商業台,mitv://starvod.xyz:19806/89e126238a0345e582505c3391af389d.ts
+壹電視新聞台,mitv://starvod.xyz:19806/c1e8882a70774eff8c4ec7b33c28abf9.ts
+年代新聞台,mitv://starvod.xyz:19806/ee88a10598104dde88555111081627a4.ts
+三立新聞台,mitv://starvod.xyz:19806/7715336aa3654b1b9bc72a9672e9034a.ts
+民視新聞台,mitv://starvod.xyz:19806/872d70e460874e1dabb952c580e5d190.ts
+東森新聞台,mitv://starvod.xyz:19806/c03309d1018144cd830c09eb3fad2321.ts
+東森新聞台,mitv://starvod.xyz:19806/571f577835b04059a840f24b40695776.ts
 寰宇新聞台灣台,mitv://starvod.xyz:19806/902445beb0d247e1b3cef47c4f8bd626.ts
+鏡新聞,mitv://starvod.xyz:19806/c2722787c71243b685af438cf9059236.ts
+三立iNEWS,mitv://starvod.xyz:19806/957c56d439114b078398a4748cb111bf.ts
+寰宇新聞台,mitv://starvod.xyz:19806/03fa5de4704d42c3ba38e490d3ef003a.ts
+TVBS新聞台,mitv://starvod.xyz:19806/b608ab000afc4cc19a467b01b6181840.ts
+華視新聞,mitv://starvod.xyz:19806/9ec2df7a3773446fa13539a8ca57d5b0.ts
+中天新聞台,mitv://starvod.xyz:19806/3d4286732dc444f89d884fe9a1a9cd35.ts
+
+
 
 
 
