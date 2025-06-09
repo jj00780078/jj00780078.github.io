@@ -1,6 +1,10 @@
 Decoder=3
 新聞频道,#genre#
 
+寰宇財經台,https://tv.iill.top/litv/4gtv-4gtv158
+東森財經新聞台,https://tv.iill.top/litv/4gtv-4gtv153
+非凡新聞台,https://tv.iill.top/litv/4gtv-4gtv010
+
 
 
 寰宇財經台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv158
@@ -63,6 +67,22 @@ TVBS新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv072
 三立iNEWS,http://4gtv.livednow.dpdns.org/4gtv-live089/index.m3u8
 寰宇財經台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv158
 非凡新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv010
+
+
+民視新聞台,https://tv.iill.top/litv/litv-ftv13
+東森新聞台,https://tv.iill.top/litv/4gtv-4gtv152
+寰宇新聞台灣台,https://tv.iill.top/litv/4gtv-4gtv156
+鏡電視新聞台,https://tv.iill.top/litv/4gtv-4gtv075
+寰宇新聞台,https://tv.iill.top/litv/litv-longturn14
+TVBS新聞台,https://tv.iill.top/litv/4gtv-4gtv072
+華視新聞台,https://tv.iill.top/litv/4gtv-4gtv052
+台視新聞台,https://tv.iill.top/litv/4gtv-4gtv051
+中視新聞台,https://tv.iill.top/litv/4gtv-4gtv074
+中天新聞台,https://tv.iill.top/litv/4gtv-4gtv009
+
+
+
+
 
 非凡新聞台,http://156.253.12.5:932/tslive/IPTV.php?id=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB
 東森財經新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv153
