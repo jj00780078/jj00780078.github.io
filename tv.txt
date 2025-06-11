@@ -272,7 +272,7 @@ TVBS新聞台,http://robyang.serv00.net/ublive.php?id=2736
 TVBS新聞台,http://robyang.serv00.net/ublive.php?id=2
 
 
-Mitv+,P2p新聞,#genre#
+Mitv+P2p新聞,#genre#
 
 
 東森財經新聞台,mitv://starvod.xyz:19806/e8dcb71b19a3408c9dee7f293de36fd2.ts
@@ -306,7 +306,7 @@ TVBS新聞台,mitv://starvod.xyz:19806/b608ab000afc4cc19a467b01b6181840.ts
 東森財經新聞台,P2p://starvod.xyz:19806/e8dcb71b19a3408c9dee7f293de36fd2.ts
 非凡新聞台,P2p://starvod.xyz:19806/5bef8a795d6047009431cb56608243a4.ts
 壹電視新聞台,P2p://starvod.xyz:19806/c1e8882a70774eff8c4ec7b33c28abf9.ts
-年代新聞,P2p://starvod.xyz:19806/ee88a10598104dde88555111081627a4.ts
+年代新聞台,P2p://starvod.xyz:19806/ee88a10598104dde88555111081627a4.ts
 三立新聞台,P2p://starvod.xyz:19806/7715336aa3654b1b9bc72a9672e9034a.ts
 民視新聞台,P2p://starvod.xyz:19806/872d70e460874e1dabb952c580e5d190.ts
 東森新聞台,P2p://starvod.xyz:19806/c03309d1018144cd830c09eb3fad2321.ts
