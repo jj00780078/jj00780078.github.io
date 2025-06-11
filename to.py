@@ -596,6 +596,15 @@
     },
 
 
+         {
+            "key": "py_jianpian",
+            "name": "荐片(T3)",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py_jianpian.py",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0
+        },
 
 
 
