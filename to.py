@@ -151,16 +151,21 @@
       }
     },
 
-   {
-      "key": "HG影视",
-      "name": "HG影视｜影视",
+    {
+      "key": "567影视",
+      "name": "🥇｜567影视｜無廣",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_XBPQ",
+      "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cs.hgyx.vip/api2/api.php/app/"
-    }, 
+      "ext": {
+        "简介": "<div class=\"stui-pannel_bd\"&&</div>",
+        "分类url": "https://www.567dyy.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
+      }
+    },
 
     {
       "key": "海纳影视",
@@ -180,8 +185,113 @@
       "filterable": 1
     },
 
+    {
+      "key": "csp_歐樂影院ORG",
+      "name": "🥇｜歐樂(VOD)｜無廣+畫質優+無秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+             "简介": "content_desc context clearfix\">&&</span>",
+             "分类url": "https://www.oulevod.org/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+             "分类": "電視劇$2#電影$1#動漫$4#綜藝$3#短劇$53",
+             "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他"
 
+             }
+    },
+    {
+      "key": "csp_If101",
+      "name": "️🥇｜歐樂(TV)｜",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": 
+           {
+           "简介": "content_desc context clearfix\">&&</span>",
+           "分类url": "https://www.olehdtv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+           "分类": "電影$1#電視劇$2#綜藝$3#動漫$4",
+           "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他"
+           }
+    },
 
+    {
+      "key": "csp_电视狗影视",
+      "name": "🥇｜电视狗｜無廣+5倍流暢+1080P",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+          "请求头": "User-Agent$MOBILE_UA",
+          "编码": "UTF-8",
+          "主页url": "https://tvgoo.top/",
+          "数组": "<li>&&</li>",
+          "标题": "title=\"&&\"",
+          "图片": "src=\"&&\"",
+          "链接": "href=\"&&\"",
+          "简介": "class=\"description\">&&</div>",
+          "播放数组": "<div class=\"playlist\">&&</div>",
+          "播放列表": "<li&&</li>",
+          "播放链接": "href=\"&&\"",
+          "播放标题": "title=\"&&\"",
+          "线路二次截取": "class=\"description\"&&class=\"list mb\"",
+          "线路数组": "class=\"box p15\"&&class=\"t_line\"[排序:秒播>云播]",
+          "线路标题": "<h5&&</h5>[替换:m3u8>>秒播]",
+          "搜索模式": "1",
+          "搜索url": "https://tvgoo.top/search.php?page={pg}&searchword={wd}&searchtype=",
+          "搜索数组": "<li>&&</li>",
+          "搜索标题": "title=\"&&\"",
+          "搜索图片": "alt=\"&&\"",
+          "跳转播放链接": "urlDecode(ar now=unescape(\"&&\"))",
+          "分类url": "https://tvgoo.top/fdagtm/{cateId}-{catePg}.html",
+          "分类": "电影$1#电视剧$2#综艺$4#动漫$3",
+          "类型": "动作片$5#喜剧片$6#爱情片$7#科幻片$8#恐怖片$9#战争片$10#剧情片$11#纪录片$12#网络电影$13#动画片$14#解说$27||国产剧$16#网络剧$17#港剧$18#台剧$19#日剧$20#韩剧$21#美剧$22#英剧$23#泰剧$24#海外剧$25||空||空"
+          }
+    },
+
+    {
+      "key": "csp_雨见视频",
+      "name": "🥇｜雨见｜無廣",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "线路数组":"class=\"hl-tabs-btn hl-slide-swiper\"&&</a>[不包含:HME高清#360高清#FF高清]",
+        "线路标题":"/i>&&</a>[替换:线路1>>QY高清]",
+        "影片类型": "类型：&&</li>",
+        "简介": "简介：&&</div>",
+        "分类url": "http://yjsp.mxys8.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"
+      }
+    },
+
+    {
+      "key": "csp_94i影城",
+      "name": "🥉｜94i影城｜浮水印廣告",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": 
+           {
+           "分类url": "https://94itv.app/vod-show-area-{area}-by-{by}-id-{cateId}-page-{catePg}-year-{year}.html",
+           "分类": "電影$1#電視劇$2#綜藝$3#動漫$4",
+           "地区":"美國&台灣&大陸&香港&日本&韓國&法國&英國&德國&泰國&印度&意大利&西班牙&俄羅斯&其他||台灣&韓國&日本&大陸&香港&美國&法國&英國&泰國&其他||大陸&香港&台灣&美國&日本&韓國||大陸&香港&台灣&美國&日本&韓國"
+           }
+    },
 
 
  {
