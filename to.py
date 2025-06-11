@@ -571,7 +571,7 @@
 {
  "name": "youtube",
   "type": 0,
-  "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/lipy.txt",
+  "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/yt.txt",
   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
   "logo": "https://epg.112114.xyz/logo/{name}.png"
 },
