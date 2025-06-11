@@ -117,32 +117,7 @@
             
         },
 
-		{
-            "key": "py_jianpian",
-            "name": "荐片(T3)",
-            "type": 3,
-            "api": "./py_jianpian.py",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
-        },
-{
-            "key": "iQIYI",
-            "name": "iQIYI",
-            "type": 1,
-            "api": "https://www.iqiyizyapi.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-{
-            "key": "电影天堂",
-            "name": "电影天堂",
-            "type": 1,
-            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1
-        },
+
 
 
 
@@ -542,28 +517,10 @@
       "ext": {}
     },
  
-{
- "name": "SMT直播Judy",
-  "type": 0,
-  "url": "https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart2025.txt",
-  "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-  "logo": "https://epg.112114.xyz/logo/{name}.png"
-},
 
-{
- "name": "私密花园",
-  "type": 0,
-  "url": "https://gitee.com/sji820/des/raw/master/0.jpg",
-  "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-  "logo": "https://epg.112114.xyz/logo/{name}.png"
-},
-{
- "name": "youtube",
-  "type": 0,
-  "url": "./youtube.txt",
-  "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-  "logo": "https://epg.112114.xyz/logo/{name}.png"
-},
+
+
+
 
 
     { 
@@ -611,6 +568,14 @@
       "playerType": 1
     },
 
+{
+ "name": "youtube",
+  "type": 0,
+  "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/ytb.m3u",
+  "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+  "logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+
 
      { "name": "LITV直播(python)",
       "type": 0,
@@ -625,7 +590,13 @@
       "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"   
      },
 
-    
+{
+ "name": "SMT直播Judy",
+  "type": 0,
+  "url": "https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart2025.txt",
+  "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+  "logo": "https://epg.112114.xyz/logo/{name}.png"
+},    
 
 
 
