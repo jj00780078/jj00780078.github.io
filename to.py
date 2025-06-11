@@ -168,21 +168,60 @@
     },
 
     {
-      "key": "海纳影视",
-      "name": "海纳｜影视",
+      "key": "csp_在線電影網",
+      "name": "🥇｜在線｜無廣+5倍流暢+畫質普通",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/HNYS.json"
-    },
- 
-   {
-      "key": "爱看机器人",
-      "name": "爱看｜影视",
-      "type": 3,
-      "api": "csp_Ikanbot",
+      "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": {
+        "分类url": "http://www.gtzl.net/vodshow/area/{area}/by/by/id/{cateId}/page/{catePg}/year/{year}.html",       
+        "分类": "電影$1#電視劇$2#綜藝$3#動漫$4",
+        "类型": "动作片$6#喜剧片$7#科幻片$8#恐怖片$9#剧情片$11#战争片$12#爱情片$20#动画片$26#记录片$27||国产剧$13#韩剧$16#日剧$21#台湾剧$23#泰剧$22#港澳剧$14#欧美剧$15||空||国产动漫$28#日韩动漫$29#欧美动漫$30",
+        "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他||内地&韩国&香港&台湾&日本&美国&泰国&英国&新加坡&其他||内地&港台&日韩&欧美||国产&日本&欧美&其他"
+      }
+    },
+
+    {
+      "key": "csp_片吧",
+      "name": "🥇｜片吧｜無廣",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "线路数组": "class=\"stui-vodlist__head\"&&</div>[排序:暴风云播>闪电云播]",
+        "线路标题": ">&&</span>",
+        "分类url": "https://www.pianbas.com/class/{cateId}-{area}-{by}------{catePg}---{year}.html",     
+        "分类": "电影$1#剧集$2#综艺$4#动漫$3",
+        "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他||大陆&韩国&香港&台湾&日本&美国&泰国&英国&新加坡&其他||大陆&香港&台湾&美国&日本&韩国||大陆&香港&台湾&美国&日本&韩国"
+      }
+    },
+
+    {
+      "key": "csp_云飞",
+      "name": "🥇｜雲飛｜無廣",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "线路数组": "<span class=\"more text-muted pull-right&&</h3></div>[不包含:百度云播]",
+        "线路标题": "title\">&&<",
+        "播放数组": "class=\"stui-content__playlist clearfix\">&&</ul>",
+        "播放列表": "<a&&</a[不包含:🎁美女直播]",
+        "播放标题": ">&&</a",
+        "播放链接": "href=\"&&\"",
+        "跳转播放链接": "var player_*\"url\":\"&&\"",
+        "分类url": "https://yfeil.com/show/{cateId}-{area}--{class}-{lang}-{letter}---{catePg}---{year}/",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
+      }
     },
 
     {
@@ -470,21 +509,7 @@
         "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/json_now/開心影院.json"
       },
       
-     {  "key": "csp_歐樂影院ORG",
-        "name": "🥇｜歐樂影院｜鐵牌影院｜",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {
-          "简介": "content_desc context clearfix\">&&</span>",
-          "分类url": "https://www.oulevod.org/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
-          "分类": "電視劇$2#電影$1#動漫$4#綜藝$3#短劇$53",
-          "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他"
-        }
-      },       
+
 
 
      {"key": "步步",
@@ -551,13 +576,28 @@
          "filterable":1
       },
 
+    {
+      "key": "海纳影视",
+      "name": "海纳｜影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/HNYS.json"
+    },
+ 
+   {
+      "key": "爱看机器人",
+      "name": "爱看｜影视",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 
 
 
 
 
-{ "key": "超前全片源", "name": "💖全网m3u", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType":2, "ext": "http://zhangbokeji.top:291/api.php/app/" }, 		
-{"key":"csp_appys","name":"💖肥羊m3u","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.zishi.xyz/api.php/app/"},
 {"key":"小苹果弹幕版","name":"🍎苹果┃弹幕","type": 3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},     
 {"key":"立播弹幕版","name":"🐰立播┃弹幕","type":3,"api":"csp_Libvio","searchable":1,"filterable":1,"changeable":1,"ext": {
         "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
