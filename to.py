@@ -13,7 +13,7 @@
       "type": 3,
       "api": "https://10526.kstore.vip/星河影视/aidianying.py",
       "searchable": 1,
-      "filterable": 0,
+      "filterable": 1,
       "changeable": 1
     },
 
