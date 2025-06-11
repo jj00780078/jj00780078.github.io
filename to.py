@@ -8,13 +8,23 @@
  
 
     {
-      "key": "py_aidianying",
-      "name": "★Ivdy影视",
+      "key": "Youtube",
+      "name": "Youtube",
       "type": 3,
-      "api": "https://10526.kstore.vip/星河影视/aidianying.py",
+      "api": "csp_Youtube",
       "searchable": 1,
-      "filterable": 0,
-      "changeable": 0
+      "quickSearch": 0,
+      "changeable": 1,
+      "timeout": 240,
+      "ext": {
+        "token": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/json_now/tokenm.json",
+        "json": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/json_now/youtube.json",
+        "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
+        "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
+        "codecs": "",
+        "proxy": ""
+      },
+      "style": {"type": "rect", "ratio": 1.33}
     },
 
     {
