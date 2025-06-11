@@ -470,7 +470,7 @@
 
 
 "lives":[
-           {"name":"💝 YouTube新聞",
+           {"name":"💝 台灣新聞",
             "boot": true,
             "type":0,
             "url":"https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/tv.txt",
@@ -519,7 +519,13 @@
  
 
 
-
+{
+ "name": "🥇 YouTube新聞",
+  "type": 0,
+  "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/yt.txt",
+  "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+  "logo": "https://epg.112114.xyz/logo/{name}.png"
+},
 
 
 
@@ -568,13 +574,7 @@
       "playerType": 1
     },
 
-{
- "name": "youtube",
-  "type": 0,
-  "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/yt.txt",
-  "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-  "logo": "https://epg.112114.xyz/logo/{name}.png"
-},
+
 
 
      { "name": "LITV直播(python)",

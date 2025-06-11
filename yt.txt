@@ -1,21 +1,6 @@
 台灣新聞,#genre#
-三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
-東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
-民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
-鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
-三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 
-寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
-TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
-華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-
-壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
-壹新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
-壹新聞,http://211.23.114.106:8516/.m3u8
-壹新聞,p3p://108.181.32.169:36313/642521bd0005dfe9ea654d921969472d
-壹新聞,p3p://167.114.175.6:55331/621dbb640001cb2b272027f74da62753
-壹新聞,http://50.7.234.10:8278/yinews_twn/playlist.m3u8
+寰宇財經台,https://www.youtube.com/watch?v=EnuEsX3FSh0
 
 東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
 
@@ -33,7 +18,12 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 
 
-
+壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
+壹新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
+壹新聞,http://211.23.114.106:8516/.m3u8
+壹新聞,p3p://108.181.32.169:36313/642521bd0005dfe9ea654d921969472d
+壹新聞,p3p://167.114.175.6:55331/621dbb640001cb2b272027f74da62753
+壹新聞,http://50.7.234.10:8278/nexttvnews_twn/playlist.m3u8
 
 
 
@@ -46,11 +36,28 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 年代新聞,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
 年代新聞,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 
-
+三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
 三立新聞,https://stream1.freetv.fun/san-li-xin-wen-6.ctv
 三立新聞,https://stream1.freetv.fun/e12a5ecb3e0328b72c684ffe48cb7382b9b3e283c0c99492612b5af06b539153.ctv
 三立新聞,p3p://167.114.175.6:55331/6014c896000c7101401f67cc5477681b
+
+
+
+三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
+東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
+
+寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+
+
+
+
 
 
 
