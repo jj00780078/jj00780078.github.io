@@ -548,6 +548,15 @@
           }
     },
 
+   {
+      "key": "爱看机器人",
+      "name": "爱看｜影视",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 
     {
       "key": "海纳影视",
