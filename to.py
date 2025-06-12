@@ -6,6 +6,43 @@
   "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
   "sites": [
  
+     {  "key": "csp_Jpys",
+      "name": "🥇金牌┃1080P",
+      "type": 3,
+      "api": "csp_Jpys"
+    },
+
+    {
+      "key": "drpy_js_KTV",
+      "name": "★ KTV音乐 ★",
+      "type": 3,
+      "api": "https://10526.kstore.vip/%E6%98%9F%E6%B2%B3%E5%BD%B1%E8%A7%86/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://10526.kstore.vip/%E6%98%9F%E6%B2%B3%E5%BD%B1%E8%A7%86/KTV.js"
+    },
+
+    {
+      "key": "biligequ",
+      "name": "★ bili歌曲 ★",
+      "type": 3,
+      "jar": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/xmky.jar",
+      "api": "csp_Bili",    
+      "searchable": 1,
+      "ext": {
+        "json": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/bili.json",
+        "cookie": "SESSDATA=819d93e8%2C1764426658%2C4ec10%2A61CjA74Z7n0isRlTABldomYIMAwyRBPDvLaJl9ERae-vTzTalKiYoDX6Qu9J0E5fof-h0SVlJfUUE0T1RLaExUQWloSUNBNG9ROEZQazBJX3FDX0VkWUFZQ0t2LXFtbnJmdUI1eEkwUnVJVl96Nk1sZTBDeFYtTkxVUjc5MjZsVjFWSENjR0hnZUVBIIEC;bili_jct=b655010f87e4dcb20ea46a191d23a443;DedeUserID=3546382984022310;DedeUserID__ckMd5=9728526c8c2ad2a5;sid=51az4mji"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
+    },
+
+
 
     {
       "key": "py_aidianying",
@@ -86,11 +123,7 @@
       },
 
  
-     {  "key": "csp_Jpys",
-      "name": "🥇金牌┃1080P",
-      "type": 3,
-      "api": "csp_Jpys"
-    },
+
 
 
         {
@@ -118,55 +151,60 @@
             
         },
 
-
-
-
-
     {
-      "key": "drpy_js_KTV",
-      "name": "★ KTV音乐 ★",
+      "key": "Lib",
+      "name": "宝盒┃李白",
       "type": 3,
-      "api": "https://10526.kstore.vip/%E6%98%9F%E6%B2%B3%E5%BD%B1%E8%A7%86/drpy2.min.js",
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "ext": "https://10526.kstore.vip/%E6%98%9F%E6%B2%B3%E5%BD%B1%E8%A7%86/KTV.js"
-    },
-
-    {
-      "key": "biligequ",
-      "name": "★ bili歌曲 ★",
-      "type": 3,
-      "jar": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/xmky.jar",
-      "api": "csp_Bili",    
-      "searchable": 1,
-      "ext": {
-        "json": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/bili.json",
-        "cookie": "SESSDATA=819d93e8%2C1764426658%2C4ec10%2A61CjA74Z7n0isRlTABldomYIMAwyRBPDvLaJl9ERae-vTzTalKiYoDX6Qu9J0E5fof-h0SVlJfUUE0T1RLaExUQWloSUNBNG9ROEZQazBJX3FDX0VkWUFZQ0t2LXFtbnJmdUI1eEkwUnVJVl96Nk1sZTBDeFYtTkxVUjc5MjZsVjFWSENjR0hnZUVBIIEC;bili_jct=b655010f87e4dcb20ea46a191d23a443;DedeUserID=3546382984022310;DedeUserID__ckMd5=9728526c8c2ad2a5;sid=51az4mji"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      }
-    },
-
-    {
-      "key": "567影视",
-      "name": "🥇｜567影视｜無廣",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar",
+      "api": "csp_Lib",
+      "jar": "https://jihulab.com/bhjk1/vip/-/raw/main/BH250118.jar",      
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "简介": "<div class=\"stui-pannel_bd\"&&</div>",
-        "分类url": "https://www.567dyy.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-        "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
-      }
+      "filterable": 0,
+      "ext": "faHR0cHM6Ly9saWJ2aW8uYXJ0L3N0YXRpYy9qcy9wbGF5ZXJjb25maWcuanM="
     },
+
+
+
+
+
+
+
+
+
+{
+            "key": "索尼",
+            "name": "🌍VIP专享2K",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": ["韩剧","日韩综艺",
+            "国产剧",
+            "欧美剧",
+            "台剧",
+            "日剧",
+            
+            
+	     "泰剧",
+	     "记录片",
+            "海外剧",
+            "大陆综艺",
+	    
+	    "港台综艺",
+	    "欧美综艺",
+	     "港剧",
+	    "影视解说",
+            "国产动漫"
+          ]
+        },
+
+
+
+
+
+
 
     {
       "key": "csp_在線電影網",
@@ -297,24 +335,7 @@
           }
     },
 
-    {
-      "key": "csp_雨见视频",
-      "name": "🥇｜雨见｜無廣",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "线路数组":"class=\"hl-tabs-btn hl-slide-swiper\"&&</a>[不包含:HME高清#360高清#FF高清]",
-        "线路标题":"/i>&&</a>[替换:线路1>>QY高清]",
-        "影片类型": "类型：&&</li>",
-        "简介": "简介：&&</div>",
-        "分类url": "http://yjsp.mxys8.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"
-      }
-    },
+
 
     {
       "key": "csp_94i影城",
@@ -349,54 +370,7 @@
         
 
 
-    {
-      "key": "Lib",
-      "name": "宝盒┃李白",
-      "type": 3,
-      "api": "csp_Lib",
-      "jar": "https://jihulab.com/bhjk1/vip/-/raw/main/BH250118.jar",      
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "faHR0cHM6Ly9saWJ2aW8uYXJ0L3N0YXRpYy9qcy9wbGF5ZXJjb25maWcuanM="
-    },
 
-
-
-
-
-
-
-
-
-{
-            "key": "索尼",
-            "name": "🌍VIP专享2K",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": ["韩剧","日韩综艺",
-            "国产剧",
-            "欧美剧",
-            "台剧",
-            "日剧",
-            
-            
-	     "泰剧",
-	     "记录片",
-            "海外剧",
-            "大陆综艺",
-	    
-	    "港台综艺",
-	    "欧美综艺",
-	     "港剧",
-	    "影视解说",
-            "国产动漫"
-          ]
-        },
 
 
 
@@ -595,9 +569,40 @@
       "filterable": 1
     },
 
+    {
+      "key": "567影视",
+      "name": "🥇｜567影视｜無廣",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "简介": "<div class=\"stui-pannel_bd\"&&</div>",
+        "分类url": "https://www.567dyy.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
+      }
+    },
 
-
-
+    {
+      "key": "csp_雨见视频",
+      "name": "🥇｜雨见｜無廣",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "线路数组":"class=\"hl-tabs-btn hl-slide-swiper\"&&</a>[不包含:HME高清#360高清#FF高清]",
+        "线路标题":"/i>&&</a>[替换:线路1>>QY高清]",
+        "影片类型": "类型：&&</li>",
+        "简介": "简介：&&</div>",
+        "分类url": "http://yjsp.mxys8.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"
+      }
+    },
 
 
 {"key":"小苹果弹幕版","name":"🍎苹果┃弹幕","type": 3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},     
@@ -700,7 +705,24 @@
     },
 
 
-
+{
+    "name" : "晴天 Mitv",
+    "type" : 3,
+    "url" : "http://go8.work.gd/i/?T=晴天",
+    "ua" : "okhttp/3.15",
+    "epg" : "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo" : "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+    "catchup" : {
+      "type" : "append",
+      "source" : "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",
+      "ext" : {
+        "proxy" : {
+          "http" : "${PROXY_HTTP_URL}",
+          "https" : "${PROXY_HTTPS_URL}"
+        }
+      }
+    }
+  },
 
 
 
