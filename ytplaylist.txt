@@ -1,8 +1,7 @@
-📺新聞,#genre#
+📺新聞直播,#genre#
 新聞直播,https://www.youtube.com/playlist?list=PLwUFhc9jobSwYK8DkzJSmJHoOgEm4JqQJ
 
-📺新聞直播,#genre#
-新聞直播,https://youtube.com/playlist?list=PLwUFhc9jobSwYK8DkzJSmJHoOgEm4JqQJ&si=csykruxPjEaxPR5q
+
 🐘新台派上線✨完整版🔥,#genre#
 新台派上線,https://www.youtube.com/playlist?list=PLd5zGth6CDdWhOXdQ6KvUebq1WzWK48GA
 
@@ -46,7 +45,7 @@
 3C 達人廖阿輝,https://www.youtube.com/playlist?list=PLdRyqKKa1cNfKrdf4K2nSN8ASVV_G4m2c
 
 🎞弱電通,#genre#
-弱電通,https://www.youtube.com/@LowPower_YT/videos?view=0&sort=dd&shelf_id=1
+弱電通,https://www.youtube.com/@LowPower_YT/playlists?view=1&sort=dd&shelf_id=3
 
 🎞邦尼幫你 3C 科技,#genre#
 邦尼幫你 3C 科技,https://www.youtube.com/playlist?list=PLYCnlQtaoWDa4xrv7Uuj07ZcfMXXjDlOA
