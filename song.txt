@@ -56,17 +56,17 @@
             "key": "哔哩哔哩演唱会",
             "name": "哔哩｜音乐",
             "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
+            "api": "csp_Bili",   "jar": "https://10526.kstore.vip/xmky.jar",
+            "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "http://zxvideo.midsum.com/zxvideo/json/哔哩哔哩演唱会.json"
+                "json": "https://10526.kstore.vip/星河影视/bili歌曲.json"
             },
             "style": {
                 "type": "rect",
-                "ratio": 1.597
+                "ratio": 1.333
             }
         },
 
