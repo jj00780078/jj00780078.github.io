@@ -25,6 +25,41 @@
       "ext": "https://10526.kstore.vip/%E6%98%9F%E6%B2%B3%E5%BD%B1%E8%A7%86/KTV.js"
     },
 
+   {
+      "key": "酷狗",
+      "name": "🐾┃酷狗┃音乐",
+      "type": 3,
+      "api": "csp_Kugou",
+      "playerType": 2,
+      "ext": {
+        "classes": [
+          {
+            "type_name": "酷狗",
+            "type_id": "kugou"
+          }
+        ]
+      }
+    },
+    {
+      "key": "酷奇",
+      "name": "🎤┃酷奇┃MV",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js"
+    },
+    {
+      "key": "MTV",
+      "name": "🎧┃明星┃MV",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
+    },
+
+
 
       {
             "key": "飞飞",
@@ -261,10 +296,18 @@
       "changeable": 1
     },
 
+{"key":"星河","name":"👑星河｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://121.62.22.204:9876","dataKey":"f5e2tx53ykp6s2c9","dataIv":"f5e2tx53ykp6s2c9","deviceId":"","version":"361"}},
+{"key":"晴天","name":"👑晴天｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://qjappcms.sun4k.top","dataKey":"sBxqXVF5pAHbGzrH","dataIv":"sBxqXVF5pAHbGzrH","deviceId":"","version":"119"}},
+{"key":"水滴","name":"👑水滴｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet2","ext":{"url":"http://1.94.105.93","dataKey":"gKdQKLbwhhLp4Ytv","dataIv":"gKdQKLbwhhLp4Ytv","deviceId":"","version":""}},
 
-
-
-
+    {
+      "key": "Ivdy",
+      "name": "💖┃Ivdy┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://img2.gelonghui.com/library/ea5ba-5f15b1f1-2ca0-4dda-86b4-c86954b5bd37null",
+      "searchable": 0
+    },
 
 
 
@@ -416,7 +459,6 @@
       "filterable": 1,
       "ext": ""
     },
-
 
 
 
