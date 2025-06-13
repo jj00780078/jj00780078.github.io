@@ -25,44 +25,42 @@
       "ext": "https://10526.kstore.vip/%E6%98%9F%E6%B2%B3%E5%BD%B1%E8%A7%86/KTV.js"
     },
 
-{"key":"csp_AppSxGuard_水星","name":"🍊水星(SP)","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"filterable":1,"ext":"rfOb1uAWbkRHp7hdxprG9un3+SLP183q3ik3cJDiAwlFdF8L6SIvrvc9LrpTyIg76T7QJZdEkWNj43wiSaA0TJyQpu2IF2jsSLWFx7WkAmG40hFxJ1tI+Jf+EVG8DtoDRcNi+TtVGULnWrSz3EWnVcxR3EJhXnrwYWe1kJtNW5txuHAO"},
-{"key":"csp_AppSxGuard_即看","name":"🐻即看(SP)","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":0,"changeable":0,"ext":"rfOX1voDIQhH8epBwtCFsub1+2maloq8lmJuL821WUsZJAZft2UtrrwhKK5Zxt1toWyFctBUmThhuDAjVuU="},
-{"key":"csp_NCat","name":"😻网飞猫(SP)","type":3,"api":"csp_NCat","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_TvDy","name":"👼电影天堂(SP)","type":3,"api":"csp_TvDy","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_W55Movie","name":"5️⃣555电影(SP)","type":3,"api":"csp_W55Movie","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://w55xy.com/"},
-{"key":"csp_Living","name":"🍋柠檬直播(SP)","type":3,"api":"csp_Living","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lemonlive.pages.dev"},
-{"key":"csp_Xdai_星河_QJ","name":"💫星河(SP)","type":3,"api":"csp_Xdai","playerType":2,"ext":"7lj763gg0939791954248jihg5529587lig9i654j59i326l5j5208hklg19161j139753h090539gig3g11h49gk3l21hl4hk637h53ghg6ikl2219j28lj76h8430kkkklj6hkl022272g8h5g69068hli583061k3l9373hk09hg9j79l31l43h06187l37j675lhkg57k511jk"},
-{"key":"csp_Xdai_晴空_QJ","name":"⛅晴空(SP)","type":3,"api":"csp_Xdai","playerType":2,"ext":"7lj763gg402i7942503g9gj0hj4li281k7g69k56829j33311j400hk3ki0557400l8k49gh9g02i1j13l1kh9jgl5gk40hkl362760jl8h09hgk73813kl736gk1l18g3l4i0g0g56h7629ik"},
-{"key":"csp_Nmvod_QJ","name":"🍋柠檬(SP)","type":3,"api":"csp_Nmvod","playerType":2,"ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g548458hh994hjj94330jk296k4l045"},
-
        {
-            "key": "影视森林",
-            "name": "影视森林",
+            "key": "哔哩合集",
+            "name": "哔哩｜合集",
             "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
             "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "图片": "data-original=\"&&\"",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#",
-                "分类url": "https://hc34567.com/hcvodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-                "简介": "🍁水印广告勿信，🍁谨防诈骗🍁"
+                "json": "http://zxvideo.midsum.com/zxvideo/json/哔哩合集.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             }
         },
         {
-            "key": "影视大全",
-            "name": "🍊影视大全",
+            "key": "哔哩哔哩演唱会",
+            "name": "哔哩｜音乐",
             "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
             "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "分类url": "https://www.bcaga.com/ysdqm/{cateId}--------{catePg}---/",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#专题$5#理论片$6"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
+                "json": "http://zxvideo.midsum.com/zxvideo/json/哔哩哔哩演唱会.json"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
             }
         },
+
       {
             "key": "飞飞",
             "name": "飞飞影院",
