@@ -40,25 +40,19 @@
         ]
       }
     },
-    {
-      "key": "酷奇",
-      "name": "🎤┃酷奇┃MV",
-      "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js"
-    },
-    {
-      "key": "MTV",
-      "name": "🎧┃明星┃MV",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
-    },
 
+
+
+
+    {
+      "key": "ksxjj",
+      "name": "🎵｜MTV",
+      "type": 4,
+      "api": "http://120.53.102.254/dsp/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 
 
       {
@@ -296,9 +290,6 @@
       "changeable": 1
     },
 
-{"key":"星河","name":"👑星河｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://121.62.22.204:9876","dataKey":"f5e2tx53ykp6s2c9","dataIv":"f5e2tx53ykp6s2c9","deviceId":"","version":"361"}},
-{"key":"晴天","name":"👑晴天｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://qjappcms.sun4k.top","dataKey":"sBxqXVF5pAHbGzrH","dataIv":"sBxqXVF5pAHbGzrH","deviceId":"","version":"119"}},
-{"key":"水滴","name":"👑水滴｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet2","ext":{"url":"http://1.94.105.93","dataKey":"gKdQKLbwhhLp4Ytv","dataIv":"gKdQKLbwhhLp4Ytv","deviceId":"","version":""}},
 
     {
       "key": "Ivdy",
