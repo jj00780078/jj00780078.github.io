@@ -37,33 +37,7 @@
 
 
 
-    {
-      "key": "直播转点播",
-      "name": "🌏电视┃直播",
-      "type": 3,
-      "api": "https://git.acwing.com/ocean2025/ocean/-/raw/main/lib/直播转点播2.js",
-      "ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/json/直播.json"
-    },
-    {
-      "key": "lf_js_lf_live",
-      "name": "📺︎直播┃lf_live",
-      "type": 3,
-      "api": "https://git.acwing.com/ocean2025/ocean/-/raw/main/lib/lf_live_min.js",
-      "style": {
-        "type": "oval"
-      },
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/js/lf_live1.txt"
-    },
 
-{"key":"csp_Yinyuetai","name":"雷蒙影视 | 🎵音悦台(SP)","type":3,"api":"csp_Yinyuetai","searchable":1,"changeable":0},
-
-{"jar":"https://gh-proxy.com/raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/market.jar","key":"csp_Market","name":"雷蒙影视 | 🏪应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://gh-proxy.com/raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/market.json"},
-{"key":"csp_Youtube","name":"雷蒙影视 | ▶YouTube(SP)","type":3,"api":"csp_Youtube","searchable":1,"quickSearch":1,"changeable":0,"ext":{"token":"https://gh-proxy.com/raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/pg.json","json":"https://gh-proxy.com/raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/ytc.json","type":"","keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧","proxy":"cfg","codecs":"","danmu":true},"style":{"type":"rect","ratio":1.5}},
-{"key":"drjs_雷蒙直播","name":"雷蒙影视 | 🤠雷蒙直播","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","ext":"https://gh-proxy.com/raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/雷蒙直播.js?type=url&params=https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/json/live2cms.json"},
 
 
       {
@@ -483,6 +457,32 @@
 
 
 
+{"key":"csp_Market","name":"雷蒙影视 | 🏪应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"https://gh-proxy.com/raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/market.jar","ext":"https://gh-proxy.com/raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/market.json"},
+{"key":"drjs_雷蒙直播","name":"雷蒙影视 | 🤠雷蒙直播","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","ext":"https://gh-proxy.com/raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/雷蒙直播.js?type=url&params=https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/json/live2cms.json"},
+{"key":"csp_Youtube","name":"雷蒙影视 | ▶YouTube(SP)","type":3,"api":"csp_Youtube","searchable":0,"quickSearch":1,"changeable":0,"ext":{"token":"https://gh-proxy.com/raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/pg.json","json":"https://gh-proxy.com/raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/ytc.json","type":"","keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧","proxy":"cfg","codecs":"","danmu":true},"style":{"type":"rect","ratio":1.5}},
+{"key":"csp_Yinyuetai","name":"雷蒙影视 | 🎵音悦台(SP)","type":3,"api":"csp_Yinyuetai","searchable":0,"changeable":0},
+
+    {
+      "key": "直播转点播",
+      "name": "🌏电视┃直播",
+      "type": 3,
+      "api": "https://git.acwing.com/ocean2025/ocean/-/raw/main/lib/直播转点播2.js",
+      "ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/json/直播.json"
+    },
+    {
+      "key": "lf_js_lf_live",
+      "name": "📺︎直播┃lf_live",
+      "type": 3,
+      "api": "https://git.acwing.com/ocean2025/ocean/-/raw/main/lib/lf_live_min.js",
+      "style": {
+        "type": "oval"
+      },
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/js/lf_live1.txt"
+    },
 
 
 {"key":"小苹果弹幕版","name":"🍎苹果┃弹幕","type": 3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},     
