@@ -32,7 +32,7 @@
       "name": "🎵｜MTV",
       "type": 4,
       "api": "http://120.53.102.254/dsp/",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
       "filterable": 1
     },
