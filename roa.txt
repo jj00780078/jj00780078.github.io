@@ -41,10 +41,18 @@
 {"key":"lfjs_豆瓣推荐","name":"雷蒙影视网盘专线 | 📡豆瓣推荐(LFJS)","type":3,"api":"./EXT/JS/lf_search3_min.js"},
 {"key":"drjs_豆瓣推荐","name":"雷蒙影视网盘专线 | 📡豆瓣推荐(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./dr_py/js/豆瓣[官].js"},
 
-
+     {
+      "key": "drpy_js_KTV",
+      "name": "KTV音乐┃★星河★",
+      "type": 3,
+      "api": "https://10526.kstore.vip/%E6%98%9F%E6%B2%B3%E5%BD%B1%E8%A7%86/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
       "ext": "https://10526.kstore.vip/%E6%98%9F%E6%B2%B3%E5%BD%B1%E8%A7%86/KTV.js"
     },
-
     {
       "key": "酷狗",
       "name": "酷狗音乐┃★星河★",
