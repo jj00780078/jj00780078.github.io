@@ -279,13 +279,10 @@ TVBS新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=tvbs_n
 TVBS新聞台,http://robyang.serv00.net/ublive.php?id=2736
 TVBS新聞台,http://robyang.serv00.net/ublive.php?id=2
 
-YT訂閱頻道,#genre#
-關我什麼事,https://www.youtube.com/playlist?list=PLFxs36J8ng-j2IJf6-PhzsepAaDyuKMfW
+🐘新台派上線✨完整版🔥,#genre#
 新台派上線,https://www.youtube.com/playlist?list=PLd5zGth6CDdWhOXdQ6KvUebq1WzWK48GA
-新台灣加油,https://www.youtube.com/playlist?list=PLd5zGth6CDdUAYUqJy3p5KY1ui79_Mtrt
-前進新台灣,https://www.youtube.com/playlist?list=PLd5zGth6CDdWAZYkB6s0j844ywVVTPyFl
-狠狠抖內幕,https://www.youtube.com/playlist?list=PLiY6wtxjK6QPOrkb8d5lCUCZNoUsc97Kl
-有話鏡來講,https://www.youtube.com/playlist?list=PL4Nl7PLLP3_M0dKuq0flEC4V_TNTFZK4d
+
+
 
 晴天Mitv+P2p,#genre#
 
