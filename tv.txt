@@ -281,22 +281,7 @@ TVBS新聞台,http://robyang.serv00.net/ublive.php?id=2736
 TVBS新聞台,http://robyang.serv00.net/ublive.php?id=2
 
 
-寰宇财经台,http://free.cnlive.club/channel/n4332074a/index.m3u8?q=1749970825930
-东森财经新闻台,http://free.cnlive.club/channel/209f9e70/index.m3u8?q=1749970825930
-非凡新闻,http://free.cnlive.club/channel/6302a884/index.m3u8?q=1749970825930
-年代新闻,http://free.cnlive.club/channel/49184630/index.m3u8?q=1749970825930
-寰宇新闻台,http://free.cnlive.club/channel/n43c34be8/index.m3u8?q=1749970825930
-民视新闻台,http://free.cnlive.club/channel/n4b747ee6/index.m3u8?q=1749970825930
-东森新闻台,http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1749970825930
-TVBS 新闻台,http://free.cnlive.club/channel/n69ccce92/index.m3u8?q=1749970825930
-三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
-三立新闻,https://stream1.freetv.fun/san-li-xin-wen-5.ctv
-三立新闻,https://tv.iill.top/4gtv/229
-三立新闻,https://stream1.freetv.fun/san-li-xin-wen-5.m3u8
-三立新闻,https://stream1.freetv.fun/san-li-xin-wen-6.m3u8
-三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
-三立新闻,https://stream1.freetv.fun/san-li-xin-wen-6.ctv
+
 
 
 
@@ -567,6 +552,26 @@ TVBS新闻,https://tv.iill.top/litv/4gtv-4gtv072
 
 
 //晴天Mitv+P2p
+
+壹电视新闻台,mitv://135.148.104.228:19806/31dad83ef5b74c5db225482cd2e0fbae
+年代新闻,mitv://135.148.104.228:19806/95f67e884d88463e907c301d05fa68b7
+东森新闻台,mitv://135.148.104.228:19806/e1a899eded4d48578084c61957fb8c2b
+中天新闻台,mitv://135.148.104.228:19806/bd9064ee198045a386f1f2dba5073f4e
+民视新闻台,mitv://135.148.104.228:19806/d24f18e610d248b7a450d29492b37ebf
+三立新闻台,mitv://135.148.104.228:19806/9388262af2604cc798800736d070d39e
+TVBS新闻台,mitv://135.148.104.228:19806/6a155a5d7bea461b980b4fa559119a60
+
+东森财经新闻台,mitv://135.148.104.228:19806/9193e5efd94f4991ba8bfbc98bdc3f19
+非凡新闻台,mitv://135.148.104.228:19806/02f80f7aad2c480992e06e1bd8a7facb
+纬来体育台,mitv://135.148.104.228:19806/79090c69d43040148deaa21d5e26c32a
+寰宇新闻台,mitv://135.148.104.228:19806/a265fb55774a4554bc2db19b16f53be6
+华视新闻,mitv://135.148.104.228:19806/ebe8db2daafa47768f37bcae17bfe299
+台视新闻台,mitv://135.148.104.228:19806/9817b59742464113bd5656fcc7dced84
+寰宇新闻台湾台,mitv://135.148.104.228:19806/ca27b65855704124be186aa0e5127c24
+台视财经台,mitv://135.148.104.228:19806/e01d7738e33e456a812f7cefbf27b29a
+东森新闻台(备),mitv://135.148.104.228:19806/35983e2efd5c44bf84bfb2977bbbc96d
+镜新闻,mitv://135.148.104.228:19806/668a0abb880a496d8f57fad2f580566b
+
 東森財經新聞台,mitv://starvod.xyz:19806/e8dcb71b19a3408c9dee7f293de36fd2.ts
 非凡新聞台,mitv://starvod.xyz:19806/5bef8a795d6047009431cb56608243a4.ts
 壹電視新聞台,mitv://starvod.xyz:19806/c1e8882a70774eff8c4ec7b33c28abf9.ts
