@@ -281,7 +281,22 @@ TVBS新聞台,http://robyang.serv00.net/ublive.php?id=2736
 TVBS新聞台,http://robyang.serv00.net/ublive.php?id=2
 
 
-
+寰宇财经台,http://free.cnlive.club/channel/n4332074a/index.m3u8?q=1749970825930
+东森财经新闻台,http://free.cnlive.club/channel/209f9e70/index.m3u8?q=1749970825930
+非凡新闻,http://free.cnlive.club/channel/6302a884/index.m3u8?q=1749970825930
+年代新闻,http://free.cnlive.club/channel/49184630/index.m3u8?q=1749970825930
+寰宇新闻台,http://free.cnlive.club/channel/n43c34be8/index.m3u8?q=1749970825930
+民视新闻台,http://free.cnlive.club/channel/n4b747ee6/index.m3u8?q=1749970825930
+东森新闻台,http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1749970825930
+TVBS 新闻台,http://free.cnlive.club/channel/n69ccce92/index.m3u8?q=1749970825930
+三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
+三立新闻,https://stream1.freetv.fun/san-li-xin-wen-5.ctv
+三立新闻,https://tv.iill.top/4gtv/229
+三立新闻,https://stream1.freetv.fun/san-li-xin-wen-5.m3u8
+三立新闻,https://stream1.freetv.fun/san-li-xin-wen-6.m3u8
+三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
+三立新闻,https://stream1.freetv.fun/san-li-xin-wen-6.ctv
 
 
 
@@ -639,11 +654,12 @@ KTV必點男女對唱情歌,https://www.youtube.com/watch?v=ThClk9AsxhY
 2021耍廢必聽KTV必唱,https://www.youtube.com/watch?v=Qs9nFIgIs5s&t=15s
 錢櫃台語KTV 三月精選,https://www.youtube.com/watch?v=cGbdjgSFsBg
 錢櫃國語點播排行,https://www.youtube.com/watch?v=llJIZFOYcKs
-2005~2020 KKBOX歷年年度百大華語歌曲 Top10,https://www.youtube.com/watch?v=bhB5bqWCdTw
-(粤华舞曲串烧)那些陪着我们岁月成长的歌,https://www.youtube.com/watch?v=kVYUqy4s7OA
+C-Pop Megamix 20245 (粤华舞曲串烧), https://www.youtube.com/watch?v=OX9ldczII3o
+C-Pop Megamix 2 (粤华 - 舞曲串烧) ,https://www.youtube.com/watch?v=kVYUqy4s7OA
+C-Pop Megamix 3 (粤华 - 舞曲串烧) ,https://www.youtube.com/watch?v=4YMFTk04ils
  2023年最火EDM音乐🎼黄昏,https://www.youtube.com/watch?v=60y222l4qD0
-
-
+Chinese DJ Remix【2020 好聽歌曲合輯】.https://www.youtube.com/watch?v=PZd0WKAOQh0
+Disco remix Chinese,https://www.youtube.com/watch?v=_6kNI8FZYjY
 
 👁️裸眼3D,#genre#
 生物多样性,https://vd3.bdstatic.com/mda-ne6irx2irbjbbr6v/sc/cae_h264/1651932935194074079/mda-ne6irx2irbjbbr6v.mp4

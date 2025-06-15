@@ -613,7 +613,14 @@
       "playerType": 1
     },
 
-
+    {
+      "name": "ITV",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://d.kstore.dev/download/6562/01010101010110101010101010101010101010010101001/itv.txt",
+      "ua": "okhttp/3.15",
+      "epg": "http://diyp252.112114.xyz/?ch={name}&date={date}"
+    },
 
 
      { "name": "LITV直播(python)",
