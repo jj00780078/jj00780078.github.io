@@ -1,7 +1,8 @@
 YouTube新聞,#genre#
 
 
-
+三立,https://p.iptv200.com/play.php?token=wGYXYcdaxA5QoWPrOEm7zUD5&tid=gt&id=48&p=0&type=.flv
+緯來,https://p.iptv200.com/play.php?token=xWERYJZUxV1QoWPrOEm5z0X9&tid=gt&id=48&p=0&type=.flv
 
 
 
@@ -68,6 +69,7 @@ TVBS新聞台,https://tv.iill.top/litv/4gtv-4gtv072
 民視新聞台,http://4gtv.livednow.dpdns.org/li-litv-ftv13/index.m3u8
 民視新聞台,http://4gtv.livednow.dpdns.org/litv-ftv13/index.m3u8
 東森新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv152/index.m3u8
+東森新聞台,http://4gtv.livednow.dpdns.org/4gtv-4gtv152/index.m3u8
 寰宇新聞台灣台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv156/index.m3u8
 寰宇新聞台灣台,http://4gtv.livednow.dpdns.org/4gtv-4gtv156/index.m3u8
 寰宇新聞台灣台,http://4gtv.livednow.dpdns.org/of-4gtv-4gtv156/index.m3u8
