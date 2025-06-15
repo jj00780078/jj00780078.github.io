@@ -5,7 +5,8 @@ Decoder=3
 
 
 
-寰宇財經台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv158
+寰宇財經台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv158/index.m3u8
+
 
 東森財經新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv153/index.m3u8
 東森財經新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv153
@@ -60,12 +61,12 @@ Decoder=3
 東森新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv152
 寰宇新聞台灣台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv156
 鏡電視新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv075
-TVBS新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv072
-寰宇新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn14
 三立iNEWS,http://4gtv.livednow.dpdns.org/4gtv-live089/index.m3u8
+寰宇新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn14
+
 寰宇財經台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv158
 非凡新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv010
-
+TVBS新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv072
 
 
 
