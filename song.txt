@@ -18,31 +18,7 @@
       "ext": "https://10526.kstore.vip/%E6%98%9F%E6%B2%B3%E5%BD%B1%E8%A7%86/KTV.js"
     },
 
-    {
-      "key": "酷狗",
-      "name": "酷狗音乐┃★星河★",
-      "type": 3,
-      "api": "csp_Kugou",
-      "playerType": 2,
-      "ext": {
-        "classes": [
-          {
-            "type_name": "酷狗",
-            "type_id": "kugou"
-          }
-        ]
-      }
-    },
 
-    {
-      "key": "ksxjj",
-      "name": "🎵｜MTV",
-      "type": 4,
-      "api": "http://120.53.102.254/dsp/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
 
 
 {"key":"drjs_雷蒙直播","name":" 🤠YouTube頻道","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","ext":"https://gh-proxy.com/raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/雷蒙直播.js?type=url&params=https://cors.isteed.cc/https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/live2cms.json"},
@@ -69,6 +45,31 @@
       }
     },
 
+    {
+      "key": "酷狗",
+      "name": "酷狗音乐┃★星河★",
+      "type": 3,
+      "api": "csp_Kugou",
+      "playerType": 2,
+      "ext": {
+        "classes": [
+          {
+            "type_name": "酷狗",
+            "type_id": "kugou"
+          }
+        ]
+      }
+    },
+
+    {
+      "key": "ksxjj",
+      "name": "🎵｜MTV",
+      "type": 4,
+      "api": "http://120.53.102.254/dsp/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 
     {
       "key": "py_小苹果APP",
