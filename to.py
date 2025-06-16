@@ -38,49 +38,7 @@
     },
 
 
-{"key":"csp_Youtube",
-"name":"雷蒙影视 | ▶YouTube(SP)",
-"type":3,
-"api":"csp_Youtube",
-"searchable":1,"quickSearch":1,"changeable":0,
-"ext":{"token":"https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/pg.json",
-"json":"https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/ytc.json",
-"type":"","keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧",
-"proxy":"cfg","codecs":"","danmu":true},"style":{"type":"rect","ratio":1.5}},
 
-
-      {
-            "key": "飞飞",
-            "name": "飞飞影院",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "分类url": "https://www.kaixinfang.com/?ref=16map.com/vodtype/fenlei/{cateId}/{year}/{class}/{area}/{catePg}.html",
-                "分类": "电影$1#线上影院$2#连续剧$3#动漫$4",
-                "简介": "❤️幸福年年❤️水印广告勿信，谨防诈骗🍁"
-            }
-        },
-        {
-            "key": "麦粒影视",
-            "name": "麦粒影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "分类url": "https://www.maili.icu//vodtype//{cateId}/{year}/{class}/{area}/{catePg}.html",
-                "分类": "电影$1#剧集$2#综艺$3#动漫$4#",
-                "简介": "❤️幸福年年❤️水印广告勿信，谨防诈骗🍁"
-            }
-        },
 
 
     {
@@ -219,7 +177,16 @@
             
         },
 
-
+    {
+      "key": "QD4K",
+      "name": "☀强大🔹秒播",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://172.83.156.150:1010/api.php/app/"
+    },
 
 
 
@@ -319,119 +286,6 @@
     },
 
 
-    {
-      "key": "水滴",
-      "name": "☀水滴🔹影视",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "ext": {
-        "url": "http://1.94.105.93",
-        "dataKey": "gKdQKLbwhhLp4Ytv",
-        "dataIv": "gKdQKLbwhhLp4Ytv",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-
-    {
-      "key": "晴天",
-      "name": "☀晴天🔹弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://qjappcms.sun4k.top",
-        "dataKey": "sBxqXVF5pAHbGzrH",
-        "dataIv": "sBxqXVF5pAHbGzrH",
-        "deviceId": "",
-        "version": "119"
-      }
-    },
-        
-    {
-      "key": "QD4K",
-      "name": "☀强大🔹秒播",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://172.83.156.150:1010/api.php/app/"
-    },
-    {
-      "key": "金牌影视",
-      "name": "☀天微🔹金牌",
-      "type": 3,
-      "api": "./py/金牌影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": {
-        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
-      }
-    },
-    {
-      "key": "星河",
-      "name": "☀星河🔹速播",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://121.62.22.204:9876",
-        "dataKey": "f5e2tx53ykp6s2c9",
-        "dataIv": "f5e2tx53ykp6s2c9",
-        "deviceId": "",
-        "version": "361"
-      }
-    },
-    {
-      "key": "雄鹰",
-      "name": "☀雄鹰🔹4k源",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "ext": {
-        "url": "http://122.228.193.2:9988",
-        "dataKey": "ca94b06ca359d80e",
-        "dataIv": "ca94b06ca359d80e",
-        "deviceId": "",
-        "version": "120"
-      }
-    },
-    {
-            "key": "橘猫",
-            "name": "☀橘猫🔹4k源",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet2",
-            "ext": {
-                "url": "https://qjappcms.jm4k.top",
-                "dataKey": "pBVmysmGX8TsgrQN",
-                "dataIv": "pBVmysmGX8TsgrQN",
-                "deviceId": "",
-                "version": "120"
-            }
-        },
-
-    {
-      "key": "MV大全",
-      "name": "MV┃音乐",
-      "type": 4,
-      "api": "http://120.53.102.254/dsp/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-
-    {
-      "key": "十六万MV听歌📣",
-      "name": "听歌┃歌曲",
-      "type": 3,
-      "api": "http://zb.hys.cool/app/lib/16万hys.js",
-      "ext": "http://zb.hys.cool/app/lib/16万mv.js"
-    },
 
 
 
