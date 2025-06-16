@@ -1,23 +1,6 @@
 YouTube新聞,#genre#
 
-中天新闻,webview://http://m.345iptv.com/?act=play&token=c5099746050c41f288c9c50a5002539b&tid=gt&id=43
-东森新闻,webview://http://m.345iptv.com/?act=play&token=8965fb967119ad09f0df8ec90b5df34b&tid=gt&id=44
-中视新闻,webview://http://m.345iptv.com/?act=play&token=f433a3a8a177d0b012b4b337558191c2&tid=gt&id=46
-台视新闻,webview://http://m.345iptv.com/?act=play&token=19416380214a699f16f2a2e6262563ec&tid=gt&id=47
-三立新闻,webview://http://m.345iptv.com/?act=play&token=5306092da4db4bf69dc2cd81e05c1e2b&tid=gt&id=48
-民视新闻,webview://http://m.345iptv.com/?act=play&token=989c7d8a750ff4bfda95fcae1708bbe7&tid=gt&id=50
-华视新闻,webview://http://m.345iptv.com/?act=play&token=077cde05e45f43f87cc3c4c57a152e1e&tid=gt&id=51
-镜新闻,webview://http://m.345iptv.com/?act=play&token=20a5079da56f52ac6332530b8ae045bc&tid=gt&id=52
-寰宇新闻,webview://http://m.345iptv.com/?act=play&token=a5d87cec4adae0ff298fa844f43e8427&tid=gt&id=53
-TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97de4cbc1&tid=gt&id=56
-中视,webview://http://m.345iptv.com/?act=play&token=5ef10e1554d809f389a139596e22d6e4&tid=gt&id=60
-台视,webview://http://m.345iptv.com/?act=play&token=3566a94ef8f056a92ba7d6bc3adae830&tid=gt&id=61
-民视,webview://http://m.345iptv.com/?act=play&token=499b6a8677702cdead3d1acb4ee763f6&tid=gt&id=62
-华视,webview://http://m.345iptv.com/?act=play&token=d835edf85041fa76c82e4e1f846bf67b&tid=gt&id=63
-爱尔达体育1台,webview://http://m.345iptv.com/?act=play&token=e963b41721c7119719ec1b1c72e13757&tid=gt&id=79
-爱尔达体育2台,webview://http://m.345iptv.com/?act=play&token=6f6551349ba8db18c4c9e4e64622e094&tid=gt&id=80
-爱尔达体育3台,webview://http://m.345iptv.com/?act=play&token=2f49d64294c642a0bdb87271caa1929d&tid=gt&id=81
-爱尔达体育4台,webview://http://m.345iptv.com/?act=play&token=2f49d64294c642a0bdb87271caa1929d&tid=gt&id=82
+
 
 
 
@@ -566,6 +549,27 @@ TVBS新闻,https://tv.iill.top/litv/4gtv-4gtv072
 中視新聞台,https://tv.iill.top/litv/4gtv-4gtv074
 中天新聞台,https://tv.iill.top/litv/4gtv-4gtv009
 
+中天新闻,webview://http://m.345iptv.com/?act=play&token=c5099746050c41f288c9c50a5002539b&tid=gt&id=43
+东森新闻,webview://http://m.345iptv.com/?act=play&token=8965fb967119ad09f0df8ec90b5df34b&tid=gt&id=44
+中视新闻,webview://http://m.345iptv.com/?act=play&token=f433a3a8a177d0b012b4b337558191c2&tid=gt&id=46
+台视新闻,webview://http://m.345iptv.com/?act=play&token=19416380214a699f16f2a2e6262563ec&tid=gt&id=47
+三立新闻,webview://http://m.345iptv.com/?act=play&token=5306092da4db4bf69dc2cd81e05c1e2b&tid=gt&id=48
+民视新闻,webview://http://m.345iptv.com/?act=play&token=989c7d8a750ff4bfda95fcae1708bbe7&tid=gt&id=50
+华视新闻,webview://http://m.345iptv.com/?act=play&token=077cde05e45f43f87cc3c4c57a152e1e&tid=gt&id=51
+镜新闻,webview://http://m.345iptv.com/?act=play&token=20a5079da56f52ac6332530b8ae045bc&tid=gt&id=52
+寰宇新闻,webview://http://m.345iptv.com/?act=play&token=a5d87cec4adae0ff298fa844f43e8427&tid=gt&id=53
+TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97de4cbc1&tid=gt&id=56
+中视,webview://http://m.345iptv.com/?act=play&token=5ef10e1554d809f389a139596e22d6e4&tid=gt&id=60
+台视,webview://http://m.345iptv.com/?act=play&token=3566a94ef8f056a92ba7d6bc3adae830&tid=gt&id=61
+民视,webview://http://m.345iptv.com/?act=play&token=499b6a8677702cdead3d1acb4ee763f6&tid=gt&id=62
+华视,webview://http://m.345iptv.com/?act=play&token=d835edf85041fa76c82e4e1f846bf67b&tid=gt&id=63
+爱尔达体育1台,webview://http://m.345iptv.com/?act=play&token=e963b41721c7119719ec1b1c72e13757&tid=gt&id=79
+爱尔达体育2台,webview://http://m.345iptv.com/?act=play&token=6f6551349ba8db18c4c9e4e64622e094&tid=gt&id=80
+爱尔达体育3台,webview://http://m.345iptv.com/?act=play&token=2f49d64294c642a0bdb87271caa1929d&tid=gt&id=81
+爱尔达体育4台,webview://http://m.345iptv.com/?act=play&token=2f49d64294c642a0bdb87271caa1929d&tid=gt&id=82
+
+
+
 
 
 //晴天Mitv+P2p
@@ -681,7 +685,7 @@ C-Pop Megamix 2 (粤华 - 舞曲串烧) ,https://www.youtube.com/watch?v=kVYUqy4
 C-Pop Megamix 3 (粤华 - 舞曲串烧) ,https://www.youtube.com/watch?v=4YMFTk04ils
  2023年最火EDM音乐🎼黄昏,https://www.youtube.com/watch?v=60y222l4qD0
 Chinese DJ Remix【2020 好聽歌曲合輯】.https://www.youtube.com/watch?v=PZd0WKAOQh0
-Disco remix Chinese,https://www.youtube.com/watch?v=_6kNI8FZYjY
+
 
 👁️裸眼3D,#genre#
 生物多样性,https://vd3.bdstatic.com/mda-ne6irx2irbjbbr6v/sc/cae_h264/1651932935194074079/mda-ne6irx2irbjbbr6v.mp4
