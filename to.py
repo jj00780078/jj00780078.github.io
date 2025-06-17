@@ -37,9 +37,42 @@
       "filterable": 1
     },
 
+    {
+      "key": "Wexqingfengdj",
+      "name": "🎼舞曲┃摇头🎼",
+      "type": 3,
+      "api": "csp_WexqingfengdjGuard",
+      "searchable": 1,
+      "changeable": 0
+    },
 
+    {
+      "key": "WexZHyunchao",
+      "name": "💓云巢┃4K💓",
+      "type": 3,
+      "api": "csp_WexZHyunchaoGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 120
+    },
 
+    {
+      "key": "Wexyingchao",
+      "name": "💓鸟巢┃4K💓",
+      "type": 3,
+      "api": "csp_WexyingchaoGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
 
+    {
+      "key": "Wexhanxiaoquan",
+      "name": "💥韩剧┃弹幕💥",
+      "type": 3,
+      "api": "csp_WexhanxiaoquanGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
 
     {
       "key": "py_aidianying",
