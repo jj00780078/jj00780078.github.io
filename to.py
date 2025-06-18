@@ -586,6 +586,26 @@
      },
 
 {
+      "name": "MQitv",
+      "api": "csp_MQiTV",
+      "ua": "okhttp",
+      "ext": "https://60.248.127.232:4433",
+      "jar": "http://files.catbox.moe/chvyo2.txt",
+      "timeout": 30,
+      "playerType": 1
+      
+    },
+
+    {
+      "name": "MiTV",
+      "api": "csp_MQiTV",
+      "jar": "https://slink.ltd/https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/jar/fmMQiTV.jar",
+      "ext": "https://59.125.210.231:4433",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+    },
+
+{
  "name": "SMT直播Judy",
   "type": 0,
   "url": "https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart2025.txt",
