@@ -264,6 +264,8 @@ TVBS新聞台,http://211.23.114.106:8510/.m3u8
 壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8
 壹新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2777
 壹新聞,http://211.23.114.106:8516/.m3u8?proxy=true
+壹新聞,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1676
+壹新聞,http://ccczb.top/mk2.php?ip=60.249.93.7:1888&id=live1242
 
 
 

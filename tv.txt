@@ -313,8 +313,8 @@ TVBS新聞台,http://robyang.serv00.net/ublive.php?id=2
 壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
 壹新聞,http://robyang.serv00.net/ublive.php?id=2777
 壹新聞,p3p://108.181.32.169:50934/67c065fd00054ff32185a62f6d595c5f
-
-
+壹新聞,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1676
+壹新聞,http://ccczb.top/mk2.php?ip=60.249.93.7:1888&id=live1242
 
 中天新闻台,http://211.72.65.236:8541/.m3u8
 中天新闻台,p3p://173.208.176.178:31809/613dba64000abeb1c801c02934bb45fc
