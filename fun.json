@@ -1,5 +1,159 @@
 {
 	"sites": [
+
+        {
+            "key": "py_色播聚合",
+            "name": "py_色播聚合",
+            "type": 3,
+            "api": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/py/py_色播聚合.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "直播转点播",
+            "name": "🐼️┃电视┃直播",
+            "type": 3,
+            "searchable": 0,
+            "api": "./lib/live2vod.js",
+            "ext": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/json/feimaolive.json"
+        },
+        {
+            "key": "TGYunPanLocal",
+            "name": "TG频道搜索",
+            "type": 3,
+            "api": "csp_TGYunPanLocal",
+            "timeout": 120,
+            "ext": {
+                "token": "./lib/tokenm.json",
+                "json": "./lib/tgsearch.json",
+                "keywords": "名称,片名,推荐",
+                "tgsearch_url": "https://tg.252035.xyz",
+                "tgsearch_media_url": "https://tg.252035.xyz",
+                "channellist": "tgsearchers2",
+                "proxy": "proxy",
+                "danmu": true
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            }
+        },
+        {
+            "key": "TGYunPan",
+            "name": "TG群组搜索",
+            "type": 3,
+            "api": "csp_TGYunPan",
+            "timeout": 120,
+            "ext": {
+                "token": "./lib/tokenm.json",
+                "json": "./lib/tgsearch.json",
+                "keywords": "名称,片名,推荐",
+                "tgsearch_url": "https://tg.252035.xyz",
+                "tgsearch_media_url": "https://tg.252035.xyz",
+                "channellist": "ResourceUniverse",
+                "proxy": "noproxy",
+                "danmu": true
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            }
+        },
+        {
+            "key": "XMVideo",
+            "name": "熊猫视频",
+            "type": 3,
+            "api": "csp_XMVideo",
+            "searchable": 1,
+            "filterable": 1,
+            "jar": "https://slink.ltd/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
+        },
+        {
+            "key": "玩偶",
+            "name": "玩偶姐姐",
+            "type": 3,
+            "api": "csp_Doll",
+            "searchable": 1,
+            "recordable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.309
+            },
+            "ext": "proxy"
+        },
+        {
+            "key": "Zuise",
+            "name": "最色",
+            "type": 3,
+            "api": "csp_Zuise",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "proxy"
+        },
+        {
+            "key": "91md",
+            "name": "91md",
+            "type": 1,
+            "api": "https://91md.me/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "proxy"
+        },
+        {
+            "key": "lav",
+            "name": "lav",
+            "type": 3,
+            "api": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/py/py_lav.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+
+        {
+            "key": "松视开通1",
+            "name": "松视1",
+            "type": 0,
+            "api": "https://www.xrbsp.com/api/xml.php",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "松视开通2",
+            "name": "松视2",
+            "type": 0,
+            "api": "https://www.gdlsp.com/api/xml.php",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "松视开通3",
+            "name": "松视3",
+            "type": 1,
+            "api": "https://api.sexnguon.com/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "MissAV",
+            "name": "MissAV",
+            "type": 3,
+            "api": "csp_Miss",
+            "ext": "noproxy",
+            "searchable": 1,
+            "recordable": 0,
+            "timeout": 60,
+            "style": {
+                "type": "rect",
+                "ratio": 1.78
+            }
+        },
+
 		{
 			"key": "精品资源站",
 			"name": "精品资源",
@@ -650,6 +804,8 @@
 		}
 	],
 	"lives": [
+
+
 		{
 			"name": "LIVEfl",
 			"type": 0,

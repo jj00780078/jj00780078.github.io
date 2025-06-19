@@ -37,6 +37,80 @@
       "filterable": 1
     },
 
+    {
+      "key": "DG音乐仓",
+      "name": "TG音乐台",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://www.meowtv.cn/tgyyt/tgyy.json"
+    },
+
+   {
+		"key": "哔哩",
+		"name": "音乐接口每周五更新",
+		"type": 3,
+		"api": "csp_Bili",
+		"searchable": 1,
+		"filterable": 1,
+		"changeable": 0,
+		"ext": "http://xn--5mq46jrwl99dn01d.top/音乐/java/哔哩MTV.json"
+	},
+
+    {
+		"key": "分类音乐",
+		"name": "分类🎧音乐",
+		"type": 3,
+		"api": "csp_Bili",
+		"searchable": 1,
+		"filterable": 1,
+		"changeable": 0,
+		"ext": "http://xn--5mq46jrwl99dn01d.top/音乐/java/yinyue.json"
+	},
+    {
+		"key": "哟哟音乐",
+		"name": "动感🎧哟哟",
+		"type": 3,
+		"api": "csp_XYQHiker",
+		"searchable": 1,
+		"filterable": 1,
+		"changeable": 0,
+		"ext": "http://xn--5mq46jrwl99dn01d.top/音乐/java/DJyyyyw.json"
+	},
+    {
+      "key": "酷奇",
+      "name": "酷奇🎧MV",
+      "type": 3,
+      "api": "http://xn--5mq46jrwl99dn01d.top/音乐/java/lib/drpy2.min.js",
+      "ext": "http://xn--5mq46jrwl99dn01d.top/音乐/java/酷奇MV.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+		"key":"吾爱演唱会",
+		"name":"哔哩🎧演唱",
+		"type":3,
+		"api":"csp_Bili",
+		"searchable":0,
+		"quickSearch":0,
+		"filterable":1,
+		"ext":"http://xn--5mq46jrwl99dn01d.top/音乐/java/吾爱演唱会.json"
+	},
+{ 
+   "key": "直播转点播", 
+   "name": "音乐🎧点播", 
+   "type": 3, 
+   "api": "http://xn--5mq46jrwl99dn01d.top/音乐/java/lib/zbzdb.js", 
+   "ext": "http://www.jielifan.com/data/f_85446651.png" 
+  },
+
 
 
     {
@@ -569,7 +643,20 @@
       "playerType": 1
     },
 
+ {
+      "name": "涛涛live",
+      "type": 0,
+      "playerType":2,
+      "url": "http://xn--5mq46jrwl99dn01d.top/音乐/java/lib/yinyue.png"
+    },
 
+    {
+      "name": "電台live",
+      "type": 0,
+      "url": "http://www.meowtv.cn/tgyyt/tgzb.txt",
+      "ua": "okhttp/3.15",
+      "logo": "https://live.fanmingming.com/radio/{name}.png"
+    },
 
 
      { "name": "LITV直播(python)",
