@@ -262,12 +262,12 @@ TVBS新聞台,http://211.23.114.106:8510/.m3u8
 
 
 壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8
-壹新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2777
+壹新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2777?proxy=true
 壹新聞,http://211.23.114.106:8516/.m3u8?proxy=true
-壹新聞,http://108.181.20.197/livehttpplay?channel_id=20028
-壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
+壹新聞,http://108.181.20.197/livehttpplay?channel_id=20028?proxy=true
+壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028?proxy=true
 壹新聞,http://211.23.114.106:8530/.m3u8
-壹新聞,p3p://108.181.32.169:50934/67c065fd00054ff32185a62f6d595c5f
+壹新聞,p3p://108.181.32.169:50934/67c065fd00054ff32185a62f6d595c5f?proxy=true
 
 
 
