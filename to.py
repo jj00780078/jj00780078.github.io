@@ -37,34 +37,6 @@
       "filterable": 1
     },
 
-    {
-      "key": "金牌影视",
-      "name": "七星🌟┃金牌",
-      "type": 3,
-      "api": "./py/金牌影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": {
-        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
-      }
-    },
-
-    {
-      "key": "呦呦DJ",
-      "name": "七星🌟┃呦呦DJ",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/呦呦DJ.js"
-    },
-    {
-      "key": "清风DJ",
-      "name": "七星🌟┃清风DJ",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/清风DJ.js"
-    },
 
 
     {
