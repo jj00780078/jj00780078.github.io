@@ -71,6 +71,29 @@
       "filterable": 1
     },
 
+
+    {
+		"key": "哟哟音乐",
+		"name": "动感🎧哟哟",
+		"type": 3,
+		"api": "csp_XYQHiker",
+		"searchable": 1,
+		"filterable": 1,
+		"changeable": 0,
+		"ext": "http://xn--5mq46jrwl99dn01d.top/音乐/java/DJyyyyw.json"
+	},
+
+{ 
+   "key": "直播转点播", 
+   "name": "音乐🎧点播", 
+   "type": 3, 
+   "api": "http://xn--5mq46jrwl99dn01d.top/音乐/java/lib/zbzdb.js", 
+   "ext": "http://www.jielifan.com/data/f_85446651.png" 
+  },
+
+
+
+
     {
       "key": "py_小苹果APP",
       "name": "小苹果┃★星河★",
