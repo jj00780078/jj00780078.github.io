@@ -528,9 +528,9 @@ TVBS新聞台,http://docker.livednow.dpdns.org/li-4gtv-4gtv072/index.m3u8
 
 
 東森財經HD,http://szx.putids.com/proxy/jiudian.php?id=8533/live1185
-非凡新聞HD,http://szx.putids.com/proxy/jiudian.php?id=8836/live1057
-壹新聞HD,http://szx.putids.com/proxy/jiudian.php?id=8820/live1021
-年代新聞HD,http://szx.putids.com/proxy/jiudian.php?id=8831/live1051
+非凡新聞HD,http://szx.putids.com/proxy/jiudian.php?id=8836/live1057?proxy=true
+壹新聞HD,http://szx.putids.com/proxy/jiudian.php?id=8820/live1021?proxy=true
+年代新聞HD,http://szx.putids.com/proxy/jiudian.php?id=8831/live1051?proxy=true
 民視新聞HD,http://szx.putids.com/proxy/jiudian.php?id=8832/live1053
 三立新聞 HD,http://szx.putids.com/proxy/jiudian.php?id=8530/live1182
 東森新聞HD,http://szx.putids.com/proxy/jiudian.php?id=8806/live1007
