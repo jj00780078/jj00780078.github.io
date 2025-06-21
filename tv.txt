@@ -8,20 +8,20 @@ TVBS新聞台,http://107.173.148.168/li-4gtv-4gtv072/index.m3u8
 東森財經新聞台,http://107.173.148.168/4gtv-4gtv153/index.m3u8
 寰宇新聞台,http://107.173.148.168/litv-longturn14/index.m3u8
 寰宇新聞台灣台,http://107.173.148.168/4gtv-4gtv156/index.m3u8
-寰宇財經台,http://107.173.148.168:5000/4gtv-4gtv158/index.m3u8
-非凡新聞台,http://107.173.148.168:5000/4gtv-4gtv010/index.m3u8
-
-壹新闻,http://ali.hlspull.yximgs.com/live/aebfef5a266a7577e6cbe0239825fd4d.flv
-壹新闻,https://ali.hlspull.yximgs.com/live/xU3rP45Zlsq8iQmxfcfQuW5oQXH9drAZ.flv
-壹新闻,https://ali.hlspull.yximgs.com/live/4e17bcfc31a10dde984d0eb0f6599f57.flv
+寰宇財經台,http://107.173.148.168/4gtv-4gtv158/index.m3u8
+非凡新聞台,http://107.173.148.168/4gtv-4gtv010/index.m3u8
 
 
+壹新聞,https://ali.hlspull.yximgs.com/live/xU3rP45Zlsq8iQmxfcfQuW5oQXH9drAZ.flv
+壹新聞,https://ali.hlspull.yximgs.com/live/4e17bcfc31a10dde984d0eb0f6599f57.flv
+壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
+壹新聞,http://ali.hlspull.yximgs.com/live/aebfef5a266a7577e6cbe0239825fd4d.flv
 
 
-寰宇財經台,http://115.193.127.27:5000/li-4gtv-4gtv158/index.m3u8
+寰宇財經台,http://115.193.127.27/li-4gtv-4gtv158/index.m3u8
 寰宇財經台,http://115.193.127.27:5000/4gtv-4gtv158/index.m3u8
 寰宇財經台,http://115.193.127.27:5000/of-4gtv-4gtv158/index.m3u8
-東森財經新聞台,http://115.193.127.27:5000/li-4gtv-4gtv153/index.m3u8
+東森財經新聞台,http://115.193.127.27/li-4gtv-4gtv153/index.m3u8
 東森財經新聞台,http://115.193.127.27:5000/4gtv-4gtv153/index.m3u8
 非凡新聞台,http://115.193.127.27:5000/li-4gtv-4gtv010/index.m3u8
 非凡新聞台,http://115.193.127.27:5000/4gtv-4gtv010/index.m3u8
