@@ -9,6 +9,16 @@
       "url": "http://xn--5mq46jrwl99dn01d.top/音乐/java/lib/yinyue.png"
     },
 
+ {
+      "name": "天微MTV",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt",
+      "playerType": 2,
+      "ua": "okhttp/5.0.0-alpha.14",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
         {
             "name": "🥇 litv",
             "type": 0,
@@ -23,13 +33,11 @@
            },
 
 
-
-     {
-      "name": "🥇 Judy直播",
-      "type": 0,
-      "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
-      "ext": {}
-    },
+  {
+    "name": "🥉 4GTV",
+    "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/4GTV.txt",
+    "ua": "judy/5.2.1"
+  },
  
 
 
