@@ -14,9 +14,7 @@ YouTube新聞,#genre#
 東森財經新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv153
 東森財經新聞台,p3p://108.181.32.169:41467/64251ff20001f010ea5e4b9002e57212
 
-非凡新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv010/index.m3u8
-非凡新聞台,P2p://starvod.xyz:19806/5bef8a795d6047009431cb56608243a4.ts
-非凡新聞台,mitv://starvod.xyz:19806/5bef8a795d6047009431cb56608243a4.ts
+非凡新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv010
 
 
 寰宇財經台,https://tv.iill.top/litv/4gtv-4gtv158
@@ -31,7 +29,28 @@ YouTube新聞,#genre#
 三立新聞台,p2p://142.54.189.229:7575/64df114a00089e6504a1b34e5ec80344.ts
 三立新聞台,P2p://starvod.xyz:19806/7715336aa3654b1b9bc72a9672e9034a.ts
 
+民視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv13
+東森新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv152
+寰宇新聞台灣台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv156
+鏡電視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv075
+非凡新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv010
+東森財經新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv153
+寰宇新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn14
 
+TVBS新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv072
+
+
+民視新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv13
+東森新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv152
+寰宇新聞台灣台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv156
+鏡電視新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv075
+TVBS新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv072
+寰宇新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn14
+三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
+寰宇財經台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv158
+非凡新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv010
+東森財經新聞台,https://www.youtube.com/watch?v=1I2iq41Akmo
+東森財經新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv153
 
 
 
@@ -44,6 +63,9 @@ YouTube新聞,#genre#
 寰宇新聞台,https://www.youtube.com/watch?v=6IquAgfvYmc
 TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
+
+非凡新聞台,https://tv.iill.top/litv/4gtv-4gtv010
+寰宇財經台,https://tv.iill.top/litv/4gtv-4gtv158
 寰宇財經台,https://tv.iill.top/litv/litv-longturn23
 民視新聞台,https://tv.iill.top/litv/litv-ftv13
 東森新聞台,https://tv.iill.top/litv/4gtv-4gtv152
@@ -122,28 +144,7 @@ TVBS新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv072/index.m3u8
 
 
 
-民視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv13
-東森新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv152
-寰宇新聞台灣台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv156
-鏡電視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv075
-非凡新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv010
-東森財經新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv153
-寰宇新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn14
 
-TVBS新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv072
-
-
-民視新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv13
-東森新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv152
-寰宇新聞台灣台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv156
-鏡電視新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv075
-TVBS新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv072
-寰宇新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn14
-三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
-寰宇財經台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv158
-非凡新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv010
-東森財經新聞台,https://www.youtube.com/watch?v=1I2iq41Akmo
-東森財經新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv153
 
 
 
