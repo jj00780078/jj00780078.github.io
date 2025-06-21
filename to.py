@@ -12,6 +12,8 @@
       "api": "csp_Jpys"
     },
 
+{"key":"金牌影视PY","name":"🧡金牌｜PY影视","type":3,"api":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/plugin/html/金牌.py","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":{"site":"https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}}, 
+
 {"key":"drjs_雷蒙直播","name":" 🤠YouTube頻道","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","ext":"https://gh-proxy.com/raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/雷蒙直播.js?type=url&params=https://cors.isteed.cc/https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/live2cms.json"},
 
     {
