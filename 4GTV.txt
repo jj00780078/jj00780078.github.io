@@ -17,378 +17,7 @@
 
 
 
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="Smart☠️源",台湾|TVBS News 新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="Smart☠️源",台湾|TVBS 欢乐台 （备份）
-https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="Smart☠️源",台湾|TVBS HD
-https://smart.pendy.dpdns.org/Smart.php?id=tvbs
-#EXTINF:-1,tvg-id="台湾|中天新闻 HD" tvg-name="台湾|中天新闻 HD" tvg-logo="https://epg.112114.xyz/logo/台湾|中天新闻.png" group-title="Smart☠️源",台湾|中天新闻 HD
-https://smart.pendy.dpdns.org/Smart.php?id=ctinews
-#EXTINF:-1,tvg-id="台湾|中天娱乐 CTI Entertaiment" tvg-name="台湾|中天娱乐 CTI Entertaiment" tvg-logo="https://epg.112114.xyz/logo/台湾|中天娱乐CTIENTERTAIMENT.png" group-title="Smart☠️源",台湾|中天娱乐 CTI Entertaiment
-https://smart.pendy.dpdns.org/Smart.php?id=ctient
-#EXTINF:-1,tvg-id="台湾|中天综合 CTI Metro" tvg-name="台湾|中天综合 CTI Metro" tvg-logo="https://epg.112114.xyz/logo/台湾|中天综合CTIMETRO.png" group-title="Smart☠️源",台湾|中天综合 CTI Metro
-https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe
-#EXTINF:-1,tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/中天亚洲台.png" group-title="Smart☠️源",台湾|中天亚洲台
-https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
-#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="Smart☠️源",台湾|台视 TTV HD
-https://smart.pendy.dpdns.org/Smart.php?id=ttv_taiwan
-#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="Smart☠️源",台湾|台视新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
-#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="Smart☠️源",台湾|台视综合台
-https://smart.pendy.dpdns.org/Smart.php?id=ttvzhonghe
-#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="Smart☠️源",台湾|中视 HD
-https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
-#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="Smart☠️源",台湾|中视新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
-#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="Smart☠️源",台湾|民视 HD
-https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
-#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="Smart☠️源",台湾|民视新闻台 FTV News
-https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
-#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="Smart☠️源",台湾|民视台湾台
-https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
-#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="Smart☠️源",台湾|华视 CTS HD
-https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
-#EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="Smart☠️源",台湾|公视 CTV
-https://smart.pendy.dpdns.org/Smart.php?id=ctv18_twn
-#EXTINF:-1,tvg-id="台湾|八大第一 GTV First" tvg-name="台湾|八大第一 GTV First" tvg-logo="https://epg.112114.xyz/logo/台湾|八大第一GTVFIRST.png" group-title="Smart☠️源",台湾|八大第一 GTV First
-https://smart.pendy.dpdns.org/Smart.php?id=badafirst
-#EXTINF:-1,tvg-id="台湾|八大综合 GTV Metro" tvg-name="台湾|八大综合 GTV Metro" tvg-logo="https://epg.112114.xyz/logo/台湾|八大综合GTVMETRO.png" group-title="Smart☠️源",台湾|八大综合 GTV Metro
-https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe
-#EXTINF:-1,tvg-id="台湾|八大戏剧 GTV Drama" tvg-name="台湾|八大戏剧 GTV Drama" tvg-logo="https://epg.112114.xyz/logo/台湾|八大戏剧GTVDRAMA.png" group-title="Smart☠️源",台湾|八大戏剧 GTV Drama
-https://smart.pendy.dpdns.org/Smart.php?id=badadrama
-#EXTINF:-1,tvg-id="台湾|八大娱乐 GTV Entertainment" tvg-name="台湾|八大娱乐 GTV Entertainment" tvg-logo="https://epg.112114.xyz/logo/台湾|八大娱乐GTVENTERTAINMENT.png" group-title="Smart☠️源",台湾|八大娱乐 GTV Entertainment
-https://smart.pendy.dpdns.org/Smart.php?id=badaentertain
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="Smart☠️源",台湾|HBO_HD
-https://smart.pendy.dpdns.org/Smart.php?id=hbohd_twn
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="Smart☠️源",台湾|HBO_HITS
-https://smart.pendy.dpdns.org/Smart.php?id=hbohit_twn
-#EXTINF:-1,tvg-id="台湾|Hollywood Movies" tvg-name="台湾|Hollywood Movies" tvg-logo="https://epg.112114.xyz/logo/台湾|HOLLYWOODMOVIES.png" group-title="Smart☠️源",台湾|Hollywood Movies
-https://smart.pendy.dpdns.org/Smart.php?id=hollywoodmovies_twn
-#EXTINF:-1,tvg-id="台湾|三立台湾 Sanli Taiwan" tvg-name="台湾|三立台湾 Sanli Taiwan" tvg-logo="https://epg.112114.xyz/logo/台湾|三立台湾SANLITAIWAN.png" group-title="Smart☠️源",台湾|三立台湾 Sanli Taiwan
-https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
-#EXTINF:-1,tvg-id="三立戏剧" tvg-name="三立戏剧" tvg-logo="https://epg.112114.xyz/logo/三立戏剧.png" group-title="Smart☠️源",台湾|三立戏剧台
-https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
-#EXTINF:-1,tvg-id="台湾|三立综合 Sanli Metro" tvg-name="台湾|三立综合 Sanli Metro" tvg-logo="https://epg.112114.xyz/logo/台湾|三立综合SANLIMETRO.png" group-title="Smart☠️源",台湾|三立综合 Sanli Metro
-https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
-#EXTINF:-1,tvg-id="三立都会台" tvg-name="三立都会台" tvg-logo="https://epg.112114.xyz/logo/三立都会台.png" group-title="Smart☠️源",台湾|三立都会台
-https://smart.pendy.dpdns.org/Smart.php?id=sanlidouhui
-#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="Smart☠️源",台湾|东森新闻 ETTV News
-https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
-#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="Smart☠️源",台湾|CINEMAX
-https://smart.pendy.dpdns.org/Smart.php?id=cinemax_twn
-#EXTINF:-1,tvg-id="台湾|东森综合 ETTV Metro" tvg-name="台湾|东森综合 ETTV Metro" tvg-logo="https://epg.112114.xyz/logo/台湾|东森综合ETTVMETRO.png" group-title="Smart☠️源",台湾|东森综合 ETTV Metro
-https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
-#EXTINF:-1,tvg-id="台湾|东森戏剧 ETTV Drama" tvg-name="台湾|东森戏剧 ETTV Drama" tvg-logo="https://epg.112114.xyz/logo/台湾|东森戏剧ETTVDRAMA.png" group-title="Smart☠️源",台湾|东森戏剧 ETTV Drama
-https://smart.pendy.dpdns.org/Smart.php?id=ettvdrama
-#EXTINF:-1,tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://epg.112114.xyz/logo/东森超视.png" group-title="Smart☠️源",台湾|东森超视
-https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
-#EXTINF:-1,tvg-id="台湾|东森财经新闻 ETTV Business" tvg-name="台湾|东森财经新闻 ETTV Business" tvg-logo="https://epg.112114.xyz/logo/台湾|东森财经新闻ETTVBUSINESS.png" group-title="Smart☠️源",台湾|东森财经新闻 ETTV Business
-https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
-#EXTINF:-1,tvg-id="寰宇财经" tvg-name="寰宇财经" tvg-logo="https://epg.112114.xyz/logo/寰宇财经.png" group-title="Smart☠️源",台湾|寰宇财经
-https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
-#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="Smart☠️源",台湾|寰宇新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
-#EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="Smart☠️源",台湾|公视2
-https://smart.pendy.dpdns.org/Smart.php?id=ctv2_twn
-#EXTINF:-1,tvg-id="台湾|大爱1台" tvg-name="台湾|大爱1台" tvg-logo="https://epg.112114.xyz/logo/台湾|大爱1台.png" group-title="Smart☠️源",台湾|大爱1台
-https://smart.pendy.dpdns.org/Smart.php?id=daai_twn
-#EXTINF:-1,tvg-id="非凡新闻台" tvg-name="非凡新闻台" tvg-logo="https://epg.112114.xyz/logo/非凡新闻台.png" group-title="Smart☠️源",台湾|非凡新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
-#EXTINF:-1,tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://epg.112114.xyz/logo/龙华戏剧.png" group-title="Smart☠️源",台湾|龙华戏剧 Lunghua Drama
-https://smart.pendy.dpdns.org/Smart.php?id=lunghuaxiju_twn
-#EXTINF:-1,tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://epg.112114.xyz/logo/龙华经典.png" group-title="Smart☠️源",台湾|龙华经典台
-https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
-#EXTINF:-1,tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://epg.112114.xyz/logo/龙华偶像.png" group-title="Smart☠️源",台湾|龙华偶像
-https://smart.pendy.dpdns.org/Smart.php?id=lunghuaidol_twn
-#EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="Smart☠️源",台湾|AXN Taiwan
-https://smart.pendy.dpdns.org/Smart.php?id=axn_twn
-#EXTINF:-1,tvg-id="靖天国际" tvg-name="靖天国际" tvg-logo="https://epg.112114.xyz/logo/靖天国际.png" group-title="Smart☠️源",台湾|靖天国际台
-https://smart.pendy.dpdns.org/Smart.php?id=jingtianintl_twn
-#EXTINF:-1,tvg-id="台湾|年代新闻" tvg-name="台湾|年代新闻" tvg-logo="https://epg.112114.xyz/logo/台湾|年代新闻.png" group-title="Smart☠️源",台湾|年代新闻
-https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn
-#EXTINF:-1,tvg-id="纬来日本台" tvg-name="纬来日本台" tvg-logo="https://epg.112114.xyz/logo/纬来日本台.png" group-title="Smart☠️源",台湾|纬来日本台
-https://smart.pendy.dpdns.org/Smart.php?id=videolandjapan
-#EXTINF:-1,tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://epg.112114.xyz/logo/纬来电影台.png" group-title="Smart☠️源",台湾|纬来电影台
-https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
-#EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="Smart☠️源",台湾|纬来体育台
-https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
-#EXTINF:-1,tvg-id="纬来综合台" tvg-name="纬来综合台" tvg-logo="https://epg.112114.xyz/logo/纬来综合台.png" group-title="Smart☠️源",台湾|纬来综合台
-https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
-#EXTINF:-1,tvg-id="台湾|纬来育乐" tvg-name="台湾|纬来育乐" tvg-logo="https://epg.112114.xyz/logo/台湾|纬来育乐.png" group-title="Smart☠️源",台湾|纬来育乐
-https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
-#EXTINF:-1,tvg-id="台湾|纬来精彩" tvg-name="台湾|纬来精彩" tvg-logo="https://epg.112114.xyz/logo/台湾|纬来精彩.png" group-title="Smart☠️源",台湾|纬来精彩
-https://smart.pendy.dpdns.org/Smart.php?id=videolandspecial_twn
-#EXTINF:-1,tvg-id="台湾|好消息 2" tvg-name="台湾|好消息 2" tvg-logo="https://epg.112114.xyz/logo/台湾|好消息2.png" group-title="Smart☠️源",台湾|好消息 2
-https://smart.pendy.dpdns.org/Smart.php?id=good2_twn
-#EXTINF:-1,tvg-id="台湾|大爱2台" tvg-name="台湾|大爱2台" tvg-logo="https://epg.112114.xyz/logo/台湾|大爱2台.png" group-title="Smart☠️源",台湾|大爱2台
-https://smart.pendy.dpdns.org/Smart.php?id=daai2_twn
-#EXTINF:-1,tvg-id="亚洲美食" tvg-name="亚洲美食" tvg-logo="https://epg.112114.xyz/logo/亚洲美食.png" group-title="Smart☠️源",台湾|亚洲美食
-https://smart.pendy.dpdns.org/Smart.php?id=afc_twn
-#EXTINF:-1,tvg-id="美食星球" tvg-name="美食星球" tvg-logo="https://epg.112114.xyz/logo/美食星球.png" group-title="Smart☠️源",台湾|美食星球
-https://smart.pendy.dpdns.org/Smart.php?id=foodplanet_twn
-#EXTINF:-1,tvg-id="台湾|亚洲旅游 TLC Asia" tvg-name="台湾|亚洲旅游 TLC Asia" tvg-logo="https://epg.112114.xyz/logo/台湾|亚洲旅游TLCASIA.png" group-title="Smart☠️源",台湾|亚洲旅游 TLC Asia
-https://smart.pendy.dpdns.org/Smart.php?id=tlc_twn
-#EXTINF:-1,tvg-id="台湾|东森电影 ETTV Movie" tvg-name="台湾|东森电影 ETTV Movie" tvg-logo="https://epg.112114.xyz/logo/台湾|东森电影ETTVMOVIE.png" group-title="Smart☠️源",台湾|东森电影 ETTV Movie
-https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
-#EXTINF:-1,tvg-id="台湾|阿里郎 Arirang" tvg-name="台湾|阿里郎 Arirang" tvg-logo="https://epg.112114.xyz/logo/台湾|阿里郎ARIRANG.png" group-title="Smart☠️源",台湾|阿里郎 Arirang
-https://smart.pendy.dpdns.org/Smart.php?id=arirang_twn
-#EXTINF:-1,tvg-id="台湾|博斯运动 1" tvg-name="台湾|博斯运动 1" tvg-logo="https://epg.112114.xyz/logo/台湾|博斯运动1.png" group-title="Smart☠️源",台湾|博斯运动 1
-https://smart.pendy.dpdns.org/Smart.php?id=bosisport1_twn
-#EXTINF:-1,tvg-id="台湾|博斯运动 2" tvg-name="台湾|博斯运动 2" tvg-logo="https://epg.112114.xyz/logo/台湾|博斯运动2.png" group-title="Smart☠️源",台湾|博斯运动 2
-https://smart.pendy.dpdns.org/Smart.php?id=bosisport2_twn
-#EXTINF:-1,tvg-id="台湾|博斯高球2 HD" tvg-name="台湾|博斯高球2 HD" tvg-logo="https://epg.112114.xyz/logo/台湾|博斯高球2.png" group-title="Smart☠️源",台湾|博斯高球2 HD
-https://smart.pendy.dpdns.org/Smart.php?id=bosigolf2_twn
-#EXTINF:-1,tvg-id="台湾|博斯网球 HD" tvg-name="台湾|博斯网球 HD" tvg-logo="https://epg.112114.xyz/logo/台湾|博斯网球.png" group-title="Smart☠️源",台湾|博斯网球 HD
-https://smart.pendy.dpdns.org/Smart.php?id=bositennis_twn
-#EXTINF:-1,tvg-id="台湾|东森洋片 ETTV Western" tvg-name="台湾|东森洋片 ETTV Western" tvg-logo="https://epg.112114.xyz/logo/台湾|东森洋片ETTVWESTERN.png" group-title="Smart☠️源",台湾|东森洋片 ETTV Western
-https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
-#EXTINF:-1,tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://epg.112114.xyz/logo/龙华洋片.png" group-title="Smart☠️源",台湾|龙华洋片 Lunghua Western
-https://smart.pendy.dpdns.org/Smart.php?id=lunghuawestern_twn
-#EXTINF:-1,tvg-id="台湾|博斯无限" tvg-name="台湾|博斯无限" tvg-logo="https://epg.112114.xyz/logo/台湾|博斯无限.png" group-title="Smart☠️源",台湾|博斯无限
-https://smart.pendy.dpdns.org/Smart.php?id=bosiunlimited_twn
-#EXTINF:-1,tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.112114.xyz/logo/MTV.png" group-title="Smart☠️源",台湾|MTV Live
-https://smart.pendy.dpdns.org/Smart.php?id=mtvhd_twn
-#EXTINF:-1,tvg-id="台湾|龙详时代" tvg-name="台湾|龙详时代" tvg-logo="https://epg.112114.xyz/logo/台湾|龙详时代.png" group-title="Smart☠️源",台湾|龙详时代
-https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
-#EXTINF:-1,tvg-id="台湾|EYETV 旅游" tvg-name="台湾|EYETV 旅游" tvg-logo="https://epg.112114.xyz/logo/台湾|EYETV旅游.png" group-title="Smart☠️源",台湾|EYETV 旅游
-https://smart.pendy.dpdns.org/Smart.php?id=eyetvtravel_twn
-#EXTINF:-1,tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://epg.112114.xyz/logo/靖天卡通台.png" group-title="Smart☠️源",台湾|靖天卡通台
-https://smart.pendy.dpdns.org/Smart.php?id=jingtiancartoon_twn
-#EXTINF:-1,tvg-id="台湾|EYETV 戏剧" tvg-name="台湾|EYETV 戏剧" tvg-logo="https://epg.112114.xyz/logo/台湾|EYETV戏剧.png" group-title="Smart☠️源",台湾|EYETV 戏剧
-https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
-#EXTINF:-1,tvg-id="卫视中文台" tvg-name="卫视中文台" tvg-logo="https://epg.112114.xyz/logo/卫视中文台.png" group-title="Smart☠️源",台湾|卫视中文台 Star Movies Chinese
-https://smart.pendy.dpdns.org/Smart.php?id=weishichinese_twn
-#EXTINF:-1,tvg-id="台湾|东森幼幼 Yoyo TV" tvg-name="台湾|东森幼幼 Yoyo TV" tvg-logo="https://epg.112114.xyz/logo/台湾|东森幼幼YOYOTV.png" group-title="Smart☠️源",台湾|东森幼幼 Yoyo TV
-https://smart.pendy.dpdns.org/Smart.php?id=yoyo_twn
-#EXTINF:-1,tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="https://epg.112114.xyz/logo/卫视电影台.png" group-title="Smart☠️源",台湾|卫视电影台
-https://smart.pendy.dpdns.org/Smart.php?id=weishimovie_twn
-#EXTINF:-1,tvg-id="台湾|美亚电影" tvg-name="台湾|美亚电影" tvg-logo="https://epg.112114.xyz/logo/台湾|美亚电影.png" group-title="Smart☠️源",台湾|美亚电影
-https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
-#EXTINF:-1,tvg-id="爱尔达影剧" tvg-name="爱尔达影剧" tvg-logo="https://epg.112114.xyz/logo/爱尔达影剧.png" group-title="Smart☠️源",台湾|爱尔达影剧台
-https://smart.pendy.dpdns.org/Smart.php?id=eltayingju_twn
-#EXTINF:-1,tvg-id="爱尔达综合" tvg-name="爱尔达综合" tvg-logo="https://epg.112114.xyz/logo/爱尔达综合.png" group-title="Smart☠️源",台湾|爱尔达综合台
-https://smart.pendy.dpdns.org/Smart.php?id=eltazonghe_twn
-#EXTINF:-1,tvg-id="台湾|星卫电影" tvg-name="台湾|星卫电影" tvg-logo="https://epg.112114.xyz/logo/台湾|星卫电影.png" group-title="Smart☠️源",台湾|星卫电影
-https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
-#EXTINF:-1,tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://epg.112114.xyz/logo/亚洲旅游台.png" group-title="Smart☠️源",台湾|AFC 亚洲旅游台
-https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
-#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="Smart☠️源",电影频道|Cinemax
-https://smart.pendy.dpdns.org/Smart.php?id=Cinemax
-#EXTINF:-1,tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="Smart☠️源",电影频道|Animax
-https://smart.pendy.dpdns.org/Smart.php?id=Animax
-#EXTINF:-1,tvg-id="电影频道|Movies Now HD" tvg-name="电影频道|Movies Now HD" tvg-logo="https://epg.112114.xyz/logo/电影频道|MOVIESNOW.png" group-title="Smart☠️源",电影频道|Movies Now HD
-https://smart.pendy.dpdns.org/Smart.php?id=moviesnow_raj
-#EXTINF:-1,tvg-id="电影频道|Star Movies HD" tvg-name="电影频道|Star Movies HD" tvg-logo="https://epg.112114.xyz/logo/电影频道|STARMOVIES.png" group-title="Smart☠️源",电影频道|Star Movies HD
-https://smart.pendy.dpdns.org/Smart.php?id=starmovies_raj
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="Smart☠️源",电影频道|HBO Family
-https://smart.pendy.dpdns.org/Smart.php?id=Hbofamily
-#EXTINF:-1,tvg-id="HITS" tvg-name="HITS" tvg-logo="https://epg.112114.xyz/logo/HITS.png" group-title="Smart☠️源",电影频道|Hits
-https://smart.pendy.dpdns.org/Smart.php?id=Hits
-#EXTINF:-1,tvg-id="WARNERTV" tvg-name="WARNERTV" tvg-logo="https://epg.112114.xyz/logo/WARNERTV.png" group-title="Smart☠️源",电影频道|Warner TV
-https://smart.pendy.dpdns.org/Smart.php?id=WarnerTV
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="Smart☠️源",电影频道|HBO HD
-https://smart.pendy.dpdns.org/Smart.php?id=Hbo
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="Smart☠️源",电影频道|HBO Signature
-https://smart.pendy.dpdns.org/Smart.php?id=Hbosignature
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="Smart☠️源",电影频道|HBO Hits
-https://smart.pendy.dpdns.org/Smart.php?id=Hbohitshd
-#EXTINF:-1,tvg-id="电影频道|SCM" tvg-name="电影频道|SCM" tvg-logo="https://epg.112114.xyz/logo/电影频道|SCM.png" group-title="Smart☠️源",电影频道|SCM
-https://smart.pendy.dpdns.org/Smart.php?id=Weishimovie
-#EXTINF:-1,tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://epg.112114.xyz/logo/DREAMWORKS.png" group-title="Smart☠️源",电影频道|Dreamworks
-https://smart.pendy.dpdns.org/Smart.php?id=Dreamworks
-#EXTINF:-1,tvg-id="THRILL" tvg-name="THRILL" tvg-logo="https://epg.112114.xyz/logo/THRILL.png" group-title="Smart☠️源",电影频道|Thrill
-https://smart.pendy.dpdns.org/Smart.php?id=Thrill
-#EXTINF:-1,tvg-id="HITS" tvg-name="HITS" tvg-logo="https://epg.112114.xyz/logo/HITS.png" group-title="Smart☠️源",电影频道|Hits Movie
-https://smart.pendy.dpdns.org/Smart.php?id=Hitsmovie
-#EXTINF:-1,tvg-id="电影频道|One" tvg-name="电影频道|One" tvg-logo="https://epg.112114.xyz/logo/电影频道|ONE.png" group-title="Smart☠️源",电影频道|One
-https://smart.pendy.dpdns.org/Smart.php?id=One
-#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="Smart☠️源",电影频道|tvN Movie
-https://smart.pendy.dpdns.org/Smart.php?id=Tvnmovie
-#EXTINF:-1,tvg-id="电影频道|Celestial Classic" tvg-name="电影频道|Celestial Classic" tvg-logo="https://epg.112114.xyz/logo/电影频道|CELESTIALCLASSIC.png" group-title="Smart☠️源",电影频道|Celestial Classic
-https://smart.pendy.dpdns.org/Smart.php?id=Celestial2
-#EXTINF:-1,tvg-id="电影频道|Celestial Movies HD" tvg-name="电影频道|Celestial Movies HD" tvg-logo="https://epg.112114.xyz/logo/电影频道|CELESTIALMOVIES.png" group-title="Smart☠️源",电影频道|Celestial Movies HD
-https://smart.pendy.dpdns.org/Smart.php?id=Celestialindo
-#EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="Smart☠️源",电影频道|Axn HD
-https://smart.pendy.dpdns.org/Smart.php?id=Axn
-#EXTINF:-1,tvg-id="电影频道|Paramount Network" tvg-name="电影频道|Paramount Network" tvg-logo="https://epg.112114.xyz/logo/电影频道|PARAMOUNTNETWORK.png" group-title="Smart☠️源",电影频道|Paramount Network
-https://smart.pendy.dpdns.org/Smart.php?id=Paramountnetwork
-#EXTINF:-1,tvg-id="电影频道|Astrol Kplus" tvg-name="电影频道|Astrol Kplus" tvg-logo="https://epg.112114.xyz/logo/电影频道|ASTROLKPLUS.png" group-title="Smart☠️源",电影频道|Astrol Kplus
-https://smart.pendy.dpdns.org/Smart.php?id=Kplus
-#EXTINF:-1,tvg-id="电影频道|Rock Actions" tvg-name="电影频道|Rock Actions" tvg-logo="https://epg.112114.xyz/logo/电影频道|ROCKACTIONS.png" group-title="Smart☠️源",电影频道|Rock Actions
-https://smart.pendy.dpdns.org/Smart.php?id=Rockaction
-#EXTINF:-1,tvg-id="电影频道|Rock Entertainment" tvg-name="电影频道|Rock Entertainment" tvg-logo="https://epg.112114.xyz/logo/电影频道|ROCKENTERTAINMENT.png" group-title="Smart☠️源",电影频道|Rock Entertainment
-https://smart.pendy.dpdns.org/Smart.php?id=Rockentertain
-#EXTINF:-1,tvg-id="纪录频道|Natgeo_HD" tvg-name="纪录频道|Natgeo_HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|NATGEO_.png" group-title="Smart☠️源",纪录频道|Natgeo_HD
-https://smart.pendy.dpdns.org/Smart.php?id=natgeohd_twn
-#EXTINF:-1,tvg-id="纪录频道|NatGeo_Wild HD" tvg-name="纪录频道|NatGeo_Wild HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|NATGEO_WILD.png" group-title="Smart☠️源",纪录频道|NatGeo_Wild HD
-https://smart.pendy.dpdns.org/Smart.php?id=natgeowild_twn
-#EXTINF:-1,tvg-id="纪录频道|Animal_Planet" tvg-name="纪录频道|Animal_Planet" tvg-logo="https://epg.112114.xyz/logo/纪录频道|ANIMAL_PLANET.png" group-title="Smart☠️源",纪录频道|Animal_Planet
-https://smart.pendy.dpdns.org/Smart.php?id=animalplanet_twn
-#EXTINF:-1,tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="Smart☠️源",纪录频道|Discovery Asia
-https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
-#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="Smart☠️源",纪录频道|CI
-https://smart.pendy.dpdns.org/Smart.php?id=ci_twn
-#EXTINF:-1,tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="Smart☠️源",纪录频道|Discovery HD
-https://smart.pendy.dpdns.org/Smart.php?id=discoveryhd_twn
-#EXTINF:-1,tvg-id="纪录频道|NatGeo HD" tvg-name="纪录频道|NatGeo HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|NATGEO.png" group-title="Smart☠️源",纪录频道|NatGeo HD
-https://smart.pendy.dpdns.org/Smart.php?id=Natgeo
-#EXTINF:-1,tvg-id="FASHIONTV" tvg-name="FASHIONTV" tvg-logo="https://epg.112114.xyz/logo/FASHIONTV.png" group-title="Smart☠️源",纪录频道|Fashion TV
-https://smart.pendy.dpdns.org/Smart.php?id=fashiontv_twn
-#EXTINF:-1,tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://epg.112114.xyz/logo/HISTORY.png" group-title="Smart☠️源",纪录频道|History
-https://smart.pendy.dpdns.org/Smart.php?id=History
-#EXTINF:-1,tvg-id="BBCEARTH" tvg-name="BBCEARTH" tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png" group-title="Smart☠️源",纪录频道|BBC Earth HD
-https://smart.pendy.dpdns.org/Smart.php?id=bbcearth_twn
-#EXTINF:-1,tvg-id="BBCEARTH" tvg-name="BBCEARTH" tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png" group-title="Smart☠️源",纪录频道|BBC Earth Lifestyle
-https://smart.pendy.dpdns.org/Smart.php?id=bbclifestyle_twn
-#EXTINF:-1,tvg-id="纪录频道|NatGeo Wild HD" tvg-name="纪录频道|NatGeo Wild HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|NATGEOWILD.png" group-title="Smart☠️源",纪录频道|NatGeo Wild HD
-https://smart.pendy.dpdns.org/Smart.php?id=Natgeowild
-#EXTINF:-1,tvg-id="纪录频道|Animal Planet (Eng)" tvg-name="纪录频道|Animal Planet (Eng)" tvg-logo="https://epg.112114.xyz/logo/纪录频道|ANIMALPLANET(ENG).png" group-title="Smart☠️源",纪录频道|Animal Planet (Eng)
-https://smart.pendy.dpdns.org/Smart.php?id=AnimalPlanet
-#EXTINF:-1,tvg-id="纪录频道|TLC" tvg-name="纪录频道|TLC" tvg-logo="https://epg.112114.xyz/logo/纪录频道|TLC.png" group-title="Smart☠️源",纪录频道|TLC
-https://smart.pendy.dpdns.org/Smart.php?id=Tlc
-#EXTINF:-1,tvg-id="纪录频道|Foodnetwork Hd" tvg-name="纪录频道|Foodnetwork Hd" tvg-logo="https://epg.112114.xyz/logo/纪录频道|FOODNETWORK.png" group-title="Smart☠️源",纪录频道|Foodnetwork Hd
-https://smart.pendy.dpdns.org/Smart.php?id=Foodnetwork
-#EXTINF:-1,tvg-id="纪录频道|HGTV" tvg-name="纪录频道|HGTV" tvg-logo="https://epg.112114.xyz/logo/纪录频道|HGTV.png" group-title="Smart☠️源",纪录频道|HGTV
-https://smart.pendy.dpdns.org/Smart.php?id=HGTV
-#EXTINF:-1,tvg-id="SKYNEWS" tvg-name="SKYNEWS" tvg-logo="https://epg.112114.xyz/logo/SKYNEWS.png" group-title="Smart☠️源",新闻频道|Skynews
-https://smart.pendy.dpdns.org/Smart.php?id=skynews_twn
-#EXTINF:-1,tvg-id="新闻频道|ABC News" tvg-name="新闻频道|ABC News" tvg-logo="https://epg.112114.xyz/logo/新闻频道|ABCNEWS.png" group-title="Smart☠️源",新闻频道|ABC News
-https://smart.pendy.dpdns.org/Smart.php?id=abcnews_glo
-#EXTINF:-1,tvg-id="新闻频道|CBS HD" tvg-name="新闻频道|CBS HD" tvg-logo="https://epg.112114.xyz/logo/新闻频道|CBS.png" group-title="Smart☠️源",新闻频道|CBS HD
-https://smart.pendy.dpdns.org/Smart.php?id=cbshd_glo
-#EXTINF:-1,tvg-id="新闻频道|CBSN HD" tvg-name="新闻频道|CBSN HD" tvg-logo="https://epg.112114.xyz/logo/新闻频道|CBSN.png" group-title="Smart☠️源",新闻频道|CBSN HD
-https://smart.pendy.dpdns.org/Smart.php?id=cbsn_glo
-#EXTINF:-1,tvg-id="FRANCE24" tvg-name="FRANCE24" tvg-logo="https://epg.112114.xyz/logo/FRANCE24.png" group-title="Smart☠️源",新闻频道|France 24
-https://smart.pendy.dpdns.org/Smart.php?id=france24_twn
-#EXTINF:-1,tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="Smart☠️源",新闻频道|DW (Deutsch)
-https://smart.pendy.dpdns.org/Smart.php?id=dw_twn
-#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="Smart☠️源",新闻频道|NHK World
-https://smart.pendy.dpdns.org/Smart.php?id=nhkworld_japan
-#EXTINF:-1,tvg-id="FOX" tvg-name="FOX" tvg-logo="https://epg.112114.xyz/logo/FOX.png" group-title="Smart☠️源",新闻频道|Fox News
-https://smart.pendy.dpdns.org/Smart.php?id=foxnews_twn
-#EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="Smart☠️源",新闻频道|CNN International
-https://smart.pendy.dpdns.org/Smart.php?id=Cnn
-#EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="Smart☠️源",新闻频道|CNN backup
-https://smart.pendy.dpdns.org/Smart.php?id=cnn_twn
-#EXTINF:-1,tvg-id="新闻频道|CNBC" tvg-name="新闻频道|CNBC" tvg-logo="https://epg.112114.xyz/logo/新闻频道|CNBC.png" group-title="Smart☠️源",新闻频道|CNBC
-https://smart.pendy.dpdns.org/Smart.php?id=cnbc_twn
-#EXTINF:-1,tvg-id="新闻频道|CNA" tvg-name="新闻频道|CNA" tvg-logo="https://epg.112114.xyz/logo/新闻频道|CNA.png" group-title="Smart☠️源",新闻频道|CNA
-https://smart.pendy.dpdns.org/Smart.php?id=cna
-#EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="Smart☠️源",新闻频道|BBC World News
-https://smart.pendy.dpdns.org/Smart.php?id=bbcnews_twn
-#EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="Smart☠️源",新闻频道|BBC World News
-https://smart.pendy.dpdns.org/Smart.php?id=Bbcnews
-#EXTINF:-1,tvg-id="新闻频道|Bloomberg News" tvg-name="新闻频道|Bloomberg News" tvg-logo="https://epg.112114.xyz/logo/新闻频道|BLOOMBERGNEWS.png" group-title="Smart☠️源",新闻频道|Bloomberg News
-https://smart.pendy.dpdns.org/Smart.php?id=bloomberg_twn
-#EXTINF:-1,tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="https://epg.112114.xyz/logo/ALJAZEERA.png" group-title="Smart☠️源",新闻频道|Al-Jazeera
-https://smart.pendy.dpdns.org/Smart.php?id=aljazeera_twn
-#EXTINF:-1,tvg-id="BABYTV" tvg-name="BABYTV" tvg-logo="https://epg.112114.xyz/logo/BABYTV.png" group-title="Smart☠️源",儿童频道|Baby TV Eng
-https://smart.pendy.dpdns.org/Smart.php?id=Babytv
-#EXTINF:-1,tvg-id="CBEEBIES" tvg-name="CBEEBIES" tvg-logo="https://epg.112114.xyz/logo/CBEEBIES.png" group-title="Smart☠️源",儿童频道|CBeebies
-https://smart.pendy.dpdns.org/Smart.php?id=Cbeebies
-#EXTINF:-1,tvg-id="儿童频道|Kids TV" tvg-name="儿童频道|Kids TV" tvg-logo="https://epg.112114.xyz/logo/儿童频道|KIDSTV.png" group-title="Smart☠️源",儿童频道|Kids TV
-https://smart.pendy.dpdns.org/Smart.php?id=KidsTV
-#EXTINF:-1,tvg-id="儿童频道|Momo TV" tvg-name="儿童频道|Momo TV" tvg-logo="https://epg.112114.xyz/logo/儿童频道|MOMOTV.png" group-title="Smart☠️源",儿童频道|Momo TV
-https://smart.pendy.dpdns.org/Smart.php?id=momo1_twn
-#EXTINF:-1,tvg-id="BABYTV" tvg-name="BABYTV" tvg-logo="https://epg.112114.xyz/logo/BABYTV.png" group-title="Smart☠️源",儿童频道|Baby TV
-https://smart.pendy.dpdns.org/Smart.php?id=babytv_twn
-#EXTINF:-1,tvg-id="儿童频道|MiaoMi" tvg-name="儿童频道|MiaoMi" tvg-logo="https://epg.112114.xyz/logo/儿童频道|MIAOMI.png" group-title="Smart☠️源",儿童频道|MiaoMi
-https://smart.pendy.dpdns.org/Smart.php?id=MiaoMi
-#EXTINF:-1,tvg-id="儿童频道|Cartoon Network" tvg-name="儿童频道|Cartoon Network" tvg-logo="https://epg.112114.xyz/logo/儿童频道|CARTOONNETWORK.png" group-title="Smart☠️源",儿童频道|Cartoon Network
-https://smart.pendy.dpdns.org/Smart.php?id=Cn
-#EXTINF:-1,tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://epg.112114.xyz/logo/NICKELODEON.png" group-title="Smart☠️源",儿童频道|Nickelodeon
-https://smart.pendy.dpdns.org/Smart.php?id=Nickelodeon
-#EXTINF:-1,tvg-id="儿童频道|Nick Jr" tvg-name="儿童频道|Nick Jr" tvg-logo="https://epg.112114.xyz/logo/儿童频道|NICKJR.png" group-title="Smart☠️源",儿童频道|Nick Jr
-https://smart.pendy.dpdns.org/Smart.php?id=Nickjr
-#EXTINF:-1,tvg-id="体育频道|Astro Premier League 1" tvg-name="体育频道|Astro Premier League 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROPREMIERLEAGUE1.png" group-title="Smart☠️源",体育频道|Astro Premier League 1
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
-#EXTINF:-1,tvg-id="体育频道|Astro EPL 1 backup" tvg-name="体育频道|Astro EPL 1 backup" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROEPL1BACKUP.png" group-title="Smart☠️源",体育频道|Astro EPL 1 backup
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp1x
-#EXTINF:-1,tvg-id="体育频道|Astro Premier League 2" tvg-name="体育频道|Astro Premier League 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROPREMIERLEAGUE2.png" group-title="Smart☠️源",体育频道|Astro Premier League 2
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
-#EXTINF:-1,tvg-id="体育频道|Astro Grandstand" tvg-name="体育频道|Astro Grandstand" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROGRANDSTAND.png" group-title="Smart☠️源",体育频道|Astro Grandstand
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
-#EXTINF:-1,tvg-id="体育频道|Astro Football" tvg-name="体育频道|Astro Football" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROFOOTBALL.png" group-title="Smart☠️源",体育频道|Astro Football
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
-#EXTINF:-1,tvg-id="体育频道|Astro Sports Plus" tvg-name="体育频道|Astro Sports Plus" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROSPORTSPLUS.png" group-title="Smart☠️源",体育频道|Astro Sports Plus
-https://smart.pendy.dpdns.org/Smart.php?id=go_sportsplus
-#EXTINF:-1,tvg-id="体育频道|Astro Badminton 1" tvg-name="体育频道|Astro Badminton 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROBADMINTON1.png" group-title="Smart☠️源",体育频道|Astro Badminton 1
-https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
-#EXTINF:-1,tvg-id="体育频道|Astro Badminton 2" tvg-name="体育频道|Astro Badminton 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROBADMINTON2.png" group-title="Smart☠️源",体育频道|Astro Badminton 2
-https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
-#EXTINF:-1,tvg-id="体育频道|Astro W-Sports" tvg-name="体育频道|Astro W-Sports" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROWSPORTS.png" group-title="Smart☠️源",体育频道|Astro W-Sports
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp5
-#EXTINF:-1,tvg-id="体育频道|Supersports 1" tvg-name="体育频道|Supersports 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|SUPERSPORTS1.png" group-title="Smart☠️源",体育频道|Supersports 1
-https://smart.pendy.dpdns.org/Smart.php?id=Assp1
-#EXTINF:-1,tvg-id="体育频道|Supersports 2" tvg-name="体育频道|Supersports 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|SUPERSPORTS2.png" group-title="Smart☠️源",体育频道|Supersports 2
-https://smart.pendy.dpdns.org/Smart.php?id=Assp2
-#EXTINF:-1,tvg-id="体育频道|Supersports 3" tvg-name="体育频道|Supersports 3" tvg-logo="https://epg.112114.xyz/logo/体育频道|SUPERSPORTS3.png" group-title="Smart☠️源",体育频道|Supersports 3
-https://smart.pendy.dpdns.org/Smart.php?id=Assp3
-#EXTINF:-1,tvg-id="体育频道|Supersports 4" tvg-name="体育频道|Supersports 4" tvg-logo="https://epg.112114.xyz/logo/体育频道|SUPERSPORTS4.png" group-title="Smart☠️源",体育频道|Supersports 4
-https://smart.pendy.dpdns.org/Smart.php?id=Assp4
-#EXTINF:-1,tvg-id="体育频道|WWE" tvg-name="体育频道|WWE" tvg-logo="https://epg.112114.xyz/logo/体育频道|WWE.png" group-title="Smart☠️源",体育频道|WWE
-https://smart.pendy.dpdns.org/Smart.php?id=Wwe
-#EXTINF:-1,tvg-id="体育频道|Fight Sports" tvg-name="体育频道|Fight Sports" tvg-logo="https://epg.112114.xyz/logo/体育频道|FIGHTSPORTS.png" group-title="Smart☠️源",体育频道|Fight Sports
-https://smart.pendy.dpdns.org/Smart.php?id=Fs
-#EXTINF:-1,tvg-id="体育频道|NBA TV" tvg-name="体育频道|NBA TV" tvg-logo="https://epg.112114.xyz/logo/体育频道|NBATV.png" group-title="Smart☠️源",体育频道|NBA TV
-https://smart.pendy.dpdns.org/Smart.php?id=Nba
-#EXTINF:-1,tvg-id="体育频道|Astro Cricket" tvg-name="体育频道|Astro Cricket" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROCRICKET.png" group-title="Smart☠️源",体育频道|Astro Cricket
-https://smart.pendy.dpdns.org/Smart.php?id=Acricket
-#EXTINF:-1,tvg-id="体育频道|Astro Golf" tvg-name="体育频道|Astro Golf" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROGOLF.png" group-title="Smart☠️源",体育频道|Astro Golf
-https://smart.pendy.dpdns.org/Smart.php?id=Agolf
-#EXTINF:-1,tvg-id="体育频道|Tnt Sports 1" tvg-name="体育频道|Tnt Sports 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|TNTSPORTS1.png" group-title="Smart☠️源",体育频道|Tnt Sports 1
-https://smart.pendy.dpdns.org/Smart.php?id=6fac0aaead
-#EXTINF:-1,tvg-id="体育频道|TNT Sports 2" tvg-name="体育频道|TNT Sports 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|TNTSPORTS2.png" group-title="Smart☠️源",体育频道|TNT Sports 2
-https://smart.pendy.dpdns.org/Smart.php?id=d9a76a79cc
-#EXTINF:-1,tvg-id="体育频道|TNT Sports 3" tvg-name="体育频道|TNT Sports 3" tvg-logo="https://epg.112114.xyz/logo/体育频道|TNTSPORTS3.png" group-title="Smart☠️源",体育频道|TNT Sports 3
-https://smart.pendy.dpdns.org/Smart.php?id=5fea4d73db
-#EXTINF:-1,tvg-id="体育频道|TNT Sports 4" tvg-name="体育频道|TNT Sports 4" tvg-logo="https://epg.112114.xyz/logo/体育频道|TNTSPORTS4.png" group-title="Smart☠️源",体育频道|TNT Sports 4
-https://smart.pendy.dpdns.org/Smart.php?id=tntsport4
-#EXTINF:-1,tvg-id="体育频道|Sony Ten 1" tvg-name="体育频道|Sony Ten 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|SONYTEN1.png" group-title="Smart☠️源",体育频道|Sony Ten 1
-https://smart.pendy.dpdns.org/Smart.php?id=ten1_raj
-#EXTINF:-1,tvg-id="体育频道|Sony Ten 2" tvg-name="体育频道|Sony Ten 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|SONYTEN2.png" group-title="Smart☠️源",体育频道|Sony Ten 2
-https://smart.pendy.dpdns.org/Smart.php?id=ten2_raj
-#EXTINF:-1,tvg-id="体育频道|Sony Ten 3" tvg-name="体育频道|Sony Ten 3" tvg-logo="https://epg.112114.xyz/logo/体育频道|SONYTEN3.png" group-title="Smart☠️源",体育频道|Sony Ten 3
-https://smart.pendy.dpdns.org/Smart.php?id=ten3_raj
-#EXTINF:-1,tvg-id="体育频道|SPOTV 1 HD" tvg-name="体育频道|SPOTV 1 HD" tvg-logo="https://epg.112114.xyz/logo/体育频道|SPOTV1.png" group-title="Smart☠️源",体育频道|SPOTV 1 HD
-https://smart.pendy.dpdns.org/Smart.php?id=go_spotv
-#EXTINF:-1,tvg-id="体育频道|SPO TV 2" tvg-name="体育频道|SPO TV 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|SPOTV2.png" group-title="Smart☠️源",体育频道|SPO TV 2
-https://smart.pendy.dpdns.org/Smart.php?id=go_spotv2
-#EXTINF:-1,tvg-id="体育频道|Skysports F1" tvg-name="体育频道|Skysports F1" tvg-logo="https://epg.112114.xyz/logo/体育频道|SKYSPORTSF1.png" group-title="Smart☠️源",体育频道|Skysports F1
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongf1
-#EXTINF:-1,tvg-id="体育频道|Skysports Cricket" tvg-name="体育频道|Skysports Cricket" tvg-logo="https://epg.112114.xyz/logo/体育频道|SKYSPORTSCRICKET.png" group-title="Smart☠️源",体育频道|Skysports Cricket
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongcricket
-#EXTINF:-1,tvg-id="体育频道|Skysports EPL" tvg-name="体育频道|Skysports EPL" tvg-logo="https://epg.112114.xyz/logo/体育频道|SKYSPORTSEPL.png" group-title="Smart☠️源",体育频道|Skysports EPL
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongepl
-#EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="Smart☠️源",体育频道|Skysports Main Event
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongmain
-#EXTINF:-1,tvg-id="体育频道|Skysports News" tvg-name="体育频道|Skysports News" tvg-logo="https://epg.112114.xyz/logo/体育频道|SKYSPORTSNEWS.png" group-title="Smart☠️源",体育频道|Skysports News
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongnews
-#EXTINF:-1,tvg-id="体育频道|Skysports Mix" tvg-name="体育频道|Skysports Mix" tvg-logo="https://epg.112114.xyz/logo/体育频道|SKYSPORTSMIX.png" group-title="Smart☠️源",体育频道|Skysports Mix
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongmix
-#EXTINF:-1,tvg-id="爱尔达体育2" tvg-name="爱尔达体育2" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育2.png" group-title="Smart☠️源",体育频道|爱尔达体育2台
-https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
-#EXTINF:-1,tvg-id="爱尔达体育3" tvg-name="爱尔达体育3" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育3.png" group-title="Smart☠️源",体育频道|爱尔达体育3台
-https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
-#EXTINF:-1,tvg-id="体育频道|Rugby Pass TV" tvg-name="体育频道|Rugby Pass TV" tvg-logo="https://epg.112114.xyz/logo/体育频道|RUGBYPASSTV.png" group-title="Smart☠️源",体育频道|Rugby Pass TV
-https://smart.pendy.dpdns.org/Smart.php?id=Rugbypasstv
-#EXTINF:-1,tvg-id="体育频道|RTM Sports HD" tvg-name="体育频道|RTM Sports HD" tvg-logo="https://epg.112114.xyz/logo/体育频道|RTMSPORTS.png" group-title="Smart☠️源",体育频道|RTM Sports HD
-https://smart.pendy.dpdns.org/Smart.php?id=Rtmsport
-#EXTINF:-1,tvg-id="体育频道|Arena" tvg-name="体育频道|Arena" tvg-logo="https://epg.112114.xyz/logo/体育频道|ARENA.png" group-title="Smart☠️源",体育频道|Arena
-https://smart.pendy.dpdns.org/Smart.php?id=Arena
-#EXTINF:-1,tvg-id="体育频道|Arena 2" tvg-name="体育频道|Arena 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|ARENA2.png" group-title="Smart☠️源",体育频道|Arena 2
-https://smart.pendy.dpdns.org/Smart.php?id=Arena2
-#EXTINF:-1,tvg-id="体育频道|BolaArena 1" tvg-name="体育频道|BolaArena 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|BOLAARENA1.png" group-title="Smart☠️源",体育频道|BolaArena 1
-https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
-#EXTINF:-1,tvg-id="体育频道|BolaArena 2" tvg-name="体育频道|BolaArena 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|BOLAARENA2.png" group-title="Smart☠️源",体育频道|BolaArena 2
-https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena2
-#EXTINF:-1,tvg-id="体育频道|Astro Beinsports 1" tvg-name="体育频道|Astro Beinsports 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROBEINSPORTS1.png" group-title="Smart☠️源",体育频道|Astro Beinsports 1
-https://smart.pendy.dpdns.org/Smart.php?id=Astrobein1
-#EXTINF:-1,tvg-id="体育频道|Astro Beinsports 2" tvg-name="体育频道|Astro Beinsports 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROBEINSPORTS2.png" group-title="Smart☠️源",体育频道|Astro Beinsports 2
-https://smart.pendy.dpdns.org/Smart.php?id=Astrobein2
-#EXTINF:-1,tvg-id="体育频道|Astro Beinsports 3" tvg-name="体育频道|Astro Beinsports 3" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROBEINSPORTS3.png" group-title="Smart☠️源",体育频道|Astro Beinsports 3
-https://smart.pendy.dpdns.org/Smart.php?id=Astrobein3
+
 
 
 
@@ -458,86 +87,6 @@ https://www.youtube.com/watch?v=SdzewdkJa-o
 
 
 
-#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="新聞財經",寰宇財經
-http://docker.livednow.dpdns.org/li-4gtv-4gtv158/index.m3u8
-#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="新聞財經",東森財經新聞
-http://docker.livednow.dpdns.org/li-4gtv-4gtv153/index.m3u8
-#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png"" group-title="新聞財經",非凡新聞
-http://docker.livednow.dpdns.org/4gtv-4gtv010/index.m3u8
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="新聞財經",民視新聞
-http://docker.livednow.dpdns.org/li-litv-ftv13/index.m3u8
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="新聞財經",民視新聞
-http://docker.livednow.dpdns.org/litv-ftv13/index.m3u8
-#EXTINF:-1 tvg-id="三立新聞" tvg-name="三立新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經",三立新聞
-https://www.youtube.com/watch?v=MV9mI0GChwo
-#EXTINF:-1 tvg-id="三立新聞" tvg-name="三立新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經",三立新聞
-https://smart.pendy.dpdns.org/youtube.php?id=MV9mI0GChwo
-
-#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台"tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="新聞財經",東森新聞
-http://docker.livednow.dpdns.org/li-4gtv-4gtv152/index.m3u8
-#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台"tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="新聞財經",東森新聞
-http://docker.livednow.dpdns.org/4gtv-4gtv152/index.m3u8
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="新聞財經",寰宇新聞台灣台
-http://docker.livednow.dpdns.org/li-4gtv-4gtv156/index.m3u8
-#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="新聞財經",鏡電視新聞台
-http://docker.livednow.dpdns.org/li-4gtv-4gtv075/index.m3u8
-#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="新聞財經",鏡電視新聞台
-http://docker.livednow.dpdns.org/4gtv-4gtv075/index.m3u8
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
-http://docker.livednow.dpdns.org/li-litv-longturn14/index.m3u8
-#EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經",三立iNEWS
-https://www.youtube.com/watch?v=pF507BLtbqU
-#EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經",三立iNEWS
-http://docker.livednow.dpdns.org/4gtv-live089/index.m3u8
-#EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經",三立iNEWS
-http://docker.livednow.dpdns.org/iNEWS/index.m3u8
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="新聞財經",TVBS新聞台
-http://docker.livednow.dpdns.org/li-4gtv-4gtv072/index.m3u8
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="新聞財經",TVBS新聞台
-http://docker.livednow.dpdns.org/li-4gtv-4gtv072/index.m3u8
-
-
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="新聞財經",中天新聞台
-http://docker.livednow.dpdns.org/li-4gtv-4gtv009/index.m3u8
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="新聞財經",中天新聞台
-http://docker.livednow.dpdns.org/4gtv-4gtv009/index.m3u8
-
-#EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique2.png"" group-title="新聞財經",非凡商業
-http://docker.livednow.dpdns.org/4gtv-4gtv048/index.m3u8
-#EXTINF:-1 tvg-id="台視財經台" tvg-name="台視財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV3.png" group-title="新聞財經",台視財經台
-http://docker.livednow.dpdns.org/4gtv-4gtv056/index.m3u8
-
-#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="新聞財經",寰宇財經
-http://docker.livednow.dpdns.org/li-4gtv-4gtv158/index.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="新聞財經",東森財經新聞
-http://docker.livednow.dpdns.org/li-4gtv-4gtv153/index.m3u8
-
-
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
-http://docker.livednow.dpdns.org/li-litv-longturn14/index.m3u8
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="新聞財經",寰宇新聞台灣台
-http://docker.livednow.dpdns.org/li-4gtv-4gtv156/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="新聞財經",中天新聞台
-http://docker.livednow.dpdns.org/of-4gtv-4gtv009/index.m3u8
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
-http://docker.livednow.dpdns.org/of-litv-longturn14/index.m3u8
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="新聞財經",寰宇新聞台灣台
-http://docker.livednow.dpdns.org/of-4gtv-4gtv156/index.m3u8
-#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="新聞財經",寰宇財經
-http://docker.livednow.dpdns.org/of-4gtv-4gtv158/index.m3u8
-
-
-
 
 
 
@@ -551,8 +100,36 @@ http://docker.livednow.dpdns.org/of-4gtv-4gtv158/index.m3u8
 
 
 //其他來源1
+#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="新聞財經",寰宇財經
+http://107.173.148.168/li-4gtv-4gtv158/index.m3u8
+#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="新聞財經",東森財經新聞
+http://107.173.148.168/4gtv-4gtv153/index.m3u8
+#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png"" group-title="新聞財經",非凡新聞
+http://107.173.148.168/4gtv-4gtv010/index.m3u8
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="新聞財經",民視新聞
+http://107.173.148.168/litv-ftv13/index.m3u8
+#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台"tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="新聞財經",東森新聞
+http://107.173.148.168/4gtv-4gtv152/index.m3u8
+#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="新聞財經",寰宇新聞台灣台
+http://107.173.148.168/4gtv-4gtv156/index.m3u8
+#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="新聞財經",鏡電視新聞台
+http://107.173.148.168/4gtv-4gtv075/index.m3u8
+#EXTINF:-1 tvg-id="三立新聞INEWS" tvg-name="三立新聞INEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經",三立iNEWS
+http://107.173.148.168/4gtv-live089/index.m3u8
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
+http://107.173.148.168/litv-longturn14/index.m3u8
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="新聞財經",TVBS新聞台
+http://107.173.148.168/li-4gtv-4gtv072/index.m3u8
+
+
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="綜合其他",民視第一台
 http://107.173.148.168/4gtv-4gtv003/index.m3u8
+#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV2.png" group-title="電影戲劇",中視經典台
+http://107.173.148.168/4gtv-4gtv080/index.m3u8
+
+#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png" group-title="音樂綜藝",八大精彩
+http://107.173.148.168/4gtv-4gtv034/index.m3u8
+
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" group-title="綜合其他",民視台灣台
 http://107.173.148.168/4gtv-4gtv001/index.m3u8
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" group-title="綜合其他",民視HD
@@ -561,8 +138,7 @@ http://107.173.148.168/4gtv-4gtv002/index.m3u8
 http://107.173.148.168/4gtv-live007/index.m3u8
 #EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="綜合其他",中視
 http://107.173.148.168/4gtv-4gtv040/index.m3u8
-#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV2.png" group-title="電影戲劇",中視經典台
-http://107.173.148.168/4gtv-4gtv080/index.m3u8
+
 #EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="綜合其他",華視
 http://107.173.148.168/4gtv-4gtv041/index.m3u8
 #EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET1.png" group-title="綜合其他",三立綜合台
@@ -613,28 +189,20 @@ http://107.173.148.168/4gtv-live107/index.m3u8
 http://107.173.148.168/4gtv-live047/index.m3u8
 #EXTINF:-1 tvg-id="東森購物1台" tvg-name="東森購物1台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物一台
 http://107.173.148.168/4gtv-4gtv102/index.m3u8
-#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="新聞財經",鏡電視新聞台
-http://107.173.148.168/4gtv-4gtv075/index.m3u8
-#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台"tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="新聞財經",東森新聞
-http://107.173.148.168/4gtv-4gtv152/index.m3u8
+
+
 #EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png" group-title="新聞財經",華視新聞台
 http://107.173.148.168/4gtv-4gtv052/index.m3u8
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="新聞財經",民視新聞
-http://107.173.148.168/litv-ftv13/index.m3u8
-#EXTINF:-1 tvg-id="三立新聞INEWS" tvg-name="三立新聞INEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經",三立iNEWS
-http://107.173.148.168/4gtv-live089/index.m3u8
-#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="新聞財經",東森財經新聞
-http://107.173.148.168/4gtv-4gtv153/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="新聞財經",中視新聞台
 http://107.173.148.168/4gtv-4gtv074/index.m3u8
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="新聞財經",中天新聞台
 http://107.173.148.168/4gtv-4gtv009/index.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERGTV" tvg-name="BLOOMBERGTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/BloombergTV.png" group-title="新聞財經",BLOOMBERG TV
 http://107.173.148.168/4gtv-live059/index.m3u8
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
-http://107.173.148.168/litv-longturn14/index.m3u8
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="新聞財經",寰宇新聞台灣台
-http://107.173.148.168/4gtv-4gtv156/index.m3u8
+
 #EXTINF:-1 tvg-id="SBN全球財經台" tvg-name="SBN全球財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SBNcaijing.png" group-title="新聞財經",SBN 全球財經台
 http://107.173.148.168/4gtv-live060/index.m3u8
 #EXTINF:-1 tvg-id="NHK新聞資訊台" tvg-name="NHK新聞資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NHKWorld.png" group-title="新聞財經", NHK 新聞資訊台
@@ -830,8 +398,7 @@ http://107.173.148.168/litv-longturn09/index.m3u8
 http://107.173.148.168/litv-longturn10/index.m3u8
 #EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast8.png" group-title="體育競技",博斯無限II
 http://107.173.148.168/litv-longturn13/index.m3u8
-#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png"" group-title="新聞財經",非凡新聞
-http://107.173.148.168/4gtv-4gtv010/index.m3u8
+
 #EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique2.png"" group-title="新聞財經",非凡商業
 http://107.173.148.168/4gtv-4gtv048/index.m3u8
 #EXTINF:-1 tvg-id="台視財經台" tvg-name="台視財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV3.png" group-title="新聞財經",台視財經台
@@ -868,8 +435,7 @@ http://107.173.148.168/li-4gtv-4gtv057/index.m3u8
 http://107.173.148.168/li-4gtv-4gtv152/index.m3u8
 #EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="新聞財經",民視新聞
 http://107.173.148.168/li-litv-ftv13/index.m3u8
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="新聞財經",TVBS新聞台
-http://107.173.148.168/li-4gtv-4gtv072/index.m3u8
+
 #EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="新聞財經",東森財經新聞
 http://107.173.148.168/li-4gtv-4gtv153/index.m3u8
 #EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="新聞財經",中視新聞台
@@ -880,8 +446,7 @@ http://107.173.148.168/li-4gtv-4gtv009/index.m3u8
 http://107.173.148.168/li-litv-longturn14/index.m3u8
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="新聞財經",寰宇新聞台灣台
 http://107.173.148.168/li-4gtv-4gtv156/index.m3u8
-#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="新聞財經",寰宇財經
-http://107.173.148.168/li-4gtv-4gtv158/index.m3u8
+
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="綜合其他",TVBS HD
 http://107.173.148.168/li-4gtv-4gtv073/index.m3u8
 #EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="音樂綜藝",民視綜藝
@@ -2097,3 +1662,391 @@ http://115.193.127.27:5000/litv-longturn21/index.m3u8
 http://115.193.127.27:5000/of-4gtv-4gtv102/index.m3u8
 #EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物二台
 http://115.193.127.27:5000/of-4gtv-4gtv103/index.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="Smart☠️源",台湾|TVBS News 新闻台
+https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="Smart☠️源",台湾|TVBS 欢乐台 （备份）
+https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="Smart☠️源",台湾|TVBS HD
+https://smart.pendy.dpdns.org/Smart.php?id=tvbs
+#EXTINF:-1,tvg-id="台湾|中天新闻 HD" tvg-name="台湾|中天新闻 HD" tvg-logo="https://epg.112114.xyz/logo/台湾|中天新闻.png" group-title="Smart☠️源",台湾|中天新闻 HD
+https://smart.pendy.dpdns.org/Smart.php?id=ctinews
+#EXTINF:-1,tvg-id="台湾|中天娱乐 CTI Entertaiment" tvg-name="台湾|中天娱乐 CTI Entertaiment" tvg-logo="https://epg.112114.xyz/logo/台湾|中天娱乐CTIENTERTAIMENT.png" group-title="Smart☠️源",台湾|中天娱乐 CTI Entertaiment
+https://smart.pendy.dpdns.org/Smart.php?id=ctient
+#EXTINF:-1,tvg-id="台湾|中天综合 CTI Metro" tvg-name="台湾|中天综合 CTI Metro" tvg-logo="https://epg.112114.xyz/logo/台湾|中天综合CTIMETRO.png" group-title="Smart☠️源",台湾|中天综合 CTI Metro
+https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe
+#EXTINF:-1,tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/中天亚洲台.png" group-title="Smart☠️源",台湾|中天亚洲台
+https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
+#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="Smart☠️源",台湾|台视 TTV HD
+https://smart.pendy.dpdns.org/Smart.php?id=ttv_taiwan
+#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="Smart☠️源",台湾|台视新闻台
+https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
+#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="Smart☠️源",台湾|台视综合台
+https://smart.pendy.dpdns.org/Smart.php?id=ttvzhonghe
+#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="Smart☠️源",台湾|中视 HD
+https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
+#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="Smart☠️源",台湾|中视新闻台
+https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
+#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="Smart☠️源",台湾|民视 HD
+https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
+#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="Smart☠️源",台湾|民视新闻台 FTV News
+https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
+#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="Smart☠️源",台湾|民视台湾台
+https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="Smart☠️源",台湾|华视 CTS HD
+https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
+#EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="Smart☠️源",台湾|公视 CTV
+https://smart.pendy.dpdns.org/Smart.php?id=ctv18_twn
+#EXTINF:-1,tvg-id="台湾|八大第一 GTV First" tvg-name="台湾|八大第一 GTV First" tvg-logo="https://epg.112114.xyz/logo/台湾|八大第一GTVFIRST.png" group-title="Smart☠️源",台湾|八大第一 GTV First
+https://smart.pendy.dpdns.org/Smart.php?id=badafirst
+#EXTINF:-1,tvg-id="台湾|八大综合 GTV Metro" tvg-name="台湾|八大综合 GTV Metro" tvg-logo="https://epg.112114.xyz/logo/台湾|八大综合GTVMETRO.png" group-title="Smart☠️源",台湾|八大综合 GTV Metro
+https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe
+#EXTINF:-1,tvg-id="台湾|八大戏剧 GTV Drama" tvg-name="台湾|八大戏剧 GTV Drama" tvg-logo="https://epg.112114.xyz/logo/台湾|八大戏剧GTVDRAMA.png" group-title="Smart☠️源",台湾|八大戏剧 GTV Drama
+https://smart.pendy.dpdns.org/Smart.php?id=badadrama
+#EXTINF:-1,tvg-id="台湾|八大娱乐 GTV Entertainment" tvg-name="台湾|八大娱乐 GTV Entertainment" tvg-logo="https://epg.112114.xyz/logo/台湾|八大娱乐GTVENTERTAINMENT.png" group-title="Smart☠️源",台湾|八大娱乐 GTV Entertainment
+https://smart.pendy.dpdns.org/Smart.php?id=badaentertain
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="Smart☠️源",台湾|HBO_HD
+https://smart.pendy.dpdns.org/Smart.php?id=hbohd_twn
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="Smart☠️源",台湾|HBO_HITS
+https://smart.pendy.dpdns.org/Smart.php?id=hbohit_twn
+#EXTINF:-1,tvg-id="台湾|Hollywood Movies" tvg-name="台湾|Hollywood Movies" tvg-logo="https://epg.112114.xyz/logo/台湾|HOLLYWOODMOVIES.png" group-title="Smart☠️源",台湾|Hollywood Movies
+https://smart.pendy.dpdns.org/Smart.php?id=hollywoodmovies_twn
+#EXTINF:-1,tvg-id="台湾|三立台湾 Sanli Taiwan" tvg-name="台湾|三立台湾 Sanli Taiwan" tvg-logo="https://epg.112114.xyz/logo/台湾|三立台湾SANLITAIWAN.png" group-title="Smart☠️源",台湾|三立台湾 Sanli Taiwan
+https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
+#EXTINF:-1,tvg-id="三立戏剧" tvg-name="三立戏剧" tvg-logo="https://epg.112114.xyz/logo/三立戏剧.png" group-title="Smart☠️源",台湾|三立戏剧台
+https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
+#EXTINF:-1,tvg-id="台湾|三立综合 Sanli Metro" tvg-name="台湾|三立综合 Sanli Metro" tvg-logo="https://epg.112114.xyz/logo/台湾|三立综合SANLIMETRO.png" group-title="Smart☠️源",台湾|三立综合 Sanli Metro
+https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
+#EXTINF:-1,tvg-id="三立都会台" tvg-name="三立都会台" tvg-logo="https://epg.112114.xyz/logo/三立都会台.png" group-title="Smart☠️源",台湾|三立都会台
+https://smart.pendy.dpdns.org/Smart.php?id=sanlidouhui
+#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="Smart☠️源",台湾|东森新闻 ETTV News
+https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="Smart☠️源",台湾|CINEMAX
+https://smart.pendy.dpdns.org/Smart.php?id=cinemax_twn
+#EXTINF:-1,tvg-id="台湾|东森综合 ETTV Metro" tvg-name="台湾|东森综合 ETTV Metro" tvg-logo="https://epg.112114.xyz/logo/台湾|东森综合ETTVMETRO.png" group-title="Smart☠️源",台湾|东森综合 ETTV Metro
+https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
+#EXTINF:-1,tvg-id="台湾|东森戏剧 ETTV Drama" tvg-name="台湾|东森戏剧 ETTV Drama" tvg-logo="https://epg.112114.xyz/logo/台湾|东森戏剧ETTVDRAMA.png" group-title="Smart☠️源",台湾|东森戏剧 ETTV Drama
+https://smart.pendy.dpdns.org/Smart.php?id=ettvdrama
+#EXTINF:-1,tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://epg.112114.xyz/logo/东森超视.png" group-title="Smart☠️源",台湾|东森超视
+https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
+#EXTINF:-1,tvg-id="台湾|东森财经新闻 ETTV Business" tvg-name="台湾|东森财经新闻 ETTV Business" tvg-logo="https://epg.112114.xyz/logo/台湾|东森财经新闻ETTVBUSINESS.png" group-title="Smart☠️源",台湾|东森财经新闻 ETTV Business
+https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
+#EXTINF:-1,tvg-id="寰宇财经" tvg-name="寰宇财经" tvg-logo="https://epg.112114.xyz/logo/寰宇财经.png" group-title="Smart☠️源",台湾|寰宇财经
+https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
+#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="Smart☠️源",台湾|寰宇新闻台
+https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
+#EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="Smart☠️源",台湾|公视2
+https://smart.pendy.dpdns.org/Smart.php?id=ctv2_twn
+#EXTINF:-1,tvg-id="台湾|大爱1台" tvg-name="台湾|大爱1台" tvg-logo="https://epg.112114.xyz/logo/台湾|大爱1台.png" group-title="Smart☠️源",台湾|大爱1台
+https://smart.pendy.dpdns.org/Smart.php?id=daai_twn
+#EXTINF:-1,tvg-id="非凡新闻台" tvg-name="非凡新闻台" tvg-logo="https://epg.112114.xyz/logo/非凡新闻台.png" group-title="Smart☠️源",台湾|非凡新闻台
+https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
+#EXTINF:-1,tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://epg.112114.xyz/logo/龙华戏剧.png" group-title="Smart☠️源",台湾|龙华戏剧 Lunghua Drama
+https://smart.pendy.dpdns.org/Smart.php?id=lunghuaxiju_twn
+#EXTINF:-1,tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://epg.112114.xyz/logo/龙华经典.png" group-title="Smart☠️源",台湾|龙华经典台
+https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
+#EXTINF:-1,tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://epg.112114.xyz/logo/龙华偶像.png" group-title="Smart☠️源",台湾|龙华偶像
+https://smart.pendy.dpdns.org/Smart.php?id=lunghuaidol_twn
+#EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="Smart☠️源",台湾|AXN Taiwan
+https://smart.pendy.dpdns.org/Smart.php?id=axn_twn
+#EXTINF:-1,tvg-id="靖天国际" tvg-name="靖天国际" tvg-logo="https://epg.112114.xyz/logo/靖天国际.png" group-title="Smart☠️源",台湾|靖天国际台
+https://smart.pendy.dpdns.org/Smart.php?id=jingtianintl_twn
+#EXTINF:-1,tvg-id="台湾|年代新闻" tvg-name="台湾|年代新闻" tvg-logo="https://epg.112114.xyz/logo/台湾|年代新闻.png" group-title="Smart☠️源",台湾|年代新闻
+https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn
+#EXTINF:-1,tvg-id="纬来日本台" tvg-name="纬来日本台" tvg-logo="https://epg.112114.xyz/logo/纬来日本台.png" group-title="Smart☠️源",台湾|纬来日本台
+https://smart.pendy.dpdns.org/Smart.php?id=videolandjapan
+#EXTINF:-1,tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://epg.112114.xyz/logo/纬来电影台.png" group-title="Smart☠️源",台湾|纬来电影台
+https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
+#EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="Smart☠️源",台湾|纬来体育台
+https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
+#EXTINF:-1,tvg-id="纬来综合台" tvg-name="纬来综合台" tvg-logo="https://epg.112114.xyz/logo/纬来综合台.png" group-title="Smart☠️源",台湾|纬来综合台
+https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
+#EXTINF:-1,tvg-id="台湾|纬来育乐" tvg-name="台湾|纬来育乐" tvg-logo="https://epg.112114.xyz/logo/台湾|纬来育乐.png" group-title="Smart☠️源",台湾|纬来育乐
+https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
+#EXTINF:-1,tvg-id="台湾|纬来精彩" tvg-name="台湾|纬来精彩" tvg-logo="https://epg.112114.xyz/logo/台湾|纬来精彩.png" group-title="Smart☠️源",台湾|纬来精彩
+https://smart.pendy.dpdns.org/Smart.php?id=videolandspecial_twn
+#EXTINF:-1,tvg-id="台湾|好消息 2" tvg-name="台湾|好消息 2" tvg-logo="https://epg.112114.xyz/logo/台湾|好消息2.png" group-title="Smart☠️源",台湾|好消息 2
+https://smart.pendy.dpdns.org/Smart.php?id=good2_twn
+#EXTINF:-1,tvg-id="台湾|大爱2台" tvg-name="台湾|大爱2台" tvg-logo="https://epg.112114.xyz/logo/台湾|大爱2台.png" group-title="Smart☠️源",台湾|大爱2台
+https://smart.pendy.dpdns.org/Smart.php?id=daai2_twn
+#EXTINF:-1,tvg-id="亚洲美食" tvg-name="亚洲美食" tvg-logo="https://epg.112114.xyz/logo/亚洲美食.png" group-title="Smart☠️源",台湾|亚洲美食
+https://smart.pendy.dpdns.org/Smart.php?id=afc_twn
+#EXTINF:-1,tvg-id="美食星球" tvg-name="美食星球" tvg-logo="https://epg.112114.xyz/logo/美食星球.png" group-title="Smart☠️源",台湾|美食星球
+https://smart.pendy.dpdns.org/Smart.php?id=foodplanet_twn
+#EXTINF:-1,tvg-id="台湾|亚洲旅游 TLC Asia" tvg-name="台湾|亚洲旅游 TLC Asia" tvg-logo="https://epg.112114.xyz/logo/台湾|亚洲旅游TLCASIA.png" group-title="Smart☠️源",台湾|亚洲旅游 TLC Asia
+https://smart.pendy.dpdns.org/Smart.php?id=tlc_twn
+#EXTINF:-1,tvg-id="台湾|东森电影 ETTV Movie" tvg-name="台湾|东森电影 ETTV Movie" tvg-logo="https://epg.112114.xyz/logo/台湾|东森电影ETTVMOVIE.png" group-title="Smart☠️源",台湾|东森电影 ETTV Movie
+https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
+#EXTINF:-1,tvg-id="台湾|阿里郎 Arirang" tvg-name="台湾|阿里郎 Arirang" tvg-logo="https://epg.112114.xyz/logo/台湾|阿里郎ARIRANG.png" group-title="Smart☠️源",台湾|阿里郎 Arirang
+https://smart.pendy.dpdns.org/Smart.php?id=arirang_twn
+#EXTINF:-1,tvg-id="台湾|博斯运动 1" tvg-name="台湾|博斯运动 1" tvg-logo="https://epg.112114.xyz/logo/台湾|博斯运动1.png" group-title="Smart☠️源",台湾|博斯运动 1
+https://smart.pendy.dpdns.org/Smart.php?id=bosisport1_twn
+#EXTINF:-1,tvg-id="台湾|博斯运动 2" tvg-name="台湾|博斯运动 2" tvg-logo="https://epg.112114.xyz/logo/台湾|博斯运动2.png" group-title="Smart☠️源",台湾|博斯运动 2
+https://smart.pendy.dpdns.org/Smart.php?id=bosisport2_twn
+#EXTINF:-1,tvg-id="台湾|博斯高球2 HD" tvg-name="台湾|博斯高球2 HD" tvg-logo="https://epg.112114.xyz/logo/台湾|博斯高球2.png" group-title="Smart☠️源",台湾|博斯高球2 HD
+https://smart.pendy.dpdns.org/Smart.php?id=bosigolf2_twn
+#EXTINF:-1,tvg-id="台湾|博斯网球 HD" tvg-name="台湾|博斯网球 HD" tvg-logo="https://epg.112114.xyz/logo/台湾|博斯网球.png" group-title="Smart☠️源",台湾|博斯网球 HD
+https://smart.pendy.dpdns.org/Smart.php?id=bositennis_twn
+#EXTINF:-1,tvg-id="台湾|东森洋片 ETTV Western" tvg-name="台湾|东森洋片 ETTV Western" tvg-logo="https://epg.112114.xyz/logo/台湾|东森洋片ETTVWESTERN.png" group-title="Smart☠️源",台湾|东森洋片 ETTV Western
+https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
+#EXTINF:-1,tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://epg.112114.xyz/logo/龙华洋片.png" group-title="Smart☠️源",台湾|龙华洋片 Lunghua Western
+https://smart.pendy.dpdns.org/Smart.php?id=lunghuawestern_twn
+#EXTINF:-1,tvg-id="台湾|博斯无限" tvg-name="台湾|博斯无限" tvg-logo="https://epg.112114.xyz/logo/台湾|博斯无限.png" group-title="Smart☠️源",台湾|博斯无限
+https://smart.pendy.dpdns.org/Smart.php?id=bosiunlimited_twn
+#EXTINF:-1,tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.112114.xyz/logo/MTV.png" group-title="Smart☠️源",台湾|MTV Live
+https://smart.pendy.dpdns.org/Smart.php?id=mtvhd_twn
+#EXTINF:-1,tvg-id="台湾|龙详时代" tvg-name="台湾|龙详时代" tvg-logo="https://epg.112114.xyz/logo/台湾|龙详时代.png" group-title="Smart☠️源",台湾|龙详时代
+https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
+#EXTINF:-1,tvg-id="台湾|EYETV 旅游" tvg-name="台湾|EYETV 旅游" tvg-logo="https://epg.112114.xyz/logo/台湾|EYETV旅游.png" group-title="Smart☠️源",台湾|EYETV 旅游
+https://smart.pendy.dpdns.org/Smart.php?id=eyetvtravel_twn
+#EXTINF:-1,tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://epg.112114.xyz/logo/靖天卡通台.png" group-title="Smart☠️源",台湾|靖天卡通台
+https://smart.pendy.dpdns.org/Smart.php?id=jingtiancartoon_twn
+#EXTINF:-1,tvg-id="台湾|EYETV 戏剧" tvg-name="台湾|EYETV 戏剧" tvg-logo="https://epg.112114.xyz/logo/台湾|EYETV戏剧.png" group-title="Smart☠️源",台湾|EYETV 戏剧
+https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
+#EXTINF:-1,tvg-id="卫视中文台" tvg-name="卫视中文台" tvg-logo="https://epg.112114.xyz/logo/卫视中文台.png" group-title="Smart☠️源",台湾|卫视中文台 Star Movies Chinese
+https://smart.pendy.dpdns.org/Smart.php?id=weishichinese_twn
+#EXTINF:-1,tvg-id="台湾|东森幼幼 Yoyo TV" tvg-name="台湾|东森幼幼 Yoyo TV" tvg-logo="https://epg.112114.xyz/logo/台湾|东森幼幼YOYOTV.png" group-title="Smart☠️源",台湾|东森幼幼 Yoyo TV
+https://smart.pendy.dpdns.org/Smart.php?id=yoyo_twn
+#EXTINF:-1,tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="https://epg.112114.xyz/logo/卫视电影台.png" group-title="Smart☠️源",台湾|卫视电影台
+https://smart.pendy.dpdns.org/Smart.php?id=weishimovie_twn
+#EXTINF:-1,tvg-id="台湾|美亚电影" tvg-name="台湾|美亚电影" tvg-logo="https://epg.112114.xyz/logo/台湾|美亚电影.png" group-title="Smart☠️源",台湾|美亚电影
+https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
+#EXTINF:-1,tvg-id="爱尔达影剧" tvg-name="爱尔达影剧" tvg-logo="https://epg.112114.xyz/logo/爱尔达影剧.png" group-title="Smart☠️源",台湾|爱尔达影剧台
+https://smart.pendy.dpdns.org/Smart.php?id=eltayingju_twn
+#EXTINF:-1,tvg-id="爱尔达综合" tvg-name="爱尔达综合" tvg-logo="https://epg.112114.xyz/logo/爱尔达综合.png" group-title="Smart☠️源",台湾|爱尔达综合台
+https://smart.pendy.dpdns.org/Smart.php?id=eltazonghe_twn
+#EXTINF:-1,tvg-id="台湾|星卫电影" tvg-name="台湾|星卫电影" tvg-logo="https://epg.112114.xyz/logo/台湾|星卫电影.png" group-title="Smart☠️源",台湾|星卫电影
+https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
+#EXTINF:-1,tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://epg.112114.xyz/logo/亚洲旅游台.png" group-title="Smart☠️源",台湾|AFC 亚洲旅游台
+https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="Smart☠️源",电影频道|Cinemax
+https://smart.pendy.dpdns.org/Smart.php?id=Cinemax
+#EXTINF:-1,tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="Smart☠️源",电影频道|Animax
+https://smart.pendy.dpdns.org/Smart.php?id=Animax
+#EXTINF:-1,tvg-id="电影频道|Movies Now HD" tvg-name="电影频道|Movies Now HD" tvg-logo="https://epg.112114.xyz/logo/电影频道|MOVIESNOW.png" group-title="Smart☠️源",电影频道|Movies Now HD
+https://smart.pendy.dpdns.org/Smart.php?id=moviesnow_raj
+#EXTINF:-1,tvg-id="电影频道|Star Movies HD" tvg-name="电影频道|Star Movies HD" tvg-logo="https://epg.112114.xyz/logo/电影频道|STARMOVIES.png" group-title="Smart☠️源",电影频道|Star Movies HD
+https://smart.pendy.dpdns.org/Smart.php?id=starmovies_raj
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="Smart☠️源",电影频道|HBO Family
+https://smart.pendy.dpdns.org/Smart.php?id=Hbofamily
+#EXTINF:-1,tvg-id="HITS" tvg-name="HITS" tvg-logo="https://epg.112114.xyz/logo/HITS.png" group-title="Smart☠️源",电影频道|Hits
+https://smart.pendy.dpdns.org/Smart.php?id=Hits
+#EXTINF:-1,tvg-id="WARNERTV" tvg-name="WARNERTV" tvg-logo="https://epg.112114.xyz/logo/WARNERTV.png" group-title="Smart☠️源",电影频道|Warner TV
+https://smart.pendy.dpdns.org/Smart.php?id=WarnerTV
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="Smart☠️源",电影频道|HBO HD
+https://smart.pendy.dpdns.org/Smart.php?id=Hbo
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="Smart☠️源",电影频道|HBO Signature
+https://smart.pendy.dpdns.org/Smart.php?id=Hbosignature
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="Smart☠️源",电影频道|HBO Hits
+https://smart.pendy.dpdns.org/Smart.php?id=Hbohitshd
+#EXTINF:-1,tvg-id="电影频道|SCM" tvg-name="电影频道|SCM" tvg-logo="https://epg.112114.xyz/logo/电影频道|SCM.png" group-title="Smart☠️源",电影频道|SCM
+https://smart.pendy.dpdns.org/Smart.php?id=Weishimovie
+#EXTINF:-1,tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://epg.112114.xyz/logo/DREAMWORKS.png" group-title="Smart☠️源",电影频道|Dreamworks
+https://smart.pendy.dpdns.org/Smart.php?id=Dreamworks
+#EXTINF:-1,tvg-id="THRILL" tvg-name="THRILL" tvg-logo="https://epg.112114.xyz/logo/THRILL.png" group-title="Smart☠️源",电影频道|Thrill
+https://smart.pendy.dpdns.org/Smart.php?id=Thrill
+#EXTINF:-1,tvg-id="HITS" tvg-name="HITS" tvg-logo="https://epg.112114.xyz/logo/HITS.png" group-title="Smart☠️源",电影频道|Hits Movie
+https://smart.pendy.dpdns.org/Smart.php?id=Hitsmovie
+#EXTINF:-1,tvg-id="电影频道|One" tvg-name="电影频道|One" tvg-logo="https://epg.112114.xyz/logo/电影频道|ONE.png" group-title="Smart☠️源",电影频道|One
+https://smart.pendy.dpdns.org/Smart.php?id=One
+#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="Smart☠️源",电影频道|tvN Movie
+https://smart.pendy.dpdns.org/Smart.php?id=Tvnmovie
+#EXTINF:-1,tvg-id="电影频道|Celestial Classic" tvg-name="电影频道|Celestial Classic" tvg-logo="https://epg.112114.xyz/logo/电影频道|CELESTIALCLASSIC.png" group-title="Smart☠️源",电影频道|Celestial Classic
+https://smart.pendy.dpdns.org/Smart.php?id=Celestial2
+#EXTINF:-1,tvg-id="电影频道|Celestial Movies HD" tvg-name="电影频道|Celestial Movies HD" tvg-logo="https://epg.112114.xyz/logo/电影频道|CELESTIALMOVIES.png" group-title="Smart☠️源",电影频道|Celestial Movies HD
+https://smart.pendy.dpdns.org/Smart.php?id=Celestialindo
+#EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="Smart☠️源",电影频道|Axn HD
+https://smart.pendy.dpdns.org/Smart.php?id=Axn
+#EXTINF:-1,tvg-id="电影频道|Paramount Network" tvg-name="电影频道|Paramount Network" tvg-logo="https://epg.112114.xyz/logo/电影频道|PARAMOUNTNETWORK.png" group-title="Smart☠️源",电影频道|Paramount Network
+https://smart.pendy.dpdns.org/Smart.php?id=Paramountnetwork
+#EXTINF:-1,tvg-id="电影频道|Astrol Kplus" tvg-name="电影频道|Astrol Kplus" tvg-logo="https://epg.112114.xyz/logo/电影频道|ASTROLKPLUS.png" group-title="Smart☠️源",电影频道|Astrol Kplus
+https://smart.pendy.dpdns.org/Smart.php?id=Kplus
+#EXTINF:-1,tvg-id="电影频道|Rock Actions" tvg-name="电影频道|Rock Actions" tvg-logo="https://epg.112114.xyz/logo/电影频道|ROCKACTIONS.png" group-title="Smart☠️源",电影频道|Rock Actions
+https://smart.pendy.dpdns.org/Smart.php?id=Rockaction
+#EXTINF:-1,tvg-id="电影频道|Rock Entertainment" tvg-name="电影频道|Rock Entertainment" tvg-logo="https://epg.112114.xyz/logo/电影频道|ROCKENTERTAINMENT.png" group-title="Smart☠️源",电影频道|Rock Entertainment
+https://smart.pendy.dpdns.org/Smart.php?id=Rockentertain
+#EXTINF:-1,tvg-id="纪录频道|Natgeo_HD" tvg-name="纪录频道|Natgeo_HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|NATGEO_.png" group-title="Smart☠️源",纪录频道|Natgeo_HD
+https://smart.pendy.dpdns.org/Smart.php?id=natgeohd_twn
+#EXTINF:-1,tvg-id="纪录频道|NatGeo_Wild HD" tvg-name="纪录频道|NatGeo_Wild HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|NATGEO_WILD.png" group-title="Smart☠️源",纪录频道|NatGeo_Wild HD
+https://smart.pendy.dpdns.org/Smart.php?id=natgeowild_twn
+#EXTINF:-1,tvg-id="纪录频道|Animal_Planet" tvg-name="纪录频道|Animal_Planet" tvg-logo="https://epg.112114.xyz/logo/纪录频道|ANIMAL_PLANET.png" group-title="Smart☠️源",纪录频道|Animal_Planet
+https://smart.pendy.dpdns.org/Smart.php?id=animalplanet_twn
+#EXTINF:-1,tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="Smart☠️源",纪录频道|Discovery Asia
+https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="Smart☠️源",纪录频道|CI
+https://smart.pendy.dpdns.org/Smart.php?id=ci_twn
+#EXTINF:-1,tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="Smart☠️源",纪录频道|Discovery HD
+https://smart.pendy.dpdns.org/Smart.php?id=discoveryhd_twn
+#EXTINF:-1,tvg-id="纪录频道|NatGeo HD" tvg-name="纪录频道|NatGeo HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|NATGEO.png" group-title="Smart☠️源",纪录频道|NatGeo HD
+https://smart.pendy.dpdns.org/Smart.php?id=Natgeo
+#EXTINF:-1,tvg-id="FASHIONTV" tvg-name="FASHIONTV" tvg-logo="https://epg.112114.xyz/logo/FASHIONTV.png" group-title="Smart☠️源",纪录频道|Fashion TV
+https://smart.pendy.dpdns.org/Smart.php?id=fashiontv_twn
+#EXTINF:-1,tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://epg.112114.xyz/logo/HISTORY.png" group-title="Smart☠️源",纪录频道|History
+https://smart.pendy.dpdns.org/Smart.php?id=History
+#EXTINF:-1,tvg-id="BBCEARTH" tvg-name="BBCEARTH" tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png" group-title="Smart☠️源",纪录频道|BBC Earth HD
+https://smart.pendy.dpdns.org/Smart.php?id=bbcearth_twn
+#EXTINF:-1,tvg-id="BBCEARTH" tvg-name="BBCEARTH" tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png" group-title="Smart☠️源",纪录频道|BBC Earth Lifestyle
+https://smart.pendy.dpdns.org/Smart.php?id=bbclifestyle_twn
+#EXTINF:-1,tvg-id="纪录频道|NatGeo Wild HD" tvg-name="纪录频道|NatGeo Wild HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|NATGEOWILD.png" group-title="Smart☠️源",纪录频道|NatGeo Wild HD
+https://smart.pendy.dpdns.org/Smart.php?id=Natgeowild
+#EXTINF:-1,tvg-id="纪录频道|Animal Planet (Eng)" tvg-name="纪录频道|Animal Planet (Eng)" tvg-logo="https://epg.112114.xyz/logo/纪录频道|ANIMALPLANET(ENG).png" group-title="Smart☠️源",纪录频道|Animal Planet (Eng)
+https://smart.pendy.dpdns.org/Smart.php?id=AnimalPlanet
+#EXTINF:-1,tvg-id="纪录频道|TLC" tvg-name="纪录频道|TLC" tvg-logo="https://epg.112114.xyz/logo/纪录频道|TLC.png" group-title="Smart☠️源",纪录频道|TLC
+https://smart.pendy.dpdns.org/Smart.php?id=Tlc
+#EXTINF:-1,tvg-id="纪录频道|Foodnetwork Hd" tvg-name="纪录频道|Foodnetwork Hd" tvg-logo="https://epg.112114.xyz/logo/纪录频道|FOODNETWORK.png" group-title="Smart☠️源",纪录频道|Foodnetwork Hd
+https://smart.pendy.dpdns.org/Smart.php?id=Foodnetwork
+#EXTINF:-1,tvg-id="纪录频道|HGTV" tvg-name="纪录频道|HGTV" tvg-logo="https://epg.112114.xyz/logo/纪录频道|HGTV.png" group-title="Smart☠️源",纪录频道|HGTV
+https://smart.pendy.dpdns.org/Smart.php?id=HGTV
+#EXTINF:-1,tvg-id="SKYNEWS" tvg-name="SKYNEWS" tvg-logo="https://epg.112114.xyz/logo/SKYNEWS.png" group-title="Smart☠️源",新闻频道|Skynews
+https://smart.pendy.dpdns.org/Smart.php?id=skynews_twn
+#EXTINF:-1,tvg-id="新闻频道|ABC News" tvg-name="新闻频道|ABC News" tvg-logo="https://epg.112114.xyz/logo/新闻频道|ABCNEWS.png" group-title="Smart☠️源",新闻频道|ABC News
+https://smart.pendy.dpdns.org/Smart.php?id=abcnews_glo
+#EXTINF:-1,tvg-id="新闻频道|CBS HD" tvg-name="新闻频道|CBS HD" tvg-logo="https://epg.112114.xyz/logo/新闻频道|CBS.png" group-title="Smart☠️源",新闻频道|CBS HD
+https://smart.pendy.dpdns.org/Smart.php?id=cbshd_glo
+#EXTINF:-1,tvg-id="新闻频道|CBSN HD" tvg-name="新闻频道|CBSN HD" tvg-logo="https://epg.112114.xyz/logo/新闻频道|CBSN.png" group-title="Smart☠️源",新闻频道|CBSN HD
+https://smart.pendy.dpdns.org/Smart.php?id=cbsn_glo
+#EXTINF:-1,tvg-id="FRANCE24" tvg-name="FRANCE24" tvg-logo="https://epg.112114.xyz/logo/FRANCE24.png" group-title="Smart☠️源",新闻频道|France 24
+https://smart.pendy.dpdns.org/Smart.php?id=france24_twn
+#EXTINF:-1,tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="Smart☠️源",新闻频道|DW (Deutsch)
+https://smart.pendy.dpdns.org/Smart.php?id=dw_twn
+#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="Smart☠️源",新闻频道|NHK World
+https://smart.pendy.dpdns.org/Smart.php?id=nhkworld_japan
+#EXTINF:-1,tvg-id="FOX" tvg-name="FOX" tvg-logo="https://epg.112114.xyz/logo/FOX.png" group-title="Smart☠️源",新闻频道|Fox News
+https://smart.pendy.dpdns.org/Smart.php?id=foxnews_twn
+#EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="Smart☠️源",新闻频道|CNN International
+https://smart.pendy.dpdns.org/Smart.php?id=Cnn
+#EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="Smart☠️源",新闻频道|CNN backup
+https://smart.pendy.dpdns.org/Smart.php?id=cnn_twn
+#EXTINF:-1,tvg-id="新闻频道|CNBC" tvg-name="新闻频道|CNBC" tvg-logo="https://epg.112114.xyz/logo/新闻频道|CNBC.png" group-title="Smart☠️源",新闻频道|CNBC
+https://smart.pendy.dpdns.org/Smart.php?id=cnbc_twn
+#EXTINF:-1,tvg-id="新闻频道|CNA" tvg-name="新闻频道|CNA" tvg-logo="https://epg.112114.xyz/logo/新闻频道|CNA.png" group-title="Smart☠️源",新闻频道|CNA
+https://smart.pendy.dpdns.org/Smart.php?id=cna
+#EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="Smart☠️源",新闻频道|BBC World News
+https://smart.pendy.dpdns.org/Smart.php?id=bbcnews_twn
+#EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="Smart☠️源",新闻频道|BBC World News
+https://smart.pendy.dpdns.org/Smart.php?id=Bbcnews
+#EXTINF:-1,tvg-id="新闻频道|Bloomberg News" tvg-name="新闻频道|Bloomberg News" tvg-logo="https://epg.112114.xyz/logo/新闻频道|BLOOMBERGNEWS.png" group-title="Smart☠️源",新闻频道|Bloomberg News
+https://smart.pendy.dpdns.org/Smart.php?id=bloomberg_twn
+#EXTINF:-1,tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="https://epg.112114.xyz/logo/ALJAZEERA.png" group-title="Smart☠️源",新闻频道|Al-Jazeera
+https://smart.pendy.dpdns.org/Smart.php?id=aljazeera_twn
+#EXTINF:-1,tvg-id="BABYTV" tvg-name="BABYTV" tvg-logo="https://epg.112114.xyz/logo/BABYTV.png" group-title="Smart☠️源",儿童频道|Baby TV Eng
+https://smart.pendy.dpdns.org/Smart.php?id=Babytv
+#EXTINF:-1,tvg-id="CBEEBIES" tvg-name="CBEEBIES" tvg-logo="https://epg.112114.xyz/logo/CBEEBIES.png" group-title="Smart☠️源",儿童频道|CBeebies
+https://smart.pendy.dpdns.org/Smart.php?id=Cbeebies
+#EXTINF:-1,tvg-id="儿童频道|Kids TV" tvg-name="儿童频道|Kids TV" tvg-logo="https://epg.112114.xyz/logo/儿童频道|KIDSTV.png" group-title="Smart☠️源",儿童频道|Kids TV
+https://smart.pendy.dpdns.org/Smart.php?id=KidsTV
+#EXTINF:-1,tvg-id="儿童频道|Momo TV" tvg-name="儿童频道|Momo TV" tvg-logo="https://epg.112114.xyz/logo/儿童频道|MOMOTV.png" group-title="Smart☠️源",儿童频道|Momo TV
+https://smart.pendy.dpdns.org/Smart.php?id=momo1_twn
+#EXTINF:-1,tvg-id="BABYTV" tvg-name="BABYTV" tvg-logo="https://epg.112114.xyz/logo/BABYTV.png" group-title="Smart☠️源",儿童频道|Baby TV
+https://smart.pendy.dpdns.org/Smart.php?id=babytv_twn
+#EXTINF:-1,tvg-id="儿童频道|MiaoMi" tvg-name="儿童频道|MiaoMi" tvg-logo="https://epg.112114.xyz/logo/儿童频道|MIAOMI.png" group-title="Smart☠️源",儿童频道|MiaoMi
+https://smart.pendy.dpdns.org/Smart.php?id=MiaoMi
+#EXTINF:-1,tvg-id="儿童频道|Cartoon Network" tvg-name="儿童频道|Cartoon Network" tvg-logo="https://epg.112114.xyz/logo/儿童频道|CARTOONNETWORK.png" group-title="Smart☠️源",儿童频道|Cartoon Network
+https://smart.pendy.dpdns.org/Smart.php?id=Cn
+#EXTINF:-1,tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://epg.112114.xyz/logo/NICKELODEON.png" group-title="Smart☠️源",儿童频道|Nickelodeon
+https://smart.pendy.dpdns.org/Smart.php?id=Nickelodeon
+#EXTINF:-1,tvg-id="儿童频道|Nick Jr" tvg-name="儿童频道|Nick Jr" tvg-logo="https://epg.112114.xyz/logo/儿童频道|NICKJR.png" group-title="Smart☠️源",儿童频道|Nick Jr
+https://smart.pendy.dpdns.org/Smart.php?id=Nickjr
+#EXTINF:-1,tvg-id="体育频道|Astro Premier League 1" tvg-name="体育频道|Astro Premier League 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROPREMIERLEAGUE1.png" group-title="Smart☠️源",体育频道|Astro Premier League 1
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
+#EXTINF:-1,tvg-id="体育频道|Astro EPL 1 backup" tvg-name="体育频道|Astro EPL 1 backup" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROEPL1BACKUP.png" group-title="Smart☠️源",体育频道|Astro EPL 1 backup
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp1x
+#EXTINF:-1,tvg-id="体育频道|Astro Premier League 2" tvg-name="体育频道|Astro Premier League 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROPREMIERLEAGUE2.png" group-title="Smart☠️源",体育频道|Astro Premier League 2
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
+#EXTINF:-1,tvg-id="体育频道|Astro Grandstand" tvg-name="体育频道|Astro Grandstand" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROGRANDSTAND.png" group-title="Smart☠️源",体育频道|Astro Grandstand
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
+#EXTINF:-1,tvg-id="体育频道|Astro Football" tvg-name="体育频道|Astro Football" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROFOOTBALL.png" group-title="Smart☠️源",体育频道|Astro Football
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
+#EXTINF:-1,tvg-id="体育频道|Astro Sports Plus" tvg-name="体育频道|Astro Sports Plus" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROSPORTSPLUS.png" group-title="Smart☠️源",体育频道|Astro Sports Plus
+https://smart.pendy.dpdns.org/Smart.php?id=go_sportsplus
+#EXTINF:-1,tvg-id="体育频道|Astro Badminton 1" tvg-name="体育频道|Astro Badminton 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROBADMINTON1.png" group-title="Smart☠️源",体育频道|Astro Badminton 1
+https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
+#EXTINF:-1,tvg-id="体育频道|Astro Badminton 2" tvg-name="体育频道|Astro Badminton 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROBADMINTON2.png" group-title="Smart☠️源",体育频道|Astro Badminton 2
+https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
+#EXTINF:-1,tvg-id="体育频道|Astro W-Sports" tvg-name="体育频道|Astro W-Sports" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROWSPORTS.png" group-title="Smart☠️源",体育频道|Astro W-Sports
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp5
+#EXTINF:-1,tvg-id="体育频道|Supersports 1" tvg-name="体育频道|Supersports 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|SUPERSPORTS1.png" group-title="Smart☠️源",体育频道|Supersports 1
+https://smart.pendy.dpdns.org/Smart.php?id=Assp1
+#EXTINF:-1,tvg-id="体育频道|Supersports 2" tvg-name="体育频道|Supersports 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|SUPERSPORTS2.png" group-title="Smart☠️源",体育频道|Supersports 2
+https://smart.pendy.dpdns.org/Smart.php?id=Assp2
+#EXTINF:-1,tvg-id="体育频道|Supersports 3" tvg-name="体育频道|Supersports 3" tvg-logo="https://epg.112114.xyz/logo/体育频道|SUPERSPORTS3.png" group-title="Smart☠️源",体育频道|Supersports 3
+https://smart.pendy.dpdns.org/Smart.php?id=Assp3
+#EXTINF:-1,tvg-id="体育频道|Supersports 4" tvg-name="体育频道|Supersports 4" tvg-logo="https://epg.112114.xyz/logo/体育频道|SUPERSPORTS4.png" group-title="Smart☠️源",体育频道|Supersports 4
+https://smart.pendy.dpdns.org/Smart.php?id=Assp4
+#EXTINF:-1,tvg-id="体育频道|WWE" tvg-name="体育频道|WWE" tvg-logo="https://epg.112114.xyz/logo/体育频道|WWE.png" group-title="Smart☠️源",体育频道|WWE
+https://smart.pendy.dpdns.org/Smart.php?id=Wwe
+#EXTINF:-1,tvg-id="体育频道|Fight Sports" tvg-name="体育频道|Fight Sports" tvg-logo="https://epg.112114.xyz/logo/体育频道|FIGHTSPORTS.png" group-title="Smart☠️源",体育频道|Fight Sports
+https://smart.pendy.dpdns.org/Smart.php?id=Fs
+#EXTINF:-1,tvg-id="体育频道|NBA TV" tvg-name="体育频道|NBA TV" tvg-logo="https://epg.112114.xyz/logo/体育频道|NBATV.png" group-title="Smart☠️源",体育频道|NBA TV
+https://smart.pendy.dpdns.org/Smart.php?id=Nba
+#EXTINF:-1,tvg-id="体育频道|Astro Cricket" tvg-name="体育频道|Astro Cricket" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROCRICKET.png" group-title="Smart☠️源",体育频道|Astro Cricket
+https://smart.pendy.dpdns.org/Smart.php?id=Acricket
+#EXTINF:-1,tvg-id="体育频道|Astro Golf" tvg-name="体育频道|Astro Golf" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROGOLF.png" group-title="Smart☠️源",体育频道|Astro Golf
+https://smart.pendy.dpdns.org/Smart.php?id=Agolf
+#EXTINF:-1,tvg-id="体育频道|Tnt Sports 1" tvg-name="体育频道|Tnt Sports 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|TNTSPORTS1.png" group-title="Smart☠️源",体育频道|Tnt Sports 1
+https://smart.pendy.dpdns.org/Smart.php?id=6fac0aaead
+#EXTINF:-1,tvg-id="体育频道|TNT Sports 2" tvg-name="体育频道|TNT Sports 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|TNTSPORTS2.png" group-title="Smart☠️源",体育频道|TNT Sports 2
+https://smart.pendy.dpdns.org/Smart.php?id=d9a76a79cc
+#EXTINF:-1,tvg-id="体育频道|TNT Sports 3" tvg-name="体育频道|TNT Sports 3" tvg-logo="https://epg.112114.xyz/logo/体育频道|TNTSPORTS3.png" group-title="Smart☠️源",体育频道|TNT Sports 3
+https://smart.pendy.dpdns.org/Smart.php?id=5fea4d73db
+#EXTINF:-1,tvg-id="体育频道|TNT Sports 4" tvg-name="体育频道|TNT Sports 4" tvg-logo="https://epg.112114.xyz/logo/体育频道|TNTSPORTS4.png" group-title="Smart☠️源",体育频道|TNT Sports 4
+https://smart.pendy.dpdns.org/Smart.php?id=tntsport4
+#EXTINF:-1,tvg-id="体育频道|Sony Ten 1" tvg-name="体育频道|Sony Ten 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|SONYTEN1.png" group-title="Smart☠️源",体育频道|Sony Ten 1
+https://smart.pendy.dpdns.org/Smart.php?id=ten1_raj
+#EXTINF:-1,tvg-id="体育频道|Sony Ten 2" tvg-name="体育频道|Sony Ten 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|SONYTEN2.png" group-title="Smart☠️源",体育频道|Sony Ten 2
+https://smart.pendy.dpdns.org/Smart.php?id=ten2_raj
+#EXTINF:-1,tvg-id="体育频道|Sony Ten 3" tvg-name="体育频道|Sony Ten 3" tvg-logo="https://epg.112114.xyz/logo/体育频道|SONYTEN3.png" group-title="Smart☠️源",体育频道|Sony Ten 3
+https://smart.pendy.dpdns.org/Smart.php?id=ten3_raj
+#EXTINF:-1,tvg-id="体育频道|SPOTV 1 HD" tvg-name="体育频道|SPOTV 1 HD" tvg-logo="https://epg.112114.xyz/logo/体育频道|SPOTV1.png" group-title="Smart☠️源",体育频道|SPOTV 1 HD
+https://smart.pendy.dpdns.org/Smart.php?id=go_spotv
+#EXTINF:-1,tvg-id="体育频道|SPO TV 2" tvg-name="体育频道|SPO TV 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|SPOTV2.png" group-title="Smart☠️源",体育频道|SPO TV 2
+https://smart.pendy.dpdns.org/Smart.php?id=go_spotv2
+#EXTINF:-1,tvg-id="体育频道|Skysports F1" tvg-name="体育频道|Skysports F1" tvg-logo="https://epg.112114.xyz/logo/体育频道|SKYSPORTSF1.png" group-title="Smart☠️源",体育频道|Skysports F1
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongf1
+#EXTINF:-1,tvg-id="体育频道|Skysports Cricket" tvg-name="体育频道|Skysports Cricket" tvg-logo="https://epg.112114.xyz/logo/体育频道|SKYSPORTSCRICKET.png" group-title="Smart☠️源",体育频道|Skysports Cricket
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongcricket
+#EXTINF:-1,tvg-id="体育频道|Skysports EPL" tvg-name="体育频道|Skysports EPL" tvg-logo="https://epg.112114.xyz/logo/体育频道|SKYSPORTSEPL.png" group-title="Smart☠️源",体育频道|Skysports EPL
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongepl
+#EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="Smart☠️源",体育频道|Skysports Main Event
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongmain
+#EXTINF:-1,tvg-id="体育频道|Skysports News" tvg-name="体育频道|Skysports News" tvg-logo="https://epg.112114.xyz/logo/体育频道|SKYSPORTSNEWS.png" group-title="Smart☠️源",体育频道|Skysports News
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongnews
+#EXTINF:-1,tvg-id="体育频道|Skysports Mix" tvg-name="体育频道|Skysports Mix" tvg-logo="https://epg.112114.xyz/logo/体育频道|SKYSPORTSMIX.png" group-title="Smart☠️源",体育频道|Skysports Mix
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongmix
+#EXTINF:-1,tvg-id="爱尔达体育2" tvg-name="爱尔达体育2" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育2.png" group-title="Smart☠️源",体育频道|爱尔达体育2台
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
+#EXTINF:-1,tvg-id="爱尔达体育3" tvg-name="爱尔达体育3" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育3.png" group-title="Smart☠️源",体育频道|爱尔达体育3台
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
+#EXTINF:-1,tvg-id="体育频道|Rugby Pass TV" tvg-name="体育频道|Rugby Pass TV" tvg-logo="https://epg.112114.xyz/logo/体育频道|RUGBYPASSTV.png" group-title="Smart☠️源",体育频道|Rugby Pass TV
+https://smart.pendy.dpdns.org/Smart.php?id=Rugbypasstv
+#EXTINF:-1,tvg-id="体育频道|RTM Sports HD" tvg-name="体育频道|RTM Sports HD" tvg-logo="https://epg.112114.xyz/logo/体育频道|RTMSPORTS.png" group-title="Smart☠️源",体育频道|RTM Sports HD
+https://smart.pendy.dpdns.org/Smart.php?id=Rtmsport
+#EXTINF:-1,tvg-id="体育频道|Arena" tvg-name="体育频道|Arena" tvg-logo="https://epg.112114.xyz/logo/体育频道|ARENA.png" group-title="Smart☠️源",体育频道|Arena
+https://smart.pendy.dpdns.org/Smart.php?id=Arena
+#EXTINF:-1,tvg-id="体育频道|Arena 2" tvg-name="体育频道|Arena 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|ARENA2.png" group-title="Smart☠️源",体育频道|Arena 2
+https://smart.pendy.dpdns.org/Smart.php?id=Arena2
+#EXTINF:-1,tvg-id="体育频道|BolaArena 1" tvg-name="体育频道|BolaArena 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|BOLAARENA1.png" group-title="Smart☠️源",体育频道|BolaArena 1
+https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
+#EXTINF:-1,tvg-id="体育频道|BolaArena 2" tvg-name="体育频道|BolaArena 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|BOLAARENA2.png" group-title="Smart☠️源",体育频道|BolaArena 2
+https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena2
+#EXTINF:-1,tvg-id="体育频道|Astro Beinsports 1" tvg-name="体育频道|Astro Beinsports 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROBEINSPORTS1.png" group-title="Smart☠️源",体育频道|Astro Beinsports 1
+https://smart.pendy.dpdns.org/Smart.php?id=Astrobein1
+#EXTINF:-1,tvg-id="体育频道|Astro Beinsports 2" tvg-name="体育频道|Astro Beinsports 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROBEINSPORTS2.png" group-title="Smart☠️源",体育频道|Astro Beinsports 2
+https://smart.pendy.dpdns.org/Smart.php?id=Astrobein2
+#EXTINF:-1,tvg-id="体育频道|Astro Beinsports 3" tvg-name="体育频道|Astro Beinsports 3" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROBEINSPORTS3.png" group-title="Smart☠️源",体育频道|Astro Beinsports 3
+https://smart.pendy.dpdns.org/Smart.php?id=Astrobein3
+
+
+
+
+
+
+
