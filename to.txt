@@ -6,6 +6,13 @@
   "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
   "sites": [
  
+     {  "key": "csp_Jpys",
+      "name": "🥇金牌┃1080P",
+      "type": 3,
+      "api": "csp_Jpys"
+    },
+
+{"key":"金牌影视PY","name":"🧡金牌｜PY影视","type":3,"api":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/plugin/html/金牌.py","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":{"site":"https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}}, 
 
     {
       "key": "py_aidianying",
@@ -84,16 +91,8 @@
          "changeable":1
       },
 
-{"key":"金牌影视PY","name":"🧡金牌｜PY影视","type":3,"api":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/plugin/html/金牌.py","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":{"site":"https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}}, 
 
 
-       {
-            "key": "金牌影视",
-           "name": "🏅金牌┃蓝光",
-           "jar": "http://我不是.摸鱼儿.xyz/by/jar/moyuer.php",
-            "type": 3,
-            "api": "csp_Jpys"
-        },
 
 
         {
@@ -122,123 +121,6 @@
         },
 
 
-
-    {
-      "key": "drpy_js_KTV",
-      "name": "★ KTV音乐 ★",
-      "type": 3,
-      "api": "https://10526.kstore.vip/%E6%98%9F%E6%B2%B3%E5%BD%B1%E8%A7%86/drpy2.min.js",
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "ext": "https://10526.kstore.vip/%E6%98%9F%E6%B2%B3%E5%BD%B1%E8%A7%86/KTV.js"
-    },
-
-    {
-      "key": "biligequ",
-      "name": "★ bili歌曲 ★",
-      "type": 3,
-      "jar": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/xmky.jar",
-      "api": "csp_Bili",    
-      "searchable": 1,
-      "ext": {
-        "json": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/bili.json",
-        "cookie": "SESSDATA=819d93e8%2C1764426658%2C4ec10%2A61CjA74Z7n0isRlTABldomYIMAwyRBPDvLaJl9ERae-vTzTalKiYoDX6Qu9J0E5fof-h0SVlJfUUE0T1RLaExUQWloSUNBNG9ROEZQazBJX3FDX0VkWUFZQ0t2LXFtbnJmdUI1eEkwUnVJVl96Nk1sZTBDeFYtTkxVUjc5MjZsVjFWSENjR0hnZUVBIIEC;bili_jct=b655010f87e4dcb20ea46a191d23a443;DedeUserID=3546382984022310;DedeUserID__ckMd5=9728526c8c2ad2a5;sid=51az4mji"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      }
-    },
-
-   {
-      "key": "HG影视",
-      "name": "HG影视｜影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://cs.hgyx.vip/api2/api.php/app/"
-    }, 
-
-    {
-      "key": "海纳影视",
-      "name": "海纳｜影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/HNYS.json"
-    },
- 
-   {
-      "key": "爱看机器人",
-      "name": "爱看｜影视",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-
-    {
-      "key": "星河",
-      "name": "星河┃APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://121.62.22.204:9876",
-        "dataKey": "f5e2tx53ykp6s2c9",
-        "dataIv": "f5e2tx53ykp6s2c9",
-        "deviceId": "",
-        "version": "361"
-      }
-    },
-
-     {
-            "key": "橘猫",
-            "name": "橘猫┃4K",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet2",
-            "ext": {
-                "url": "https://qjappcms.jm4k.top",
-                "dataKey": "pBVmysmGX8TsgrQN",
-                "dataIv": "pBVmysmGX8TsgrQN",
-                "deviceId": "",
-                "version": "120"
-            }
-        },  
-
-  {
-            "key": "水滴",
-            "name": "水滴┃APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet2",
-            "ext": {
-                "url": "http://1.94.105.93",
-                "dataKey": "gKdQKLbwhhLp4Ytv",
-                "dataIv": "gKdQKLbwhhLp4Ytv",
-                "deviceId": "",
-                "version": ""
-            }
-        }, 
-
-
-
- {
-            "key": "QD4K",
-            "name": "💖起点m3u",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://172.83.156.150:1010/api.php/app/"
-        },
 
 
         
@@ -548,7 +430,11 @@
 
 
 
-
+  {
+    "name": "🥉 4GTV",
+    "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/4GTV.txt",
+    "ua": "judy/5.2.1"
+  },
 
     
 
@@ -606,11 +492,7 @@
             "url": "https://firebasestorage.googleapis.com/v0/b/myiptv-f81a8.appspot.com/o/robyang.txt.m3u?alt=media&token=72c905aa-6d4d-4f2e-b3d1-78114ee11b9b"
         },
 
-  {
-    "name": "🥉 4GTV",
-    "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/4GTV.txt",
-    "ua": "judy/5.2.1"
-  },
+
 
 {
       "name": "🥉 Gather",
