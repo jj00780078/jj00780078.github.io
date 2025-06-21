@@ -489,7 +489,11 @@
 
 
 
-
+  {
+    "name": "🥉 4GTV",
+    "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/4GTV.txt",
+    "ua": "judy/5.2.1"
+  },
 
     
 
@@ -505,27 +509,6 @@
                 "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
             }
            },
-
-
-
-     {
-      "name": "🥇 Judy直播",
-      "type": 0,
-      "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
-      "ext": {}
-    },
- 
-
-
-{
- "name": "🥇 YouTube新聞",
-  "type": 0,
-  "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/yt.txt",
-  "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-  "logo": "https://epg.112114.xyz/logo/{name}.png"
-},
-
-
 
     { 
       "name": "🥈 IP解析", 
@@ -544,6 +527,30 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt_proxy_001.py",
       "ext": {}
     },
+
+
+
+{
+      "name": "🥉 Gather",
+      "type": 0,
+      "url": "http://tv.iill.top/m3u/Gather",
+      "ua": "okhttp/3.8.1",
+      "timeout": 20,
+      "playerType": 1
+    },
+
+
+{
+ "name": "🥇 YouTube新聞",
+  "type": 0,
+  "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/yt.txt",
+  "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+  "logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+
+
+
+
 
 
 {
@@ -566,7 +573,13 @@
   },
 
 
-
+     {
+      "name": "🥇 Judy直播",
+      "type": 0,
+      "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
+      "ext": {}
+    },
+ 
         {
             "name": "🥉 RobYangrb",
             "type": 0,
@@ -574,26 +587,23 @@
             "url": "https://firebasestorage.googleapis.com/v0/b/myiptv-f81a8.appspot.com/o/robyang.txt.m3u?alt=media&token=72c905aa-6d4d-4f2e-b3d1-78114ee11b9b"
         },
 
-  {
-    "name": "🥉 4GTV",
-    "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/4GTV.txt",
-    "ua": "judy/5.2.1"
-  },
 
-{
-      "name": "🥉 Gather",
-      "type": 0,
-      "url": "http://tv.iill.top/m3u/Gather",
-      "ua": "okhttp/3.8.1",
-      "timeout": 20,
-      "playerType": 1
-    },
 
  {
       "name": "涛涛live",
       "type": 0,
       "playerType":2,
       "url": "http://xn--5mq46jrwl99dn01d.top/音乐/java/lib/yinyue.png"
+    },
+
+ {
+      "name": "天微MTV",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt",
+      "playerType": 2,
+      "ua": "okhttp/5.0.0-alpha.14",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
     {
