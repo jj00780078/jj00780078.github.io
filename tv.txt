@@ -3,7 +3,9 @@
 寰宇財經台,http://107.173.148.168/4gtv-4gtv158/index.m3u8
 東森財經新聞台,http://107.173.148.168/4gtv-4gtv153/index.m3u8
 非凡新聞台,http://107.173.148.168/4gtv-4gtv010/index.m3u8
-壹电视新闻台,http://198.204.238.242:6678/dc5b18a6891364897ca37be8cfeea966
+壹电视新闻台,https://198.204.238.242:6678/dc5b18a6891364897ca37be8cfeea966
+壹电视新闻台,P2p://198.204.238.242:6678/dc5b18a6891364897ca37be8cfeea966.ts
+壹电视新闻台,p3p://198.204.238.242:6678/dc5b18a6891364897ca37be8cfeea966
 壹新聞,https://ali.hlspull.yximgs.com/live/xU3rP45Zlsq8iQmxfcfQuW5oQXH9drAZ.flv
 壹新聞,https://ali.hlspull.yximgs.com/live/4e17bcfc31a10dde984d0eb0f6599f57.flv
 壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
