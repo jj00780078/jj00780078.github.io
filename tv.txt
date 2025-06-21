@@ -77,60 +77,10 @@ TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS新聞台,https://tv.iill.top/litv/4gtv-4gtv072
 
 
-寰宇财经,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv158/index.m3u8?proxy=true
-寰宇财经,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv158/index.m3u8?proxy=true
-寰宇财经,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv158/index.m3u8?proxy=true
-東森財經新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv153/index.m3u8?proxy=true
-東森財經新聞台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv153/index.m3u8?proxy=true
-東森財經新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv153/index.m3u8?proxy=true
-非凡新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv010/index.m3u8?proxy=true
-非凡新聞台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv010/index.m3u8?proxy=true
-非凡新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv010/index.m3u8?proxy=true
-民視新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-litv-ftv13/index.m3u8?proxy=true
-民視新聞台,http://xn--elt51t.azip.dpdns.org:5008/of-litv-ftv13/index.m3u8?proxy=true
-民視新聞台,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv13/index.m3u8?proxy=true
-東森新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv152/index.m3u8?proxy=true
-東森新聞台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv152/index.m3u8?proxy=true
-東森新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv152/index.m3u8?proxy=true
-寰宇新聞台灣台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv156/index.m3u8?proxy=true
-寰宇新聞台灣台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv156/index.m3u8?proxy=true
-寰宇新聞台灣台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv156/index.m3u8?proxy=true
-鏡電視新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv075/index.m3u8?proxy=true
-鏡電視新聞台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv075/index.m3u8?proxy=true
-鏡電視新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv075/index.m3u8?proxy=true
-TVBS新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv072/index.m3u8?proxy=true
-TVBS新聞台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv072/index.m3u8?proxy=true
-TVBS新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv072/index.m3u8?proxy=true
-寰宇新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn14/index.m3u8?proxy=true
-寰宇新聞台,http://xn--elt51t.azip.dpdns.org:5008/of-litv-longturn14/index.m3u8?proxy=true
-寰宇新聞台,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn14/index.m3u8?proxy=true
-三立iNEWS,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live089/index.m3u8?proxy=true
-三立iNEWS,http://xn--elt51t.azip.dpdns.org:5008/iNEWS/index.m3u8?proxy=true
 
 
-寰宇財經台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv158/index.m3u8
-寰宇財經台,http://4gtv.livednow.dpdns.org/4gtv-4gtv158/index.m3u8
-寰宇財經台,http://4gtv.livednow.dpdns.org/of-4gtv-4gtv158/index.m3u8
-東森財經新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv153/index.m3u8
-東森財經新聞台,http://4gtv.livednow.dpdns.org/4gtv-4gtv153/index.m3u8
-非凡新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv010/index.m3u8
-非凡新聞台,http://4gtv.livednow.dpdns.org/4gtv-4gtv010/index.m3u8
-民視新聞台,http://4gtv.livednow.dpdns.org/li-litv-ftv13/index.m3u8
-民視新聞台,http://4gtv.livednow.dpdns.org/litv-ftv13/index.m3u8
-東森新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv152/index.m3u8
-東森新聞台,http://4gtv.livednow.dpdns.org/4gtv-4gtv152/index.m3u8
-寰宇新聞台灣台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv156/index.m3u8
-寰宇新聞台灣台,http://4gtv.livednow.dpdns.org/4gtv-4gtv156/index.m3u8
-寰宇新聞台灣台,http://4gtv.livednow.dpdns.org/of-4gtv-4gtv156/index.m3u8
-鏡電視新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv075/index.m3u8
-鏡電視新聞台,http://4gtv.livednow.dpdns.org/4gtv-4gtv075/index.m3u8
-三立iNEWS,http://4gtv.livednow.dpdns.org/iNEWS/index.m3u8
-三立iNEWS,http://4gtv.livednow.dpdns.org/4gtv-live089/index.m3u8
-寰宇新聞台,http://4gtv.livednow.dpdns.org/li-litv-longturn14/index.m3u8
-寰宇新聞台,http://4gtv.livednow.dpdns.org/litv-longturn14/index.m3u8
-寰宇新聞台,http://4gtv.livednow.dpdns.org/of-litv-longturn14/index.m3u8
-寰宇新聞台,http://4gtv.livednow.dpdns.org/of-litv-longturn14/index.m3u8
-TVBS新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv072/index.m3u8
+
+
 
 
 
@@ -259,23 +209,45 @@ TVBS新聞台,p2p://142.54.189.229:7575/64df0c5d000a530d048e75f37b155008.ts
 TVBS新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=tvbs_n
 
 
-
-
-
-
-
+寰宇財經台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv158/index.m3u8
+寰宇財經台,http://4gtv.livednow.dpdns.org/4gtv-4gtv158/index.m3u8
+寰宇財經台,http://4gtv.livednow.dpdns.org/of-4gtv-4gtv158/index.m3u8
+東森財經新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv153/index.m3u8
+東森財經新聞台,http://4gtv.livednow.dpdns.org/4gtv-4gtv153/index.m3u8
+非凡新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv010/index.m3u8
+非凡新聞台,http://4gtv.livednow.dpdns.org/4gtv-4gtv010/index.m3u8
+民視新聞台,http://4gtv.livednow.dpdns.org/li-litv-ftv13/index.m3u8
+民視新聞台,http://4gtv.livednow.dpdns.org/litv-ftv13/index.m3u8
+東森新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv152/index.m3u8
+東森新聞台,http://4gtv.livednow.dpdns.org/4gtv-4gtv152/index.m3u8
+寰宇新聞台灣台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv156/index.m3u8
+寰宇新聞台灣台,http://4gtv.livednow.dpdns.org/4gtv-4gtv156/index.m3u8
+寰宇新聞台灣台,http://4gtv.livednow.dpdns.org/of-4gtv-4gtv156/index.m3u8
+鏡電視新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv075/index.m3u8
+鏡電視新聞台,http://4gtv.livednow.dpdns.org/4gtv-4gtv075/index.m3u8
+三立iNEWS,http://4gtv.livednow.dpdns.org/iNEWS/index.m3u8
+三立iNEWS,http://4gtv.livednow.dpdns.org/4gtv-live089/index.m3u8
+寰宇新聞台,http://4gtv.livednow.dpdns.org/li-litv-longturn14/index.m3u8
+寰宇新聞台,http://4gtv.livednow.dpdns.org/litv-longturn14/index.m3u8
+寰宇新聞台,http://4gtv.livednow.dpdns.org/of-litv-longturn14/index.m3u8
+寰宇新聞台,http://4gtv.livednow.dpdns.org/of-litv-longturn14/index.m3u8
+TVBS新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv072/index.m3u8
 鏡電視新聞台,http://4gtv.livednow.dpdns.org/4gtv-4gtv075/index.m3u8
 東森新聞台,http://4gtv.livednow.dpdns.org/4gtv-4gtv152/index.m3u8
-
 民視新聞台,http://4gtv.livednow.dpdns.org/litv-ftv13/index.m3u8
 三立iNEWS,http://4gtv.livednow.dpdns.org/4gtv-live089/index.m3u8
 東森財經新聞台,http://4gtv.livednow.dpdns.org/4gtv-4gtv153/index.m3u8
-
 寰宇新聞台,http://4gtv.livednow.dpdns.org/litv-longturn14/index.m3u8
 寰宇新聞台灣台,http://4gtv.livednow.dpdns.org/4gtv-4gtv156/index.m3u8
 寰宇財經台,http://4gtv.livednow.dpdns.org/4gtv-4gtv158/index.m3u8
-
 非凡新聞台,http://4gtv.livednow.dpdns.org/4gtv-4gtv010/index.m3u8
+
+
+
+
+
+
+
 
 
 
@@ -586,7 +558,35 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 TVBSNEWS新闻台,http://xn--94q.xn--0p5a.top/0405smt.php?id=tvbs_n
 东森新闻,http://xn--94q.xn--0p5a.top/0405smt.php?id=ettvnews
 
-
+寰宇财经,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv158/index.m3u8?proxy=true
+寰宇财经,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv158/index.m3u8?proxy=true
+寰宇财经,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv158/index.m3u8?proxy=true
+東森財經新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv153/index.m3u8?proxy=true
+東森財經新聞台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv153/index.m3u8?proxy=true
+東森財經新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv153/index.m3u8?proxy=true
+非凡新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv010/index.m3u8?proxy=true
+非凡新聞台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv010/index.m3u8?proxy=true
+非凡新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv010/index.m3u8?proxy=true
+民視新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-litv-ftv13/index.m3u8?proxy=true
+民視新聞台,http://xn--elt51t.azip.dpdns.org:5008/of-litv-ftv13/index.m3u8?proxy=true
+民視新聞台,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv13/index.m3u8?proxy=true
+東森新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv152/index.m3u8?proxy=true
+東森新聞台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv152/index.m3u8?proxy=true
+東森新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv152/index.m3u8?proxy=true
+寰宇新聞台灣台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv156/index.m3u8?proxy=true
+寰宇新聞台灣台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv156/index.m3u8?proxy=true
+寰宇新聞台灣台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv156/index.m3u8?proxy=true
+鏡電視新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv075/index.m3u8?proxy=true
+鏡電視新聞台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv075/index.m3u8?proxy=true
+鏡電視新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv075/index.m3u8?proxy=true
+TVBS新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv072/index.m3u8?proxy=true
+TVBS新聞台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv072/index.m3u8?proxy=true
+TVBS新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv072/index.m3u8?proxy=true
+寰宇新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn14/index.m3u8?proxy=true
+寰宇新聞台,http://xn--elt51t.azip.dpdns.org:5008/of-litv-longturn14/index.m3u8?proxy=true
+寰宇新聞台,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn14/index.m3u8?proxy=true
+三立iNEWS,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live089/index.m3u8?proxy=true
+三立iNEWS,http://xn--elt51t.azip.dpdns.org:5008/iNEWS/index.m3u8?proxy=true
 
 //晴天Mitv+P2p
 
