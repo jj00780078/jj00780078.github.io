@@ -7,14 +7,15 @@
 
 
 壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
-壹新聞,https://ali.hlspull.yximgs.com/live/xU3rP45Zlsq8iQmxfcfQuW5oQXH9drAZ.flv
-壹新聞,https://ali.hlspull.yximgs.com/live/4e17bcfc31a10dde984d0eb0f6599f57.flv
-壹新聞,https://ali.hlspull.yximgs.com/live/aebfef5a266a7577e6cbe0239825fd4d.flv
+壹新聞,http://ali.hlspull.yximgs.com/live/xU3rP45Zlsq8iQmxfcfQuW5oQXH9drAZ.flv
+壹新聞,http://ali.hlspull.yximgs.com/live/4e17bcfc31a10dde984d0eb0f6599f57.flv
+壹新聞,http://ali.hlspull.yximgs.com/live/aebfef5a266a7577e6cbe0239825fd4d.flv
 年代新聞台,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 
 三立新聞台,p2p://142.54.189.229:7575/64df114a00089e6504a1b34e5ec80344.ts
 三立新聞台,P2p://starvod.xyz:19806/7715336aa3654b1b9bc72a9672e9034a.ts
-
+三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+三立新闻,http://211.75.171.121:8537/http/61.67.128.137:8081/hls/65/807/ch018.m3u8
 
 民視新聞台,http://107.173.148.168/litv-ftv13/index.m3u8
 東森新聞台,http://107.173.148.168/4gtv-4gtv152/index.m3u8
