@@ -11,34 +11,28 @@
 
 
 
+寰宇財經台,http://115.193.127.27:5000/li-4gtv-4gtv158/index.m3u8
 
-寰宇財經台,http://107.173.148.168/4gtv-4gtv158/index.m3u8
-東森財經新聞台,http://107.173.148.168/4gtv-4gtv153/index.m3u8
+東森財經新聞台,http://115.193.127.27:5000/li-4gtv-4gtv153/index.m3u8
+
 非凡新聞台,http://107.173.148.168/4gtv-4gtv010/index.m3u8
-非凡新聞台,https://hls-gateway.vpstv.net/streams/477083.m3u8
 
 
-壹新聞,http://60.249.93.7:8528/.m3u8
+
+
 壹新聞,https://hls-gateway.vpstv.net/streams/488993.m3u8?token=
 壹新聞,https://hls-gateway.vpstv.net/streams/488993.m3u8?proxy=true
 壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
+壹新聞,http://60.249.93.7:8528/.m3u8
 壹新聞,http://ali.hlspull.yximgs.com/live/4e17bcfc31a10dde984d0eb0f6599f57.flv
 壹新聞,http://ali.hlspull.yximgs.com/live/aebfef5a266a7577e6cbe0239825fd4d.flv
 年代新聞台,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-三立新聞台,http://60.249.93.7:8506/.m3u8
-三立新聞台,http://60.249.93.7:8525/http/59.125.55.242:8881/hls/65/807/ch018.m3u8
+
 三立新聞台,p2p://142.54.189.229:7575/64df114a00089e6504a1b34e5ec80344.ts
 三立新聞台,P2p://starvod.xyz:19806/7715336aa3654b1b9bc72a9672e9034a.ts
 
 
 
-民視新聞台,http://107.173.148.168/litv-ftv13/index.m3u8
-東森新聞台,http://107.173.148.168/4gtv-4gtv152/index.m3u8
-寰宇新聞台灣台,http://107.173.148.168/4gtv-4gtv156/index.m3u8
-鏡電視新聞台,http://107.173.148.168/4gtv-4gtv075/index.m3u8
-三立iNEWS,http://107.173.148.168/4gtv-live089/index.m3u8
-寰宇新聞台,http://107.173.148.168/litv-longturn14/index.m3u8
-TVBS新聞台,http://107.173.148.168/li-4gtv-4gtv072/index.m3u8
 
 
 
@@ -132,8 +126,15 @@ TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 
 
-
-
+寰宇財經台,http://107.173.148.168/4gtv-4gtv158/index.m3u8
+東森財經新聞台,http://107.173.148.168/4gtv-4gtv153/index.m3u8
+民視新聞台,http://107.173.148.168/litv-ftv13/index.m3u8
+東森新聞台,http://107.173.148.168/4gtv-4gtv152/index.m3u8
+寰宇新聞台灣台,http://107.173.148.168/4gtv-4gtv156/index.m3u8
+鏡電視新聞台,http://107.173.148.168/4gtv-4gtv075/index.m3u8
+三立iNEWS,http://107.173.148.168/4gtv-live089/index.m3u8
+寰宇新聞台,http://107.173.148.168/litv-longturn14/index.m3u8
+TVBS新聞台,http://107.173.148.168/li-4gtv-4gtv072/index.m3u8
 
 
 
@@ -182,7 +183,7 @@ TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 非凡新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=feifannews_twn
 非凡新聞台,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=MACA3363565933635659&ct=19234&tsum=ec8caeb654e3121f9bb3ed39b1759999
 非凡新聞台,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
-
+非凡新聞台,https://hls-gateway.vpstv.net/streams/477083.m3u8
 
 
 
@@ -205,7 +206,8 @@ TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 
 
-
+三立新聞台,http://60.249.93.7:8506/.m3u8
+三立新聞台,http://60.249.93.7:8525/http/59.125.55.242:8881/hls/65/807/ch018.m3u8
 三立新聞台,mitv://starvod.xyz:19806/7715336aa3654b1b9bc72a9672e9034a.ts
 三立新聞台,http://cookies.elementfx.com/ublive/ublive.php?id=2794
 三立新聞台,https://epg.pw/stream/bad9a4ebaf24f0b19d4edd02bef68b5dd5b463eb5527e4b44bb68e23248c6ddb.m3u8

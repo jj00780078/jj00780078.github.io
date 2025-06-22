@@ -637,6 +637,17 @@
       
     },
 
+{
+    "name": "MQTV",
+      "api": "csp_MQiTV",
+      "jar": "https://slink.ltd/https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/jar/fmMQiTV.jar",
+      "ext": "http://182.113.234.53:8899",
+      "playerType": 1,
+
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+},
+
     {
       "name": "MiTV",
       "api": "csp_MQiTV",
