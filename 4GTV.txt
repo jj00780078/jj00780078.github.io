@@ -98,22 +98,22 @@ http://107.173.148.168/li-4gtv-4gtv158/index.m3u8
 http://107.173.148.168/4gtv-4gtv153/index.m3u8
 #EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png"" group-title="新聞財經",非凡新聞
 http://107.173.148.168/4gtv-4gtv010/index.m3u8
-#EXTINF:-1 tvg-id="Judy" tvg-name="三立新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET6.png" group-title="新聞財經",三立新聞
+#EXTINF:-1 tvg-id="Judy" tvg-name="三立新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET.png" group-title="新聞財經",三立新聞
 p2p://142.54.189.229:7575/64df114a00089e6504a1b34e5ec80344.ts
-#EXTINF:-1 tvg-id="Judy" tvg-name="三立新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET6.png" group-title="新聞財經",三立新聞
+#EXTINF:-1 tvg-id="Judy" tvg-name="三立新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET.png" group-title="新聞財經",三立新聞
 https://www.youtube.com/watch?v=MV9mI0GChwo
-#EXTINF:-1 tvg-id="Judy" tvg-name="三立新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET6.png" group-title="新聞財經",三立新聞
+#EXTINF:-1 tvg-id="Judy" tvg-name="三立新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET.png" group-title="新聞財經",三立新聞
 http://60.249.93.7:8525/http/59.125.55.242:8881/hls/65/807/ch018.m3u8
 
-#EXTINF:-1 tvg-id="Judy" tvg-name="年代新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ERA6.png" group-title="新聞財經",年代新聞台
+#EXTINF:-1 tvg-id="Judy" tvg-name="年代新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ERA.png" group-title="新聞財經",年代新聞台
 http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-#EXTINF:-1 tvg-id="Judy" tvg-name="年代新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ERA6.png" group-title="新聞財經",年代新聞台
+#EXTINF:-1 tvg-id="Judy" tvg-name="年代新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ERA.png" group-title="新聞財經",年代新聞台
 http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch27.m3u8?token=
-#EXTINF:-1 tvg-id="Judy" tvg-name="年代新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ERA6.png" group-title="新聞財經",年代新聞台
+#EXTINF:-1 tvg-id="Judy" tvg-name="年代新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ERA.png" group-title="新聞財經",年代新聞台
 p2p://142.54.189.229:7575/64df11830008ea4904a2921502394fe8.ts
-#EXTINF:-1 tvg-id="Judy" tvg-name="年代新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ERA6.png" group-title="新聞財經",年代新聞台
+#EXTINF:-1 tvg-id="Judy" tvg-name="年代新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ERA.png" group-title="新聞財經",年代新聞台
 http://198.16.100.186:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
-#EXTINF:-1 tvg-id="Judy" tvg-name="年代新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ERA3.png" group-title="新聞財經",年代新聞台
+#EXTINF:-1 tvg-id="Judy" tvg-name="年代新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ERA.png" group-title="新聞財經",年代新聞台
 http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=ME7E9182640991826409&ct=19234&tsum=4bc66c7c1f629232c2c2ce6aa7d024a5
 
 
