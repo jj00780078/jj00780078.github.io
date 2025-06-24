@@ -17,12 +17,12 @@
 
 
 壹新聞,http://125.105.212.47:13169/PLTV/mqlive/live.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2749.m3u8
-壹新聞,http://211.23.114.106:8516/PLTV/mqlive/live.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2749.m3u8
+壹新聞,http://60.249.93.7:8528/.m3u8
 壹新聞,https://hls-gateway.vpstv.net/streams/488993.m3u8?
 壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
 壹新聞,http://robyang.serv00.net/ublive.php?id=2777
 壹新聞,http://ali.hlspull.yximgs.com/live/aebfef5a266a7577e6cbe0239825fd4d.flv
-壹新聞,http://60.249.93.7:8528/.m3u8
+
 年代新聞台,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 
 三立新聞台,p2p://142.54.189.229:7575/64df114a00089e6504a1b34e5ec80344.ts
