@@ -17,6 +17,8 @@
 
 非凡新聞台,http://107.173.148.168/4gtv-4gtv010/index.m3u8
 
+東森財經新聞台,https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
+非凡新聞台,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
 
 
 
@@ -24,7 +26,7 @@
 壹新聞,https://hls-gateway.vpstv.net/streams/488993.m3u8?
 壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
 壹新聞,http://60.249.93.7:8528/.m3u8
-壹新聞,http://ali.hlspull.yximgs.com/live/4e17bcfc31a10dde984d0eb0f6599f57.flv
+壹新聞,http://robyang.serv00.net/ublive.php?id=2777
 壹新聞,http://ali.hlspull.yximgs.com/live/aebfef5a266a7577e6cbe0239825fd4d.flv
 年代新聞台,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 
@@ -45,7 +47,7 @@
 寰宇財經台,http://115.193.127.27:5000/of-4gtv-4gtv158/index.m3u8
 東森財經新聞台,http://115.193.127.27:5000/li-4gtv-4gtv153/index.m3u8
 東森財經新聞台,http://115.193.127.27:5000/4gtv-4gtv153/index.m3u8
-非凡新聞台,http://115.193.127.27:5000/li-4gtv-4gtv010/index.m3u8
+
 非凡新聞台,http://115.193.127.27:5000/4gtv-4gtv010/index.m3u8
 民視新聞台,http://115.193.127.27:5000/li-litv-ftv13/index.m3u8
 民視新聞台,http://115.193.127.27:5000/litv-ftv13/index.m3u8
@@ -255,7 +257,7 @@ TVBS新聞台,p2p://142.54.189.229:7575/64df0c5d000a530d048e75f37b155008.ts
 三立iNEWS,p3p://167.114.175.6:55331/644f81c10003ba2367cad2610d3a2ab5
 三立iNEWS,http://4gtv.mumi.rip:9877/229/4gtv-live089/index.m3u8
 TVBS新聞台,p2p://142.54.189.229:7575/64df0c5d000a530d048e75f37b155008.ts
-
+TVBS新聞台,,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
 
 寰宇財經台,http://smt.iktv.ddns-ip.net/Smart.php?id=huanyutaiwan_twn
 東森財經新聞台,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvcaijing_twn
@@ -339,7 +341,6 @@ TVBS新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv072/index.m3u8
 三立iNEWS,http://robyang.serv00.net/ublive.php?id=2398
 TVBS新聞台,http://robyang.serv00.net/ublive.php?id=2736
 TVBS新聞台,http://robyang.serv00.net/ublive.php?id=2
-
 
 
 
