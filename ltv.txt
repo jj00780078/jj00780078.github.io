@@ -20,10 +20,10 @@ Decoder=3
 非凡新聞台,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/75/817/ch57.m3u8
 非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
 
-壹新聞,http://60.249.93.7:8528/.m3u8
-壹新聞,https://hls-gateway.vpstv.net/streams/488993.m3u8?token=
-壹新聞,https://hls-gateway.vpstv.net/streams/488993.m3u8?proxy=true
-壹新聞,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
+壹新聞,http://211.23.114.106:8549/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
+壹新聞,http://125.105.212.47:13169/PLTV/mqlive/live.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2749.m3u8
+壹新聞,https://hls-gateway.vpstv.net/streams/488993.m3u8
+壹新聞,http://211.23.114.106:8549/.m3u8
 壹新聞,http://ali.hlspull.yximgs.com/live/4e17bcfc31a10dde984d0eb0f6599f57.flv
 壹新聞,http://ali.hlspull.yximgs.com/live/aebfef5a266a7577e6cbe0239825fd4d.flv
 
@@ -32,8 +32,7 @@ Decoder=3
 年代新聞台,http://198.16.100.186:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 
 三立新聞台,p2p://142.54.189.229:7575/64df114a00089e6504a1b34e5ec80344.ts
-三立新聞台,http://robyang.serv00.net/ublive.php?id=2794
-
+三立新聞台,http://211.23.114.106:8542/http/61.221.81.94:8088/hls/65/807/ch18.m3u8
 
 
 
