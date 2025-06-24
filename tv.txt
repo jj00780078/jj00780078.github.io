@@ -210,7 +210,7 @@ TVBS新聞台,http://107.173.148.168/li-4gtv-4gtv072/index.m3u8
 三立新聞台,http://60.249.93.7:8525/http/59.125.55.242:8881/hls/65/807/ch018.m3u8
 三立新聞台,mitv://starvod.xyz:19806/7715336aa3654b1b9bc72a9672e9034a.ts
 三立新聞台,http://cookies.elementfx.com/ublive/ublive.php?id=2794
-三立新聞台,https://epg.pw/stream/bad9a4ebaf24f0b19d4edd02bef68b5dd5b463eb5527e4b44bb68e23248c6ddb.m3u8
+
 三立新聞台,http://125.227.210.55:8162/VideoInput/play.ts
 三立新聞台,p3p://108.181.32.169:50934/6766bc7f000ed78dc349b377648221c8
 三立新聞台,p3p://108.181.32.169:40891/64251e23000bcd04ea573d7c0f0a002e
@@ -351,6 +351,36 @@ TVBS新聞台,http://robyang.serv00.net/ublive.php?id=2
 壹新聞,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1676
 壹新聞,http://ccczb.top/mk2.php?ip=60.249.93.7:1888&id=live1242
 
+
+東森新聞,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
+民視新聞,https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
+民視新聞,https://stream1.freetv.fun/min-shi-xin-wen-12.ctv
+寰宇財經,https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
+寰宇新聞台灣台,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
+東森財經新聞,https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
+非凡新聞,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
+年代新聞,https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn
+東森財經新聞 ETTV Business,https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
+寰宇財經台,https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
+寰宇新聞台,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
+TVBS News 新聞台,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
+非凡新聞台,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
+
+非凡新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=feifannews_twn
+年代新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=niandainews_twn
+民视新闻台,http://smt.iktv.ddns-ip.net/Smart.php?id=ftvnew_taiwan
+寰宇新闻台,http://smt.iktv.ddns-ip.net/Smart.php?id=huanyuxinwen_twn
+寰宇财经台,http://smt.iktv.ddns-ip.net/Smart.php?id=huanyutaiwan_twn
+东森新闻台,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvnews
+东森财经新闻台,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvcaijing_twn
+TVBS 新闻台,http://smt.iktv.ddns-ip.net/Smart.php?id=tvbs_n
+中天新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=ctinews
+
+
+
+
+
+
 中天新闻台,http://211.72.65.236:8541/.m3u8
 中天新闻台,p3p://173.208.176.178:31809/613dba64000abeb1c801c02934bb45fc
 中天新闻台,http://cdn.iptv8k.top/dl/jspd.php?id=1
@@ -422,29 +452,6 @@ TVBS新聞台,http://free.cnlive.club/channel/7713a03d/index.m3u8?q=174454433731
 壹新聞-替,http://cookies.elementfx.com/ublive/ublive.php?id=494
 
 
-東森新聞,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
-民視新聞,https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
-民視新聞,https://stream1.freetv.fun/min-shi-xin-wen-12.ctv
-寰宇財經,https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
-寰宇新聞台灣台,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
-東森財經新聞,https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
-非凡新聞,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
-年代新聞,https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn
-東森財經新聞 ETTV Business,https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
-寰宇財經台,https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
-寰宇新聞台,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
-TVBS News 新聞台,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
-非凡新聞台,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
-
-非凡新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=feifannews_twn
-年代新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=niandainews_twn
-民视新闻台,http://smt.iktv.ddns-ip.net/Smart.php?id=ftvnew_taiwan
-寰宇新闻台,http://smt.iktv.ddns-ip.net/Smart.php?id=huanyuxinwen_twn
-寰宇财经台,http://smt.iktv.ddns-ip.net/Smart.php?id=huanyutaiwan_twn
-东森新闻台,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvnews
-东森财经新闻台,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvcaijing_twn
-TVBS 新闻台,http://smt.iktv.ddns-ip.net/Smart.php?id=tvbs_n
-中天新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=ctinews
 
 東森新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=47
 寰宇新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=45
