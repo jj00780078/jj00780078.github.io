@@ -2,21 +2,29 @@
 非凡新聞,http://108.181.20.197/livehttpplay?channel_id=20034
 年代新聞,http://108.181.20.197/livehttpplay?channel_id=20033
 
-民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
-TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
-TVBS新聞,http://38.64.72.148/hls/modn/list/4027/chunklist1.m3u8
+民視新聞,
+寰宇新聞,
+
+TVBS新聞,
 
 
-東森新聞,http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
+東森新聞,
 
-寰宇財經,https://z88.ubtvfans.com/live/rx6/2536/15b2e288eee63f0047911f73bcd0b3fc/index.m3u8
+寰宇財經,
 
 
 
-三立新聞,P2p://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
-壹電視新聞,https://z88.ubtvfans.com/live/rx1/2777/313274d3ff42695b8ac68984698008f6/index.m3u8
+三立新聞,
+壹電視新聞,
 
+
+寰宇財經台,http://127.0.0.1:8000/litv.php?id=4gtv-4gtv158
+東森財經新聞台,http://127.0.0.1:8000/litv.php?id=4gtv-4gtv153
+非凡新聞台,http://127.0.0.1:8000/litv.php?id=4gtv-4gtv010
+民視新聞台,http://127.0.0.1:8000/litv.php?id=litv-ftv13
+東森新聞台,http://127.0.0.1:8000/litv.php?id=4gtv-4gtv152
+寰宇新聞台,http://127.0.0.1:8000/litv.php?id=litv-longturn14
+TVBS新聞,http://127.0.0.1:8000/litv.php?id=4gtv-4gtv072
 
 
 
