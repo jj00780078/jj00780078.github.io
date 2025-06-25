@@ -108,11 +108,11 @@ http://107.173.148.168/4gtv-4gtv010/index.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
 #EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png"" group-title="新聞財經",非凡新聞
 rtmp://f13h.mine.nu/sat/tv581
-#EXTINF:-1 tvg-id="Judy" tvg-name="壹新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NEXTTV1.png" group-title="新聞財經",壹新聞
+#EXTINF:-1 tvg-id="Judy" tvg-name="壹新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NEXT1.png" group-title="新聞財經",壹新聞
 http://211.23.114.106:8549/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
-#EXTINF:-1 tvg-id="Judy" tvg-name="壹新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NEXTTV1.png" group-title="新聞財經",壹新聞
+#EXTINF:-1 tvg-id="Judy" tvg-name="壹新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NEXT1.png" group-title="新聞財經",壹新聞
 https://hls-gateway.vpstv.net/streams/488993.m3u8
-#EXTINF:-1 tvg-id="Judy" tvg-name="壹新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NEXTTV1.png" group-title="新聞財經",壹新聞
+#EXTINF:-1 tvg-id="Judy" tvg-name="壹新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NEXT1.png" group-title="新聞財經",壹新聞
 http://125.105.212.47:13169/PLTV/mqlive/live.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2749.m3u8
 #EXTINF:-1 tvg-id="Judy" tvg-name="年代新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ERA1.png" group-title="新聞財經",年代新聞台
 http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
