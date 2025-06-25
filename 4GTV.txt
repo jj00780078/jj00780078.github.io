@@ -14,8 +14,12 @@
 
 
 
-
-
+#EXTINF:-1 tvg-id="Judy" tvg-name="寰宇财经新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",寰宇財經新聞
+https://www.youtube.com/watch?v=EnuEsX3FSh0
+#EXTINF:-1 tvg-id="Judy" tvg-name="东森财经新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",東森財經新聞
+https://www.youtube.com/watch?v=1I2iq41Akmo
+#EXTINF:-1 tvg-id="Judy" tvg-name="非凡新聞台" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",非凡新聞台
+https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
 #EXTINF:-1 tvg-id="Judy" tvg-name="三立新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",三立新聞
 https://www.youtube.com/watch?v=MV9mI0GChwo
 #EXTINF:-1 tvg-id="Judy" tvg-name="民视新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",民視新聞
@@ -24,19 +28,21 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-id="Judy" tvg-name="寰宇台灣" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",寰宇台灣
 https://www.youtube.com/watch?v=w87VGpgd90U
-#EXTINF:-1 tvg-id="Judy" tvg-name="TVBSNEWS" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",TVBS NEWS
-https://www.youtube.com/watch?v=m_dhMSvUCIc
+#EXTINF:-1 tvg-id="Judy" tvg-name="镜新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",鏡新聞
+https://www.youtube.com/watch?v=5n0y6b0Q25o
 #EXTINF:-1 tvg-id="Judy" tvg-name="寰宇新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",寰宇新聞
 https://www.youtube.com/watch?v=6IquAgfvYmc
 #EXTINF:-1 tvg-id="Judy" tvg-name="三立iNEWS" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",三立 iNEWS
 https://www.youtube.com/watch?v=BlKaF8og0jo
-#EXTINF:-1 tvg-id="Judy" tvg-name="镜新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",鏡新聞
-https://www.youtube.com/watch?v=5n0y6b0Q25o
-#EXTINF:-1 tvg-id="Judy" tvg-name="东森财经新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",東森財經新聞
-https://www.youtube.com/watch?v=1I2iq41Akmo
 
-#EXTINF:-1 tvg-id="Judy" tvg-name="寰宇财经新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",寰宇財經新聞
-https://www.youtube.com/watch?v=EnuEsX3FSh0
+#EXTINF:-1 tvg-id="Judy" tvg-name="TVBSNEWS" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",TVBS NEWS
+https://www.youtube.com/watch?v=m_dhMSvUCIc
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="Judy" tvg-name="TVBS选新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",TVBS 選新聞
 https://www.youtube.com/watch?v=d1jUeoc3pio
@@ -98,17 +104,15 @@ http://107.173.148.168/li-4gtv-4gtv158/index.m3u8
 http://107.173.148.168/4gtv-4gtv153/index.m3u8
 #EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png"" group-title="新聞財經",非凡新聞
 http://107.173.148.168/4gtv-4gtv010/index.m3u8
-#EXTINF:-1 tvg-id="Judy" tvg-name="三立新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經",三立新聞
-p2p://142.54.189.229:7575/64df114a00089e6504a1b34e5ec80344.ts
-#EXTINF:-1 tvg-id="Judy" tvg-name="三立新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經",三立新聞
-http://211.23.114.106:8542/http/61.221.81.94:8088/hls/65/807/ch18.m3u8
-#EXTINF:-1 tvg-id="Judy" tvg-name="三立新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經",三立新聞
-http://60.249.93.7:8525/http/59.125.55.242:8881/hls/65/807/ch18.m3u8
-#EXTINF:-1 tvg-id="Judy" tvg-name="壹新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NEXTVT1.png" group-title="新聞財經",壹新聞
+#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png"" group-title="新聞財經",非凡新聞
+https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
+#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png"" group-title="新聞財經",非凡新聞
+rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1 tvg-id="Judy" tvg-name="壹新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NEXTTV1.png" group-title="新聞財經",壹新聞
 http://211.23.114.106:8549/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
-#EXTINF:-1 tvg-id="Judy" tvg-name="壹新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NEXTVT1.png" group-title="新聞財經",壹新聞
+#EXTINF:-1 tvg-id="Judy" tvg-name="壹新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NEXTTV1.png" group-title="新聞財經",壹新聞
 https://hls-gateway.vpstv.net/streams/488993.m3u8
-#EXTINF:-1 tvg-id="Judy" tvg-name="壹新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NEXTVT1.png" group-title="新聞財經",壹新聞
+#EXTINF:-1 tvg-id="Judy" tvg-name="壹新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NEXTTV1.png" group-title="新聞財經",壹新聞
 http://125.105.212.47:13169/PLTV/mqlive/live.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2749.m3u8
 #EXTINF:-1 tvg-id="Judy" tvg-name="年代新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ERA1.png" group-title="新聞財經",年代新聞台
 http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
@@ -120,7 +124,12 @@ p2p://142.54.189.229:7575/64df11830008ea4904a2921502394fe8.ts
 http://198.16.100.186:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 #EXTINF:-1 tvg-id="Judy" tvg-name="年代新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ERA1.png" group-title="新聞財經",年代新聞台
 http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=ME7E9182640991826409&ct=19234&tsum=4bc66c7c1f629232c2c2ce6aa7d024a5
-
+#EXTINF:-1 tvg-id="Judy" tvg-name="三立新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經",三立新聞
+p2p://142.54.189.229:7575/64df114a00089e6504a1b34e5ec80344.ts
+#EXTINF:-1 tvg-id="Judy" tvg-name="三立新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經",三立新聞
+http://211.23.114.106:8542/http/61.221.81.94:8088/hls/65/807/ch18.m3u8
+#EXTINF:-1 tvg-id="Judy" tvg-name="三立新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經",三立新聞
+http://60.249.93.7:8525/http/59.125.55.242:8881/hls/65/807/ch18.m3u8
 
 
 
@@ -453,8 +462,7 @@ http://107.173.148.168/li-4gtv-4gtv152/index.m3u8
 #EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="新聞財經",民視新聞
 http://107.173.148.168/li-litv-ftv13/index.m3u8
 
-#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="新聞財經",東森財經新聞
-http://107.173.148.168/li-4gtv-4gtv153/index.m3u8
+
 #EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="新聞財經",中視新聞台
 http://107.173.148.168/li-4gtv-4gtv074/index.m3u8
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="新聞財經",中天新聞台
@@ -544,7 +552,8 @@ http://107.173.148.168/li-4gtv-4gtv051/index.m3u8
 http://107.173.148.168/li-4gtv-4gtv066/index.m3u8
 #EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_pc.png" group-title="新聞財經",第1商業台
 http://107.173.148.168/li-4gtv-4gtv104/index.m3u8
-
+#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="新聞財經",東森財經新聞
+http://107.173.148.168/li-4gtv-4gtv153/index.m3u8
 #EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png" group-title="新聞財經",台視新聞台
 http://107.173.148.168/4gtv-4gtv051/index.m3u8
 #EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png" group-title="綜合其他",台視HD
@@ -609,6 +618,25 @@ http://107.173.148.168/of-4gtv-4gtv103/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="寰宇财经" tvg-name="寰宇财经" tvg-logo="https://epg.112114.xyz/logo/寰宇财经.png" group-title="Smart☠️源",台湾|寰宇财经
+https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
+#EXTINF:-1 tvg-id="台湾|东森财经新闻 ETTV Business" tvg-name="台湾|东森财经新闻 ETTV Business" tvg-logo="https://epg.112114.xyz/logo/台湾|东森财经新闻ETTVBUSINESS.png" group-title="Smart☠️源",台湾|东森财经新闻 ETTV Business
+https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
+#EXTINF:-1 tvg-id="非凡新闻台" tvg-name="非凡新闻台" tvg-logo="https://epg.112114.xyz/logo/非凡新闻台.png" group-title="Smart☠️源",台湾|非凡新闻台
+https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
+#EXTINF:-1 tvg-id="台湾|年代新闻" tvg-name="台湾|年代新闻" tvg-logo="https://epg.112114.xyz/logo/台湾|年代新闻.png" group-title="Smart☠️源",台湾|年代新闻
+https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn
+
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="Smart☠️源",台湾|民视新闻台 FTV News
+https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="Smart☠️源",台湾|东森新闻 ETTV News
+https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
+#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="Smart☠️源",台湾|寰宇新闻台
+https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
+
+
+
+
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="Smart☠️源",台湾|台视 TTV HD
 https://smart.pendy.dpdns.org/Smart.php?id=ttv_taiwan
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="Smart☠️源",台湾|台视新闻台
@@ -621,8 +649,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
 https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="Smart☠️源",台湾|民视 HD
 https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="Smart☠️源",台湾|民视新闻台 FTV News
-https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
+
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="Smart☠️源",台湾|民视台湾台
 https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="Smart☠️源",台湾|华视 CTS HD
@@ -651,8 +678,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
 https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
 #EXTINF:-1 tvg-id="三立都会台" tvg-name="三立都会台" tvg-logo="https://epg.112114.xyz/logo/三立都会台.png" group-title="Smart☠️源",台湾|三立都会台
 https://smart.pendy.dpdns.org/Smart.php?id=sanlidouhui
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="Smart☠️源",台湾|东森新闻 ETTV News
-https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
+
 #EXTINF:-1 tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="Smart☠️源",台湾|CINEMAX
 https://smart.pendy.dpdns.org/Smart.php?id=cinemax_twn
 #EXTINF:-1 tvg-id="台湾|东森综合 ETTV Metro" tvg-name="台湾|东森综合 ETTV Metro" tvg-logo="https://epg.112114.xyz/logo/台湾|东森综合ETTVMETRO.png" group-title="Smart☠️源",台湾|东森综合 ETTV Metro
@@ -661,18 +687,12 @@ https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
 https://smart.pendy.dpdns.org/Smart.php?id=ettvdrama
 #EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://epg.112114.xyz/logo/东森超视.png" group-title="Smart☠️源",台湾|东森超视
 https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
-#EXTINF:-1 tvg-id="台湾|东森财经新闻 ETTV Business" tvg-name="台湾|东森财经新闻 ETTV Business" tvg-logo="https://epg.112114.xyz/logo/台湾|东森财经新闻ETTVBUSINESS.png" group-title="Smart☠️源",台湾|东森财经新闻 ETTV Business
-https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
-#EXTINF:-1 tvg-id="寰宇财经" tvg-name="寰宇财经" tvg-logo="https://epg.112114.xyz/logo/寰宇财经.png" group-title="Smart☠️源",台湾|寰宇财经
-https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
-#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="Smart☠️源",台湾|寰宇新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
+
 #EXTINF:-1 tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="Smart☠️源",台湾|公视2
 https://smart.pendy.dpdns.org/Smart.php?id=ctv2_twn
 #EXTINF:-1 tvg-id="台湾|大爱1台" tvg-name="台湾|大爱1台" tvg-logo="https://epg.112114.xyz/logo/台湾|大爱1台.png" group-title="Smart☠️源",台湾|大爱1台
 https://smart.pendy.dpdns.org/Smart.php?id=daai_twn
-#EXTINF:-1 tvg-id="非凡新闻台" tvg-name="非凡新闻台" tvg-logo="https://epg.112114.xyz/logo/非凡新闻台.png" group-title="Smart☠️源",台湾|非凡新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
+
 #EXTINF:-1 tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://epg.112114.xyz/logo/龙华戏剧.png" group-title="Smart☠️源",台湾|龙华戏剧 Lunghua Drama
 https://smart.pendy.dpdns.org/Smart.php?id=lunghuaxiju_twn
 #EXTINF:-1 tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://epg.112114.xyz/logo/龙华经典.png" group-title="Smart☠️源",台湾|龙华经典台
@@ -683,8 +703,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=lunghuaidol_twn
 https://smart.pendy.dpdns.org/Smart.php?id=axn_twn
 #EXTINF:-1 tvg-id="靖天国际" tvg-name="靖天国际" tvg-logo="https://epg.112114.xyz/logo/靖天国际.png" group-title="Smart☠️源",台湾|靖天国际台
 https://smart.pendy.dpdns.org/Smart.php?id=jingtianintl_twn
-#EXTINF:-1 tvg-id="台湾|年代新闻" tvg-name="台湾|年代新闻" tvg-logo="https://epg.112114.xyz/logo/台湾|年代新闻.png" group-title="Smart☠️源",台湾|年代新闻
-https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn
+
 #EXTINF:-1 tvg-id="纬来日本台" tvg-name="纬来日本台" tvg-logo="https://epg.112114.xyz/logo/纬来日本台.png" group-title="Smart☠️源",台湾|纬来日本台
 https://smart.pendy.dpdns.org/Smart.php?id=videolandjapan
 #EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://epg.112114.xyz/logo/纬来电影台.png" group-title="Smart☠️源",台湾|纬来电影台
@@ -1372,7 +1391,7 @@ http://115.193.127.27:5000/of-4gtv-4gtv103/index.m3u8
 
 
 
-
+//Smart☠️源
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="Smart☠️源",台湾|TVBS News 新闻台
 https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="Smart☠️源",台湾|TVBS 欢乐台 （备份）
