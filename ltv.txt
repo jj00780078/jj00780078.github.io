@@ -21,6 +21,7 @@ Decoder=3
 非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
 
 壹新聞,http://211.23.114.106:8549/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
+壹新聞,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=壹新闻
 壹新聞,http://125.105.212.47:13169/PLTV/mqlive/live.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2749.m3u8
 壹新聞,https://hls-gateway.vpstv.net/streams/488993.m3u8
 壹新聞,http://211.23.114.106:8549/.m3u8
@@ -157,7 +158,14 @@ TVBS新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv072/index.m3u8
 寰宇新聞台灣台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv156/index.m3u8
 寰宇財經台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv158/index.m3u8
 
-
+年代新聞台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=年代新闻
+非凡新聞台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=非凡新闻
+三立新聞台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立新闻台
+三立iNEWS,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立iNEWS
+寰宇新聞台灣台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=寰宇新闻台湾
+寰宇財經台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=寰宇财经
+鏡電視新聞台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=鏡新闻
+民視新聞台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视新闻台
 
 
 寰宇財經台,https://www.youtube.com/watch?v=EnuEsX3FSh0

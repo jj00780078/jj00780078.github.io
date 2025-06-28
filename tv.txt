@@ -5,27 +5,31 @@
 
 
 
-
 寰宇財經台,http://115.193.127.27:5000/li-4gtv-4gtv158/index.m3u8
 
 東森財經新聞台,http://115.193.127.27:5000/li-4gtv-4gtv153/index.m3u8
 東森財經新聞台,https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
-非凡新聞台,http://107.173.148.168/4gtv-4gtv010/index.m3u8
-非凡新聞台,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
 
+非凡新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv010
+非凡新聞台,http://115.193.127.27:5000/4gtv-4gtv010/index.m3u8
+非凡新聞台,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
+非凡新聞台,http://107.173.148.168/4gtv-4gtv010/index.m3u8
 
 
 
 
 壹新聞,http://211.23.114.106:8549/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
+壹新聞,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=壹新闻
 壹新聞,http://125.105.212.47:13169/PLTV/mqlive/live.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2749.m3u8
 壹新聞,https://hls-gateway.vpstv.net/streams/488993.m3u8
 壹新聞,http://211.23.114.106:8549/.m3u8
 壹新聞,http://robyang.serv00.net/ublive.php?id=2777
 壹新聞,http://ali.hlspull.yximgs.com/live/aebfef5a266a7577e6cbe0239825fd4d.flv
 
-年代新聞台,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 
+
+年代新聞台,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+年代新聞台,https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn
 
 
 三立新聞台,p2p://142.54.189.229:7575/64df114a00089e6504a1b34e5ec80344.ts
@@ -33,7 +37,7 @@
 
 
 
-
+民視新聞台,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 
 
 
@@ -81,9 +85,15 @@
 東森財經新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv153
 東森財經新聞台,p3p://108.181.32.169:41467/64251ff20001f010ea5e4b9002e57212
 
-非凡新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv010
-非凡新聞台,http://115.193.127.27:5000/4gtv-4gtv010/index.m3u8
 
+年代新聞台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=年代新闻
+非凡新聞台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=非凡新闻
+三立新聞台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立新闻台
+三立iNEWS,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立iNEWS
+寰宇新聞台灣台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=寰宇新闻台湾
+寰宇財經台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=寰宇财经
+鏡電視新聞台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=鏡新闻
+民視新聞台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视新闻台
 
 
 
@@ -134,7 +144,7 @@ TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 寰宇新聞台,http://107.173.148.168/litv-longturn14/index.m3u8
 TVBS新聞台,http://107.173.148.168/li-4gtv-4gtv072/index.m3u8
 
-
+TVBS新聞台,http://38.64.72.148/hls/modn/list/4027/chunklist1.m3u8
 
 
 
@@ -165,10 +175,10 @@ TVBS新聞台,http://107.173.148.168/li-4gtv-4gtv072/index.m3u8
 
 
 非凡新聞台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv010
-
+非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞台,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/75/817/ch57.m3u8?token=
 非凡新聞台,http://156.253.12.5:932/tslive/IPTV.php?id=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB
-非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
+
 非凡新聞台,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 非凡新聞台,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?ct=17874&tid=m050e7aad65f614336734&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞台,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
@@ -183,17 +193,13 @@ TVBS新聞台,http://107.173.148.168/li-4gtv-4gtv072/index.m3u8
 非凡新聞台,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
 非凡新聞台,https://hls-gateway.vpstv.net/streams/477083.m3u8
 
-
-
-
-
-
 年代新聞台,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch27.m3u8?token=
 年代新聞台,p2p://142.54.189.229:7575/64df11830008ea4904a2921502394fe8.ts
+年代新聞台,http://198.16.100.186:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 年代新聞台,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞台,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/67/809/ch27.m3u8?token=
 年代新聞台,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
-年代新聞台,http://198.16.100.186:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
+
 年代新聞台,p2p://142.54.189.229:7575/64df11830008ea4904a2921502394fe8.ts
 年代新聞台,http://108.181.20.197/livehttpplay?channel_id=20033
 年代新聞台,p3p://108.181.32.169:50934/67694e1500009a3dcd522b1b1f7e14f1
@@ -201,7 +207,6 @@ TVBS新聞台,http://107.173.148.168/li-4gtv-4gtv072/index.m3u8
 年代新聞台,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=ME7E9182640991826409&ct=19234&tsum=4bc66c7c1f629232c2c2ce6aa7d024a5
 年代新聞台,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
 年代新聞台,https://haoyunlai.serv00.net/Smartv-1.php?id=niandainews_twn
-
 
 
 三立新聞台,http://211.23.114.106:8542/.m3u8
@@ -309,8 +314,7 @@ TVBS新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv072/index.m3u8
 
 
 
-年代新聞台,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=niandainews_twn
-非凡新聞台,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=feifannews_twn
+
 
 
 東森財經新聞台,http://robyang.serv00.net/ublive.php?id=2397
@@ -347,6 +351,14 @@ TVBS新聞台,http://robyang.serv00.net/ublive.php?id=2
 壹新聞,p3p://108.181.32.169:50934/67c065fd00054ff32185a62f6d595c5f
 壹新聞,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1676
 壹新聞,http://ccczb.top/mk2.php?ip=60.249.93.7:1888&id=live1242
+
+非凡新聞,p3p://167.114.175.6:55331/6146918a000a6ec0ea89b8904d520fbf
+壹新,p3p://173.208.176.178:31809/621dbb640001cb2b272027f74da62753
+壹新,p3p://167.114.175.6:55331/621dbb640001cb2b272027f74da62753
+三立新聞,p3p://167.114.175.6:55331/6014c896000c7101401f67cc5477681b
+三立新聞,p3p://173.208.176.178:31809/6014c896000c7101401f67cc5477681b
+年代新聞,p3p://167.114.175.6:55331/5fe09fec000ac0127462c4ac6b1f16a3
+年代新聞,p3p://173.208.176.178:31809/5fe09fec000ac0127462c4ac6b1f16a3
 
 
 東森新聞,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
@@ -385,7 +397,8 @@ TVBS 新闻台,http://smt.iktv.ddns-ip.net/Smart.php?id=tvbs_n
 TVBS新聞台,http://125.105.212.47:13169/PLTV/mqlive/live.php?ip=60.250.121.217&url=http://60.250.121.217:5003/live2778.m3u8
 
 
-
+年代新聞台,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=niandainews_twn
+非凡新聞台,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=feifannews_twn
 
 
 
@@ -795,6 +808,10 @@ C-Pop Megamix 2 (粤华 - 舞曲串烧) ,https://www.youtube.com/watch?v=kVYUqy4
 C-Pop Megamix 3 (粤华 - 舞曲串烧) ,https://www.youtube.com/watch?v=4YMFTk04ils
  2023年最火EDM音乐🎼黄昏,https://www.youtube.com/watch?v=60y222l4qD0
 Chinese DJ Remix【2020 好聽歌曲合輯】.https://www.youtube.com/watch?v=PZd0WKAOQh0
+2025最火歌曲DJ Remix 抖音版.https://www.youtube.com/watch?v=USYfzOwqCu8&t=2095s
+Beyond DJ Remix 的30首最佳歌曲.https://www.youtube.com/watch?v=d1rzj2kJKDI
+
+
 
 
 👁️裸眼3D,#genre#
