@@ -1,3 +1,4 @@
+壹新闻,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=壹新闻
 年代新闻,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=年代新闻
 非凡新闻,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=非凡新闻
 三立新闻台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立新闻台
@@ -7,31 +8,28 @@
 鏡新闻,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=鏡新闻
 民视新闻台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视新闻台
 
-非凡新闻,http://aplay.seres.cn/live/18e3fad1229da236ed13ce74d91533fb.m3u8
-非凡新闻,http://play.51buytv.cn/live/de06c6fa159adb9c2ee9da8e0dbfc3c5.flv
-非凡新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/UbO6kkqN1XbcorAPSvHcI8xSpcLRxDeZ.flv
-壹新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/4b6e5ad1324edd78f77ef7e8f501d23c.flv
-壹新闻,http://play.51buytv.cn/live/9524502df4738fbf246e0a11c3e9a4c2.flv
-年代新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/8FdQREFanMtZ7iweFLtZl8zepPVmMjwf.flv
-三立新闻台,http://aplay.seres.cn/live/91cca948c37258893c8e93b0c3515602.m3u8
-三立新闻台,http://play.51buytv.cn/live/c86129f28bb3647825af2d2001db0c92.flv
-民视新闻台,http://aplay.seres.cn/live/f849155337eccebdb013aac2eb66091f.m3u8
-寰宇新闻,http://aplay.seres.cn/live/8f3d647e6c6d71fa7e11552f1beada02.m3u8
-寰宇新闻,http://aplay.seres.cn/live/e18c5b3510040ff2b0f9a495b642ce4a.m3u8
-寰宇新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hRiv5lvdU9vzSs9qPB2IrTzjqYXUJ8AF.flv
-寰宇新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/KbnC2jJi1ZodL59XSO9OXFFQt9K0M2RY.flv
-寰宇新闻台湾,http://aplay.seres.cn/live/ce7699ac798aed8f29e32a2c8152e227.m3u8
-鏡新闻,http://aplay.seres.cn/live/94571ab672d94dd0ff795c3f97a4c765.m3u8
-东森美洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/f1ff50a096273ba12bfd76566ce7282d.flv
-东森美洲,http://play.51buytv.cn/live/d7d5039d5e753e68cffbbcc1551bb506.flv
-东森美洲卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/bdb69323f4b64afcb36e943ac50a20a5.flv
-LIVE三立,http://aplay.seres.cn/live/69b4c038c737cbe1f9f1bfafac1c8601.m3u8
-中天新闻,http://aplay.seres.cn/live/b0bf96a3edf4142e186ef78c5efa1c63.m3u8
-寰宇新聞,https://py.doube.eu.org/xinghuo?url=/Universal-News-Channel/1067
-寰宇財經,https://py.doube.eu.org/xinghuo?url=/Universal-Finance/1066
-東森財經,https://py.doube.eu.org/xinghuo?url=/ETTV-Business/1065
-民視新聞,https://py.doube.eu.org/xinghuo?url=/FTV-News-News-Channel/1045
-TVBS新聞,https://py.doube.eu.org/xinghuo?url=/TVBS-News-News-Channel/1032
+
+三立財經新聞 HD,https://hls-gateway.vpstv.net/streams/488992.m3u8
+壹新聞 HD,https://hls-gateway.vpstv.net/streams/488993.m3u8
+年代新闻 HD,https://hls-gateway.vpstv.net/streams/709037.m3u8
+東森新聞 HD,https://hls-gateway.vpstv.net/streams/476998.m3u8
+中天新聞,https://hls-gateway.vpstv.net/streams/477695.m3u8
+民視新聞 HD,https://hls-gateway.vpstv.net/streams/479210.m3u8
+三立新聞 HD,https://hls-gateway.vpstv.net/streams/492922.m3u8
+TVBS新闻台 ,https://hls-gateway.vpstv.net/streams/708927.m3u8
+TVBS綜合 ,https://hls-gateway.vpstv.net/streams/477042.m3u8
+東森財經新聞 HD,https://hls-gateway.vpstv.net/streams/477062.m3u8
+非凡新聞 ,https://hls-gateway.vpstv.net/streams/477083.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 
