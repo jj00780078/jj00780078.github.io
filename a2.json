@@ -1,24 +1,63 @@
 {
-    "spider": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/yt.jar",
-    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+    "spider": "./fm.jar",
+    "wallpaper": "https://深色壁纸.xxooo.cf",
     "sites": [
         {
-            "key": "服务器油管go",
-            "name": "服务器油管go",
-            "type": 4,
-            "api": "http://127.0.0.1:1988",
+            "key": "旺旺短剧",
+            "name": "旺旺短剧",
+            "type": 1,
+            "api": "http://zhangqun1818.serv00.net:5052",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
             },
             "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "克隆合集",
+            "name": "克隆合集",
+            "type": 4,
+            "api": "http://zhangqun66.com/klhj.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "filterable": 0
+        },
+        {
+            "key": "采集集合",
+            "name": "采集集合",
+            "type": 1,
+            "api": "http://zhangqun1818.serv00.net/cjjh.php",
+            "searchable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
             "changeable": 1
+        },
+        {
+            "key": "服务器油管",
+            "name": "服务器油管",
+            "type": 4,
+            "api": "http://zhangqun66.com/yt/yt001.php",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "动作片#科幻片#沙雕穿越#中国动漫#小说#影视解说#新闻直播#动物#风光#放松#短剧#古装短剧#萌宝短剧#经典音乐#海洋#太空#穿越短剧"
         },
         {
             "key": "油管播放列表1",
             "name": "油管播放列表1",
             "type": 4,
-            "api": "http://127.0.0.1:1988/lb?lb=0",
+            "api": "http://zhangqun66.com/ytlb.php",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -30,7 +69,7 @@
             "key": "油管播放列表2",
             "name": "油管播放列表2",
             "type": 4,
-            "api": "http://127.0.0.1:1988/lb?lb=1",
+            "api": "http://zhangqun66.com/ytlb1.php",
             "searchable": 1,
             "style": {
                 "type": "rect",
@@ -38,48 +77,84 @@
             },
             "changeable": 1
         },
-        {
+         {
             "key": "定时播放列表",
             "name": "定时播放列表",
             "type": 4,
-            "api": "http://127.0.0.1:1988/lb?lb=7",
+            "api": "http://zhangqun66.com/ytlb5.php",
             "searchable": 1,
             "style": {
                 "type": "rect",
                 "ratio": 1.33
             },
             "changeable": 1
-        },
+        },       
         {
-            "key": "采集集合",
-            "name": "采集集合",
-            "type": 1,
-            "api": "http://127.0.0.1:1988/lb?lb=3",
-            "searchable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-        },
-        {
-            "key": "短剧",
-            "name": "短剧",
+            "key": "直播转点播",
+            "name": "直播转点播",
             "type": 4,
-            "api": "http://127.0.0.1:1988/lb?lb=2",
+            "api": "http://zhangqun66.com/zh/2241-2.php",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "1,2,3,4,5,6"
+        },
+        {
+            "key": "低端影视",
+            "name": "低端┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "style": {
                 "type": "rect",
                 "ratio": 1.33
             },
-            "changeable": 1
+            "changeable": 1,
+            "ext": "./js/ddys.js"
+        },
+        {
+            "key": "直播转点播1",
+            "name": "🐼️电视┃直播",
+            "type": 3,
+            "searchable": 0,
+            "timeout": 60,
+            "api": "./cat/live2vod.js",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            },
+            "ext": "./cat/feimaolive.json"
+        },
+        {
+            "key": "文件播放",
+            "name": "文件播放",
+            "type": 4,
+            "api": "http://zhangqun66.com/zh/2242.php",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            },
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "alist",
+            "name": "alist网盘jar",
+            "type": 3,
+            "api": "csp_AList",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            },
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "./js/alistjar.json"
         },
         {
             "key": "bili",
             "name": "🅱哔哩┃合集",
             "type": 3,
             "api": "csp_Bili",
-            "jar": "./fm.jar",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -88,17 +163,9 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "type": "沙雕穿越#电视剧#电影#短剧#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
+                "type": "沙雕穿越#闽剧#福州评话#短剧#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
                 "cookie": ""
             }
-        },
-        {
-            "key": "直播转点播",
-            "name": "直播转点播",
-            "type": 4,
-            "api": "http://127.0.0.1:1988/lb?lb=6",
-            "searchable": 1,
-            "changeable": 0
         }
     ],
     "parses": [
@@ -325,14 +392,30 @@
         },
         {
             "name": "Quad9",
-            "url": "https://dns.quad9.net/dns-query",
+            "url": "https://dns.quad9.net/dns-quer",
             "ips": [
                 "9.9.9.9",
                 "149.112.112.112"
             ]
         }
     ],
+    "ads": [
+        "static-mozai.4gtv.tv",
+        "s3t3d2y8.afcdn.net"
+    ],
     "lives": [
+        {
+            "name": "野火直播",
+            "url": "./野火改.txt",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "直播爬虫",
+            "type": 3,
+            "api": "https://tang.hz.cz/js/ethtv.js",
+            "ext": ""
+        },
         {
             "name": "XingHuo",
             "url": "https://json.doube.eu.org/XingHuo.txt",
@@ -356,5 +439,6 @@
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/allinone;md5;https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/md5",
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         }
+
     ]
 }
