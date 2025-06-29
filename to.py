@@ -469,7 +469,7 @@
            {"name":"💝 台灣新聞",
             "boot": true,
             "type":0,
-            "url":"https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/tv.txt",
+            "url":"http://zozo.work.gd/ys/i/?QQ=tvtv",
             "playerType":2,
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "https://epg.112114.eu.org/logo/{name}.png",
@@ -487,18 +487,11 @@
 
 
 
-  {
-    "name": "🥉 4GTV",
-    "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/4GTV.txt",
-    "ua": "judy/5.2.1"
-  },
-
-    
 
         {
             "name": "🥇 litv",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/ltv.txt",
+            "url": "http://zozo.work.gd/ys/i/?QQ=ltv",
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
@@ -506,7 +499,20 @@
                 "type": "append",
                 "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
             }
-           },
+           },    
+
+
+    
+
+
+
+  {
+    "name": "🥉 4GTV",
+    "url": "http://zozo.work.gd/ys/i/?QQ=4GTV",
+    "ua": "judy/5.2.1"
+  },
+
+
 
     { 
       "name": "🥈 IP解析", 
