@@ -397,7 +397,7 @@
            {"name":"💝 YouTube新聞",
             "boot": true,
             "type":0,
-            "url":"http://zozo.work.gd/ys/i/?QQ=twtv",
+            "url":"http://zozo.work.gd/ys/i/?QQ=tvtv",
             "playerType":2,
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "https://epg.112114.eu.org/logo/{name}.png",
