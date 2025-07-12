@@ -13,7 +13,6 @@
 
 
 
-
 #EXTINF:-1 tvg-id="Judy" tvg-name="寰宇财经新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",寰宇財經新聞
 https://www.youtube.com/watch?v=EnuEsX3FSh0
 #EXTINF:-1 tvg-id="Judy" tvg-name="东森财经新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",東森財經新聞
@@ -47,26 +46,267 @@ https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-id="Judy" tvg-name="TVBS选新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",TVBS 選新聞
 https://www.youtube.com/watch?v=d1jUeoc3pio
 
-#EXTINF:-1 tvg-id="Judy" tvg-name="中天新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",中天新聞台
-https://www.youtube.com/watch?v=vr3XyVCR4T0
-#EXTINF:-1 tvg-id="Judy" tvg-name="公视新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",公視新聞
-https://www.youtube.com/watch?v=quwqlazU-c8
-#EXTINF:-1 tvg-id="Judy" tvg-name="台视新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",台視新聞台
-https://www.youtube.com/watch?v=xL0ch83RAK8
-#EXTINF:-1 tvg-id="Judy" tvg-name="中视新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",中視新聞
-https://www.youtube.com/watch?v=TCnaIE_SAtM
-#EXTINF:-1 tvg-id="Judy" tvg-name="华视新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",華視新聞
-https://www.youtube.com/watch?v=wM0g8EoUZ_E
 
+#EXTINF:-1 tvg-id="4gtv-4gtv009" tvg-name="中天新闻" tvg-logo="https://logo.doube.eu.org/中天新闻.png" group-title="新闻",中天新闻
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv009
 
-#EXTINF:-1 tvg-id="Judy" tvg-name="大愛一台" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",大愛電視
-https://www.youtube.com/watch?v=MIqUplvSRWA
-#EXTINF:-1 tvg-id="Judy" tvg-name="大愛一台" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",大愛電視2
-https://www.youtube.com/watch?v=DTNkEm6jaqQ
-#EXTINF:-1 tvg-id="Judy" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",中視經典綜藝
-https://www.youtube.com/watch?v=ADDSmXoPDY8  
-#EXTINF:-1 tvg-id="Judy" tvg-name="CCTV4" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",CCTV4 中文國際
-https://www.youtube.com/watch?v=SdzewdkJa-o
+#EXTINF:-1 tvg-id="4gtv-4gtv072" tvg-name="TVBS新闻" tvg-logo="https://logo.doube.eu.org/TVBS新闻.png" group-title="新闻",TVBS新闻
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv072
+
+#EXTINF:-1 tvg-id="4gtv-4gtv152" tvg-name="东森新闻台" tvg-logo="https://logo.doube.eu.org/东森新闻台.png" group-title="新闻",东森新闻台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv152
+
+#EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民视新闻台" tvg-logo="https://logo.doube.eu.org/民视新闻台.png" group-title="新闻",民视新闻台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv13
+
+#EXTINF:-1 tvg-id="4gtv-4gtv075" tvg-name="镜电视新闻台" tvg-logo="https://logo.doube.eu.org/镜电视新闻台.png" group-title="新闻",镜电视新闻台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv075
+
+#EXTINF:-1 tvg-id="4gtv-4gtv010" tvg-name="非凡新闻" tvg-logo="https://logo.doube.eu.org/非凡新闻.png" group-title="新闻",非凡新闻
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv010
+
+#EXTINF:-1 tvg-id="4gtv-4gtv051" tvg-name="台视新闻台" tvg-logo="https://logo.doube.eu.org/台视新闻台.png" group-title="新闻",台视新闻台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv051
+
+#EXTINF:-1 tvg-id="4gtv-4gtv052" tvg-name="华视新闻" tvg-logo="https://logo.doube.eu.org/华视新闻.png" group-title="新闻",华视新闻
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv052
+
+#EXTINF:-1 tvg-id="4gtv-4gtv074" tvg-name="中视新闻台" tvg-logo="https://logo.doube.eu.org/中视新闻台.png" group-title="新闻",中视新闻台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv074
+
+#EXTINF:-1 tvg-id="litv-longturn14" tvg-name="寰宇新闻台" tvg-logo="https://logo.doube.eu.org/寰宇新闻台.png" group-title="新闻",寰宇新闻台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn14
+
+#EXTINF:-1 tvg-id="4gtv-4gtv156" tvg-name="寰宇新闻台湾台" tvg-logo="https://logo.doube.eu.org/寰宇新闻台湾台.png" group-title="新闻",寰宇新闻台湾台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv156
+
+#EXTINF:-1 tvg-id="litv-ftv10" tvg-name="半岛国际新闻" tvg-logo="https://logo.doube.eu.org/半岛国际新闻.png" group-title="新闻",半岛国际新闻
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv10
+
+#EXTINF:-1 tvg-id="litv-ftv03" tvg-name="美国之音" tvg-logo="https://logo.doube.eu.org/美国之音.png" group-title="新闻",美国之音
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv03
+
+#EXTINF:-1 tvg-id="4gtv-4gtv153" tvg-name="东森财经新闻台" tvg-logo="https://logo.doube.eu.org/东森财经新闻台.png" group-title="财经",东森财经新闻台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv153
+
+#EXTINF:-1 tvg-id="4gtv-4gtv048" tvg-name="非凡商业" tvg-logo="https://logo.doube.eu.org/非凡商业.png" group-title="财经",非凡商业
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv048
+
+#EXTINF:-1 tvg-id="4gtv-4gtv056" tvg-name="台视财经台" tvg-logo="https://logo.doube.eu.org/台视财经台.png" group-title="财经",台视财经台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv056
+
+#EXTINF:-1 tvg-id="4gtv-4gtv104" tvg-name="第1商业台" tvg-logo="https://logo.doube.eu.org/第1商业台.png" group-title="财经",第1商业台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv104
+
+#EXTINF:-1 tvg-id="4gtv-4gtv073" tvg-name="TVBS" tvg-logo="https://logo.doube.eu.org/TVBS.png" group-title="综合",TVBS
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv073
+
+#EXTINF:-1 tvg-id="4gtv-4gtv066" tvg-name="台视" tvg-logo="https://logo.doube.eu.org/台视.png" group-title="综合",台视
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv066
+
+#EXTINF:-1 tvg-id="4gtv-4gtv040" tvg-name="中视" tvg-logo="https://logo.doube.eu.org/中视.png" group-title="综合",中视
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv040
+
+#EXTINF:-1 tvg-id="4gtv-4gtv041" tvg-name="华视" tvg-logo="https://logo.doube.eu.org/华视.png" group-title="综合",华视
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv041
+
+#EXTINF:-1 tvg-id="4gtv-4gtv002" tvg-name="民视" tvg-logo="https://logo.doube.eu.org/民视.png" group-title="综合",民视
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv002
+
+#EXTINF:-1 tvg-id="4gtv-4gtv155" tvg-name="民视" tvg-logo="https://logo.doube.eu.org/民视.png" group-title="综合",民视
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv155
+
+#EXTINF:-1 tvg-id="4gtv-4gtv001" tvg-name="民视台湾台" tvg-logo="https://logo.doube.eu.org/民视台湾台.png" group-title="综合",民视台湾台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv001
+
+#EXTINF:-1 tvg-id="4gtv-4gtv003" tvg-name="民视第一台" tvg-logo="https://logo.doube.eu.org/民视第一台.png" group-title="综合",民视第一台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv003
+
+#EXTINF:-1 tvg-id="4gtv-4gtv109" tvg-name="中天亚洲" tvg-logo="https://logo.doube.eu.org/中天亚洲.png" group-title="综合",中天亚洲
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv109
+
+#EXTINF:-1 tvg-id="4gtv-4gtv046" tvg-name="靖天综合台" tvg-logo="https://logo.doube.eu.org/靖天综合台.png" group-title="综合",靖天综合台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv046
+
+#EXTINF:-1 tvg-id="4gtv-4gtv063" tvg-name="靖天国际台" tvg-logo="https://logo.doube.eu.org/靖天国际台.png" group-title="综合",靖天国际台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv063
+
+#EXTINF:-1 tvg-id="4gtv-4gtv065" tvg-name="靖天资讯台" tvg-logo="https://logo.doube.eu.org/靖天资讯台.png" group-title="综合",靖天资讯台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv065
+
+#EXTINF:-1 tvg-id="4gtv-4gtv043" tvg-name="客家电视台" tvg-logo="https://logo.doube.eu.org/客家电视台.png" group-title="综合",客家电视台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv043
+
+#EXTINF:-1 tvg-id="4gtv-4gtv079" tvg-name="ARIRANG" tvg-logo="https://logo.doube.eu.org/ARIRANG.png" group-title="综合",ARIRANG
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv079
+
+#EXTINF:-1 tvg-id="4gtv-4gtv084" tvg-name="国会频道1" tvg-logo="https://logo.doube.eu.org/国会频道1.png" group-title="综合",国会频道1
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv084
+
+#EXTINF:-1 tvg-id="4gtv-4gtv085" tvg-name="国会频道2" tvg-logo="https://logo.doube.eu.org/国会频道2.png" group-title="综合",国会频道2
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv085
+
+#EXTINF:-1 tvg-id="4gtv-4gtv068" tvg-name="TVBS欢乐台" tvg-logo="https://logo.doube.eu.org/TVBS欢乐台.png" group-title="综艺",TVBS欢乐台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv068
+
+#EXTINF:-1 tvg-id="4gtv-4gtv067" tvg-name="TVBS精采台" tvg-logo="https://logo.doube.eu.org/TVBS精采台.png" group-title="综艺",TVBS精采台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv067
+
+#EXTINF:-1 tvg-id="4gtv-4gtv070" tvg-name="ELTV娱乐" tvg-logo="https://logo.doube.eu.org/ELTV娱乐.png" group-title="综艺",ELTV娱乐
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv070
+
+#EXTINF:-1 tvg-id="4gtv-4gtv004" tvg-name="民视综艺台" tvg-logo="https://logo.doube.eu.org/民视综艺台.png" group-title="综艺",民视综艺台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv004
+
+#EXTINF:-1 tvg-id="4gtv-4gtv039" tvg-name="八大综艺" tvg-logo="https://logo.doube.eu.org/八大综艺.png" group-title="综艺",八大综艺
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv039
+
+#EXTINF:-1 tvg-id="4gtv-4gtv034" tvg-name="八大精彩" tvg-logo="https://logo.doube.eu.org/八大精彩.png" group-title="综艺",八大精彩
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv034
+
+#EXTINF:-1 tvg-id="4gtv-4gtv054" tvg-name="靖天欢乐台" tvg-logo="https://logo.doube.eu.org/靖天欢乐台.png" group-title="综艺",靖天欢乐台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv054
+
+#EXTINF:-1 tvg-id="4gtv-4gtv062" tvg-name="靖天育乐台" tvg-logo="https://logo.doube.eu.org/靖天育乐台.png" group-title="综艺",靖天育乐台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv062
+
+#EXTINF:-1 tvg-id="4gtv-4gtv064" tvg-name="中视菁采台" tvg-logo="https://logo.doube.eu.org/中视菁采台.png" group-title="综艺",中视菁采台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv064
+
+#EXTINF:-1 tvg-id="4gtv-4gtv006" tvg-name="猪哥亮歌厅秀" tvg-logo="https://logo.doube.eu.org/猪哥亮歌厅秀.png" group-title="综艺",猪哥亮歌厅秀
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv006
+
+#EXTINF:-1 tvg-id="4gtv-4gtv011" tvg-name="影迷数位电影台" tvg-logo="https://logo.doube.eu.org/影迷数位电影台.png" group-title="电影",影迷数位电影台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv011
+
+#EXTINF:-1 tvg-id="4gtv-4gtv017" tvg-name="amc电影台" tvg-logo="https://logo.doube.eu.org/amc电影台.png" group-title="电影",amc电影台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv017
+
+#EXTINF:-1 tvg-id="4gtv-4gtv061" tvg-name="靖天电影台" tvg-logo="https://logo.doube.eu.org/靖天电影台.png" group-title="电影",靖天电影台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv061
+
+#EXTINF:-1 tvg-id="4gtv-4gtv055" tvg-name="靖天映画" tvg-logo="https://logo.doube.eu.org/靖天映画.png" group-title="电影",靖天映画
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv055
+
+#EXTINF:-1 tvg-id="4gtv-4gtv049" tvg-name="采昌影剧台" tvg-logo="https://logo.doube.eu.org/采昌影剧台.png" group-title="电影",采昌影剧台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv049
+
+#EXTINF:-1 tvg-id="litv-ftv09" tvg-name="民视影剧台" tvg-logo="https://logo.doube.eu.org/民视影剧台.png" group-title="电影",民视影剧台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv09
+
+#EXTINF:-1 tvg-id="litv-longturn03" tvg-name="龙华电影台" tvg-logo="https://logo.doube.eu.org/龙华电影台.png" group-title="电影",龙华电影台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn03
+
+#EXTINF:-1 tvg-id="litv-longturn02" tvg-name="龙华洋片台" tvg-logo="https://logo.doube.eu.org/龙华洋片台.png" group-title="电影",龙华洋片台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn02
+
+#EXTINF:-1 tvg-id="4gtv-4gtv042" tvg-name="公视戏剧" tvg-logo="https://logo.doube.eu.org/公视戏剧.png" group-title="戏剧",公视戏剧
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv042
+
+#EXTINF:-1 tvg-id="4gtv-4gtv045" tvg-name="靖洋戏剧台" tvg-logo="https://logo.doube.eu.org/靖洋戏剧台.png" group-title="戏剧",靖洋戏剧台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv045
+
+#EXTINF:-1 tvg-id="4gtv-4gtv058" tvg-name="靖天戏剧台" tvg-logo="https://logo.doube.eu.org/靖天戏剧台.png" group-title="戏剧",靖天戏剧台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv058
+
+#EXTINF:-1 tvg-id="4gtv-4gtv080" tvg-name="中视经典台" tvg-logo="https://logo.doube.eu.org/中视经典台.png" group-title="戏剧",中视经典台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv080
+
+#EXTINF:-1 tvg-id="4gtv-4gtv047" tvg-name="靖天日本台" tvg-logo="https://logo.doube.eu.org/靖天日本台.png" group-title="戏剧",靖天日本台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv047
+
+#EXTINF:-1 tvg-id="litv-longturn18" tvg-name="龙华戏剧台" tvg-logo="https://logo.doube.eu.org/龙华戏剧台.png" group-title="戏剧",龙华戏剧台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn18
+
+#EXTINF:-1 tvg-id="litv-longturn11" tvg-name="龙华日韩台" tvg-logo="https://logo.doube.eu.org/龙华日韩台.png" group-title="戏剧",龙华日韩台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn11
+
+#EXTINF:-1 tvg-id="litv-longturn12" tvg-name="龙华偶像台" tvg-logo="https://logo.doube.eu.org/龙华偶像台.png" group-title="戏剧",龙华偶像台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn12
+
+#EXTINF:-1 tvg-id="litv-longturn21" tvg-name="龙华经典台" tvg-logo="https://logo.doube.eu.org/龙华经典台.png" group-title="戏剧",龙华经典台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn21
+
+#EXTINF:-1 tvg-id="litv-longturn22" tvg-name="台湾戏剧台" tvg-logo="https://logo.doube.eu.org/台湾戏剧台.png" group-title="戏剧",台湾戏剧台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn22
+
+#EXTINF:-1 tvg-id="4gtv-4gtv014" tvg-name="时尚运动X" tvg-logo="https://logo.doube.eu.org/时尚运动X.png" group-title="体育",时尚运动X
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv014
+
+#EXTINF:-1 tvg-id="4gtv-4gtv053" tvg-name="GINXEsportsTV" tvg-logo="https://logo.doube.eu.org/GINXEsportsTV.png" group-title="体育",GINXEsportsTV
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv053
+
+#EXTINF:-1 tvg-id="4gtv-4gtv101" tvg-name="智林体育台" tvg-logo="https://logo.doube.eu.org/智林体育台.png" group-title="体育",智林体育台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv101
+
+#EXTINF:-1 tvg-id="litv-longturn04" tvg-name="博斯魅力" tvg-logo="https://logo.doube.eu.org/博斯魅力.png" group-title="体育",博斯魅力
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn04
+
+#EXTINF:-1 tvg-id="litv-longturn05" tvg-name="博斯高球1" tvg-logo="https://logo.doube.eu.org/博斯高球1.png" group-title="体育",博斯高球1
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn05
+
+#EXTINF:-1 tvg-id="litv-longturn06" tvg-name="博斯高球2" tvg-logo="https://logo.doube.eu.org/博斯高球2.png" group-title="体育",博斯高球2
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn06
+
+#EXTINF:-1 tvg-id="litv-longturn07" tvg-name="博斯运动1" tvg-logo="https://logo.doube.eu.org/博斯运动1.png" group-title="体育",博斯运动1
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn07
+
+#EXTINF:-1 tvg-id="litv-longturn08" tvg-name="博斯运动2" tvg-logo="https://logo.doube.eu.org/博斯运动2.png" group-title="体育",博斯运动2
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn08
+
+#EXTINF:-1 tvg-id="litv-longturn09" tvg-name="博斯网球1" tvg-logo="https://logo.doube.eu.org/博斯网球1.png" group-title="体育",博斯网球1
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn09
+
+#EXTINF:-1 tvg-id="litv-longturn10" tvg-name="博斯无限1" tvg-logo="https://logo.doube.eu.org/博斯无限1.png" group-title="体育",博斯无限1
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn10
+
+#EXTINF:-1 tvg-id="litv-longturn13" tvg-name="博斯无限2" tvg-logo="https://logo.doube.eu.org/博斯无限2.png" group-title="体育",博斯无限2
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn13
+
+#EXTINF:-1 tvg-id="4gtv-4gtv013" tvg-name="视纳华仁纪实" tvg-logo="https://logo.doube.eu.org/视纳华仁纪实.png" group-title="纪录",视纳华仁纪实
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv013
+
+#EXTINF:-1 tvg-id="4gtv-4gtv016" tvg-name="Globetrotter" tvg-logo="https://logo.doube.eu.org/Globetrotter.png" group-title="纪录",Globetrotter
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv016
+
+#EXTINF:-1 tvg-id="4gtv-4gtv018" tvg-name="达文西频道" tvg-logo="https://logo.doube.eu.org/达文西频道.png" group-title="纪录",达文西频道
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv018
+
+#EXTINF:-1 tvg-id="4gtv-4gtv076" tvg-name="亚洲旅游台" tvg-logo="https://logo.doube.eu.org/亚洲旅游台.png" group-title="旅游",亚洲旅游台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv076
+
+#EXTINF:-1 tvg-id="litv-ftv07" tvg-name="民视旅游台" tvg-logo="https://logo.doube.eu.org/民视旅游台.png" group-title="旅游",民视旅游台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv07
+
+#EXTINF:-1 tvg-id="litv-longturn19" tvg-name="Smart知识台" tvg-logo="https://logo.doube.eu.org/Smart知识台.png" group-title="教育",Smart知识台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn19
+
+#EXTINF:-1 tvg-id="4gtv-4gtv044" tvg-name="靖天卡通台" tvg-logo="https://logo.doube.eu.org/靖天卡通台.png" group-title="少儿",靖天卡通台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv044
+
+#EXTINF:-1 tvg-id="4gtv-4gtv057" tvg-name="靖洋卡通台" tvg-logo="https://logo.doube.eu.org/靖洋卡通台.png" group-title="少儿",靖洋卡通台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv057
+
+#EXTINF:-1 tvg-id="litv-longturn01" tvg-name="龙华卡通台" tvg-logo="https://logo.doube.eu.org/龙华卡通台.png" group-title="少儿",龙华卡通台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn01
+
+#EXTINF:-1 tvg-id="4gtv-4gtv059" tvg-name="CLASSICA古典乐" tvg-logo="https://logo.doube.eu.org/CLASSICA古典乐.png" group-title="音乐",CLASSICA古典乐
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv059
+
+#EXTINF:-1 tvg-id="4gtv-4gtv082" tvg-name="TraceUrban" tvg-logo="https://logo.doube.eu.org/TraceUrban.png" group-title="音乐",TraceUrban
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv082
+
+#EXTINF:-1 tvg-id="4gtv-4gtv083" tvg-name="MezzoLiveHD" tvg-logo="https://logo.doube.eu.org/MezzoLiveHD.png" group-title="音乐",MezzoLiveHD
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv083
+
+#EXTINF:-1 tvg-id="litv-ftv16" tvg-name="好消息1" tvg-logo="https://logo.doube.eu.org/好消息1.png" group-title="综合",好消息1
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv16
+
+#EXTINF:-1 tvg-id="litv-ftv17" tvg-name="好消息2" tvg-logo="https://logo.doube.eu.org/好消息2.png" group-title="综合",好消息2
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv17
+
+#EXTINF:-1 tvg-id="litv-longturn20" tvg-name="ELTV生活英语台" tvg-logo="https://logo.doube.eu.org/ELTV生活英语台.png" group-title="综合",ELTV生活英语台
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn20
 
 
 
