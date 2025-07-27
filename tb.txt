@@ -253,13 +253,13 @@
 "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
 "lives":[
 
-{"name":"YouTube新聞","boot": true,"type":0,"url":"https://14996.kstore.space/twtv.txt","playerType":2,"epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"YouTube新聞","boot": true,"type":0,"url":"http://mytv.3d.tc//i/?T=twtv","playerType":2,"epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
    
 
 
         {   "name": "LiTV[台湾节点]",
             "type": 0,
-            "url": "https://14996.kstore.space/ltv.txt",
+            "url": "http://mytv.3d.tc//i/?T=ltv",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
@@ -267,7 +267,7 @@
 
   {
     "name": "🥉 4GTV",
-    "url": "https://14996.kstore.space/4GTV.txt",
+    "url": "http://mytv.3d.tc//i/?T=4GTV",
     "ua": "judy/5.2.1"
   },
 
