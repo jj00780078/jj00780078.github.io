@@ -3,7 +3,36 @@
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "sites":[
-
+          {
+            "key": "小宝影院",
+            "name": "🎬┃小寶影院",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60,
+            "api": "csp_XBPQ",
+            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/XBPQ.jar",
+            "ext": {
+                "主页url": "https://xiaoxintv.com",
+                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "数组": "class=\"myui-vodlist__box\">&&</div>",
+                "简介": "剧情简介</h3>&&</span>",
+                "线路数组": "data-toggle=\"tab&&</li>",
+                "线路标题": ">&&</a>",
+                "播放数组": "class=\"myui-content__list&&</ul>",
+                "播放列表": "<li&&</li>",
+                "播放标题": ">&&</a",
+                "播放链接": "href=\"&&\"",
+                "搜索数组": "lazyload\"&&</a",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索标题": "title=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "分类url": "https://xiaoxintv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+                "分类": "电影$7#电视剧$6#动漫$5#综艺$3#纪录片$21#体育$20"
+            }
+        },
           {
             "key": "Wexduboku",
             "name": "🎦｜獨播庫｜",
@@ -35,38 +64,190 @@
             
         },
 
+ {"key":"茶杯狐","name":"🦊茶杯狐┃影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ",
+ "ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e","搜索url":"https://www.xcupfox.com/vodsearch/{wd}-------------.html","跳转播放链接":"var player_*url\":\"&&\"","分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#国产剧$guochan#香港剧$xianggang#台湾剧$taiwan#美国剧$meiju#韩国剧$hanju#日本剧$riju#海外剧$haiwai#泰剧$taiju#大陆综艺$daluzongyi#日韩综艺$rihan#港台综艺$gangtai#欧美综艺$oumei#国产动漫$gcdm#日韩动漫$rhdm#欧美动漫$omdm","分类url":"https://www.xcupfox.com/cupfox/{cateId}/page/{catePg}.html"}},
+ {"key":"快龙资源","name":"🥑快龙┃资源","type":0,"api":"https://lz.118318.xyz/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"categories":["动漫片","日韩动漫","国产动漫","欧美动漫","港台动漫","海外动漫","电影片","综艺片","伦理片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","连续剧","短剧","电影解说","大陆综艺","港台综艺","日韩综艺","欧美综艺","篮球","足球","网球","斯诺克"]},
+{"key":"飘凌资源","name":"🍳飘凌┃资源","type":1,"api":"https://p2100.net/api.php/provide/vod","searchable":1,"quickSearch":1,"categories":["国产剧","香港剧","台湾剧","海外剧","欧美剧","韩国剧","日本剧","综艺","动漫片","动漫"]},
+{"key":"阿里资源","name":"🆔阿里┃资源","type":1,"api":"https://alivod.com/api.php/provide/vod","searchable":1,"quickSearch":1,"categories":["国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","海外剧","连续剧","国产动漫","日韩动漫","欧美动漫","动漫电影","内地综艺","港台综艺","日韩综艺","欧美综艺"]},
+ {"key":"高清影视","name":"🔰高清┃影视","type":1,"api":"https://api.yzzy-api.com/inc/apijson.php","searchable":1,"quickSearch":1,"categories":["国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","日韩动漫","国产动漫","欧美动漫","福利"]},
+{"key":"魔都影视","name":"🚢魔都┃影视","type":0,"api":"https://www.mdzyapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"categories":["国产动漫","港台动漫","日韩动漫","欧美动漫","港台动漫","里番动漫","动漫电影","电影","国产剧","台湾剧","韩国剧","日本剧","欧美剧","香港剧","泰国剧","海外剧","短剧","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},   
+    {
+      "key": "新黑木耳",
+      "name": "新黑木耳(🔥)",
+      "type": 1,
+      "api": "https://json.heimuer.xyz/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "网络电影",
+        "欧美剧",
+        "国产剧",
+        "港剧",
+        "台剧",
+        "日剧",
+        "韩剧",
+        "泰剧",
+        "新马剧",
+        "其他剧",
+        "电视剧",
+        "电影",
+        "动画电影",
+        "国产动漫",
+        "日本动漫",
+        "韩国动漫",
+        "欧美动漫",
+        "港台动漫",
+        "其它动漫",
+        "新马泰综艺",
+        "其他综艺",
+        "日本综艺",
+        "国产综艺",
+        "韩国综艺",
+        "港台综艺",
+        "欧美综艺"
+      ]
+    },
+    {
+      "key": "天翼资源",
+      "name": "天翼资源(🔥)",
+      "type": 0,
+      "api": "https://www.911ysw.top/tianyi.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "电影",
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "泰国剧",
+        "动漫",
+        "综艺"
+      ]
+    },
+    {
+      "key": "独播资源",
+      "name": "独播资源(🔥)",
+      "type": 0,
+      "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "电影",
+        "国产剧",
+        "香港剧",
+        "欧美剧",
+        "韩剧",
+        "泰国剧",
+        "日本剧",
+        "台湾剧",
+        "海外剧",
+        "连续剧",
+        "动漫电影",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "海外动漫",
+        "动漫",
+        "短剧大全",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "综艺片"
+      ]
+    },
 
+    {
+      "key": "速播影视",
+      "name": "速播影视(🔥)",
+      "type": 1,
+      "api": "https://subocaiji.com/api.php/provide/vod/from/subyun/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "大陆剧",
+        "台湾剧",
+        "港澳剧",
+        "日剧",
+        "韩剧",
+        "泰剧",
+        "美剧",
+        "电视剧",
+        "动漫电影",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫",
+        "动漫",
+        "解说",
+        "电影",
+        "综艺",
+        "短剧",
+        "体育赛事"
+      ]
+    },
+    {
+      "key": "高清影视",
+      "name": "高清影视(🔥)",
+      "type": 1,
+      "api": "https://api.yzzy-api.com/inc/apijson.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "日韩动漫",
+        "国产动漫",
+        "欧美动漫",
+        "福利"
+      ]
+    },
+    {
+      "key": "新浪影视",
+      "name": "新浪影视(🔥)",
+      "type": 0,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "电影",
+        "电视剧",
+        "动漫",
+        "大陆剧",
+        "港澳剧",
+        "台湾剧",
+        "欧美剧",
+        "动漫电影",
+        "韩剧",
+        "日剧",
+        "泰剧",
+        "伦理片",
+        "体育",
+        "短剧"
+      ]
+    },
+    {
+      "key": "小苹果",
+      "name": "🍎小苹果",
+      "type": 4,
+      "api": "http://zhangqun1818.serv00.net/pingguo.php",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
 
-{
-            "key": "小宝影院",
-            "name": "🎬┃小寶影院",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 0,
-            "timeout": 60,
-            "api": "csp_XBPQ",
-            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/XBPQ.jar",
-            "ext": {
-                "主页url": "https://xiaoxintv.com",
-                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "数组": "class=\"myui-vodlist__box\">&&</div>",
-                "简介": "剧情简介</h3>&&</span>",
-                "线路数组": "data-toggle=\"tab&&</li>",
-                "线路标题": ">&&</a>",
-                "播放数组": "class=\"myui-content__list&&</ul>",
-                "播放列表": "<li&&</li>",
-                "播放标题": ">&&</a",
-                "播放链接": "href=\"&&\"",
-                "搜索数组": "lazyload\"&&</a",
-                "搜索图片": "data-original=\"&&\"",
-                "搜索标题": "title=\"&&\"",
-                "搜索链接": "href=\"&&\"",
-                "分类url": "https://xiaoxintv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
-                "分类": "电影$7#电视剧$6#动漫$5#综艺$3#纪录片$21#体育$20"
-            }
-        },
 
 
 {"key":"黑木影視","name":"黑木影視","type":1,"api":"https://heimuer.ggff.net/api.php/tvbox","searchable":1,"quickSearch":1,"filterable":0},
@@ -74,12 +255,6 @@
    
   
 
- {
-      "key": "csp_Jpys",
-      "name": "🥇金牌┃1080P",
-      "type": 3,
-      "api": "csp_Jpys"
-    },
 
     {   "key": "Auete",
         "name": "🥇｜銀牌影院｜",
@@ -93,16 +268,7 @@
         "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/fan.txt;md5;8851819289f80deae32319080028db3b"
       },
       
-     {  "key": "csp_开心影院",
-        "name": "🥇｜銅牌影院｜",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/json_now/開心影院.json"
-      },
+
       
      {  "key": "csp_歐樂影院ORG",
         "name": "🥇｜鐵牌影院｜",
@@ -151,7 +317,7 @@
 
 {"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},
 
-{"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+
 
 {"key":"csp_Auete","name":"Auete┃无搜索","type":3,"api":"csp_Auete","searchable":1,"playerType":1,"quickSearch":1,"filterable":1},
 
