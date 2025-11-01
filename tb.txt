@@ -419,23 +419,26 @@
 "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
 "lives":[
 
-{"name":"YouTube新聞","boot": true,"type":0,"url":"http://mytv.3d.tc//i/?T=twtv","playerType":2,"epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"YouTube新聞","boot": true,"type":0,"url":"https://d.kstore.dev/download/14996/twtv.txt","playerType":2,"epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
    
 
-
-        {   "name": "LiTV[台湾节点]",
-            "type": 0,
-            "url": "http://mytv.3d.tc//i/?T=ltv",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
-
-
-  {
-    "name": "🥉 4GTV",
-    "url": "http://mytv.3d.tc//i/?T=4GTV",
-    "ua": "judy/5.2.1"
-  },
+    {
+      "name": "litv",
+      "type": 0,
+      "url": "https://d.kstore.dev/download/14996/ltv.txt",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "catchup": {
+        "type": "append",
+        "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+      }
+    },
+    {
+      "name": "🥉 4GTV",
+      "url": "https://d.kstore.dev/download/14996/4GTV.txt",
+      "ua": "judy/5.2.1"
+    },
 
 
           {
@@ -477,4 +480,5 @@
 {"name":"YOUTUBE音乐","type":0,"url":"http://yt.850930.xyz","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://5b0988e595225.cdn.sohucs.com/images/20190313/ad9ebfafbec640b7b41b9250156dff39.png"},
 {"name":"YOUTUBE榜单","type":0,"url":"http://yt.850930.xyz/playlist.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://5b0988e595225.cdn.sohucs.com/images/20190313/ad9ebfafbec640b7b41b9250156dff39.png"}
 ]
+
 }
