@@ -1,9 +1,14 @@
 台灣新聞,#genre#
 
+
+TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
+TVBS財經台,https://www.youtube.com/watch?v=TMjUNWnNYmE
+三立iNEWS財經,https://www.youtube.com/watch?v=pF507BLtbqU
 寰宇財經台,https://www.youtube.com/watch?v=eWj66MbDx1U
 東森財經新聞台,https://www.youtube.com/watch?v=AEBeWMM1atA
 東森財經新聞台,https://www.youtube.com/watch?v=1I2iq41Akmo
 非凡新聞台,https://www.youtube.com/watch?v=wAUx3pywTt8
+非凡財經台,https://www.youtube.com/watch?v=eA6Aczd3FZM
 三立新聞台,https://www.youtube.com/watch?v=QsGswQvRmtU
 民視新聞台,https://www.youtube.com/watch?v=ylYJSBUgaMA
 東森新聞台,https://www.youtube.com/watch?v=V1p33hqPrUk
@@ -12,7 +17,7 @@
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 寰宇新聞台,https://www.youtube.com/watch?v=6IquAgfvYmc
 TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
-非凡財經台,https://www.youtube.com/watch?v=eA6Aczd3FZM
+
 中天新聞台,https://www.youtube.com/watch?v=vr3XyVCR4T0
 台視新聞台,https://www.youtube.com/watch?v=xL0ch83RAK8
 中視新聞台,https://www.youtube.com/watch?v=TCnaIE_SAtM
@@ -38,9 +43,9 @@ TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞台,https://www.youtube.com/watch?v=V1p33hqPrUk
 寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
 鏡電視新聞台,https://www.youtube.com/watch?v=5n0y6b0Q25o
-三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
+
 寰宇新聞台,https://www.youtube.com/watch?v=6IquAgfvYmc
-TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
+
 中天新聞台,https://www.youtube.com/watch?v=vr3XyVCR4T0
 台視新聞台,https://www.youtube.com/watch?v=xL0ch83RAK8
 中視新聞台,https://www.youtube.com/watch?v=TCnaIE_SAtM
