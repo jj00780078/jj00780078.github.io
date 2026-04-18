@@ -61,17 +61,7 @@
       "type": 3,
       "api": "https://tvbot.dpdns.org/py_jinpai.py"
     },
-    {
-      "key": "爱壹帆",
-      "name": "👒爱壹帆",
-      "api": "csp_AiyfAmns",
-      "changeable": 1,
-      "filterable": 1,
-      "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
-      "quickSearch": 1,
-      "searchable": 1,
-      "type": 3
-    },
+ 
     {
       "key": "如意资源",
       "name": "🔰如意资源",
@@ -125,16 +115,7 @@
         "喜剧片"
       ]
     },
-    {
-      "key": "如意采集资源",
-      "name": "🧡｜如意收集",
-      "type": 1,
-      "api": "https://cj.rycjapi.com/api.php/provide/vod/",
-      "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php",
-      "playerType": 1,
-      "searchable": 1,
-      "changeable": 1
-    },
+
     {
       "key": "py_韩剧",
       "name": "🌀｜韩剧蓝光",
