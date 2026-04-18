@@ -45,13 +45,21 @@
       }
     },
     {
-      "key": "Wexduboku",
-      "name": "🎦｜獨播庫｜",
+      "key": "dbokutv_key",
+      "name": "🐼｜独播库",
       "type": 3,
-      "api": "csp_WexdubokuGuard",
-      "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/wex.jar",
-      "searchable": 1,
+      "api": "https://files.catbox.moe/gd1tos.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
       "changeable": 1
+    },
+    {
+      "key": "金牌影院",
+      "name": "👒｜金牌影院",
+      "type": 3,
+      "api": "https://tvbot.dpdns.org/py_jinpai.py"
     },
     {
       "key": "爱壹帆",
@@ -232,12 +240,7 @@
       "order_num": 0,
       "ext": "https://gitee.com/abiubiud/xxs/raw/main/dr2/飞快TV.js"
     },
-    {
-      "api": "https://newtv.ggff.net/duboku?token=P69Phb_y",
-      "key": "獨播庫",
-      "name": "獨播庫",
-      "type": 4
-    },
+
     {
       "key": "csp_PTT",
       "name": "🎀｜PTT｜",
