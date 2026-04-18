@@ -1,0 +1,116 @@
+{
+  "urls": [
+    {
+      "url": "https://github.com/jj00780078/jj00780078.github.io/blob/main/tb.txt",
+      "name": "👲自用td"
+    },
+    {
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lrzy/api.json",
+      "name": "💖老人专用"
+    },
+    {
+      "url": "https://proxy.v2gh.com/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lrzy/api.json",
+      "name": "💖老人专用备"
+    },
+    {
+      "name": "🚠七星",
+      "url": "http://7337.kstore.space/qxys/禁止传播.json"
+    },
+    {
+      "name": "🐔宝盒",
+      "url": "http://宝盒接口.top"
+    },
+    {
+      "url": "http://tv.anbox.ip-ddns.com/vod",
+      "name": "👒AnboxTV"
+    },
+    {
+      "url": "https://upld.zone.id/uploads/dqiqfvhiq/tvbox.json",
+      "name": "♨️TVBox"
+    },
+    {
+      "url": "http://tv.nxog.top/m/",
+      "name": "🐅欧歌"
+    },
+    {
+      "url": "http://cdn.qiaoji8.com/tvbox.json",
+      "name": "💖巧技"
+    },
+    {
+      "url": "https://catbox.n13.club/jk/jsm.json",
+      "name": "🐱貓盒"
+    },
+    {
+      "url": "http://我不是.摸鱼儿.com",
+      "name": "⛵️摸鱼儿"
+    },
+    {
+      "url": "http://肥猫.com",
+      "name": "🐱肥猫"
+    },
+    {
+      "url": "http://www.饭太硬.com/tv",
+      "name": "🍚饭太硬"
+    },
+    {
+      "url": "http://fty.xxooo.cf/tv",
+      "name": "🍚饭太硬备"
+    },
+    {
+      "url": "http://tvbox.王二小放牛娃.top",
+      "name": "👙王小二"
+    },
+    {
+      "url": "https://9280.kstore.vip/newwex.json",
+      "name": "👙王小二备"
+    },
+    {
+      "url": "http://ok213.top/ok",
+      "name": "👌OK佬"
+    },
+    {
+      "url": "http://ok213.top/tv",
+      "name": "👌OK佬备"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/guxiangbin/tvbox2/main/%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BC%BA%E6%8E%A5%E5%8F%A3.txt",
+      "name": "💖地表最强接口"
+    },
+    {
+      "name": "🐅小脑斧",
+      "url": "http://cnmb.cc.cd/jk/xnf.json"
+    },
+    {
+      "url": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🅾️林中的小屋"
+    },
+    {
+      "name": "👖VOX",
+      "url": "http://rihou.cc:88/demo.php"
+    },
+    {
+      "name": "🐧东篱",
+      "url": "https://16151.kstore.space"
+    },
+    {
+      "name": "♑南风",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+    },
+    {
+      "name": "💡张群",
+      "url": "http://zhangqun1818.serv00.net/zq/api.json"
+    },
+    {
+      "name": "🍊分享者",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/maoystv/6/main/001.json"
+    },
+    {
+      "url": "http://mzrjk.top/音乐",
+      "name": "🌊音乐"
+    },
+    {
+      "url": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
+      "name": "🍯TG音乐"
+    }
+  ]
+}
