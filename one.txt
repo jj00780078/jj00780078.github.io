@@ -2,7 +2,7 @@
   "urls": [
     {
       "url": "https://github.com/jj00780078/jj00780078.github.io/blob/main/tb.txt",
-      "name": "👲自用td"
+      "name": "👲自用tb"
     },
     {
       "url": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lrzy/api.json",
