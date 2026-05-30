@@ -21,6 +21,21 @@ TVBS新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 中天新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=260
 中天新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=30
 
+中天新聞台,http://49.232.143.177:80/pyxg/export.php?id=44&key=cc89
+東森新聞台,http://49.232.143.177:80/pyxg/export.php?id=45&key=cc89
+環宇新聞台,http://49.232.143.177:80/pyxg/export.php?id=46&key=cc89
+華視新聞台,http://49.232.143.177:80/pyxg/export.php?id=47&key=cc89
+中視新聞台,http://49.232.143.177:80/pyxg/export.php?id=48&key=cc89
+台視新聞台,http://49.232.143.177:80/pyxg/export.php?id=49&key=cc89
+民視新聞台,http://49.232.143.177:80/pyxg/export.php?id=50&key=cc89
+TVBS新聞台,http://49.232.143.177:80/pyxg/export.php?id=51&key=cc89
+三立新聞台,http://49.232.143.177:80/pyxg/export.php?id=52&key=cc89
+年代新聞台,http://49.232.143.177:80/pyxg/export.php?id=53&key=cc89
+壹新聞台,http://49.232.143.177:80/pyxg/export.php?id=54&key=cc89
+非凡新聞台,http://49.232.143.177:80/pyxg/export.php?id=55&key=cc89
+鏡電視新聞台,http://49.232.143.177:80/pyxg/export.php?id=56&key=cc89
+寰宇新聞台灣台,http://49.232.143.177:80/pyxg/export.php?id=57&key=cc89
+
 TVBS新聞台,p3p://focus169.org:25271/67c2faf0000d9e792b9b7d7f40e95a7b
 年代新聞台,p3p://focus169.org:25271/69086ad8000616a922d0822a6a6429cd
 東森新聞台,p3p://focus169.org:25271/69453268000bccfe103ac2e212d83e91
