@@ -1,5 +1,37 @@
 台灣新聞,#genre#
 
+三立iNEWS財經,https://ha.msbot.dpdns.org/4gtv_api.php?id=229
+東森財經新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=293
+東森財經新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=211
+民視新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=31
+民視新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=257
+民視新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=467
+東森新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=234
+東森新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
+寰宇新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=262
+寰宇新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=36
+寰宇新聞台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
+鏡電視新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=268
+TVBS新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=291
+TVBS新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
+華視新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=256
+華視新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=34
+中視新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=33
+中視新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=258
+中天新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=260
+中天新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=30
+
+TVBS新聞台,p3p://focus169.org:25271/67c2faf0000d9e792b9b7d7f40e95a7b
+年代新聞台,p3p://focus169.org:25271/69086ad8000616a922d0822a6a6429cd
+東森新聞台,p3p://focus169.org:25271/69453268000bccfe103ac2e212d83e91
+東森財經新聞台,p3p://focus169.org:25271/68ce7f8300076be94092dd9d3b315bc5
+非凡新聞台,p3p://focus169.org:25271/676955eb00013181cd70c73b35a34c93
+寰宇新聞台,p3p://focus169.org:25271/69453421000054f410417a8c12ff3666
+
+東森財經新聞台,https://iptv.852851.xyz/ch/4282178b26b45173c835d4e5e2f3446b/master.m3u8
+東森新聞台,https://iptv.852851.xyz/ch/3e9793ca3473025290a1af49f9d4af0a/master.m3u8
+
+
 
 TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS財經台,https://www.youtube.com/watch?v=TMjUNWnNYmE
