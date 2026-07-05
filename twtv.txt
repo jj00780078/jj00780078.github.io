@@ -21,37 +21,15 @@ TVBS新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 中天新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=260
 中天新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=30
 
-中天新聞台,http://49.232.143.177:80/pyxg/export.php?id=44&key=cc89
-東森新聞台,http://49.232.143.177:80/pyxg/export.php?id=45&key=cc89
-環宇新聞台,http://49.232.143.177:80/pyxg/export.php?id=46&key=cc89
-華視新聞台,http://49.232.143.177:80/pyxg/export.php?id=47&key=cc89
-中視新聞台,http://49.232.143.177:80/pyxg/export.php?id=48&key=cc89
-台視新聞台,http://49.232.143.177:80/pyxg/export.php?id=49&key=cc89
-民視新聞台,http://49.232.143.177:80/pyxg/export.php?id=50&key=cc89
-TVBS新聞台,http://49.232.143.177:80/pyxg/export.php?id=51&key=cc89
-三立新聞台,http://49.232.143.177:80/pyxg/export.php?id=52&key=cc89
-年代新聞台,http://49.232.143.177:80/pyxg/export.php?id=53&key=cc89
-壹新聞台,http://49.232.143.177:80/pyxg/export.php?id=54&key=cc89
-非凡新聞台,http://49.232.143.177:80/pyxg/export.php?id=55&key=cc89
-鏡電視新聞台,http://49.232.143.177:80/pyxg/export.php?id=56&key=cc89
-寰宇新聞台灣台,http://49.232.143.177:80/pyxg/export.php?id=57&key=cc89
-
-TVBS新聞台,p3p://focus169.org:25271/67c2faf0000d9e792b9b7d7f40e95a7b
-年代新聞台,p3p://focus169.org:25271/69086ad8000616a922d0822a6a6429cd
-東森新聞台,p3p://focus169.org:25271/69453268000bccfe103ac2e212d83e91
-東森財經新聞台,p3p://focus169.org:25271/68ce7f8300076be94092dd9d3b315bc5
-非凡新聞台,p3p://focus169.org:25271/676955eb00013181cd70c73b35a34c93
-寰宇新聞台,p3p://focus169.org:25271/69453421000054f410417a8c12ff3666
-
-東森財經新聞台,https://iptv.852851.xyz/ch/4282178b26b45173c835d4e5e2f3446b/master.m3u8
-東森新聞台,https://iptv.852851.xyz/ch/3e9793ca3473025290a1af49f9d4af0a/master.m3u8
 
 
+TVBS新聞台,http://iptv.4666888.xyz/iptv2A.php?id=43
+非凡新聞台,http://iptv.4666888.xyz/iptv2A.php?id=44
 
 TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS財經台,https://www.youtube.com/watch?v=TMjUNWnNYmE
 三立iNEWS財經,https://www.youtube.com/watch?v=pF507BLtbqU
-寰宇財經台,https://www.youtube.com/watch?v=eWj66MbDx1U
+寰宇財經台,https://www.youtube.com/watch?v=yAUQQ0DhPxI
 東森財經新聞台,https://www.youtube.com/watch?v=AEBeWMM1atA
 東森財經新聞台,https://www.youtube.com/watch?v=1I2iq41Akmo
 非凡新聞台,https://www.youtube.com/watch?v=wAUx3pywTt8
