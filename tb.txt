@@ -81,10 +81,50 @@
       "changeable": 1
     },
     {
-      "key": "金牌影院",
-      "name": "👒｜金牌影院",
+      "key": "JP",
+      "name": "🐬金牌APP",
       "type": 3,
-      "api": "https://tvbot.dpdns.org/py_jinpai.py"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/金牌APP.py"
+    },
+    {
+      "key": "csp_Jpys",
+      "name": "🌻金牌┃蓝光🌻",
+      "type": 3,
+      "timeout": 12,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "csp_Jpys",
+      "ext": "https://ghw9zwp5.com/",
+      "jar": "https://img2.gelonghui.com/library/28e33-d7f6e0ad-8de5-4829-b42c-bcdeaae1ed42.png;md5;28e33eb59669c994ca140064ad4a1eef"
+    },
+    {
+      "key": "py_文才",
+      "name": "🖍️┃文才┃影视",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/14996/py/文才.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+      }
+    },
+    {
+      "key": "MH",
+      "name": "🐬丨麻花影视",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/麻花影视.py"
+    },
+    {
+      "key": "泥泥视频",
+      "name": "👖丨泥视频影视",
+      "type": 3,
+      "api": "http://rihou.cc:88/js/drpy2.min.js",
+      "ext": "http://rihou.cc:88/js/泥泥视频.js"
     },
  
     {
