@@ -1,5 +1,14 @@
 台灣新聞,#genre#
 
+三立財經iNEWS,https://4gtv.tvbjack.ggff.net/?id=%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9EiNEWS
+東森財經新聞台,https://4gtv.tvbjack.ggff.net/?id=%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0
+民視新聞台,https://4gtv.tvbjack.ggff.net/?id=%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0
+東森新聞台,https://4gtv.tvbjack.ggff.net/?id=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0
+寰宇新聞台灣台,https://4gtv.tvbjack.ggff.net/?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0%E7%81%A3%E5%8F%B0
+寰宇新聞台,https://4gtv.tvbjack.ggff.net/?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0
+鏡電視新聞台,https://4gtv.tvbjack.ggff.net/?id=%E9%8F%A1%E9%9B%BB%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0
+TVBS新聞台,https://4gtv.tvbjack.ggff.net/?id=TVBS%E6%96%B0%E8%81%9E
+
 三立iNEWS財經,https://ha.msbot.dpdns.org/4gtv_api.php?id=229
 東森財經新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=293
 東森財經新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=211
