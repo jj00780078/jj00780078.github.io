@@ -353,28 +353,28 @@
       "url": "https://d.kstore.dev/download/14996/tvtv.txt"
     },
     {
-      "name": "🎉哈TV",
+      "name": "🎉益力多",
       "type": 0,
       "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
-      "url": "http://gc.gt.tc/c/htv.txt"
+      "url": "https://iptv.yang-1989.xyz/playlist.m3u"
     },
     {
-      "name": "🎉 YouTube新聞直播 (PyScript)",
-      "type": 3,
-      "api": "https://d.kstore.dev/download/14996/py/Ytdl.py",
-      "ext": {
-        "proxy": "",
-        "youtube_txt": "https://d.kstore.dev/download/14996/tvtv.txt"
-      },
-      "ua": "okhttp/3.15",
-      "playerType": 2,
-      "timeout": 15
-    },
-    {
-      "name": "🐬4GTV2",
+      "name": "🎉YanG",
       "type": 0,
-      "ua": "okhttp",
-      "url": "https://ha.msbot.dpdns.org/4gtv_api.php"
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "https://iptv.1989.click/playlist.m3u"
+    },
+    {
+      "name": "🎉yuan-zb",
+      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "http://wangziduoqing.com/yuan/zb.txt"
+    },
+    {
+      "name": "🎉123TV",
+      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "http://tv123.vvvv.ee/tv.m3u"
     },
     {
       "name": "🎉TV123",
