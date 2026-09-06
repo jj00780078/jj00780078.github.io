@@ -309,16 +309,62 @@
       "url": "https://d.kstore.dev/download/14996/tvtv.txt"
     },
     {
-      "name": "TV123",
+      "name": "🎉益力多",
+      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "https://iptv.yang-1989.xyz/playlist.m3u"
+    },
+    {
+      "name": "🎉YanG",
+      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "https://iptv.1989.click/playlist.m3u"
+    },
+    {
+      "name": "🎉yuan-zb",
+      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "http://wangziduoqing.com/yuan/zb.txt"
+    },
+    {
+      "name": "🎉123TV",
+      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "http://tv123.vvvv.ee/tv.m3u"
+    },
+    {
+      "name": "🎉TV123",
       "type": 0,
       "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
       "url": "https://tv123.cc.cd/tv.m3u"
     },
     {
-      "name": "🐬4GTV2",
+      "name": "🐉港澳TV直播",
       "type": 0,
-      "ua": "okhttp",
-      "url": "https://ha.msbot.dpdns.org/4gtv_api.php"
+      "url": "https://cnb.cool/fgvss/dszb1/-/git/raw/main/zbtv30.txt"
+    },
+    {
+      "name": "🐉王子TV直播",
+      "type": 0,
+      "url": "http://wangziduoqing.com/yuan/zb.txt"
+    },
+    {
+      "name": "🐉全球TV直播",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvds/refs/heads/main/fyzb.txt",
+      "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "🐉易发TV直播",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
+    },
+    {
+      "name": "🐉海外TV直播{翻}",
+      "url": "https://proxy.api.030101.xyz/iptv-org.github.io/iptv/index.m3u"
     },
     {
       "name": "IPTV",
