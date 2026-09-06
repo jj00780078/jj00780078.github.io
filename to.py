@@ -12,13 +12,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://d.kstore.dev/download/14996/jar/ttkx1.jar",
+      "jar": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/jar/ttkx1.jar",
       "ext": "https://app-v1.ecoliving168.com/"
     },
     {
       "key": "公众号【极客测评馆】猎手PY",
       "name": "⭐️丨猎手PY",
-      "api": "https://d.kstore.dev/download/14996/py/%E7%94%B5%E5%BD%B1%E7%8C%8E%E6%89%8B.py",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/%E7%94%B5%E5%BD%B1%E7%8C%8E%E6%89%8B.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -29,7 +29,7 @@
       "key": "4gtv_py",
       "name": "📺┃4GTV直播",
       "type": 3,
-      "api": "https://d.kstore.dev/download/14996/py/4GTV.py",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/4GTV.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -47,7 +47,7 @@
       "jar": "https://files.catbox.moe/hmml4f.txt",
       "ext": {
         "proxy": "",
-        "youtube_txt": "https://d.kstore.dev/download/14996/63vr18.txt"
+        "youtube_txt": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/63vr18.txt"
       }
     },
     {
@@ -89,7 +89,7 @@
       "key": "瓜子影视",
       "name": "🍉｜瓜子秒播",
       "type": 3,
-      "api": "https://d.kstore.dev/download/14996/py/瓜子影视.py",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/瓜子影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -127,7 +127,7 @@
       "key": "py_dsystv",
       "name": "🌀丨袋鼠影视",
       "type": 3,
-      "api": "https://d.kstore.dev/download/14996/py/dsystv.py",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/dsystv.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -139,7 +139,7 @@
       "key": "py_aigua",
       "name": "🍊丨爱瓜TV",
       "type": 3,
-      "api": "https://d.kstore.dev/download/14996/py/aigua.py",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/aigua.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -174,7 +174,7 @@
       "key": "py_文才",
       "name": "🖍️┃文才┃影视",
       "type": 3,
-      "api": "https://d.kstore.dev/download/14996/py/文才.py",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/文才.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -206,7 +206,7 @@
       "key": "dbokutv_key",
       "name": "🐼｜独播库",
       "type": 3,
-      "api": "https://d.kstore.dev/download/14996/js/Duboku.js",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/js/Duboku.js",
       "style": {
         "type": "rect",
         "ratio": 1.33
@@ -287,7 +287,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "api": "https://d.kstore.dev/download/14996/py/UVod.py",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/UVod.py",
       "order_num": 5,
       "ext": "1"
     },
