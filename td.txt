@@ -11,9 +11,76 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://d.kstore.dev/download/14996/jar/ttkx1.jar",
+      "jar": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/jar/ttkx1.jar",
       "ext": "https://app-v1.ecoliving168.com/"
     },
+    {
+      "key": "YouTube 👁️‍🗨️(火星兔)",
+      "name": "📺｜YT新聞直播",
+      "type": 3,
+      "api": "csp_Ytdl",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "timeout": 30,
+      "filterable": 1,
+      "jar": "https://files.catbox.moe/hmml4f.txt",
+      "ext": {
+        "proxy": "",
+        "youtube_txt": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/63vr18.txt"
+      }
+    },
+    {
+      "key": "4gtv_py",
+      "name": "📺┃4GTV直播",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/4GTV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "小宝影院",
+      "name": "🎬┃小寶影院",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 0,
+      "timeout": 60,
+      "api": "csp_XBPQ",
+      "jar": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/jar/XBPQ.jar",
+      "ext": {
+        "主页url": "https://xiaoxintv.com",
+        "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+        "数组": "class=\"myui-vodlist__box\">&&</div>",
+        "简介": "剧情简介</h3>&&</span>",
+        "线路数组": "data-toggle=\"tab&&</li>",
+        "线路标题": ">&&</a>",
+        "播放数组": "class=\"myui-content__list&&</ul>",
+        "播放列表": "<li&&</li>",
+        "播放标题": ">&&</a",
+        "播放链接": "href=\"&&\"",
+        "搜索数组": "lazyload\"&&</a",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索标题": "title=\"&&\"",
+        "搜索链接": "href=\"&&\"",
+        "分类url": "https://xiaoxintv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+        "分类": "电影$7#电视剧$6#动漫$5#综艺$3#纪录片$21#体育$20"
+      }
+    },
+    {
+      "key": "dbokutv_key",
+      "name": "🐼｜独播库",
+      "type": 3,
+      "api": "https://files.catbox.moe/gd1tos.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+
     {
       "key": "瓜子影视",
       "name": "🍉｜瓜子秒播",
@@ -40,7 +107,7 @@
       "key": "py_文才",
       "name": "🖍️┃文才┃影视",
       "type": 3,
-      "api": "https://d.kstore.dev/download/14996/py/文才.py",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/文才.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -173,7 +240,7 @@
       "key": "dbokutv_key",
       "name": "🐼｜独播库",
       "type": 3,
-      "api": "https://d.kstore.dev/download/14996/js/Duboku.js",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/js/Duboku.js",
       "style": {
         "type": "rect",
         "ratio": 1.33
@@ -186,7 +253,7 @@
     {
       "key": "公众号【极客测评馆】界影PY",
       "name": "💯丨界影PY",
-      "api": "https://d.kstore.dev/download/14996/py/T3%E7%95%8C%E5%BD%B1%E8%A7%86.py",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/T3%E7%95%8C%E5%BD%B1%E8%A7%86.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -244,7 +311,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "api": "https://d.kstore.dev/download/14996/py/UVod.py",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/UVod.py",
       "order_num": 5,
       "ext": "1"
     }
