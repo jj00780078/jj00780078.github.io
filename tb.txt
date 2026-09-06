@@ -11,7 +11,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://raw.githubusercontent.com/jj00780078/TV/refs/heads/main/jar/ttkx1.jar",
+      "jar": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/jar/ttkx1.jar",
       "ext": "https://app-v1.ecoliving168.com/"
     },
     {
@@ -27,14 +27,14 @@
       "jar": "https://files.catbox.moe/hmml4f.txt",
       "ext": {
         "proxy": "",
-        "youtube_txt": "https://raw.githubusercontent.com/jj00780078/TV/refs/heads/main/63vr18.txt"
+        "youtube_txt": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/63vr18.txt"
       }
     },
     {
       "key": "4gtv_py",
       "name": "📺┃4GTV直播",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/jj00780078/TV/refs/heads/main/py/4GTV.py",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/4GTV.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -49,7 +49,7 @@
       "filterable": 0,
       "timeout": 60,
       "api": "csp_XBPQ",
-      "jar": "https://raw.githubusercontent.com/jj00780078/TV/refs/heads/main/jar/XBPQ.jar",
+      "jar": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/jar/XBPQ.jar",
       "ext": {
         "主页url": "https://xiaoxintv.com",
         "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
@@ -97,7 +97,7 @@
       "key": "py_文才",
       "name": "🖍️┃文才┃影视",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/jj00780078/TV/refs/heads/main/py/文才.py",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/文才.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -180,7 +180,7 @@
       "key": "py_韩剧",
       "name": "🌀｜韩剧蓝光",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/jj00780078/TV/refs/heads/main/py/%E9%9F%A9%E5%89%A7.py",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/%E9%9F%A9%E5%89%A7.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -287,7 +287,7 @@
       "name": "🎀｜PTT｜",
       "type": 3,
       "api": "csp_PTT",
-      "jar": "https://raw.githubusercontent.com/jj00780078/TV/refs/heads/main/jar/lem0118.jar",
+      "jar": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/jar/lem0118.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -320,7 +320,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://raw.githubusercontent.com/jj00780078/TV/refs/heads/main/jar/yiwo-py.jar",
+      "jar": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/jar/yiwo-py.jar",
       "ext": {
         "简介": "",
         "分类url": "https://www.815k.com/list/{cateId}.html",
@@ -429,7 +429,7 @@
       "name": "🐻｜ 索尼",
       "type": 4,
       "api": "http://zhangqun66.xyz/sn.php",
-      "jar": "https://raw.githubusercontent.com/jj00780078/TV/refs/heads/main/jar/fm.jar",
+      "jar": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/jar/fm.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
