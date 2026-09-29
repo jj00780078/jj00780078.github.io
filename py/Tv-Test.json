@@ -1,0 +1,25 @@
+{
+  "spider": "https://qiniu.gongxueyun.com/upload/2175753/2026-08-15/report/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
+  "sites": [
+    {
+      "key": "dami",
+      "name": "Dami",
+      "type": 3,
+      "api": "csp_AppDaMi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://d.kstore.dev/download/14996/jar/ttkx1.jar",
+      "ext": "https://app-v1.ecoliving168.com/"
+    },
+    {
+      "key": "test_loader",
+      "name": "TEST LOADER",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/main/py/test_loader.py"
+    }
+  ],
+  "proxy": [
+    "raw.githubusercontent.com"
+  ]
+}
