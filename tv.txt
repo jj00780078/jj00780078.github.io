@@ -15,12 +15,12 @@
       "jar": "https://d.kstore.dev/download/14996/jar/ttkx1.jar",
       "ext": "https://app-v1.ecoliving168.com/"
     },
-{
-  "key": "自動加載-網絡版.py",
-  "name": "雲端自動加載",
-  "type": 3,
-  "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/%E8%87%AA%E5%8B%95%E5%8A%A0%E8%BC%89-%E7%B6%B2%E7%B5%A1%E7%89%88.py"
-}
+    {
+      "key": "auto_loader_cloud",
+      "name": "☁️雲端自動加載",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/main/py/auto_loader_cloud.py"
+    }
   ],
   "lives": [
 
