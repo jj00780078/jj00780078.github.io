@@ -1,6 +1,6 @@
 
 {
-  "spider": "https://qiniu.gongxueyun.com/upload/2175753/2026-08-15/report/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
+ "spider": "https://cnb.cool/fish2035/xs/-/git/raw/main/spider.jar",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "sites": [
     {
