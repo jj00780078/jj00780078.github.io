@@ -1,1 +1,323 @@
 
+{
+  "spider": "https://qiniu.gongxueyun.com/upload/2175753/2026-08-15/report/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
+  "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
+  "sites": [
+    {
+      "key": "大米",
+      "name": "📚｜大米影視",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_AppDaMi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://d.kstore.dev/download/14996/jar/ttkx1.jar",
+      "ext": "https://app-v1.ecoliving168.com/"
+    },
+{
+  "key": "auto_cloud",
+  "name": "雲端自動加載",
+  "type": 3,
+  "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/main/py/自動加載-網絡版.py"
+}
+  ],
+  "lives": [
+
+    {
+      "name": "🎉益力多",
+      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "https://iptv.yang-1989.xyz/playlist.m3u"
+    },
+    {
+      "name": "🎉YanG",
+      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "https://iptv.1989.click/playlist.m3u"
+    },
+    {
+      "name": "🎉yuan-zb",
+      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "http://wangziduoqing.com/yuan/zb.txt"
+    },
+    {
+      "name": "🎉123TV",
+      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "http://tv123.vvvv.ee/tv.m3u"
+    },
+    {
+      "name": "🎉TV123",
+      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "https://tv123.cc.cd/tv.m3u"
+    },
+    {
+      "name": "🐉港澳TV直播",
+      "type": 0,
+      "url": "https://cnb.cool/fgvss/dszb1/-/git/raw/main/zbtv30.txt"
+    },
+    {
+      "name": "🐉王子TV直播",
+      "type": 0,
+      "url": "http://wangziduoqing.com/yuan/zb.txt"
+    },
+    {
+      "name": "🐉全球TV直播",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvds/refs/heads/main/fyzb.txt",
+      "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "🐉易发TV直播",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
+    },
+    {
+      "name": "🐉海外TV直播{翻}",
+      "url": "https://proxy.api.030101.xyz/iptv-org.github.io/iptv/index.m3u"
+    },
+    {
+      "name": "👖TikTok直播",
+      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "https://tiktok.445569.xyz/live.m3u"
+    },
+    {
+      "name": "👖Twitch爬虫",
+      "type": 0,
+      "ua": "okhttp",
+      "url": "https://twitch.445569.xyz/live.m3u"
+    },
+    {
+      "name": "👖快手爬虫",
+      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "https://kuaishou.445569.xyz/list.m3u"
+    },
+    {
+      "name": "👖TikTik爬虫",
+      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "https://tiktok.445569.xyz/live.m3u"
+    },
+    {
+      "name": "LiveTV",
+      "type": 0,
+      "url": "https://www.mpimg.cn/down.php/d74e5569cc12720ac2cf66a2a4d42d36.txt",
+      "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "IPTV研究所",
+      "type": 0,
+      "url": "https://iptv.852851.xyz/sub/ebMaVCuF6lTu/playlist.m3u",
+      "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "163189",
+      "type": 0,
+      "ua": "okhttp/5.3.2",
+      "url": "https://cdn.qd.je/live.m3u"
+    },
+    {
+      "name": "🐬港台",
+      "type": 0,
+      "ua": "okhttp",
+      "url": "https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt"
+    },
+    {
+      "name": "🐬4GTV(梯子台湾节点)",
+      "type": 0,
+      "ua": "okhttp",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/4gtv"
+    },
+    {
+      "name": "🐬新港台频道",
+      "type": 0,
+      "ua": "okhttp",
+      "url": "https://iptv.707626.xyz/sub/K5hMyUOy52A1rzUvV6s5pbADasExbi7x/playlist.m3u"
+    },
+    {
+      "name": "🐬台湾频道(梯子台湾节点)",
+      "type": 0,
+      "ua": "okhttp",
+      "url": "https://epg.pw/test_channels_taiwan.m3u"
+    },
+    {
+      "name": "🥈Gather",
+      "url": "https://v.iill.top/m3u/4GTV.m3u",
+      "header": {
+        "User-Agent": "Goiptv/8.8.8"
+      }
+    },
+    {
+      "name": "🎉台灣YouTube",
+      "type": 1,
+      "url": "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtubelocal.m3u",
+      "epg": "https://epg.tv.darwinchow.com/epg.xml.gz,https://p.xbta.cc/https://raw.githubusercontent.com/kuke31/xmlgz/main/e.xml.gz,https://epg.iill.top/epg.xml",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png",
+      "playerType": 2
+    },
+    {
+      "name": "🦄裤佬TV",
+      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0,AptvPlayer/1.4.0",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u"
+    },
+    {
+      "name": "Gather「IPTV」",
+      "type": 3,
+      "url": "https://iptv.yang-1989.eu.org/m3u/Gathe.m3u",
+      "epg": "https://epg.yang-1989.eu.org/epg.xml.gz",
+      "ua": "okhttp/3.8.1",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "YueChan",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GNTV.m3u",
+      "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "APTV专用源",
+      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
+    },
+    {
+      "name": "jackTV",
+      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
+    },
+    {
+      "name": "AnboxTV",
+      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "http://gg.7749.org/z/0/%E7%99%BD%E5%AB%96%E5%86%9B%E5%9B%A2.txt"
+    },
+    {
+      "name": "🎉4GTV網頁嗅探",
+      "type": 0,
+      "ua": "judy/5.2.1,okhttp,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "https://d.kstore.dev/download/14996/4GTV.txt"
+    },
+    {
+      "name": "Jsnzkpg",
+      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "https://codeberg.org/Jsnzkpg/Jsnzkpg/raw/branch/Jsnzkpg/Jsnzkpg1.m3u"
+    },
+    {
+      "name": "YueChan ",
+      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GNTV.m3u"
+    },
+    {
+      "name": "🐬大海豚",
+      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "https://ke.html-5.me//i/大海豚🐬.txt"
+    },
+    {
+      "name": "HKTV",
+      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "http://txt.gt.tc/users/HKTV.txt"
+    },
+    {
+      "name": "HKTV2",
+      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "http://gc.gt.tc/c/HKTV2.txt"
+    },
+    {
+      "name": "🦄港台大陆18频道",
+      "type": 0,
+      "ua": "judy/5.2.1,okhttp,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆"
+    },
+    {
+      "name": "新秘密花園52870",
+      "type": 0,
+      "ua": "judy/5.2.1,okhttp,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "https://raw.githubusercontent.com/fish2018/lib/main/txt/live18.txt"
+    },
+    {
+      "name": "vip源",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/fish2018/lib/main/txt/vip源.txt",
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "18+Live",
+      "type": 0,
+      "ua": "judy/5.2.1,okhttp,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "http://gc.gt.tc/c/18+Live.txt"
+    },
+    {
+      "name": "📺iptv 18+",
+      "type": 0,
+      "url": "https://files.catbox.moe/949ns3.txt",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": ""
+    },
+    {
+      "name": "🦄xxx视频资源",
+      "type": 0,
+      "ua": "judy/5.2.1,okhttp,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/xxx视频资源"
+    }
+  ],
+  "headers": [
+    {
+      "host": "gslbserv.itv.cmvideo.cn",
+      "header": {
+        "User-Agent": "okhttp/3.12.13"
+      }
+    }
+  ],
+  "proxy": [
+    "raw.githubusercontent.com"
+  ],
+  "ads": [
+    "static-mozai.4gtv.tv"
+  ],
+  "hosts": [
+    "cache.ott.ystenlive.itv.cmvideo.cn=39.135.132.221",
+    "cache.ott.*.itv.cmvideo.cn=itv.dns.52top.com.cn",
+    "cache.ott.bestlive.itv.cmvideo.cn=39.135.132.221",
+    "cache.ott.wasulive.itv.cmvideo.cn=39.135.132.221",
+    "cache.ott.fifalive.itv.cmvideo.cn=39.135.132.221",
+    "cache.ott.hnbblive.itv.cmvideo.cn=39.135.132.221"
+  ],
+  "rules": [
+    {
+      "name": "ofiii[台湾节点]",
+      "hosts": [
+        "www.ofiii.com"
+      ],
+      "script": [
+        "const play=document.getElementsByClassName(\"play_icon\")[0];const event=new MouseEvent(\"click\",{bubbles:!0,cancelable:!0,view:window,screenX:100,screenY:100,clientX:50,clientY:50,button:0,shiftKey:!1,ctrlKey:!1,altKey:!1,metaKey:!1,modifierState:0});play.dispatchEvent(event);"
+      ]
+    }
+  ]
+}
