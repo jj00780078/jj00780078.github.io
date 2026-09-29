@@ -16,10 +16,10 @@
       "ext": "https://app-v1.ecoliving168.com/"
     },
     {
-      "key": "auto_loader_cloud",
+      "key": "自動加載-網絡版",
       "name": "☁️雲端自動加載",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/main/py/auto_loader_cloud.py"
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/main/py/自動加載-網絡版.py"
     }
   ],
   "lives": [
