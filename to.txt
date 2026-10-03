@@ -15,6 +15,12 @@
       "ext": "https://app-v1.ecoliving168.com/"
     },
     {
+      "key": "自动加载7.1.py",
+      "name": "自动加载7.1",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/%E8%87%AA%E5%8A%A8%E5%8A%A0%E8%BD%BD7.1.py"
+    },
+    {
       "key": "公众号【极客测评馆】猎手PY",
       "name": "⭐️丨猎手PY",
       "api": "https://d.kstore.dev/download/14996/py/%E7%94%B5%E5%BD%B1%E7%8C%8E%E6%89%8B.py",
