@@ -16,10 +16,10 @@
       "ext": "https://app-v1.ecoliving168.com/"
     },
     {
-      "key": "自动加载-v3.1.py",
-      "name": "自动加载-v3.1",
+      "key": "自动加载-v3.0.py",
+      "name": "自动加载-v3.0",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/自动加载-v3.1.py"
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/自动加载-v3.0.py"
     },    
     {
       "key": "公众号【极客测评馆】猎手PY",
