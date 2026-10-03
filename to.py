@@ -16,6 +16,12 @@
       "ext": "https://app-v1.ecoliving168.com/"
     },
     {
+      "key": "智能加载v5.1.py",
+      "name": "智能加载v5.1",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/智能加载v5.1.py"
+    },    
+    {
       "key": "公众号【极客测评馆】猎手PY",
       "name": "⭐️丨猎手PY",
       "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/%E7%94%B5%E5%BD%B1%E7%8C%8E%E6%89%8B.py",
