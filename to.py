@@ -15,6 +15,7 @@
       "jar": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/jar/ttkx1.jar",
       "ext": "https://app-v1.ecoliving168.com/"
     },
+
     {
       "key": "自动加载-v3.0.py",
       "name": "自动加载-v3.0",
@@ -314,6 +315,22 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "url": "https://d.kstore.dev/download/14996/tvtv.txt"
     },
+      {
+              "name": "Live",
+              "url": "https://flying-sponge-vocal.ngrok-free.app/tv-tw.txt", // YouTube 直播自動更新 API
+              "type": 0,
+              "logo": "https://raw.githubusercontent.com/AWeirdScratcher/tvbox/main/logos/{name}.png",
+              "ua": "Bot TvBox", // User-Agent
+              "epg": "https://flying-sponge-vocal.ngrok-free.app/epg?channel={name}&date={date}" // 節目表
+          },
+          {
+              "name": "Live1",
+              "url": "https://d.kstore.dev/download/14996/tvtv.txt", // YouTube 直播自動更新 API
+              "type": 0,
+              "logo": "https://raw.githubusercontent.com/AWeirdScratcher/tvbox/main/logos/{name}.png",
+              "ua": "Bot TvBox", // User-Agent
+              "epg": "https://flying-sponge-vocal.ngrok-free.app/epg?channel={name}&date={date}" // 節目表
+          },  
     {
       "name": "🎉益力多",
       "type": 0,
