@@ -14,17 +14,12 @@
 寰宇新闻二,https://www.youtube.com/watch?v=Ej3LQM_lTEw
 寰宇台湾台,https://www.youtube.com/watch?v=w87VGpgd90U
 镜电视新闻,https://www.youtube.com/watch?v=5n0y6b0Q25o
-
-
-
-公视新闻台,https://www.youtube.com/watch?v=quwqlazU-c8
+TVBS新闻台,https://www.youtube.com/watch?v=2mCSYvcfhtc
 台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
 华视新闻台,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 中视新闻台,https://www.youtube.com/watch?v=TCnaIE_SAtM
-
-
+公视新闻台,https://www.youtube.com/watch?v=quwqlazU-c8
 中天新闻台,https://www.youtube.com/watch?v=vr3XyVCR4T0
-TVBS新闻台,https://www.youtube.com/watch?v=2mCSYvcfhtc
 TVBS网络台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS优选台,https://www.youtube.com/watch?v=WAUECPu9EOw
 台湾大搜索,https://www.youtube.com/watch?v=Q0jusAya5s4
@@ -34,9 +29,7 @@ TVBS优选台,https://www.youtube.com/watch?v=WAUECPu9EOw
 大爱电视台,https://www.youtube.com/watch?v=MIqUplvSRWA
 大爱电视二,https://www.youtube.com/watch?v=QDxRJP-wfeI
 太阳马戏团,https://www.youtube.com/watch?v=swgouFE-5e4
-
 东森综合台,https://www.youtube.com/watch?v=cimbpAZUjzw
-
 大爱电视2,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 中视综艺台,https://www.youtube.com/watch?v=A98LJq71BZg
 TaiwanPlus,https://www.youtube.com/watch?v=Vrs-AeKZIEg
@@ -109,3 +102,9 @@ NASA,https://www.youtube.com/@NASA/streams
 SpaceX,https://www.youtube.com/@SpaceX/streams
 TED Talks,https://www.youtube.com/@TED/streams
 Kurzgesagt – In a Nutshell,https://www.youtube.com/@kurzgesagt/streams
+
+
+
+
+
+
