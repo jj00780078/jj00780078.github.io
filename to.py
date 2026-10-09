@@ -315,9 +315,20 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "url": "https://d.kstore.dev/download/14996/tvtv.txt"
     },
+   {
+  "name": "油管直播[PY]",
+  "type": 3,
+  "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/youtube-sabr.py",
+  "ext": {
+    "live_txt": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/yt.txt",
+    "youtube_proxy": "",
+    "proxy": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0"
+   }
+   },
       {
               "name": "Live",
-              "url": "https://flying-sponge-vocal.ngrok-free.app/tv-tw.txt", // YouTube 直播自動更新 API
+              "url": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/yt.txt", // YouTube 直播自動更新 API
               "type": 0,
               "logo": "https://raw.githubusercontent.com/AWeirdScratcher/tvbox/main/logos/{name}.png",
               "ua": "Bot TvBox", // User-Agent
