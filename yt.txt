@@ -10,21 +10,21 @@
 東森新聞台,https://www.youtube.com/watch?v=V1p33hqPrUk
 鏡電視新聞台,https://www.youtube.com/watch?v=5n0y6b0Q25o
 寰宇新聞台,https://www.youtube.com/watch?v=6IquAgfvYmc
-TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
-非凡財經台,https://www.youtube.com/watch?v=eA6Aczd3FZM
-非凡財經,https://www.youtube.com/watch?v=xLqt2p6Dowo
+TVBS新聞台,https://m.youtube.com/@TVBSNEWS01/streams/1
 TVBS財經台,https://www.youtube.com/watch?v=0an9taQ7OYM
+非凡財經台,https://www.youtube.com/watch?v=eA6Aczd3FZM
 台视新闻台,https://www.youtube.com/watch?v=9iRAqBMakXY
 华视新闻台,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 中视新闻台,https://www.youtube.com/watch?v=TCnaIE_SAtM
 公视新闻台,https://www.youtube.com/watch?v=quwqlazU-c8
 中天新闻台,https://www.youtube.com/watch?v=vr3XyVCR4T0
-TVBS新闻,https://m.youtube.com/@TVBSNEWS01/streams/1
+TVBS新闻,https://www.youtube.com/watch?v=m_dhMSvUCIc
+华视新闻,https://m.youtube.com/@CtsTw/streams/1
+中视新闻,https://m.youtube.com/@twctvnews/streams/1
 东森新闻,https://m.youtube.com/@newsebc/streams/1
 民视新闻,https://m.youtube.com/@FTV_News/streams/1
 东森财经,https://m.youtube.com/@57ETFN/streams/2
-华视新闻,https://m.youtube.com/@CtsTw/streams/1
-中视新闻,https://m.youtube.com/@twctvnews/streams/1
+
 
 
 
