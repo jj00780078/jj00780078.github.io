@@ -25,17 +25,7 @@
       "changeable": 1,
       "type": 3
     },
-   {
-      "key": "youtube-sabr.py",
-     "name": "油管直播[PY]",
-     "ext": {
-            "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/youtube-sabr.py",
-            "live_txt": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/油管直播.txt",
-            "youtube_proxy": "http://127.0.0.1:4067",
-            "proxy": "http://127.0.0.1:4067",
-            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0"
-            }
-   },
+
     {
       "key": "4gtv_py",
       "name": "📺┃4GTV直播",
@@ -364,7 +354,17 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "url": "https://d.kstore.dev/download/14996/tvtv.txt"
     },
+   {
 
+     "name": "油管直播[PY]",
+     "ext": {
+            "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/youtube-sabr.py",
+            "live_txt": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/油管直播.txt",
+            "youtube_proxy": "",
+            "proxy": "",
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0"
+            }
+   },
     {
       "name": "🎉益力多",
       "type": 0,
