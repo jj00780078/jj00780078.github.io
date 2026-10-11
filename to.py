@@ -316,9 +316,9 @@
       "url": "https://d.kstore.dev/download/14996/tvtv.txt"
     },
    {
-  "name": "油管直播[PY]",
+  "name": "油管新闻直播[PY]",
   "type": 3,
-  "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/youtube-sabr.py",
+  "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/油管新闻直播.py",
   "ext": {
     "live_txt": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/yt.txt",
     "youtube_proxy": "",
