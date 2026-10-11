@@ -26,6 +26,20 @@ TVBS新闻,https://www.youtube.com/watch?v=m_dhMSvUCIc
 东森财经,https://m.youtube.com/@57ETFN/streams/2
 
 
+三立iNEWS,http://103.39.109.80/yt.php?id=hGJkDZDchYI
+東森財經,http://103.39.109.80/yt.php?id=1I2iq41Akmo
+非凡財經,http://103.39.109.80/yt.php?id=eA6Aczd3FZM
+三立新聞,http://103.39.109.80/yt.php?id=yeYC0mbSIOo
+民視新聞,http://103.39.109.80/yt.php?id=ylYJSBUgaMA
+東森新聞,http://103.39.109.80/yt.php?id=V1p33hqPrUk
+鏡新聞,http://103.39.109.80/yt.php?id=5n0y6b0Q25o
+寰宇新聞,http://103.39.109.80/yt.php?id=6IquAgfvYmc
+寰宇新聞台灣台,http://103.39.109.80/yt.php?id=w87VGpgd90U
+TVBS新聞,http://103.39.109.80/yt.php?id=m_dhMSvUCIc
+中視新聞,http://103.39.109.80/yt.php?id=TCnaIE_SAtM
+華視新聞,http://103.39.109.80/yt.php?id=wM0g8EoUZ_E
+台視新聞,http://103.39.109.80/yt.php?id=9iRAqBMakXY
+中天新聞,http://103.39.109.80/yt.php?id=vr3XyVCR4T0
 
 
 
