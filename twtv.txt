@@ -11,15 +11,12 @@
 鏡電視新聞台,http://103.39.109.80/yt.php?id=5n0y6b0Q25o
 寰宇新聞台,http://103.39.109.80/yt.php?id=6IquAgfvYmc
 寰宇新聞台灣台,http://103.39.109.80/yt.php?id=w87VGpgd90U
-TVBS新聞台,https://m.youtube.com/@TVBSNEWS01/streams/1
 TVBS新聞台,http://103.39.109.80/yt.php?id=m_dhMSvUCIc
+TVBS新聞台,https://m.youtube.com/@TVBSNEWS01/streams/1
 非凡財經台,http://103.39.109.80/yt.php?id=eA6Aczd3FZM
 非凡財經台,http://103.39.109.80/yt.php?id=xLqt2p6Dowo
 TVBS財經台,http://103.39.109.80/yt.php?id=0an9taQ7OYM
-台視新聞台,hhttp://103.39.109.80/yt.php?id=sNtCBxP-8LY
-中視新聞台,http://103.39.109.80/yt.php?id=TCnaIE_SAtM
-華視新聞台,http://103.39.109.80/yt.php?id=wM0g8EoUZ_E
-
+中天新聞台,http://103.39.109.80/yt.php?id=vr3XyVCR4T0
 TVBS新聞台,http://iptv.4666888.xyz/iptv2A.php?id=43
 非凡新聞台,http://iptv.4666888.xyz/iptv2A.php?id=44
 
