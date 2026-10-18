@@ -26,17 +26,7 @@
       "changeable": 1,
       "type": 3
     },
- {
-    "key": "本地PY.JS读取",
-    "name": "自动加载PY.JS源",
-    "type": 3,
-    "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/本地PY.JS读取 auto_json.py",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "changeable": 1,
-    "playerType": 2
-      },
+
     {
       "key": "4gtv_py",
       "name": "📺┃4GTV直播",
