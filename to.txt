@@ -15,7 +15,7 @@
       "jar": "https://d.kstore.dev/download/14996/jar/ttkx1.jar",
       "ext": "https://app-v1.ecoliving168.com/"
     },
-
+{"key":"csp_XBiu大米影視COM","name":"✈大米影視(XB)","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组": "","播放链接": "href=\"&&\"","分类url":"http://www.kmgmn.cn/s/{cateId}/by/time/page/{catePg}/year/{year}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3"}},
     {
       "key": "公众号【极客测评馆】猎手PY",
       "name": "⭐️丨猎手PY",
