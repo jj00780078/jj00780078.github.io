@@ -3,6 +3,18 @@
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "sites": [
+
+
+    {
+      "key": "公众号【极客测评馆】猎手PY",
+      "name": "⭐️丨猎手PY",
+      "api": "https://d.kstore.dev/download/14996/py/%E7%94%B5%E5%BD%B1%E7%8C%8E%E6%89%8B.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "type": 3
+    },
     {
       "key": "大米",
       "name": "📚｜大米影視",
@@ -15,18 +27,6 @@
       "jar": "https://d.kstore.dev/download/14996/jar/ttkx1.jar",
       "ext": "https://app-v1.ecoliving168.com/"
     },
-{"key":"csp_XBiu大米影視COM","name":"✈大米影視(XB)","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组": "","播放链接": "href=\"&&\"","分类url":"http://www.kmgmn.cn/s/{cateId}/by/time/page/{catePg}/year/{year}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3"}},
-    {
-      "key": "公众号【极客测评馆】猎手PY",
-      "name": "⭐️丨猎手PY",
-      "api": "https://d.kstore.dev/download/14996/py/%E7%94%B5%E5%BD%B1%E7%8C%8E%E6%89%8B.py",
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "changeable": 1,
-      "type": 3
-    },
-
     {
       "key": "4gtv_py",
       "name": "📺┃4GTV直播",
@@ -89,11 +89,16 @@
       "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/DJ呦呦.py"
     },
     {
-      "key": "免扫4K",
-      "name": "🍓｜4K影视免解析",
+      "key":"csp_XBiu大米影視COM",
+      "name":"✈大米影視(XB)",
       "type": 3,
-      "api": "http://mlwl.7766.org:67/lib/drpy2.min.js",
-      "ext": "https://13395.kstore.space/TX4K.js"
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":{"线路数组": "","播放链接": "href=\"&&\"",
+      "分类url":"http://www.kmgmn.cn/s/{cateId}/by/time/page/{catePg}/year/{year}.html",
+      "分类": "電視劇$2#電影$1#動漫$4#綜藝$3"}
     },
     {
       "key": "瓜子影视",
