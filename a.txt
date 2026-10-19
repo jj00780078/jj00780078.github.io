@@ -147,6 +147,16 @@
 "filterable":1
 },
 {
+"key":"91成人短剧.py",
+"name":"🅿️91成人短剧",
+"type":3,
+"api":"https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/js/91成人短剧.py",
+"searchable":0,
+"changeable":1,
+"quickSearch":0,
+"filterable":1
+},
+{
 "key":"黄果短剧.py",
 "name":"🅿️黄果短剧",
 "type":3,
