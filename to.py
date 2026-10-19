@@ -225,7 +225,7 @@
     },
        {
       "key": "dbokutv_key",
-      "name": "💯｜独播库",
+      "name": "💯独播",
       "type": 3,
       "api": "https://files.catbox.moe/gd1tos.js",
       "style": {
