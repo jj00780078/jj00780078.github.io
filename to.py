@@ -225,7 +225,7 @@
     },
        {
       "key": "dbokutv_key",
-      "name": "💯独播",
+      "name": "独播库💯",
       "type": 3,
       "api": "https://files.catbox.moe/gd1tos.js",
       "style": {
@@ -234,17 +234,7 @@
       },
       "changeable": 1
     }, 
-    {
-      "key": "独播库_async",
-      "name": "💝分享独播",
-      "type": 3,
-      "api": "https://gh-proxy.org/https:/raw.githubusercontent.com/alantang1977/X/main/laozhang/独播库.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "changeable": 1
-    },
+
     {
       "key": "公众号【极客测评馆】界影PY",
       "name": "🌀｜界影视",
