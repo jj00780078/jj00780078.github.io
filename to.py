@@ -223,6 +223,17 @@
       "searchable": 1,
       "changeable": 1
     },
+       {
+      "key": "dbokutv_key",
+      "name": "💯｜独播库",
+      "type": 3,
+      "api": "https://files.catbox.moe/gd1tos.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    }, 
     {
       "key": "独播库_async",
       "name": "💝分享独播",
