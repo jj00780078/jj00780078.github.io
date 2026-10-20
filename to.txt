@@ -16,6 +16,18 @@
       "type": 3
     },
     {
+      "key":"csp_XBiu大米影視",
+      "name":"✈｜大米影視",
+      "type": 3,
+      "api":"csp_XBPQ",
+  "jar":"https://raw.githubusercontent.com/HIEIHIEI/TVBOX/d8cb4b19193ee1ac9c668f4abdd0db9a690a30bf/jar/bauhe.txt",      
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":{"分类url":"https://www.szdssp.com/{cateId}/index___{year}___{catePg}.html",
+      "分类": "電視劇$dianshiju#電影$dianying#動漫$dongman#綜藝$zongyi"}
+    },
+    {
       "key": "大米",
       "name": "📚｜大米影視",
       "type": 3,
