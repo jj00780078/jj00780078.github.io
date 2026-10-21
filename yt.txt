@@ -1,11 +1,11 @@
 💎台灣YouTube新聞💎,#genre#
-寰宇財經,https://www.youtube.com/watch?v=yAUQQ0DhPxI
+寰宇財經台,https://www.youtube.com/watch?v=yAUQQ0DhPxI
 三立財經iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
-東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
-東森財經新聞,https://www.youtube.com/watch?v=AEBeWMM1atA
+東森財經台,https://www.youtube.com/watch?v=1I2iq41Akmo
+東森財經台,https://www.youtube.com/watch?v=AEBeWMM1atA
 非凡新聞台,https://www.youtube.com/watch?v=wAUx3pywTt8
 三立新聞台,https://www.youtube.com/watch?v=yeYC0mbSIOo
-民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+民視新聞台,https://www.youtube.com/watch?v=ylYJSBUgaMA
 寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 鏡電視新聞台,https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -21,14 +21,14 @@ TVBS財經台,https://www.youtube.com/watch?v=0an9taQ7OYM
 TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 華視新聞,https://m.youtube.com/@CtsTw/streams/1
 中視新聞,https://m.youtube.com/@twctvnews/streams/1
-東森新聞台,https://m.youtube.com/@newsebc/streams/1
+東森新聞,https://m.youtube.com/@newsebc/streams/1
 民視新聞,https://m.youtube.com/@FTV_News/streams/1
-東森財經新聞,https://m.youtube.com/@57ETFN/streams/2
+東森財經台,https://m.youtube.com/@57ETFN/streams/2
 
 
 
 三立財經iNEWS,http://103.39.109.80/yt.php?id=hGJkDZDchYI
-東森財經新聞,http://103.39.109.80/yt.php?id=1I2iq41Akmo
+東森財經台,http://103.39.109.80/yt.php?id=1I2iq41Akmo
 非凡財經台,http://103.39.109.80/yt.php?id=eA6Aczd3FZM
 三立新聞台,http://103.39.109.80/yt.php?id=yeYC0mbSIOo
 民視新聞,http://103.39.109.80/yt.php?id=ylYJSBUgaMA
