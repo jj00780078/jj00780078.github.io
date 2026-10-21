@@ -16,18 +16,7 @@
       "type": 3
     },
 
-    {
-      "key": "大米",
-      "name": "📚｜大米影視",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_AppDaMi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://d.kstore.dev/download/14996/jar/ttkx1.jar",
-      "ext": "https://app-v1.ecoliving168.com/"
-    },
+
     {
       "key": "4gtv_py",
       "name": "📺┃4GTV直播",
@@ -122,20 +111,16 @@
       "changeable": 1
     },
     {
-      "key": "csp_在線電影網",
-      "name": "🥇｜在線｜無廣+5倍流暢",
+      "key": "大米",
+      "name": "📚｜大米影視",
       "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "playerType": "2",
+      "api": "csp_AppDaMi",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "分类url": "http://www.gtzl.net/vodshow/area/{area}/by/by/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "電影$1#電視劇$2#綜藝$3#動漫$4",
-        "类型": "动作片$6#喜剧片$7#科幻片$8#恐怖片$9#剧情片$11#战争片$12#爱情片$20#动画片$26#记录片$27||国产剧$13#韩剧$16#日剧$21#台湾剧$23#泰剧$22#港澳剧$14#欧美剧$15||空||国产动漫$28#日韩动漫$29#欧美动漫$30",
-        "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他||内地&韩国&香港&台湾&日本&美国&泰国&英国&新加坡&其他||内地&港台&日韩&欧美||国产&日本&欧美&其他"
-      }
+      "jar": "https://d.kstore.dev/download/14996/jar/ttkx1.jar",
+      "ext": "https://app-v1.ecoliving168.com/"
     },
     {
       "key": "csp_云飞",
@@ -181,30 +166,7 @@
       "order_num": 5,
       "ext": ""
     },
-    {
-      "key": "视觉影院",
-      "name": "🐬丨视觉影院",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/视觉影院.py"
-    },
-    {
-      "key": "VS影院",
-      "name": "🐬丨VS影院",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/VS影院🍀TG @hshsjk9.py"
-    },
-    {
-      "key": "电影侠",
-      "name": "🐬丨电影侠",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/电影侠🍀TG @hshsjk9.py"
-    },
-    {
-      "key": "wstv",
-      "name": "🐬威视TV.py",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/威视TV.py"
-    },
+
     {
       "key": "荐片JS",
       "name": "🥝丨荐片JS",
