@@ -13,22 +13,32 @@
       "changeable": 1,
       "type": 3
     },
-    {
-      "key": "大米",
-      "name": "📚｜大米影視",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_AppDaMi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/jar/ttkx1.jar",
-      "ext": "https://app-v1.ecoliving168.com/"
-    },
-
+       {
+            "key": "👖独播影视",
+            "name": "独播 • 影视",
+            "type": 3,
+            "api": "csp_Duboku"
+        },
+        {
+            "key": "👖瓜子影视",
+            "name": "瓜子 • 影视",
+            "type": 3,
+            "api": "csp_Gz360"
+        },
+       {
+            "key": "手动加载本地",
+            "name": "🔄小白专用加载",
+            "type": 3,
+            "api": "http://39.98.94.174:8889/tvbox/手动加载.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
     {
       "key": "自动加载-v3.0.py",
-      "name": "自动加载-v3.0",
+      "name": "🔄自动加载-v3.0",
       "type": 3,
       "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/自动加载-v3.0.py"
     },    
@@ -58,18 +68,45 @@
         "youtube_txt": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/63vr18.txt"
       }
     },
-    {
-      "key": "VS影院",
-      "name": "🐬丨VS影院",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/VS影院🍀TG @hshsjk9.py"
-    },
-    {
-      "key": "电影侠",
-      "name": "🐬丨电影侠",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/电影侠🍀TG @hshsjk9.py"
-    },
+       {
+            "key": "布布",
+            "name": "👖布布 • APP",
+            "type": 3,
+            "api": "csp_YunDuo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "host": "https://323433ssdfd.top",
+                "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2",
+                "aid": "com.web.player",
+                "sk": "WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1",
+                "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
+                "sign": "ddtvf65f3a83d6d9ad6f"
+            }
+        },
+           {
+            "key": "红果短剧",
+            "name": "👖红果 • 短剧",
+            "type": 3,
+            "api": "./py/红果短剧.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "七猫短剧",
+            "name": "👖七猫 • 短剧",
+            "type": 3,
+            "api": "csp_ShortQimao",
+            "genre": "shortdrama"
+        },
+
+        {
+            "key": "围观短剧",
+            "name": "👖围观 • 短剧",
+            "type": 3,
+            "api": "csp_ShortWeiguan",
+            "genre": "shortdrama"
+        },
     {
       "key": "feikuai tv",
       "name": "🐬丨飛快影視",
