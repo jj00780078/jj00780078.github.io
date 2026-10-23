@@ -1,6 +1,6 @@
 {
   "spider": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/jar/spider.jar",
-  "wallpaper": "http://tool.teyonds.com/api",
+  "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
   "sites": [
     {
