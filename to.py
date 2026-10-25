@@ -29,7 +29,7 @@
             "key": "手动加载本地",
             "name": "🔄小白专用加载",
             "type": 3,
-            "api": "http://39.98.94.174:8889/tvbox/手动加载.py",
+            "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/手动加载.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
