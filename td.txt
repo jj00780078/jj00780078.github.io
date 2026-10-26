@@ -3,6 +3,16 @@
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "sites": [
+     {
+      "key": "看剧AI.PY",
+      "name": "⭐️丨看剧AI",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/看剧AI.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "type": 3
+    },
     {
       "key": "公众号【极客测评馆】猎手PY",
       "name": "⭐️丨猎手PY",
@@ -45,20 +55,13 @@
       "filterable": 0
     },
     {
-      "key": "YouTube 👁️‍🗨️(火星兔)",
-      "name": "📺｜YT新聞直播",
+      "key": "YouTube v2 源_py",
+      "name": "📺┃YouTube v2 源",
       "type": 3,
-      "api": "csp_Ytdl",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/YouTube v2 源.py",
       "searchable": 1,
       "quickSearch": 1,
-      "playerType": 2,
-      "timeout": 30,
-      "filterable": 1,
-      "jar": "https://files.catbox.moe/hmml4f.txt",
-      "ext": {
-        "proxy": "",
-        "youtube_txt": "https://d.kstore.dev/download/14996/63vr18.txt"
-      }
+      "filterable": 0
     },
        {
             "key": "独播影视",
@@ -102,13 +105,7 @@
                 "sign": "ddtvf65f3a83d6d9ad6f"
             }
         },
-           {
-            "key": "红果短剧",
-            "name": "👖红果 • 短剧",
-            "type": 3,
-            "api": "./py/红果短剧.py",
-            "genre": "shortdrama"
-        },
+ 
         {
             "key": "七猫短剧",
             "name": "👖七猫 • 短剧",
