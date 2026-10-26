@@ -369,9 +369,9 @@
   }
 },
   {
-      "name": "💝4Gtv home+live",
+      "name": "💝4gtv直播",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/4gtv_home_live.py",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/4gtv直播.py",
       "ext": {}
   }, 
     {
