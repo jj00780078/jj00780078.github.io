@@ -108,7 +108,7 @@
             "key": "红果短剧",
             "name": "👖红果 • 短剧",
             "type": 3,
-            "api": "./py/红果短剧.py",
+            "api": "csp_Shorthonggou",
             "genre": "shortdrama"
         },
         {
