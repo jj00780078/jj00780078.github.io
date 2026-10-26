@@ -4,7 +4,16 @@
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "sites": [
 
-
+   {
+      "key": "看剧AI.PY",
+      "name": "⭐️丨看剧AI",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/看剧AI.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "type": 3
+    },
     {
       "key": "公众号【极客测评馆】猎手PY",
       "name": "⭐️丨猎手PY",
@@ -42,6 +51,15 @@
       "name": "📺┃4GTV直播",
       "type": 3,
       "api": "https://d.kstore.dev/download/14996/py/4GTV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "YouTube v2 源_py",
+      "name": "📺┃YouTube v2 源",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/YouTube v2 源.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
