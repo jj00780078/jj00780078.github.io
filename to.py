@@ -13,6 +13,16 @@
       "changeable": 1,
       "type": 3
     },
+   {
+      "key": "看剧AI.PY",
+      "name": "⭐️丨看剧AI",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/看剧AI.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "type": 3
+    },
        {
             "key": "独播影视",
             "name": "👖独播 • 影视",
@@ -48,6 +58,15 @@
       "name": "📺┃4GTV直播",
       "type": 3,
       "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/4GTV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "YouTube v2_py",
+      "name": "📺┃YouTube v2",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/YouTube v2.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
