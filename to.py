@@ -3,15 +3,17 @@
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
   "sites": [
-    {
-      "key": "公众号【极客测评馆】猎手PY",
-      "name": "⭐️丨猎手PY",
-      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/%E7%94%B5%E5%BD%B1%E7%8C%8E%E6%89%8B.py",
-      "filterable": 1,
-      "quickSearch": 1,
+     {
+      "key": "大米",
+      "name": "📚｜大米影視",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_AppDaMi",
       "searchable": 1,
-      "changeable": 1,
-      "type": 3
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://d.kstore.dev/download/14996/jar/ttkx1.jar",
+      "ext": "https://app-v1.ecoliving168.com/"
     },
    {
       "key": "看剧AI.PY",
@@ -23,6 +25,23 @@
       "changeable": 1,
       "type": 3
     },
+    {
+      "key": "小蜜蜂影院.py",
+      "name": "📚｜小蜜蜂影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/小蜜蜂影院.py"
+    }, 
+    {
+      "key": "公众号【极客测评馆】猎手PY",
+      "name": "⭐️丨猎手PY",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/%E7%94%B5%E5%BD%B1%E7%8C%8E%E6%89%8B.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "type": 3
+    },
+
        {
             "key": "独播影视",
             "name": "👖独播 • 影视",
