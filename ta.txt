@@ -3,7 +3,34 @@
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "sites":[
-
+     {
+      "key": "大米",
+      "name": "📚｜大米影視",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_AppDaMi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://d.kstore.dev/download/14996/jar/ttkx1.jar",
+      "ext": "https://app-v1.ecoliving168.com/"
+    },
+   {
+      "key": "看剧AI.PY",
+      "name": "⭐️丨看剧AI",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/看剧AI.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "type": 3
+    },
+    {
+      "key": "小蜜蜂影院.py",
+      "name": "📚｜小蜜蜂影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/小蜜蜂影院.py"
+    },
           {
             "key": "Wexduboku",
             "name": "🎦｜獨播庫｜",
@@ -33,41 +60,6 @@
             "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/Melon%20seeds.jar"
             
         },
-
-
-
-{
-            "key": "小宝影院",
-            "name": "🎬┃小寶影院",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 0,
-            "timeout": 60,
-            "api": "csp_XBPQ",
-            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/XBPQ.jar",
-            "ext": {
-                "主页url": "https://xiaoxintv.com",
-                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "数组": "class=\"myui-vodlist__box\">&&</div>",
-                "简介": "剧情简介</h3>&&</span>",
-                "线路数组": "data-toggle=\"tab&&</li>",
-                "线路标题": ">&&</a>",
-                "播放数组": "class=\"myui-content__list&&</ul>",
-                "播放列表": "<li&&</li>",
-                "播放标题": ">&&</a",
-                "播放链接": "href=\"&&\"",
-                "搜索数组": "lazyload\"&&</a",
-                "搜索图片": "data-original=\"&&\"",
-                "搜索标题": "title=\"&&\"",
-                "搜索链接": "href=\"&&\"",
-                "分类url": "https://xiaoxintv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
-                "分类": "电影$7#电视剧$6#动漫$5#综艺$3#纪录片$21#体育$20"
-            }
-        },
-
-
 
 {"key":"黑木影視","name":"黑木影視","type":1,"api":"https://heimuer.ggff.net/api.php/tvbox","searchable":1,"quickSearch":1,"filterable":0},
 
