@@ -387,10 +387,10 @@
       "url": "https://iptv.yang-1989.xyz/playlist.m3u"
     },
     {
-      "name": "🎉YanG",
+      "name": "🎉catvod",
       "type": 0,
       "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
-      "url": "https://iptv.1989.click/playlist.m3u"
+      "url": "https://iptv.catvod.com/"
     },
     {
       "name": "🎉yuan-zb",
