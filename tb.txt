@@ -468,8 +468,14 @@
 
 
 "lives":[
-
-{"name":"💝新聞直播","type":0,"url":"https://jj00780078.github.io/twtv.txt","playerType":2,"epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{
+  "name": "💝新聞直播",
+  "type": 0,
+  "url": "https://jj00780078.github.io/twtv.txt",
+  "playerType": 2,
+  "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo": "https://epg.112114.eu.org/logo/{name}.png"
+},
 {
   "name": "💝油管直播[PY]",
   "type": 3,
