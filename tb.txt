@@ -39,35 +39,41 @@
       "quickSearch": 1,
       "filterable": 0
     },
+   {
+      "key": "看剧AI.PY",
+      "name": "⭐️丨看剧AI",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/看剧AI.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "type": 3
+    },
     {
-      "key": "小宝影院",
-      "name": "🎬┃小寶影院",
+      "key": "小蜜蜂影院.py",
+      "name": "📚｜小蜜蜂影院",
       "type": 3,
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/小蜜蜂影院.py"
+    },
+    {
+      "key": "公众号【极客测评馆】猎手PY",
+      "name": "⭐️丨猎手PY",
+      "api": "https://d.kstore.dev/download/14996/py/%E7%94%B5%E5%BD%B1%E7%8C%8E%E6%89%8B.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "type": 3
+    },
+    {
+      "key": "py_aigua",
+      "name": "💖分享爱瓜",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/爱瓜(代理).py",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 0,
-      "timeout": 60,
-      "api": "csp_XBPQ",
-      "jar": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/jar/XBPQ.jar",
-      "ext": {
-        "主页url": "https://xiaoxintv.com",
-        "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-        "数组": "class=\"myui-vodlist__box\">&&</div>",
-        "简介": "剧情简介</h3>&&</span>",
-        "线路数组": "data-toggle=\"tab&&</li>",
-        "线路标题": ">&&</a>",
-        "播放数组": "class=\"myui-content__list&&</ul>",
-        "播放列表": "<li&&</li>",
-        "播放标题": ">&&</a",
-        "播放链接": "href=\"&&\"",
-        "搜索数组": "lazyload\"&&</a",
-        "搜索图片": "data-original=\"&&\"",
-        "搜索标题": "title=\"&&\"",
-        "搜索链接": "href=\"&&\"",
-        "分类url": "https://xiaoxintv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
-        "分类": "电影$7#电视剧$6#动漫$5#综艺$3#纪录片$21#体育$20"
-      }
+      "filterable": 1,
+      "changeable": 1
     },
     {
       "key": "dbokutv_key",
