@@ -45,7 +45,7 @@
       "key": "py_aigua",
       "name": "💖分享爱瓜",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/爱瓜(代理).py",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/PY/爱瓜(代理).py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -76,12 +76,7 @@
         "danmu_api": "https://dm.211.li/nonay"
       }
     },
-        {
-        	"key": "LIBVIO",
-            "name": "🐬[追剧]LIBVIO",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/LIBVIO.py"
-		},
+
     {
       "key": "4gtv_py",
       "name": "📺┃4GTV直播",
@@ -169,24 +164,6 @@
       "分类": "電視劇$2#電影$1#動漫$4#綜藝$3"}
     },
 
-		{
-			"key": "GZ",
-			"name": "🐬[追剧]瓜子APP.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/瓜子APP.py"
-		},
-		{
-			"key": "nvm",
-			"name": "🐬[追剧]泥视频.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/泥视频.py"
-		},
-		{
-          "key": "MH",
-          "name": "🐬[追剧]麻花影视.py",
-          "type": 3,
-          "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/麻花影视.py"
-        },
     {
       "key": "csp_云飞",
       "name": "🥇｜雲飛｜無廣",
