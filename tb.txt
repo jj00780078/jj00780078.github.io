@@ -1,5 +1,6 @@
 {
-"spider": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar;md5;5263cb4e5f6d2ca968940edc6e935faf",
+  "spider": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/jar/spider.jar",
+  "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
   "wallpaper": "http://tool.teyonds.com/api",
   "sites": [
     {
@@ -67,13 +68,14 @@
     },
     {
       "key": "py_aigua",
-      "name": "💖分享爱瓜",
+      "name": "🍊丨爱瓜TV",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/爱瓜(代理).py",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/aigua.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1
+      "order_num": 5,
+      "ext": ""
     },
     {
       "key": "dbokutv_key",
@@ -112,20 +114,37 @@
       }
     },
     {
-      "key": "MH",
-      "name": "🐬丨麻花影视",
+      "key": "苹果",
+      "name": "🦋｜ 小苹果",
       "type": 3,
+      "api": "csp_AppDrama",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/麻花影视.py"
+      "ext": {
+        "appName": "小苹果",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.juechufsh.android.xpg1",
+        "host": "",
+        "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
+        "version": "1.0.0.3",
+        "decrypt": "0"
+      },
+      "category": "综合"
     },
     {
-      "key": "泥泥视频",
-      "name": "👖丨泥视频影视",
+      "key":"csp_XBiu大米影視COM",
+      "name":"✈大米影視(XB)",
       "type": 3,
-      "api": "http://rihou.cc:88/js/drpy2.min.js",
-      "ext": "http://rihou.cc:88/js/泥泥视频.js"
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":{"线路数组": "","播放链接": "href=\"&&\"",
+      "分类url":"http://www.kmgmn.cn/s/{cateId}/by/time/page/{catePg}/year/{year}.html",
+      "分类": "電視劇$2#電影$1#動漫$4#綜藝$3"}
     },
  
     {
