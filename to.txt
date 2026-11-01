@@ -63,15 +63,7 @@
         "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
       }
     },
-	{
-			"key": "索尼",
-			"name": "索尼 ",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/https://suoniapi.com/api.php/provide/vod?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"searchable": 1,
-			"changeable": 1
-		},
+
     {
         "key": "索尼",
         "name": "索尼|点播",
@@ -81,15 +73,7 @@
         "filterable": 1,
         "api": "https://suoniapi.com/api.php/provide/vod/"
     },
-   {
-        "key": "csp_xml_麻花资源",
-        "name": "🐝麻花资源",
-        "type": 1,
-        "api": "https://api.1080zyku.com/inc/api_mac10.php",
-        "playUrl": "",
-        "searchable": 0,
-        "quickSearch": 1
-    },
+
     {
       "key": "4gtv_py",
       "name": "📺┃4GTV直播",
