@@ -43,13 +43,14 @@
     },
     {
       "key": "py_aigua",
-      "name": "💖分享爱瓜",
+      "name": "🍊丨爱瓜TV",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/PY/爱瓜(代理).py",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/aigua.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1
+      "order_num": 5,
+      "ext": ""
     },
     {
       "key": "py_文才",
@@ -198,17 +199,15 @@
       }
     },
     {
-      "key": "aigua.py",
-      "name": "🍊丨爱瓜TV",
+      "key": "py_aigua",
+      "name": "💖分享爱瓜",
       "type": 3,
-      "api": "https://d.kstore.dev/download/14996/py/aigua.py",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/爱瓜(代理).py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "order_num": 5,
-      "ext": ""
+      "changeable": 1
     },
-
     {
       "key": "荐片JS",
       "name": "🥝丨荐片JS",
