@@ -65,16 +65,6 @@
     },
 
     {
-        "key": "索尼",
-        "name": "索尼|点播",
-        "type": 1,
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "api": "https://suoniapi.com/api.php/provide/vod/"
-    },
-
-    {
       "key": "4gtv_py",
       "name": "📺┃4GTV直播",
       "type": 3,
