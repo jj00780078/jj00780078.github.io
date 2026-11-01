@@ -45,11 +45,24 @@
       "key": "py_aigua",
       "name": "💖分享爱瓜",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/爱瓜(代理).py",
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/爱瓜(代理).py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1
+    },
+   {
+      "key": "Gz360",
+      "name": "🌻瓜子┃1080P",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 0,
+      "timeout": 12,
+      "ext": {
+        "danmu": true,
+        "danmu_api": "https://dm.211.li/nonay"
+      }
     },
     {
       "key": "py_文才",
@@ -151,15 +164,16 @@
       "ext": "https://ghw9zwp5.com/",
       "jar": "https://img2.gelonghui.com/library/28e33-d7f6e0ad-8de5-4829-b42c-bcdeaae1ed42.png;md5;28e33eb59669c994ca140064ad4a1eef"
     },
-
     {
-      "key": "MH",
-      "name": "🐬丨麻花影视",
+      "key": "py_aigua",
+      "name": "🍊丨爱瓜TV",
       "type": 3,
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/aigua.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/麻花影视.py"
+      "order_num": 5,
+      "ext": ""
     },
     {
       "key": "feikuai tv",
