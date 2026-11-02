@@ -383,18 +383,13 @@
       "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/4gtv_home_live.py",
       "ext": {}
   }, 
- {
-      "name": "catvod",
-      "type": 0,
+    {
+      "name": "🥈catvod",
       "url": "https://iptv.catvod.com/;okhttp",
-      "playerType": 1
+      "header": {
+        "User-Agent": "Goiptv/8.8.8"
+      }
     },
-{
-      "name": "catvod 2",
-      "type": 0,
-      "url": "https://iptv.catvod.com/;okhttp",
-      "playerType": 2
-    }, 
     {
       "name": "🎉益力多",
       "type": 0,
