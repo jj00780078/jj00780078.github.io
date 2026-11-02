@@ -385,7 +385,7 @@
   }, 
     {
       "name": "🎉catvod",
-      "type": 0,
+      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
       "url": "https://iptv.catvod.com/"
     }, 
     {
