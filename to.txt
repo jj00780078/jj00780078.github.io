@@ -386,14 +386,16 @@
  {
       "name": "catvod",
       "type": 0,
-      "url": "https://iptv.catvod.com/",
-      "playerType": 1
+      "url": "https://iptv.catvod.com/#http;okhttp",
+      "playerType": 1,
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
     },
 {
       "name": "catvod 2",
       "type": 0,
-      "url": "https://iptv.catvod.com/",
-      "playerType": 2
+      "url": "https://iptv.catvod.com/#http;okhttp",
+      "playerType": 2,
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
     }, 
     {
       "name": "🎉益力多",
