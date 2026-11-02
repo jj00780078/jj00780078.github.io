@@ -385,9 +385,10 @@
   }, 
     {
       "name": "🥈catvod",
-      "url": "https://iptv.catvod.com/;okhttp",
+      "url": "https://iptv.catvod.com/",
       "header": {
-        "User-Agent": "Goiptv/8.8.8"
+        "User-Agent": "Goiptv/8.8.8",
+        "Referer": "https://iptv.catvod.com/"
       }
     },
     {
