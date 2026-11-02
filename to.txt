@@ -384,9 +384,23 @@
       "ext": {}
   }, 
     {
-      "name": "🎉catvod",
-      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
+      "name": "A-不寫type",
       "url": "https://iptv.catvod.com/"
+    },
+    {
+      "name": "B-type1",
+      "type": 1,
+      "url": "https://iptv.catvod.com/"
+    },
+    {
+      "name": "C-UA3.12",
+      "url": "https://iptv.catvod.com/",
+      "ua": "okhttp/3.12.13"
+    },
+    {
+      "name": "D-UA-Goiptv",
+      "url": "https://iptv.catvod.com/",
+      "ua": "Goiptv/8.8.8"
     }, 
     {
       "name": "🎉益力多",
