@@ -384,9 +384,9 @@
       "ext": {}
   }, 
   {
-      "name": "💝4gtv直播",
+      "name": "🎉catvod",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/4gtv直播.py",
+      "api": "https://iptv.catvod.com/",
       "ext": {}
   }, 
     {
@@ -395,12 +395,7 @@
       "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
       "url": "https://iptv.yang-1989.xyz/playlist.m3u"
     },
-    {
-      "name": "🎉catvod",
-      "type": 0,
-      "ua": "okhttp,okhttp/3.8.1,Goiptv/8.8.8,okHttp/Mod-1.5.0.0",
-      "url": "https://iptv.catvod.com/"
-    },
+
     {
       "name": "🎉yuan-zb",
       "type": 0,
