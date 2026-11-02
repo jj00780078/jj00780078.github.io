@@ -386,8 +386,7 @@
     {
       "name": "🎉catvod",
       "type": 0,
-      "url": "https://iptv.catvod.com/",
-      "ua": "okhttp/3.8.1"
+      "url": "https://iptv.catvod.com/"
     }, 
     {
       "name": "🎉益力多",
