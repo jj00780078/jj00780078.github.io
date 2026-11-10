@@ -40,7 +40,18 @@
       "type": 3,
       "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/小蜜蜂影院.py"
     },
-
+    {
+      "key": "TMDB多線影視.py",
+      "name": "📚｜TMDB多線影視",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/TMDB多線影視.py"
+    },
+    {
+      "key": "米諾影視mino4K.py",
+      "name": "📚｜米諾影視mino4K",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/米諾影視mino4K.py"
+    },
     {
       "key": "py_aigua",
       "name": "🍊丨爱瓜TV",
