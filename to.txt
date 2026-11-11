@@ -92,40 +92,6 @@
     },
 
     {
-      "key": "4gtv_py",
-      "name": "📺┃4GTV直播",
-      "type": 3,
-      "api": "https://d.kstore.dev/download/14996/py/4GTV.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "YouTube v2 源_py",
-      "name": "📺┃YouTube v2 源",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/YouTube v2 源.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "YouTube 👁️‍🗨️(火星兔)",
-      "name": "📺｜YT新聞直播",
-      "type": 3,
-      "api": "csp_Ytdl",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "timeout": 30,
-      "filterable": 1,
-      "jar": "https://files.catbox.moe/hmml4f.txt",
-      "ext": {
-        "proxy": "",
-        "youtube_txt": "https://d.kstore.dev/download/14996/63vr18.txt"
-      }
-    },
-    {
       "key": "苹果",
       "name": "🦋｜ 小苹果",
       "type": 3,
@@ -189,39 +155,6 @@
     },
 
     {
-      "key": "csp_云飞",
-      "name": "🥇｜雲飛｜無廣",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "线路数组": "<span class=\"more text-muted pull-right&&</h3></div>[不包含:百度云播]",
-        "线路标题": "title\">&&<",
-        "播放数组": "class=\"stui-content__playlist clearfix\">&&</ul>",
-        "播放列表": "<a&&</a[不包含:🎁美女直播]",
-        "播放标题": ">&&</a",
-        "播放链接": "href=\"&&\"",
-        "跳转播放链接": "var player_*\"url\":\"&&\"",
-        "分类url": "https://yfeil.com/show/{cateId}-{area}--{class}-{lang}-{letter}---{catePg}---{year}/",
-        "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
-      }
-    },
-    {
-      "key": "py_dsystv",
-      "name": "🌀丨袋鼠影视",
-      "type": 3,
-      "api": "https://d.kstore.dev/download/14996/py/dsystv.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://dsystv.com"
-      }
-    },
-    {
       "key": "py_aigua",
       "name": "💖分享爱瓜",
       "type": 3,
@@ -229,17 +162,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "荐片JS",
-      "name": "🥝丨荐片JS",
-      "type": 3,
-      "api": "https://mpimg.cn/down.php/16ba56f7ddd38134bb0725ad63f1f72b.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
       "changeable": 1
     },
 
@@ -343,24 +265,8 @@
         "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他"
       }
     },
-    {
-      "key": "Uvod.py",
-      "name": "📹|UB影視py",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "api": "https://d.kstore.dev/download/14996/py/UVod.py",
-      "order_num": 5,
-      "ext": "1"
-    },
-    {
-      "key": "电视直播",
-      "name": "🐬电视直播",
-      "type": 3,
-      "api": "https://d.kstore.dev/download/14996/py/电视直播.py"
-    },
+ 
+
     {
       "key": "drpy2_爱看机器人[虫]",
       "name": "✨丨爱看机器人[虫]✨",
