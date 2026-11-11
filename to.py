@@ -375,6 +375,12 @@
       "order_num": 5,
       "ext": "1"
     },
+     {
+      "key": "电视直播",
+      "name": "🐬电视直播",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/14996/py/电视直播.py"
+    },   
     {
       "key": "drpy2_爱看机器人[虫]",
       "name": "✨丨爱看机器人[虫]✨",
