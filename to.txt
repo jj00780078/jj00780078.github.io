@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "可可追剧.py",
-      "name": "🦋｜篩選用-可可追剧",
+      "name": "📚｜篩選用-可可追剧",
       "type": 3,
       "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/可可追剧.py",
       "searchable": 1,
@@ -36,19 +36,19 @@
     },
     {
       "key": "小蜜蜂影院.py",
-      "name": "📚｜小蜜蜂影院",
+      "name": "🦋｜小蜜蜂影院",
       "type": 3,
       "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/小蜜蜂影院.py"
     },
     {
       "key": "TMDB多線影視.py",
-      "name": "📚｜TMDB多線影視",
+      "name": "🗽｜TMDB多線影視",
       "type": 3,
       "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/TMDB多線影視.py"
     },
     {
       "key": "米諾影視mino4K.py",
-      "name": "📚｜米諾影視mino4K",
+      "name": "⛵️｜米諾影視mino4K",
       "type": 3,
       "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/米諾影視mino4K.py"
     },
@@ -116,7 +116,11 @@
             "key": "独播影视",
             "name": "👖独播 • 影视",
             "type": 3,
-            "api": "csp_Duboku"
+            "api": "csp_Duboku",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "瓜子影视",
