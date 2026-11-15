@@ -166,66 +166,86 @@
 "quickSearch":0,
 "filterable":1
 },
-{
-"key":"AI不用钱.py",
-"name":"🅿️AI不用钱",
-"type":3,
-"api":"https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/AI不用钱.py",
-"searchable":0,
-"changeable":1,
-"quickSearch":0,
-"filterable":1
-},
-{
-"key":"xx9已验证.py",
-"name":"🅿️xx9已验证",
-"type":3,
-"api":"https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/xx9已验证.py",
-"searchable":0,
-"changeable":1,
-"quickSearch":0,
-"filterable":1
-},
-{
-"key":"91成人短剧.py",
-"name":"🅿️91成人短剧",
-"type":3,
-"api":"https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/js/91成人短剧.py",
-"searchable":0,
-"changeable":1,
-"quickSearch":0,
-"filterable":1
-},
-{
-"key":"黄果短剧.py",
-"name":"🅿️黄果短剧",
-"type":3,
-"api":"https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/黄果短剧.py",
-"searchable":0,
-"changeable":1,
-"quickSearch":0,
-"filterable":1
-},
-{
-"key":"57短剧.py",
-"name":"🅿️57短剧",
-"type":3,
-"api":"https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/57短剧.py",
-"searchable":0,
-"changeable":1,
-"quickSearch":0,
-"filterable":1
-},
-{
-"key":"一直看.py",
-"name":"🅿️一直看",
-"type":3,
-"api":"https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/一直看.py",
-"searchable":0,
-"changeable":1,
-"quickSearch":0,
-"filterable":1
-},
+
+    {
+      "key": "91成人短剧_1",
+      "name": "91成人短剧_1.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/91成人短剧_1.py"
+    },
+    {
+      "key": "91出品短剧",
+      "name": "91出品短剧.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/91出品短剧.py"
+    },
+
+    {
+      "key": "57短剧",
+      "name": "57短剧.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/57短剧.py"
+    },
+    {
+      "key": "橙果短剧",
+      "name": "橙果短剧.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/橙果短剧.py"
+    },
+    {
+      "key": "橙果短剧_2",
+      "name": "橙果短剧_2.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/橙果短剧_2.py"
+    },
+    {
+      "key": "黄果漫剧",
+      "name": "黄果漫剧.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/黄果漫剧.py"
+    },
+    {
+      "key": "黄果短剧",
+      "name": "黄果短剧.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/黄果短剧.py"
+    },
+    {
+      "key": "2048成人短剧",
+      "name": "2048成人短剧.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/2048成人短剧.py"
+    },
+    {
+      "key": "禁果短剧",
+      "name": "禁果短剧.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/禁果短剧.py"
+    },
+    {
+      "key": "黄色仓库动态版",
+      "name": "黄色仓库动态版.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/黄色仓库动态版.py"
+    },
+    {
+      "key": "madou8",
+      "name": "madou8.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/madou8.py"
+    },
+    {
+      "key": "麻豆社",
+      "name": "麻豆社.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/麻豆社.py"
+    },
+    {
+      "key": "麻豆影院",
+      "name": "麻豆影院.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/麻豆影院.py"
+    },
 {
 "key":"真果鉴.py",
 "name":"🅿️真果鉴",
