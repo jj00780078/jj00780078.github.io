@@ -59,7 +59,55 @@
         "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
       }
     },
-
+    {
+      "key": "hipy_py_独播库",
+      "name": "🍯｜独播库(hipy)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/独播库?do=py&pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "独播库",
+      "lang": "hipy",
+      "ext": ""
+    },
+       {
+      "key": "hipy_py_爱瓜APP",
+      "name": "🍯｜爱瓜APP(hipy)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/爱瓜APP?do=py&pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "爱瓜APP",
+      "lang": "hipy",
+      "ext": ""
+    },
+    {
+      "key": "catvod_荐片",
+      "name": "🍯｜荐片(cat)",
+      "type": 3,
+      "api": "http://192.129.140.23:5757/cat/荐片.js?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "荐片",
+      "lang": "cat",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_55影视",
+      "name": "🍯｜55影视(DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/55影视?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 1,
+      "title": "55影视",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
 
    {
       "key": "Gz360",
@@ -98,7 +146,7 @@
     },
        {
             "key": "独播影视",
-            "name": "🗽独播 • 影视",
+            "name": "👖独播 • 影视",
             "type": 3,
             "api": "csp_Duboku",
             "filterable": 1,
