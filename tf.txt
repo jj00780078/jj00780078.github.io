@@ -384,7 +384,7 @@
       "filterable": 1
     },
         {
-            "key": "枫叶4K",
+            "key": "cy_AppFENGYE",
             "name": "枫叶 | 免扫4K",
             "type": 3,
             "api": "csp_AppFENGYE",
@@ -394,7 +394,7 @@
             "filterable": 1
         },
         {
-            "key": "山楂4K",
+            "key": "cy_AppSHANZ",
             "name": "山楂 | 免扫4K",
             "type": 3,
             "api": "csp_AppSHANZ",
