@@ -147,6 +147,16 @@
 "filterable":1
 },
 {
+"key":"5LxTV_AI成人短劇修復版.py",
+"name":"🅿️5LxTV_AI成人短劇修復版",
+"type":3,
+"api":"https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/5LxTV_AI成人短劇修復版.py",
+"searchable":0,
+"changeable":1,
+"quickSearch":0,
+"filterable":1
+},
+{
 "key":"涩涩·黄果短剧.py",
 "name":"🅿️涩涩·黄果短剧",
 "type":3,
