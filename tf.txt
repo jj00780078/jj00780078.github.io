@@ -136,16 +136,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "cy_wupingtai",
-      "name": "✨┃官方聚合",
-      "type": 3,
-      "api": "csp_WuPingTai",
-      "group": "聚合工具",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "cy_kishuto",
       "name": "✨┃4K聚合",
@@ -196,26 +187,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "cy_duoduo",
-      "name": "⛵️┃多多影视",
-      "type": 3,
-      "api": "csp_DuoDuo",
-      "group": "综合影视",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "cy_gz",
-      "name": "⛵️┃瓜子影视",
-      "type": 3,
-      "api": "csp_GZ",
-      "group": "综合影视",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "cy_huayi",
       "name": "⛵️┃华谊影视",
@@ -306,16 +278,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "cy_yunbo",
-      "name": "⛵️┃TVB云播",
-      "type": 3,
-      "api": "csp_Yunbo",
-      "group": "综合影视",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "cy_yunbo808",
       "name": "⛵️┃云播",
@@ -336,16 +299,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "cy_yunzhenxiang",
-      "name": "⛵️┃云帧享",
-      "type": 3,
-      "api": "csp_YunZhenXiang",
-      "group": "综合影视",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "cy_qiwei",
       "name": "⛵️┃七味",
@@ -356,16 +310,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "cy_hqdianbo",
-      "name": "⛵️┃高清点播",
-      "type": 3,
-      "api": "csp_HQDianBo",
-      "group": "综合影视",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "cy_wabibabu",
       "name": "⛵️┃歪比巴卜",
@@ -406,16 +351,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "cy_zjdr",
-      "name": "⛵️┃追剧达人",
-      "type": 3,
-      "api": "csp_Zjdr",
-      "group": "综合影视",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "cy_xpg",
       "name": "⛵️┃小苹果",
@@ -426,16 +362,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "cy_xiaoji",
-      "name": "⛵️┃小鸡看看",
-      "type": 3,
-      "api": "csp_Xiaoji",
-      "group": "综合影视",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "cy_xinshixun",
       "name": "⛵️┃新视讯",
