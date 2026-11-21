@@ -27,7 +27,7 @@
       "jar": "https://d.kstore.dev/download/14996/jar/ttkx1.jar",
       "ext": "https://app-v1.ecoliving168.com/"
     },
-        {
+      {
             "key": "豆瓣",
             "name": "公众号：熵侦（shāng zhēn）",
             "type": 3,
@@ -46,6 +46,19 @@
                 "type": "rect",
                 "ratio": 1.618
             }
+        },
+        {
+            "key": "本地",
+            "name": "本地视频 | 11.9",
+            "type": 3,
+            "api": "csp_LocalFile"
+        },
+        {
+            "key": "预告",
+            "name": "新片 | 预告",
+            "type": 3,
+            "api": "csp_YGP",
+            "searchable": 0
         },
  
         {
