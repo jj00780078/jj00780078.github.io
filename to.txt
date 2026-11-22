@@ -26,6 +26,36 @@
       "jar": "https://d.kstore.dev/download/14996/jar/ttkx1.jar",
       "ext": "https://app-v1.ecoliving168.com/"
     },
+    {
+      "key": "cy_daishu",
+      "name": "⛵️┃袋鼠影视",
+      "type": 3,
+      "api": "csp_DaiShu",
+      "group": "综合影视",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "cy_juzhi",
+      "name": "⛵️┃橘汁影视",
+      "type": 3,
+      "api": "csp_JuZhi",
+      "group": "综合影视",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cy_luoxue",
+      "name": "⛵️┃洛雪TV",
+      "type": 3,
+      "api": "csp_LuoXueTV",
+      "group": "综合影视",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
    {
       "key": "看剧AI.PY",
       "name": "⭐️丨看剧AI",
