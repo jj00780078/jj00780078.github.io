@@ -167,6 +167,16 @@
 "filterable":1
 },
 {
+"key":"2048成人短剧.py",
+"name":"🅿️2048成人短剧",
+"type":3,
+"api":"https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/2048成人短剧.py",
+"searchable":0,
+"changeable":1,
+"quickSearch":0,
+"filterable":1
+},
+{
 "key":"[瑟]麻豆AI.py",
 "name":"🅿️[瑟]麻豆AI",
 "type":3,
@@ -176,7 +186,6 @@
 "quickSearch":0,
 "filterable":1
 },
-
     {
       "key": "91成人短剧_1",
       "name": "91成人短剧_1.py｜🔞",
