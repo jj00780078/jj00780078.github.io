@@ -194,15 +194,13 @@
     },
     {
       "key": "UP影視.py",
-      "name": "🌐|UP影視py",
+      "name": "🌐|UP影視",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "api": "https://d.kstore.dev/download/14996/py/UP影視.py",
-      "order_num": 5,
-      "ext": "1"
+      "api": "https://d.kstore.dev/download/14996/py/UP影視.py"
     },
     {
       "key": "py_aigua",
