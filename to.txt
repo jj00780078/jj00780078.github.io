@@ -192,7 +192,18 @@
       "分类url":"http://www.kmgmn.cn/s/{cateId}/by/time/page/{catePg}/year/{year}.html",
       "分类": "電視劇$2#電影$1#動漫$4#綜藝$3"}
     },
-
+    {
+      "key": "UP影視.py",
+      "name": "🌐|UP影視py",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "api": "https://d.kstore.dev/download/14996/py/UP影視.py",
+      "order_num": 5,
+      "ext": "1"
+    },
     {
       "key": "py_aigua",
       "name": "💖分享爱瓜",
