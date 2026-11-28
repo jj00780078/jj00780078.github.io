@@ -200,7 +200,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "api": "https://d.kstore.dev/download/14996/py/UP影視.py"
+      "api": "https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/UP影視.py"
     },
     {
       "key": "py_aigua",
